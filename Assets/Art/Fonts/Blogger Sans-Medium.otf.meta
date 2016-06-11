@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: 79197ecfbc3a4294a89ce589dac02cf2
+guid: 48531999e33392b44b98bfdf1f27e0c5
+timeCreated: 1465105064
+licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 2
   fontSize: 16
@@ -9,8 +11,7 @@ TrueTypeFontImporter:
   includeFontData: 1
   use2xBehaviour: 0
   fontNames: []
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 38fb69338d588b64ea5f2c219db3056b, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   userData: 

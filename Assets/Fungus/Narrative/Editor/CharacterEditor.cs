@@ -11,7 +11,9 @@ namespace Fungus
 	public class CharacterEditor : Editor
 	{
 		protected SerializedProperty nameTextProp;
-		protected SerializedProperty nameColorProp;
+        protected SerializedProperty fullNameProp;
+        protected SerializedProperty professionProp;
+        protected SerializedProperty nameColorProp;
 		protected SerializedProperty soundEffectProp;
 		protected SerializedProperty portraitsProp;
 		protected SerializedProperty portraitsFaceProp;
@@ -21,7 +23,9 @@ namespace Fungus
 		protected virtual void OnEnable()
 		{
 			nameTextProp = serializedObject.FindProperty ("nameText");
-			nameColorProp = serializedObject.FindProperty ("nameColor");
+            fullNameProp = serializedObject.FindProperty("fullName");
+            professionProp = serializedObject.FindProperty("profession");
+            nameColorProp = serializedObject.FindProperty ("nameColor");
 			soundEffectProp = serializedObject.FindProperty ("soundEffect");
 			portraitsProp = serializedObject.FindProperty ("portraits");
 			portraitsFaceProp = serializedObject.FindProperty ("portraitsFace");
@@ -36,7 +40,9 @@ namespace Fungus
 			Character t = target as Character;
 
 			EditorGUILayout.PropertyField(nameTextProp, new GUIContent("Name Text", "Name of the character display in the dialog"));
-			EditorGUILayout.PropertyField(nameColorProp, new GUIContent("Name Color", "Color of name text display in the dialog"));
+            EditorGUILayout.PropertyField(fullNameProp, new GUIContent("Full Name", "Full name of the character display in the dialog"));
+            EditorGUILayout.PropertyField(professionProp, new GUIContent("Profession", "Profession of the character"));
+            EditorGUILayout.PropertyField(nameColorProp, new GUIContent("Name Color", "Color of name text display in the dialog"));
 			EditorGUILayout.PropertyField(soundEffectProp, new GUIContent("Sound Effect", "Sound to play when the character is talking. Overrides the setting in the Dialog."));
 			EditorGUILayout.PropertyField(setSayDialogProp);
 			EditorGUILayout.PropertyField(descriptionProp, new GUIContent("Description", "Notes about this story character (personality, attibutes, etc.)"));

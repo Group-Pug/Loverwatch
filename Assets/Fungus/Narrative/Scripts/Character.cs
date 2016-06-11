@@ -11,6 +11,8 @@ namespace Fungus
 	public class Character : MonoBehaviour, ILocalizable
 	{
 		public string nameText; // We need a separate name as the object name is used for character variations (e.g. "Smurf Happy", "Smurf Sad")
+        public string fullName;
+        public Profession profession;
 		public Color nameColor = Color.white;
 		public AudioClip soundEffect;
 		public Sprite profileSprite;

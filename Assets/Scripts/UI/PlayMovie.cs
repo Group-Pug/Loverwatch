@@ -1,18 +1,20 @@
 ﻿using UnityEngine;
-using System.Collections;
 
+//fuckit sticking with the name
 public class PlayMovie : MonoBehaviour {
-    public MovieTexture mt;
+    private MovieTexture mt;
 
-	// Use this for initialization
 	void Start () {
-       mt = (MovieTexture)GetComponent<Renderer>().material.mainTexture;
-       mt.loop = true;
-       mt.Play();
+        mt = (MovieTexture)GetComponent<Renderer>().material.mainTexture;
+        mt.loop = true;
+        mt.Play();
     }
-	
-	// Update is called once per frame
-	void Update () {
-        
+
+    public void PlayMovieTexture (MovieTexture val)
+    {
+        mt = val;
+        GetComponent<Renderer>().material.mainTexture = mt;
+        mt.Play();
     }
+
 }

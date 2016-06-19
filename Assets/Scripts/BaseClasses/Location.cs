@@ -1,4 +1,5 @@
-﻿[System.Serializable]
+﻿using UnityEngine;
+[System.Serializable]
 public enum Locations
 {
     Dorado = 0,
@@ -22,9 +23,15 @@ public enum Locations
 public class Location {
     public string name;
     public Locations locationEnum;
+    public MovieTexture background;
 
     public string GetLocationName ()
     {
         return name;
+    }
+
+    public MovieTexture GetLocationBackground ()
+    {
+        return background;
     }
 }

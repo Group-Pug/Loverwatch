@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class SceneFadeInOut : MonoBehaviour
 {
@@ -81,7 +80,7 @@ public class SceneFadeInOut : MonoBehaviour
 		if(GetComponent<GUITexture>().color.a >= 0.75f)
 		{
 			sceneEnding = false;
-			Application.LoadLevel(1);
+			GetComponent<SceneHandler>().LoadNextLevel();
 		}
 	}
 }

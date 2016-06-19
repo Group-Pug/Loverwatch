@@ -22,6 +22,7 @@ namespace Fungus
 		public Text nameText;
 		public Text storyText;
 		public Image characterImage;
+        public GameObject romanceCounter;
 	
 		[Tooltip("Adjust width of story text when Character Image is displayed (to avoid overlapping)")]
 		public bool fitTextWithImage = true;

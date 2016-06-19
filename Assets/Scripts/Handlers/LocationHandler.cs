@@ -1,11 +1,22 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections.Generic;
 
 public class LocationHandler : MonoBehaviour {
     [SerializeField]
     private List<Location> location;
+    [SerializeField]
+    private Text locationUI;
+    [SerializeField]
+    private Text deploymentUI;
 
-    private short deploymentNumber = 1;
+    private short deploymentNumber = 0;
+    private PlayMovie background;
+
+    void Awake ()
+    {
+        background = GameObject.FindGameObjectWithTag("Background").GetComponent<PlayMovie>();
+    }
 
     public void NextDeployment ()
     {
@@ -52,5 +63,37 @@ public class LocationHandler : MonoBehaviour {
             }
         }
         return found;
+    }
+
+    public void SetBackground (Locations val)
+    {
+        MovieTexture mt = new MovieTexture();
+        for(int i = 0; i < location.Count; i++)
+        {
+            if(location[i].locationEnum == val)
+            {
+                mt = location[i].background;
+            }
+        }
+
+        background.PlayMovieTexture(mt);
+
+        UpdateUIText(val);
+    }
+
+    void UpdateUIText (Locations val)
+    {
+        string depText = "";
+        if(deploymentNumber == 0)
+        {
+            depText = "Overwatch Headquarters";
+        }
+        else
+        {
+            depText = "Deployment " + GetDeploymentNumber();
+        }
+
+        deploymentUI.text = depText;
+        locationUI.text = GetLocation(val).name;
     }
 }

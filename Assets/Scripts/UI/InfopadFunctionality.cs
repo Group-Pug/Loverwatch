@@ -37,6 +37,6 @@ public class InfopadFunctionality : MonoBehaviour {
              mentor = ch.FindHeroByProfession(prof).GetFullName();
         }
 
-        transform.parent.FindChild("Mentor").GetComponent<Text>().text = mentor;
+        transform.parent.FindChild("Mentor").GetComponent<Text>().text = "???";
     }
 }

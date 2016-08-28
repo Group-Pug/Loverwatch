@@ -8,18 +8,39 @@ public class InfopadFunctionality : MonoBehaviour {
     private CharacterHandler ch;
     private Player player;
 
+    private Fungus.Flowchart flow;
+
     void Start ()
     {
         ch = GameObject.FindGameObjectWithTag("GameManager").GetComponent<CharacterHandler>();
         player = ch.GetPlayer();
+
+        flow = GameObject.Find("Fungus").GetComponent<Fungus.Flowchart>();
+        
     }
 
     public void HandleProfessionSelection ()
     {
         player.SetProfession(profession);
+        flow.SetStringVariable("Profession", GetRouteString());
 
         UpdateProfessionUI();
         UpdateMentorUI();
+    }
+
+    private string GetRouteString ()
+    {
+        switch(profession)
+        {
+            case Profession.BirdWatcher:
+                return "BastionRoute";
+            case Profession.Oceanographer:
+                return "MeiRoute";
+            case Profession.Reconnaissance:
+                return "GenjiRoute";
+            default:
+                return null;
+        }
     }
 
     void UpdateProfessionUI ()

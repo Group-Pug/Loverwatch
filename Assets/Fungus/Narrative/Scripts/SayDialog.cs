@@ -286,7 +286,7 @@ namespace Fungus
 			}
 		}
 		
-		public virtual void SetCharacterImage(Sprite image)
+		public virtual void SetCharacterImage(Sprite image, bool narrator)
 		{
 			if (characterImage == null)
 			{
@@ -296,7 +296,17 @@ namespace Fungus
 			if (image != null)
 			{
 				characterImage.sprite = image;
+                //TODO: Fix this dirty shit. Basically making sure the progress bar isn't shown during narrator
+                if(narrator)
+                {
+                    characterImage.transform.GetChild(0).gameObject.SetActive(false);
+                }
+                else
+                {
+                    characterImage.transform.GetChild(0).gameObject.SetActive(true);
+                }
 				characterImage.gameObject.SetActive(true);
+
 			}
 			else
 			{

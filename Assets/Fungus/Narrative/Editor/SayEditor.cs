@@ -72,7 +72,10 @@ namespace Fungus
 		
 		protected SerializedProperty characterProp;
 		protected SerializedProperty portraitProp;
-		protected SerializedProperty storyTextProp;
+        protected SerializedProperty showNarratorPortraitProp;
+        protected SerializedProperty narratorCharacterProp;
+        protected SerializedProperty narratorPortraitProp;
+        protected SerializedProperty storyTextProp;
 		protected SerializedProperty descriptionProp;
 		protected SerializedProperty voiceOverClipProp;
 		protected SerializedProperty showAlwaysProp;
@@ -89,7 +92,10 @@ namespace Fungus
 
 			characterProp = serializedObject.FindProperty("character");
 			portraitProp = serializedObject.FindProperty("portrait");
-			storyTextProp = serializedObject.FindProperty("storyText");
+            showNarratorPortraitProp = serializedObject.FindProperty("showNarratorPortrait");
+            narratorCharacterProp = serializedObject.FindProperty("narratorCharacter");
+            narratorPortraitProp = serializedObject.FindProperty("narratorPortrait");
+            storyTextProp = serializedObject.FindProperty("storyText");
 			descriptionProp = serializedObject.FindProperty("description");
 			voiceOverClipProp = serializedObject.FindProperty("voiceOverClip");
 			showAlwaysProp = serializedObject.FindProperty("showAlways");
@@ -115,21 +121,57 @@ namespace Fungus
 			serializedObject.Update();
 
 			bool showPortraits = false;
+            bool showNarratorPortraits = false;
 
-			CommandEditor.ObjectField<Character>(characterProp, 
+            CommandEditor.ObjectField<Character>(characterProp, 
 			                                     new GUIContent("Character", "Character that is speaking"), 
 			                                     new GUIContent("<None>"),
 			                                     Character.activeCharacters);
 
-			Say t = target as Say;
+            Say t = target as Say;
 
 			// Only show portrait selection if...
 			if (t.character != null &&              // Character is selected
 			    t.character.portraits != null &&    // Character has a portraits field
 			    t.character.portraits.Count > 0 )   // Selected Character has at least 1 portrait
 			{
-				showPortraits = true;    
-			}
+				showPortraits = true;
+            }
+            else
+            {
+                //MIKE SHIT: ADDED SHOWING PORTRAIT DURING NARRATOR
+                EditorGUILayout.PropertyField(showNarratorPortraitProp);
+                if (showNarratorPortraitProp.boolValue)
+                {
+                    CommandEditor.ObjectField<Character>(narratorCharacterProp,
+                                                 new GUIContent("Narrator Character", "Character shown while narrator speaks"),
+                                                 new GUIContent("<None>"),
+                                                 Character.activeCharacters);
+
+                    // Only show portrait selection if...
+                    if (t.narratorCharacter != null &&              // Character is selected
+                        t.narratorCharacter.portraits != null &&    // Character has a portraits field
+                        t.narratorCharacter.portraits.Count > 0)   // Selected Character has at least 1 portrait
+                    {
+                        showNarratorPortraits = true;
+                    }
+
+                    if (showNarratorPortraits)
+                    {
+                        CommandEditor.ObjectField<Sprite>(narratorPortraitProp,
+                                                             new GUIContent("Narrator Portrait", "Portrait shown while narrator speaks"),
+                                                             new GUIContent("<None>"),
+                                                             t.narratorCharacter.portraits);
+                    }
+                    else
+                    {
+                        if (!t.extendPrevious)
+                        {
+                            t.portrait = null;
+                        }
+                    }
+                }
+            }
 
 			if (showPortraits) 
 			{
@@ -145,8 +187,8 @@ namespace Fungus
 					t.portrait = null;
 				}
 			}
-			
-			EditorGUILayout.PropertyField(storyTextProp);
+
+            EditorGUILayout.PropertyField(storyTextProp);
 
 			EditorGUILayout.PropertyField(descriptionProp);
 
@@ -201,7 +243,20 @@ namespace Fungus
 				{
 					GUI.DrawTexture(previewRect,characterTexture,ScaleMode.ScaleToFit,true,aspect);
 				}
-			}
+            }
+            else
+            {
+                if(showNarratorPortraits && t.narratorPortrait != null)
+                {
+                    Texture2D characterTexture = t.narratorPortrait.texture;
+                    float aspect = (float)characterTexture.width / (float)characterTexture.height;
+                    Rect previewRect = GUILayoutUtility.GetAspectRect(aspect, GUILayout.Width(100), GUILayout.ExpandWidth(true));
+                    if (characterTexture != null)
+                    {
+                        GUI.DrawTexture(previewRect, characterTexture, ScaleMode.ScaleToFit, true, aspect);
+                    }
+                }
+            }
 			
 			serializedObject.ApplyModifiedProperties();
 		}

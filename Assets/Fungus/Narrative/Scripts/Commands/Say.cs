@@ -21,10 +21,19 @@ namespace Fungus
 		[Tooltip("Character that is speaking")]
 		public Character character;
 
-		[Tooltip("Portrait that represents speaking character")]
+        [Tooltip("Portrait that represents speaking character")]
 		public Sprite portrait;
 
-		[Tooltip("Voiceover audio to play when writing the text")]
+        [Tooltip("Show a character portrait while narrator speaks")]
+        public bool showNarratorPortrait;
+
+        [Tooltip("Character shown while narrator speaks")]
+        public Character narratorCharacter;
+
+        [Tooltip("Portrait shown while narrator speaks")]
+        public Sprite narratorPortrait;
+
+        [Tooltip("Voiceover audio to play when writing the text")]
 		public AudioClip voiceOverClip;
 
 		[Tooltip("Always show this Say text when the command is executed multiple times")]
@@ -80,8 +89,17 @@ namespace Fungus
 
 			sayDialog.gameObject.SetActive(true);
 
-			sayDialog.SetCharacter(character, flowchart);
-			sayDialog.SetCharacterImage(portrait);
+            sayDialog.SetCharacter(character, flowchart);
+            //ADDED SHOWING PORTRAIT DURING NARRATOR
+            if(!showNarratorPortrait)
+            {
+                sayDialog.SetCharacterImage(portrait, false);
+            }
+            else
+            {
+                sayDialog.SetCharacterImage(narratorPortrait, true);
+            }
+            
 
 			string displayText = storyText;
 

@@ -24,6 +24,9 @@ namespace Fungus
 	 */
 	public class Localization : MonoBehaviour
 	{
+        //MIKEHACK
+        
+
 		/**
 		 * Language to use at startup, usually defined by a two letter language code (e.g DE = German)
 		 */
@@ -411,16 +414,34 @@ namespace Fungus
 			{
 				localizable.SetStandardText(newText);
 				return true;
-			}
+            }
+            else
+            {
+                int nextID = GameObject.Find("Fungus").GetComponent<Flowchart>().NextItemId();
+                Say say = new Say();
+                object[] attributes = say.GetType().GetCustomAttributes(false);
+                foreach (object obj in attributes)
+                {
+                    
+                    CommandInfoAttribute infoAttr = obj as CommandInfoAttribute;
+                    if (infoAttr != null)
+                    {
+                        string dictionaryName = string.Format("{0}", infoAttr.CommandName);
+                        Debug.Log(dictionaryName);
+                    }
+                }
+            }
+
+           
 
 			return false;
 		}
 
-		/**
+        /**
 		 * Returns all standard text for localizeable text in the scene using an
 		 * easy to edit custom text format.
 		 */
-		public virtual string GetStandardText()
+        public virtual string GetStandardText()
 		{
 			// Collect all the text items present in the scene
 			Dictionary<string, TextItem> textItems = FindTextItems();
@@ -487,6 +508,26 @@ namespace Fungus
 
 			notificationText = "Updated " + updatedCount + " standard text items.";
 		}
-	}
+
+        /**
+		 * RTF file to import.
+		 */
+        [Tooltip("RTF file to import")]
+        public TextAsset rtfDocument;
+        /**
+        *   Character list
+        */
+        [Serializable]
+        public class CharacterIdentifier
+        {
+            public string id;
+            public string character;
+        }
+
+        [Tooltip("List of character identifiers")]
+        public List<CharacterIdentifier> characterIds = new List<CharacterIdentifier>();
+
+    }
+    
 
 }

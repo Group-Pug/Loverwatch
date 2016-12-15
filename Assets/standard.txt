@@ -1,0 +1,1908 @@
+#SAY.Fungus.32.
+...
+
+#SAY.Fungus.33.
+You’re still not used to the cruel winds up here.{w=0.5} The gusts come, so bone-chillingly cold that they threaten to freeze you straight to your core if you stick around on this overlook too long.
+
+#SAY.Fungus.34.
+The altitude is too high,{w=0.2} the sun shines too bright,{w=0.2} and you’re pretty sure that you’ve never had such terribly chapped lips in your entire existence.{w=0.5} {i}Honestly.{/i}
+
+#SAY.Fungus.35.
+And, yet... {w=0.5} gloved hands gripped to the icy rails, you can’t help but lean forward and feel just the slightest bit in awe when presented with the quiet majesty that is the Overwatch Headquarters.
+
+#SAY.Fungus.36.
+Drawing in a breath of excitement, you grin outwardly at nothing and everything. The personnel rushing about below, the Overwatch flag flying proudly at full mast.{w=0.5} The promise of a new adventure - and fulfilling a great purpose.
+
+#SAY.Fungus.37.
+This time has been coming for so long that it’s hard to believe you’re here, {w=0.2}now, {w=0.2}in person and ready to begin your new journey.
+
+#SAY.Fungus.38.
+A call came in the middle of the night a scant few days ago, a rough-edged voice on the end of the line demanding your name, personnel number and to report at your earliest convenience.
+
+#SAY.Fungus.39.
+Ever since the establishment of the Overwatch initiative, this has been all you’ve worked towards.{w=0.5} With both of your parents working within the United Nations - in different capacities - you’ve grown up around the ideals of diplomacy and justice.
+
+#SAY.Fungus.40.
+When the world cried out in pain, Overwatch was there.{w=0.5} When it seemed like the darkness threatened to fall, Overwatch was there.
+
+#SAY.Fungus.41.
+Heroes seemed to exist once more, and from then on, you {i}knew{/i} you wanted to take up the mantle and be part of it.
+
+#SAY.Fungus.42.
+Maybe it’s a little righteous to assume that you alone can help enact some change - {w=0.2}after all, you’re fairly sure you’re {i}not{/i} a hero like the ones you’ve seen in the news reports, or overheard talk about at the dinner table.
+
+#SAY.Fungus.43.
+Really, you’re just a person that’s particularly good at their vocation. {w=0.5}Unlike the legends you’ve admired from afar, you put your pants on one leg at a time like everyone else. {w=0.5}... sometimes, you can even mess that up.
+
+#SAY.Fungus.44.
+You can’t imagine the showstoppers of Overwatch putting their pants on wrong, in any case.{w=0.5} If they wear pants, that is.
+
+#SAY.Fungus.45.
+{i}Right. {w=0.2}Enough of that.{/i}
+
+#SAY.Fungus.46.
+Nerves are making your mind run a mile a minute, thinking over such ridiculous things as {i}pants physics.{/i} A glance at your digital watch tells you it’s almost 1100 hours at the base, and a jolt of anxiety shoots straight through you.
+
+#SAY.Fungus.47.
+Your assignment meeting is in fifteen minutes with the one-and-only Commander Morrison, and just the thought of a face-to-face with an urban legend you’ve only seen through a screen makes your heart race in your chest.
+
+#SAY.Fungus.48.
+{i}John Morrison, exemplar soldier, respected leader and incumbent commander of the Overwatch task-force.{/i}
+
+#SAY.Fungus.49.
+... idly, you feel your hands sweating in your warm gloves even though the air around you is sub-zero. {w=0.2}In fact, you’re uncomfortably hot all over.{w=0.2} {i}Thanks, fight or flight.{/i}
+
+#SAY.Fungus.50.
+You’ll be fine. Right?
+
+#SAY.Fungus.51.
+Even though it’s standard procedure for each new member of the task-force to go through the expected bureaucracy of receiving their assignment, there’s so many unknowns that face you.{w=0.2} Who will you be assigned to? {w=0.2}Where will you be deployed?
+
+#SAY.Fungus.52.
+Will you be headed out to a watchpoint, or will they stick you behind a desk to push papers? Egypt or America? Battlefield or—
+
+#SAY.Fungus.53.
+{i}Didn’t I just say ‘enough?’{/i}
+
+#SAY.Fungus.54.
+Sucking in a deep breath, you let go of the rails and take one last look at the icy landscape before you. {w=0.2}This base, these people - this was your home now, and whatever this place throws at you, you’re going to handle. {w=0.2}You can do this.
+
+#SAY.Fungus.55.
+Time to get to work.
+
+#SAY.Fungus.56.
+Turning away from the view of the HQ, you rejoin the bustle of the main compound and head to the meeting that’ll end up deciding your future.
+
+#SAY.Fungus.58.
+The jet-lag from flying out to Switzerland on such short notice combined with a sudden temperature drop and totally new surroundings does not seem to be boding well for you {i}at all.{/i}
+
+#SAY.Fungus.59.
+Weaving in and out of people who seem to have a far better idea of where they’re going than you do, navigating the seemingly endless labyrinth of corridors around the HQ is proving to more challenging than you’d thought.
+
+#SAY.Fungus.60.
+That, and it’s {i}certainly{/i} not helping your mounting sense of panic.
+
+#SAY.Fungus.61.
+Corridors lead into more corridors, {w=0.2}that lead into classified areas you’re pretty certain you’re not supposed to be anywhere near, {w=0.2}which lead into {i}more{/i} corridors, and -
+
+#SAY.Fungus.62.
+... turning a sharp left on a fool’s hope down Yet Another Identical Hallway, you find yourself in an important looking room, toe to toe with an important looking blonde man.{w=0.2} Oh.
+
+#SAY.Fungus.63.
+{i}... OH.{/i}{w=0.2} T-The commander...!
+
+#SAY.Fungus.64.
+Face heating up as you frantically glance at your watch - {w=0.2}1105 hours, oh god{w=0.2} - you wonder whether this is serendipity granted from the power sits above, or if you should’ve just let the world swallowed you whole in your embarrassment and be done with it.
+
+#SAY.Fungus.65.
+You’re late. {w=0.2}For your first briefing. {w=0.2}With the commander.
+
+#SAY.Fungus.66.
+... the very {i}tall{/i} commander. {w=0.2}Oh, gosh.
+
+#SAY.Fungus.67.
+Realising that you’re gaping, you promptly shut your mouth and begin the panicked search for the perfect words of apology - {w=0.2}that is, until the commander beats you to it.
+
+#SAY.Fungus.68.Cdr.Morrison
+You’re late. I remind you that tardiness is not a quality that begets a good soldier.
+
+#SAY.Fungus.69.
+An exceptionally stern look is pointed your way, under which you immediately wilt. Your mind quickly churns, screaming at you to say something, {i}anything{/i} to make this less of a terrible first impression.
+
+#SAY.Fungus.70.Recruit
+I understand, {w=0.2}sir! {w=0.2}I’m sorry, {w=0.2}sir.
+
+#SAY.Fungus.71.
+Excellent. You’re absolutely certain such eloquence has blown him away beyond any recognition of doubt.{w=0.5} The unimpressed gaze lingers on you for a moment longer before the commander glances down to an electronic data-pad in his hand.
+
+#SAY.Fungus.72.
+Nothing is said in reply.
+
+#SAY.Fungus.73.
+As soon as those piercing eyes leave you, you feel all the blood rush to your head in relief. {w=0.2}If it wasn’t for the sheer fear of being dismissed on your first day, you’d like to collapse right here on {b}this very spot{/b}.
+
+#SAY.Fungus.74.
+The commander taps away at the data pad, presumably bringing up your personnel file. {w=0.5}He seems even larger in life than the holo-vids - {w=0.2}a person that seemed born to lead even from the most cursory glance.
+
+#SAY.Fungus.75.
+A stern voice - yes, {w=0.2)you’d already experienced that - {w=0.5}a strong profile from face to form, and an air about him that seemed to effortlessly draw respect. {w=0.5}It’s only when he looks back up that you realise you’re staring.
+
+#SAY.Fungus.76.
+To try and hide the fact, you clear your throat very unconvincingly.
+
+#SAY.Fungus.77.Recruit
+... sir?
+
+#SAY.Fungus.78.
+You’re pretty sure he didn’t buy it. {w=0.2}The commander taps the data pad against his hand, brow furrowed as he stares you down.
+
+#SAY.Fungus.79.Cdr.Morrison
+I appreciate you were called here on short notice. {w=0.2}An urgent vacancy has presented itself that requires filling, and you happen to be the best fit for the job.
+
+#SAY.Fungus.80.
+Somehow, hearing those words makes you glow on the inside even despite the awkwardness of the past few minutes. {w=0.5}{i}Overwatch needs you.{/i}{w=0.5} That in itself is worth more than any praise you could possibly receive.
+
+#SAY.Fungus.81.Cdr.Morrison
+Our taskforce is not an easy assignment, nor does it tolerate disloyalty or insubordination. {w=0.5}We work hard for a good cause, among good people. {w=0.2} You’re here because we require you to be part of that mission.
+
+#SAY.Fungus.82.Cdr.Morrison
+Overwatch is comprised of only the best from every field, and everyone you meet here is a valuable part of our taskforce’s ecosystem.
+
+#SAY.Fungus.83.Cdr.Morrison
+It is critical that you, coming on board, accept and exemplify these values because without such a code, we would cease to function as the cohesive unit we are. {w=0.5}Do you understand?
+
+#SAY.Fungus.84.
+It’s a rhetorical question, you know that much - but it comes with a loaded responsbility, and the commander seems to both firmly mean and believe every word he’s saying.
+
+#SAY.Fungus.86.
+You’ve heard it all before. {w=0.5}Overwatch was elite, so it was only natural that it was tough.{w=0.5} It asked for a lot, and in turn, those who are part of it had to be prepared to give.
+
+#SAY.Fungus.85.Recruit
+Yes, sir. {w=0.5}I’m honoured to be called to duty.
+
+#SAY.Fungus.87.
+Morrison raises an eyebrow at your addendum. You’re not quite sure whether it’s incredulity or surprise at your conviction, but to take some small win to bed with you tonight, you’re going to go with the latter.
+
+#SAY.Fungus.88.Cdr.Morrison
+It isn’t a light commitment to join us when there’s such a great deal on the line - both personally, and for the world as a whole.
+
+#SAY.Fungus.89.
+He pauses, and to your great shock, the edge of his mouth quirks up in the smallest of dry smiles.
+
+#SAY.Fungus.90.Cdr.Morrison
+... and with all that said, I suppose I should welcome you to Overwatch.
+
+#SAY.Fungus.91.Cdr.Morrison
+Instead of a fruit basket and a card, you get to enjoy some high quality bureaucracy in the form of a standardised personnel form.{w=0.5} Here.
+
+#SAY.Fungus.92.
+The sudden switch in extremely commanding, formal language to an unexpected sardonic humour takes you slightly aback again as the tall man in front of you offers you the data pad he’d been holding. {w=0.5}Numbly, you nod and take it.
+
+#SAY.Fungus.94.Cdr.Morrison
+For the records, we require you to sign in to duty with your name and professional role. {w=0.5}This is assigned against your personnel number, and upon the completion of the form you’ll be formally a member of the Overwatch taskforce.
+
+#SAY.Fungus.93.
+Eyes focusing on the blue screen of the data pad, your brow furrows slightly as you raise your hand to complete the form.
+
+#SAY.Fungus.108.
+He seems... nonplussed, as if he's trying to find the words to react to what seems, at least to you, to be a perfectly sensible choice. Everyone likes birds, right?
+
+#SAY.Fungus.109.
+Silently, he takes the infopad from you and jabs at it. The seconds tick by. He frowns.
+
+#SAY.Fungus.110.Recruit
+Commander...?
+
+#SAY.Fungus.111.Cdr.Morrison
+Sorry, give me a moment.
+
+#SAY.Fungus.112.
+Oh no. You've angered him, somehow. On your {i}first {w=0.1}frickin' {w=0.1}day{/i}.{w=0.1} You surreptitiously check the ground beneath your feet for a hidden trapdoor. The Commander must have some way to dispose of those who displease him, right..?
+
+#SAY.Fungus.113.Cdr.Morrison
+Recruit.
+
+#SAY.Fungus.114.
+What could it be? Did you actually just fly up here by accident? Was the job meant to go to someone else? Was this a test? Did you choose the wrong answer--
+
+#SAY.Fungus.115.Cdr.Morrison
+Recruit!
+
+#SAY.Fungus.116.Recruit
+Ack! Sorry, Commander! I'll choose a different one! I apologize for failing you!
+
+#SAY.Fungus.117.Cdr.Morrison
+I... no, recruit, that won't be necessary. However, I do think someone put this career button in as a joke.
+
+#SAY.Fungus.118.Recruit
+Oh...
+
+#SAY.Fungus.119.
+You've been pranked! Was it someone you passed by in the hallway? You rake your memory, but you can't remember stepping on anyone's toes...
+
+#SAY.Fungus.120.Cdr.Morrison
+That being said, if you're interested in the job, I don't see the harm in assigning you to a team that lets you go outside and observe nature.
+
+#SAY.Fungus.121.Recruit
+I'd like that very much, sir!
+
+#SAY.Fungus.122.Cdr.Morrison
+Heh. Let me think... I believe that Environmental Monitoring has a vacancy. If anyone can put you to work in the field, it'll be them.
+
+#SAY.Fungus.123.Cdr.Morrison
+The team is primarily tasked with keeping tabs on vulnerable ecosystems and attempting to reverse damage caused by climate change.
+
+#SAY.Fungus.124.Cdr.Morrison
+I have to warn you, though...
+
+#SAY.Fungus.125.
+He looks lost in thought for a moment.
+
+#SAY.Fungus.126.Cdr.Morrison
+If you're going to join Environmental Monitoring, you'll have to watch out for Agent Frostbite. She can get pretty cold when she doesn't get her way.
+
+#SAY.Fungus.127.
+Oh no... another scary boss? You're so unprepared for this.
+
+#SAY.Fungus.128.Recruit
+Yessir. I'd like to fill the vacancy, sir.
+
+#SAY.Fungus.129.Cdr.Morrison
+Excellent. I'll let Frostbite know you're on your way down. Dismissed.
+
+#SAY.Fungus.130.
+He looks back down at his info-pad, and starts tapping on it again.
+
+#SAY.Fungus.131.Recruit
+...
+
+#SAY.Fungus.132.Cdr.Morrison
+Oh. Right. You'll want the Climate Lab. It'll be the second hallway on your left and down the staircase. Might want to grab a jacket from the commissary on the way. It's chilly down there.
+
+#SAY.Fungus.133.Recruit
+Th-thank you, sir.
+
+#SAY.Fungus.134.Cdr.Morrison
+Dismissed, soldier.
+
+#SAY.Fungus.135.
+You make your way down the halls, through the throngs of busy Overwatch agents. Everything is terrifying and you absolutely feel out of your depth.
+
+#SAY.Fungus.139.
+...
+
+#SAY.Fungus.141.
+...
+
+#SAY.Fungus.140.
+As you make your way down the stairs to the Climate Lab, you begin to feel tendrils of cold creeping under the hem of your Overwatch-logo-embroidered, definitely-at-least-two-sizes-too-big jacket.
+
+#SAY.Fungus.142.
+Why {i}is{/i} it so cold down here...?
+
+#SAY.Fungus.143.
+The place is seemingly deserted. All you can hear is the humming of air conditioning - that must be the source of the chill - and the clicks and whirrs of computer systems around the room.
+
+#SAY.Fungus.144.Recruit
+H-hello? Anyone here{w=0.1}.{w=0.1}.{w=0.1}.{w=0.1}?
+
+#SAY.Fungus.145.
+Your voice echoes, and your breath appears in small clouds as you shakily exhale. Maybe it's the wrong room?
+
+#SAY.Fungus.146.Recruit
+I'm new, I'm looking for-
+
+#SAY.Fungus.147.
+[CRASH!]
+
+#SAY.Fungus.148.
+A bespectacled figure emerges from under a desk, with a hand clapped to the back of her head.
+
+#SAY.Fungus.149.Agent Frostbite
+Ouch!
+
+#SAY.Fungus.150.Recruit
+Ouch!
+
+#SAY.Fungus.151.Agent Frostbite
+YOU!
+
+#SAY.Fungus.152.Recruit
+Me?!
+
+#SAY.Fungus.153.Agent Frostbite
+Hello!
+
+#SAY.Fungus.154.Recruit
+I... Hello? Are you Agent Frostbite?
+
+#SAY.Fungus.155.
+The woman's face draws itself into a look of deep suspicion. You're suddenly very certain that this conversation will end with you dismembered and thrown into the ocean.
+
+#SAY.Fungus.156.Agent Frostbite
+Who's... asking...?
+
+#SAY.Fungus.157.Recruit
+I'm looking for her! I'm new here! Commander Morrison sent me down here! Please don't freeze me to death, that'd be a real damper on my first day at work in my dream job oh gosh please no-
+
+#SAY.Fungus.158.
+The terrifying scientist lady looks dumbfounded for a moment, {w=0.3}then bursts into peals of pretty laughter.
+
+#SAY.Fungus.159.Agent Frostbite
+Ahahaha! Oh, haha... heh...
+
+#SAY.Fungus.160.
+She wipes a tear from her eye, then stands up straight.
+
+#SAY.Fungus.161.Mei
+I am indeed Agent Frostbite! But that's just my callsign. My real name is Mei-Ling Zhou, but you can just call me Mei!
+
+#SAY.Fungus.162.Recruit
+I am not afraid to admit that I was absolutely terrified for a moment there.
+
+#SAY.Fungus.163.
+She titters.
+
+#SAY.Fungus.164.Mei
+Hehe... I suppose the Commander told you some tall stories about me, then?
+
+#SAY.Fungus.165.Recruit
+I... think he did. Maybe. I'm not sure.
+
+#SAY.Fungus.166.Mei
+Don't sweat it! He tells that joke to everyone he sends down here. Your reaction is the best yet, though!
+
+#SAY.Fungus.168.Mei
+So, what brings you to my {i}icy domain{/i}?
+
+#SAY.Fungus.167.Recruit
+Well, um, like I said while I was pleading for my life...
+
+#SAY.Fungus.169.
+She snorts mischievously.
+
+#SAY.Fungus.170.Recruit
+... I'm new to Overwatch, and he said you'd have a job for me. I think he also said he sent you a message, saying I was coming down?
+
+#SAY.Fungus.171.Mei
+Oh! I've been stuck under that desk for half an hour rewiring the climate control, so I must have missed the message. Let me check my infopad.
+
+#SAY.Fungus.172.Mei
+Ah! Here we go... birdwatching, huh? It's a tough job, kid! Are you sure you're ready for it?
+
+#SAY.Fungus.173.Recruit
+("Kid"? She can't be {i}that{/i} much older than me, right?)
+
+#SAY.Fungus.174.Recruit
+I'll do whatever job you assign me, Mei!
+
+#SAY.Fungus.175.Mei
+Did Commander Morrison brief you on what Environmental Monitoring does?
+
+#SAY.Fungus.176.Recruit
+A little bit... not a lot.
+
+#SAY.Fungus.177.Mei
+Lemme take you through it! We specialize in three key areas: localized weather modification, animal conservation, and, uh...
+
+#SAY.Fungus.178.Mei
+... I was sure there was a third one. I'll remember it later.
+
+#SAY.Fungus.179.
+She claps her mittened hands.
+
+#SAY.Fungus.180.Mei
+Anyway! Weather Modification is primarily an R&D department. I spend most of my time there, because they keep it nice and chilly!
+
+#SAY.Fungus.181.Mei
+But... ahem. We build machines that modify local climates through the use of automated cloud seeding, hydrophilic ground coatings, and heat absorption mitigation.
+
+#SAY.Fungus.183.Recruit
+If you don't mind me asking, what's the use of that?
+
+#SAY.Fungus.182.Mei
+Plenty! We can turn otherwise-barren environments into thriving habitats for rare or endangered creatures, for one! Plus, our technology is very popular in amusement parks. It's cool! Or hot. Depending on the client's requirements.
+
+#SAY.Fungus.184.Mei
+Oh! I remembered the third one. Environment Repair! It's basically what it says on the box.
+
+#SAY.Fungus.185.
+She reaches under a table and pulls out a filing box labeled "ENVIRONMENT REPAIR".
+
+#SAY.Fungus.186.Recruit
+I see.
+
+#SAY.Fungus.187.
+She opens the lid and starts rummaging through the box's contents, muttering to herself.
+
+#SAY.Fungus.188.Mei
+We've got to have a pamphlet somewhere...
+
+#SAY.Fungus.189.Recruit
+I- don't worry about it, really. What about Animal Conservation?
+
+#SAY.Fungus.190.Mei
+Right! Yes. That one is also self-explanatory, and it ties into the work that Weather Modification do.
+
+#SAY.Fungus.191.
+Mei pauses for a moment, and thinks.
+
+#SAY.Fungus.192.Mei
+How do you feel about solo missions?
+
+#SAY.Fungus.193.Recruit
+(What? That's an abrupt change of pace...)
+
+#SAY.Fungus.194.Recruit
+I'm fine with the idea, I guess.
+
+#SAY.Fungus.195.Recruit
+Right now I'm just hungry, and a bit sleepy. I didn't sleep a wink on the plane ride over.
+
+#SAY.Fungus.196.Mei
+Oh, gosh! I didn't even think of that! How about this: we get some lunch first, and {i}then{/i} talk about your first mission.
+
+#SAY.Fungus.197.
+Your stomach emits the sound of distant thunder.
+
+#SAY.Fungus.198.Mei
+I think that's a resounding "yes"! Follow me!
+
+#SAY.Fungus.201.
+You lower the pad and hand it back to the Commander, watching his face intently. Why do they want an oceanographer? What possible use could your knowledge be to the almighty Overwatch?
+
+#SAY.Fungus.202.
+His face doesn't change as he looks over your information.
+
+#SAY.Fungus.203.Cdr.Morrison
+So you like... fish?
+
+#SAY.Fungus.204.
+You don't know what to make of this question. You suppose you like fish, but there are many different kinds, and some are definitely worse than others.
+
+#SAY.Fungus.205.Recruit
+I mean, it depends on the fish. I like cuttlefish, but flounder kind of freak me out. And clownfish are on a whole other level.
+
+#SAY.Fungus.207.
+He just stares at you.
+
+#SAY.Fungus.206.
+{i}Oh no, I said something wrong.{i}
+
+#SAY.Fungus.208.
+Maybe he doesn't like fish. Maybe they didn't need an oceanographer anyway, and they called in the wrong person. {i}"Sorry, sorry, wrong number. We'll send you on your way now."{i}
+
+#SAY.Fungus.209.
+He smirks. This is it. You're about to get the boot. Or... {w=0.25}do they even let people leave here alive? Maybe you already know too much. Maybe this is the end of the road for you.
+
+#SAY.Fungus.210.Cdr.Morrison
+I'm quite fond of beer battered.
+
+#SAY.Fungus.211.
+Oh. {i}Oh{/i}. He chuckles and taps something on the infopad, letting you struggle with your embarrassment in relative privacy for a second or two.
+
+#SAY.Fungus.212.Cdr.Morrison
+You'll be assigned to Agent Frostbite in Environmental Monitoring at our Watchpoint in Antarctica. Hope you packed warm. If not, grab a coat at the commissary.
+
+#SAY.Fungus.213.
+He considers for a moment.
+
+#SAY.Fungus.214.Cdr.Morrison
+Might want two coats.
+
+#SAY.Fungus.215.
+{i}Antarctica{/i}. {w=0.1}It's already cold enough up here, and they're sending you somewhere even {i}colder{/i}. An involuntary shiver runs down your spine.
+
+#SAY.Fungus.216.Cdr.Morrison
+Environmental Monitoring is our division dedicated to, well, monitoring the environment. They're tasked to stop and, if possible, reverse damage caused to vulnerable ecosystems.
+
+#SAY.Fungus.217.Cdr.Morrison
+This planet is our home, and we at Overwatch intend on keeping it in one piece for future generations.
+
+#SAY.Fungus.218.
+His words echo the thoughts that get you up in the morning. You feel a spark within you.
+
+#SAY.Fungus.219.Recruit
+Sir, I agree! I'm honoured to be placed on this team.
+
+#SAY.Fungus.220.
+For the first time, he looks at you with what could almost be pride. You feel a warmth in your chest, and a determination to not let the Commander down.
+
+#SAY.Fungus.224.
+He {i}hmm{/i}s for a moment.
+
+#SAY.Fungus.222.Cdr.Morrison
+I'm going to send you straight to the hangar. You're going to want to head out immediately for this -- it's no small deal. I'll get Agent Frostbite to meet you there.
+
+#SAY.Fungus.223.Cdr.Morrison
+Oh, and...
+
+#SAY.Fungus.221.
+He smirks again.
+
+#SAY.Fungus.225.Cdr.Morrison
+Watch out for Frostbite. She can be... {w=0.1}icy.
+
+#SAY.Fungus.226.
+Oh no. Your first day, and already you've got a job that is {i}no small deal{i}. You're by no means bad at what you do, but they're entrusting you with a great deal of responsibility already.
+
+#SAY.Fungus.227.
+And a mean boss! What if you screw up? Will this Agent Frostbite just leave you in the icy plains of Antarctica as punishment?
+
+#SAY.Fungus.230.
+You shiver again, and not from the cold.
+
+#SAY.Fungus.229.Recruit
+Thank...
+
+#SAY.Fungus.233.
+You gulp.
+
+#SAY.Fungus.231.Recruit
+Thank you, sir. I'll be on my way.
+
+#SAY.Fungus.232.Cdr.Morrison
+Dismissed.
+
+#SAY.Fungus.228.
+You salute -- though you're not sure if this is the right time -- and turn on your heels to head back to the hangar.
+
+#SAY.Fungus.234.
+Thankfully, you kind of know the route now, and you don't find as many dead ends this time. You pull your coat tighter, and try to not feel anxious about meeting this Agent Frostbite.
+
+#SAY.Fungus.237.
+The hangar is exactly the same as you left it: cold and mostly empty, a few Overwatch members running to-and-fro with purpose. Some of them are loading the transport you arrived on with scientific equipment you mostly don't recognize.
+
+#SAY.Fungus.238.
+As you wait, your mind begins to wander. What food will there be to eat in Antarctica? Fish, maybe. Will Agent Frostbite expect you to eat polar bear?
+
+#SAY.Fungus.239.
+Wait. {w=0.1}Polar bears aren't even {i}in{/i} Antarctica. Some scientist you are.
+
+#SAY.Fungus.240.
+You mentally kick yourself, just as a woman swathed in thick furs strides into the hangar.<Mei-neutral> {w=0.1}Her arms are filled with equipment that looks far more expensive than any paycheck you've ever earned.
+
+#SAY.Fungus.241.
+By the way the other Overwatch agents defer to her, you realise this must be Agent Frostbite. {w=0.1}You instantly step towards her to offer help.
+
+#SAY.Fungus.242.Recruit
+E-excuse me --
+
+#SAY.Fungus.245.
+At the sound of your voice, Agent Frostbite turns in your direction. You freeze in your steps as she looks you over, waiting for her to deem you unworthy.
+
+#SAY.Fungus.247.Recruit
+I'm the new recruit assigned to you, m-ma'am.
+
+#SAY.Fungus.243.
+You inwardly cringe at your stammering. Surely she will sense your weakness and pounce.
+
+#SAY.Fungus.246.
+Her eyes are hidden behind the glare of light across her glasses, but you imagine they're as cold as the air in the hangar.
+
+#SAY.Fungus.244.Recruit
+I don't want to assume... but would you like any help carrying anything?
+
+#SAY.Fungus.248.Recruit
+Uh -- Ma'am. Sir. Ma'am.
+
+#SAY.Fungus.249.
+You salute again, then quickly drop your hand and wait for judgment.
+
+#SAY.Fungus.251.
+Agent Frostbite tilts her head...{w=0.1} and her glasses clear, revealing eyes as warm as the coffee you wish you had in your hands right now.
+
+#SAY.Fungus.250.
+She breaks into a wide grin.
+
+#SAY.Fungus.252.Agent Frostbite
+Ah! You are the one helping me! It's good to meet you -- {$playername} is it? I am Mei-Ling Zhou, but you can call me Mei.
+
+#SAY.Fungus.254.Mei
+Oh, but you're trembling! Are you cold? Or...
+
+#SAY.Fungus.256.
+She laughs, and it is one of the cutest sounds you have ever heard. How can someone so cruel sound so sweet?
+
+#SAY.Fungus.260.Mei
+Did the Commander tell you stories about me?
+
+#SAY.Fungus.259.
+You nod.
+
+#SAY.Fungus.258.
+You nod.
+
+#SAY.Fungus.257.Recruit
+Yes, he said you could be, uh, icy?
+
+#SAY.Fungus.253.
+Mei shakes her head, and the pile of electronics in her arms wobbles dangerously.
+
+#SAY.Fungus.255.Mei
+They are all lies. He likes to mess with newbies, like you. I'm nothing like he says, unless he has told you I'm... {w=0.1}a-Mei-zing!
+
+#SAY.Fungus.262.
+She laughs to herself, and you can't help but chuckle along.
+
+#SAY.Fungus.264.
+Word play isn't so bad, you're prone to making a joke or two -- or ten -- yourself sometimes. Your old colleagues once locked you in a lab for it. You never learned.
+
+#SAY.Fungus.267.Mei
+If you would like to help, you could load these into the transport for me?
+
+#SAY.Fungus.261.
+Mei nods her head to gesture at her load.
+
+#SAY.Fungus.265.
+You hold out your own arms and she unloads the equipment into them with great care.
+
+#SAY.Fungus.268.
+Your arms drop and your knees bend under the weight instantly. It's all you can do to stop yourself from dropping everything. What on earth is this stuff made of?
+
+#SAY.Fungus.271.Mei
+Are you okay? It's a bit heavy, sorry!
+
+#SAY.Fungus.266.
+You feel your muscles trembling with the strain. You have no clue how you'll make it across the hangar to the transport without your limbs falling right off.
+
+#SAY.Fungus.269.
+But you started this, and you'll finish it if it kills you. {w=0.1}You paste the fakest smile possible on and speak through gritted teeth.
+
+#SAY.Fungus.270.Recruit
+Yeah, I'm fine.
+
+#SAY.Fungus.273.Mei
+Thank you so much. I left Snowball in the lab. Silly me!
+
+#SAY.Fungus.272.Recruit
+Snowball?
+
+#SAY.Fungus.263.Mei
+Yes, my little assistant! They're very expressive.
+
+#SAY.Fungus.275.Mei
+I'll be back soon. Thank you for the help, {$PlayerName}!
+
+#SAY.Fungus.274.
+Mei bounces back the way she came, filled with boundless energy and enthusiasm.
+
+#SAY.Fungus.276.
+{i}... just how strong is that woman?{/i}
+
+#SAY.Fungus.277.
+Taking a deep breath, you try to judge the distance to the transport from where you stand. The verdict: it's pretty damn far. Might as well be another country at this rate.
+
+#SAY.Fungus.278.
+{i}Take it one step at a time. One step... after the other... {/i}
+
+#SAY.Fungus.279.
+Taking small, shuffling steps, you somehow make it to the transport ramp without collapsing. You feel eyes on you, and so you try to keep up your strong facade.
+
+#SAY.Fungus.281.
+As soon as you've secured the equipment, you throw yourself into a seat and let your arms hang limp beside you. You're resigned to the knowledge they'll probably never work again.
+
+#SAY.Fungus.284.
+At least you didn't drop anything. There's a first time for everything.
+
+#SAY.Fungus.283.Mei
+Hello again!
+
+#SAY.Fungus.282.
+You look up to see Mei entering the aircraft, a small pod-like robot strapped to her back. Too exhausted to reply, you give her a nod.
+
+#SAY.Fungus.285.
+Though the exercise warmed you, you know you'll be feeling the chill again soon. You envy Mei and her big, warm-looking clothes. Especially her furred hood.
+
+#SAY.Fungus.288.
+She spends a few moments checking over the electronics, then as the transport starts up with a deep thrumming, she sits in the seat beside you and straps herself in.
+
+#SAY.Fungus.287.Transport Pilot
+{i}Hope you're all buckled up and ready to go back there. Could get a little bumpy.{/i}
+
+#SAY.Fungus.286.
+You quickly follow Mei's lead and strap into your harness. The last thing you want is to go flying across the aircraft's interior... {w=0.25}again. Don't want to embarrass yourself in front of Mei on your first day.
+
+#SAY.Fungus.289.
+Hopefully you'll at last three days before that. {w=0.1}Or at least two. {w=01}Just one hour would be nice, really.
+
+#SAY.Fungus.290.
+You shake off the memories of your trip to Overwatch HQ and your anxieties about looking Super Cool enough to be an agent, and settle into your seat for what you know will be a long ride.
+
+#SAY.Fungus.291.
+The aircraft lifts off with a light jolt, and then you're away. Off on an adventure, and your first, Serious Business Overwatch mission.
+
+#SAY.Fungus.292.
+Something so vital, you apparently didn't even have time to be briefed before leaving.
+
+#SAY.Fungus.293.
+After all, you {i}just{/i} got here. And you're already leaving again. {w=0.25}Your stomach rumbles.
+
+#SAY.Fungus.294.
+{i}Didn't we at least have time for lunch...?{/i}
+
+#SAY.Fungus.295.
+To distract yourself from your grumblies, you inspect your surroundings. The inside of the transport isn't very exciting, and all you can see through the small windows is white -- whether clouds or snow, it's impossible to tell.
+
+#SAY.Fungus.298.
+Mei has her eyes on an infopad she has resting on her knee. She chews on her lower lip, her eyebrows furrowed. She blinks, then seems to notice your less-than-subtle gaze and turns to look at you.
+
+#SAY.Fungus.299.Mei
+Oh! I'm sorry, I forgot you were here!
+
+#SAY.Fungus.296.
+She smiles apologetically. As you consider just how forgettable you may well be, she begins to search her coat's overlarge pockets.
+
+#SAY.Fungus.297.Mei
+Probably searching for a super-important climate device.
+
+#SAY.Fungus.303.Mei
+Hmm...
+
+#SAY.Fungus.301.
+As you watch, she pulls a veritable plethora of protein bars from her pockets and dumps them on top of her infopad in her lap. Caramel, chocolate, raspberry...
+
+#SAY.Fungus.304.
+Your stomach growls again.
+
+#SAY.Fungus.309.Mei
+It's a long way to Antarctica. I thought we might get hungry.
+
+#SAY.Fungus.302.
+She hands you some of the protein bars, and you could honestly marry her right here on this aircraft. Instead, you tear away the wrapper from a chocolate flavoured bar and chomp right into it.
+
+#SAY.Fungus.307.
+It's dense, but the rich chocolate flavour floods your mouth. The hungry monster that is your stomach seems to retreat, appeased for the time being by this sweet offering.
+
+#SAY.Fungus.306.Recruit
+My parents used to tell me, "You can't save the world on an empty stomach!"
+
+#SAY.Fungus.305.
+Mei laughs, but then...
+
+#SAY.Fungus.308.
+her demeanour turns serious, as if a heavy cloud has settled over her head.
+
+#SAY.Fungus.311.Mei
+Yes, saving the world. That is what we're going to do. I hope.
+
+#SAY.Fungus.310.Recruit
+You hope?
+
+#SAY.Fungus.300.Mei
+Penguins have been moving inland in Antarctica in massive numbers. I'm worried it's a sign of an ecological disaster about to happen -- animals are very intuitive. They sense things we can't.
+
+#SAY.Fungus.315.Mei
+Maybe it's nothing after all, but if it is something and I ignore it -- well, I'm not ignoring it. {w=0.1}Plus, we get to see penguins!
+
+#SAY.Fungus.313.Recruit
+That's a peng-win if you ask me.
+
+#SAY.Fungus.314.
+Mei breaks out into a massive grin at your joke. Finally, someone who appreciates the finer subtleties of good humour.
+
+#SAY.Fungus.312.Mei
+Ha! I would agree.
+
+#SAY.Fungus.320.Mei
+But first: I have a question for you, {$PlayerName}.
+
+#SAY.Fungus.317.
+Oh no, a {i}question{/i}. What kind of test is she springing? Perhaps this bubbly Mei has just been a facade all along, and Agent Frostbite is waiting for the perfect moment to eject you from the aircraft.
+
+#SAY.Fungus.318.
+You straighten your shoulders, determined to prove yourself.
+
+#SAY.Fungus.321.Recruit
+Shoot.
+
+#SAY.Fungus.316.Mei
+Why did you become an oceanographer?
+
+#SAY.Fungus.319.
+The question hangs in the air between you and Mei as you consider it. This seems less a test of your abilities, but more of your character.
+
+#SAY.Fungus.323.
+Or maybe you're just overthinking it, like usual.
+
+#SAY.Fungus.322.
+{i}Why {/i}did{i} I become an oceanographer...?{/i}
+
+#MENU.Fungus.340
+I wanted to make a difference.
+
+#MENU.Fungus.342
+Fish are pretty cool.
+
+#MENU.Fungus.341
+It seemed the right path to take.
+
+#SAY.Fungus.725.
+test
+
+#SAY.Fungus.727.Mei
+test
+
+#SAY.Fungus.726.
+test
+
+#SAY.Fungus.346.Recruit
+I was raised to believe in helping the world in any way I could, and I've always loved the ocean. I thought that I could combine those two parts of me, so I followed my heart.
+
+#SAY.Fungus.347.Recruit
+Turns out it was something I was good at and enjoyed and, long story short, here I am.
+
+#SAY.Fungus.348.Mei
+Yes! I totally understand this. I've always loved the world and the animals that live here. When I was growing up, global warming was destroying the planet and that scared me, even when I was so young.
+
+#SAY.Fungus.349.Mei
+I thought becoming a climatologist would give me a chance to help, because our climate is so important. I was always good at science -- I invented so many things that almost worked. I drove my mother up the wall with my inventions!
+
+#SAY.Fungus.355.Mei
+Now I get to work with Overwatch, and meet so many new people -- and cute animals. Plus, my inventions work at least 95% of the time now. Who would have thought I could be so lucky?
+
+#SAY.Fungus.351.
+She positively beams, glowing with enthusiasm. If all of Overwatch are like this, it must be a formidable force indeed. And somehow, they think you're worth joining them. {w=0.25}Well, if they think so, it must be true.
+
+#SAY.Fungus.352.
+You wonder if you look like that when you talk about the ocean, with such a light in your eyes. Too bad you'll never get a chance to... {w=0.1}sea it for yourself.
+
+#SAY.Fungus.353.
+...
+
+#SAY.Fungus.354.
+{i}Why am I like this?{/i}
+
+#SAY.Fungus.357.Mei
+I may be worried about what we're going to find, but I'm excited to work with you. If only for your jokes.
+
+#SAY.Fungus.356.Recruit
+I'll do my best! And I promise I won't peng-wing it -- most of the time.
+
+#SAY.Fungus.350.
+She bursts into laughter, and the sound rings through the aircraft's interior. Reaching over, she pats your shoulder with more strength than you'd expect.
+
+#SAY.Fungus.358.Mei
+I'm sure you'll do fine.
+
+#SAY.Fungus.361.Recruit
+I just really think fish are neat.
+
+#SAY.Fungus.363.
+Mei blinks at you, seemingly surprised by your reply. Maybe she doesn't like fish.
+
+#SAY.Fungus.359.Recruit
+You know -- and whales and dolphins too. All sea creatures. They're all neat.
+
+#SAY.Fungus.362.Mei
+They're...{w=0.1} neat?
+
+#SAY.Fungus.360.
+She shakes her head, her dark hair shining in the white light streaming in through the windows. She's probably regretting her choice in bringing you along -- though, you suppose it wasn't much of a choice.
+
+#SAY.Fungus.364.Recruit
+Yeah. When I was a kid, my parents would take me to the aquarium. I would spend hours just watching the fish drift around. It looked so peaceful in there.
+
+#SAY.Fungus.365.
+Thinking back to the way you stared through those glass walls into another world fills you with that same sense of peace you felt as a child. You can't help but smile.
+
+#SAY.Fungus.366.Mei
+That sounds lovely! I haven't been to nearly enough aquariums in my life. Maybe I'll go next time I get shore leave.
+
+#SAY.Fungus.367.Recruit
+I could show you the one I used to go to --
+
+#SAY.Fungus.368.
+You cut your sentence off, worried of sounding too forward or familiar. You've never had the easiest time reading other people, perhaps why you've often found refuge in aquariums.
+
+#SAY.Fungus.369.Mei
+... {w=0.1}I think I'd like that.
+
+#SAY.Fungus.370.Mei
+But, first we need to save the world, so that all the {i}neat{/i} animals can be safe and happy.
+
+#SAY.Fungus.371.
+Mei grins, cheeks flushed with a soft pink. You get the impression she's thinking about all those animals, like the penguins you're travelling across the world to observe. You hope you'll see whales.
+
+#SAY.Fungus.375.Recruit
+I grew up with parents working in the United Nations, so I got it drilled into me that I should do something that would make a difference. They seemed to want me to go into something like oceanography, so I did.
+
+#SAY.Fungus.373.Mei
+So it's just a job to you?
+
+#SAY.Fungus.377.
+Something in her tone makes you think she's definitely judging you.
+
+#SAY.Fungus.372.Recruit
+I guess... {w=0.1}But I like the ocean.
+
+#SAY.Fungus.376.Mei
+What about the climate? And the planet? Isn't that important to you?
+
+#SAY.Fungus.374.
+Her eyebrows knit together as she looks you right in the eyes, and you know that despite her sweet exterior, she's filled with a fierce and determined fire. Beside her, you feel inadequate; a candle next to a bonfire.
+
+#SAY.Fungus.378.Recruit
+Yeah -- yeah, of course! Of course it is.
+
+#SAY.Fungus.379.Mei
+Good. Everyone in Overwatch believes very strongly in protecting and helping -- it's what drew us together. If you truly want to be one of us, you need to have that desire, too.
+
+#SAY.Fungus.380.
+Her words resonate within you, and you know this is absolutely where you want to be. You don't have to search far to find the desire she speaks of; it's always been there, ever since you first saw the ocean as a young child.
+
+#SAY.Fungus.381.
+It was such an awesome, inspiring thing. Not a flat, glassy plane like a lake, but something with real power and energy. The waves rose, crested, and crashed upon the shore, foam tickling your feet, and you thought the ocean might be alive.
+
+#SAY.Fungus.382.Recruit
+I do.
+
+#SAY.Fungus.383.Mei
+Yes. I think you do.
+
+#SAY.Fungus.390.
+The aircraft shudders suddenly and violently with turbulence, and you dig your fingertips into the harness as you clutch it tightly. Brushing her fringe out of her face, Mei turns in her seat to gaze out of a window at the view.
+
+#SAY.Fungus.389.Transport Pilot
+{i}Sorry, bit of a rough patch there! Should be smooth flying for now.
+
+#SAY.Fungus.391.
+Bright blue fills the windows as the aircraft lifts above the fluffy clouds into the clear, blue sky above. The clouds spread out below the aircraft like marshmallow fluff, appearing so soft you could nap upon them.
+
+#SAY.Fungus.392.
+Of course, they're nothing but water formed into majestic shapes, but you can dream, right? It's a silly thought, to compare them to marshmallows or pillows -- or marshmallowy pillows -- but you just can't help it.
+
+#SAY.Fungus.393.
+You angle your head to look over at Mei, who seems enthralled by the view. Her breaths fog the glass of her window as she takes in the bright cloudscape, her face filled with a childlike joy.
+
+#SAY.Fungus.394.
+As the aircraft smooths out, and the space fills with golden sunlight, you snuggle into your coat and close your eyes, lulled by the soft hum of the aircraft's engine. After an early start and a busy morning, your eyes could use a rest...
+
+#SAY.Fungus.397.
+...
+
+#SAY.Fungus.396.
+...
+
+#SAY.Fungus.401.
+A sharp jolt startles you awake. For a moment, your drowsy mind can't make sense of where you are, until the pilot's voice crackles over the transport's comms.
+
+#SAY.Fungus.402.Transport Pilot
+{i}Welcome to Antarctica, everyone! The temperature outside is a frosty really-damn-cold, with a low of turns-your-blood-to-ice. Glad I ain't sticking around long.{/i}
+
+#SAY.Fungus.403.
+You yawn and shake half-forgotten dreams from your head, wondering just how long you've been out for, and what the time actually is in Antarctica. {w=0.1}You forgot to even ask how long the trip would be. Typical.
+
+#SAY.Fungus.404.
+One day you'll remember to ask for more information. You figure being informed is probably a good thing to master when you're a member of Overwatch. {w=0.25}{i}Especially{/i} a member that's supposed to be a scientist.
+
+#SAY.Fungus.406.
+Whoops.
+
+#SAY.Fungus.405.
+And thinking of being an Overwatch member... {w=0.1}you always assumed there'd be some kind of initiation ceremony, or maybe a hazing ritual for newbies. You even did your hair  this morning just in case of photos, or... or... {w=0.25}something.
+
+#SAY.Fungus.407.
+But you guess that's not really a thing -- or maybe you were whisked away too quickly for this mission. For all you know, you'll be fully inducted upon your return, when you prove you're truly worthy.
+
+#SAY.Fungus.408.
+What a dream... to stand beside the heroes like Tracer and Winston and be counted as one of them -- not only by those in Overwatch, but by you yourself. What a day that'll be! Your stomach does backflips just thinking of it.
+
+#SAY.Fungus.409.
+For now, though, you have other things to deal with: Mei's already out of her seat and opening the rear ramp, and, upon some scientific calculation, you decide there's a hell of a lot of snow outside. Did you really expect anything less?
+
+#SAY.Fungus.411.
+The bitter chill of what must can only be the worst place on Earth seeps into the transport, seeming to finding every minuscule gap in the material of your clothing. You escape your harness and stand, hoping movement will warm you.
+
+#SAY.Fungus.410.
+Rubbing your gloved hands together -- friction to cause heat, or so you hope -- you move over to the transport's opening, a door that folds out into a ramp. There's probably some fancy aircraft term for it. To you, it's a door-ramp.
+
+#SAY.Fungus.413.Mei
+Bit chilly, isn't it?
+
+#SAY.Fungus.415.
+She's awfully bright despite the cold, and that in itself somehow helps make the cold less awful. As if she herself is radiating warmth just by existing.
+
+#SAY.Fungus.414.
+You smile, and it feels like your skin is frozen so that you kind of have to force the smile to happen. You hope you don't look as if you're experiencing rigor mortis. That's probably {i}not{/i} a good look.
+
+#SAY.Fungus.416.
+She grins right back at you, making you think you don't look very corpse-like after all. Though... she could just be one of those nice people who are nice {i}all the time{/i}. A terrifying thought. Those people have too much power.
+
+#SAY.Fungus.417.
+Standing at the top of the ramp, framed by bright light, Mei takes in the overwhelming whiteness that surrounds us. You can't see her face, but the way she holds her shoulders is relaxed.
+
+#SAY.Fungus.418.
+You gather up as much as you can carry and approach her silhouetted form. Outside: snow everywhere, but a clear sky and a shining sun that hangs low in the sky. And, your new home.
+
+#SAY.Fungus.419.
+The structure bursts from the snow, a dark building dusted with white like icing sugar atop a pastry -- and what you wouldn't do for jelly donut. The Watchpoint looks pretty new, as if it hasn't settled into the glimmering landscape yet.
+
+#SAY.Fungus.420.Mei
+A lot of eco-Watchpoints are pretty recent. This one is newly established, maybe the newest. I think it was only set up last month? We're the first people assigned here.
+
+#SAY.Fungus.421.
+She must have been thinking of the same thing as you, given you're both staring at the Watchpoint.{w=0.1}.{w=0.1}. or she's a mindreader.
+
+#SAY.Fungus.422.
+Really, you wouldn't be surprised if someone in Overwatch could read minds. There {i}is{/i} a sentient gorilla who can talk, after all. Nothing is impossible in your mind anymore. {w=0.25}Almost anything.
+
+#SAY.Fungus.424.
+So... you decide to test this theory, with science. They didn't give you that degree for nothing.
+
+#SAY.Fungus.423.
+...
+
+#SAY.Fungus.425.
+{i}Mei! If you can hear this... give me a thumbs up.{/i}
+
+#SAY.Fungus.426.
+Mei doesn't react at all, her hands tucked into her pockets. You deduce that she's probably not a mindreader... or she's super crafty. Perhaps you'll never know the truth. You resign yourself to the knowledge this will forever be a mystery.
+
+#SAY.Fungus.427.
+{i}Wait, this is stupid.{/i}
+
+#SAY.Fungus.428.
+You shake your head. Mei raises her eyebrows at you.
+
+#SAY.Fungus.431.Mei
+Are you okay?
+
+#SAY.Fungus.430.Recruit
+Yeah! Just feeling a little hungry.
+
+#SAY.Fungus.429.Mei
+You and me both! Once we get everything into the Watchpoint, we can have something to eat. Have you ever been to a Watchpoint before? Wait -- of course not! They have full kitchen facilities, though I'm not sure how stocked it will be...
+
+#SAY.Fungus.432.Mei
+But! We'll make something delicious when we're done, then we can prepare and relax. We'll head out to find the penguins first thing tomorrow. It's too late today to do it, once that sun goes down the temperature drops fast.
+
+#SAY.Fungus.433.
+She shivers dramatically, bouncing a little as she rubs her arms with her gloved hands. Little puffs of breath cloud around her face.
+
+#SAY.Fungus.435.Mei
+It's too cold! Let's get everything done as quickly as we can. I'm keen to warm up, and I'd hate to get you sick on your first day.
+
+#SAY.Fungus.434.Recruit
+I'd hate to {i}get{/i} sick on my first day.
+
+#SAY.Fungus.436.
+A blast of ice-cold air freezes your face even more as you step out onto the ramp. All around you is blinding white below the most vibrant blue you've ever seen. {w=0.25}You wonder if noses can actually fall off when they're cold enough.
+
+#SAY.Fungus.437.
+You take another step and the moment your foot meets the ramp, you feel it slide against the icy metal.
+
+#SAY.Fungus.438.
+Your leg flies forward. {w=0.1}You fly backwards.
+
+#SAY.Fungus.439.
+{i}Not even five minutes in.{/i}
+
+#SAY.Fungus.441.
+You flail your arms around helplessly, equipment flying off into the snow, and know it's too late to save yourself. You close your eyes and wait to hit the hard metal --
+
+#SAY.Fungus.440.
+{w=0.25}Strong arms encircle you, catching you mid-fall. You hang suspended, momentarily confused as to why your head hasn't connected painfully with the ground.
+
+#SAY.Fungus.442.
+Opening you eyes, you see Mei's warm eyes looking right back at you. {w=0.1}Heat rises in your cheeks, either from embarrassment, or...
+
+#SAY.Fungus.443.
+Ignoring your thoughts, you focus instead on Mei, who continues to surprise you with her strength. Lugging her climate equipment around must have gained her some mad guns. You wouldn't want to arm wrestle her, you'd definitely lose.
+
+#SAY.Fungus.444.Mei
+Are you okay? Are you hurt?
+
+#SAY.Fungus.445.
+Her eyes are wide with worry, and why wouldn't they be? She's never met you and your clumsy self before today.
+
+#SAY.Fungus.446.Recruit
+Yeah, I'm fine. That happens sometimes. Thanks for the catch.
+
+#SAY.Fungus.447.Mei
+I can't have my new assistant hurting {$Reflexive} on {$Possessive} first day. What would HQ think of me then?
+
+#SAY.Fungus.448.
+Her voice sounds sincere, but there's a cheeky quirk to her mouth as she helps you to your feet.
+
+#SAY.Fungus.449.
+Scattered in the snow is everything you were holding only moments ago, like a chaotic testament to your clumsiness. Hopefully you didn't break anything.
+
+#SAY.Fungus.450.Recruit
+Sorry.
+
+#SAY.Fungus.451.
+Mei waves a hand dismissively.
+
+#SAY.Fungus.452.Mei
+It's okay! It's not your fault the ramp was slipperier than you expected. We'll just have to learn from that lesson so nobody else falls over.
+
+#SAY.Fungus.453.Mei
+Do you want some help picking everything up?
+
+#MENU.Fungus.454
+No, I can do it.
+
+#MENU.Fungus.456
+Yes, some help would be nice.
+
+#SAY.Fungus.459.Recruit
+No, no. It's fine, I can do it myself. I did drop everything, after all.
+
+#SAY.Fungus.462.Mei
+Okay... if you say so. Be careful though, I don't want you hurting yourself more.
+
+#SAY.Fungus.461.Recruit
+Ha! I'll be a-okay.
+
+#SAY.Fungus.460.Mei
+Good, you better be! And you better not be denying my help just to impress me.
+
+#SAY.Fungus.463.
+She presses a finger to your chest; a warning, but not a serious one. It's your turn for a dismissive gesture now.
+
+#SAY.Fungus.467.Recruit
+Of course not!
+
+#SAY.Fungus.465.
+She narrows her eyes at you, and she's probably right to. Are you trying to impress her? The odds are pretty high that you are, not that you'll ever admit it.
+
+#SAY.Fungus.468.Mei
+Good.
+
+#SAY.Fungus.469.Recruit
+But is it working?
+
+#SAY.Fungus.470.Mei
+Is what working?
+
+#SAY.Fungus.464.Recruit
+Are you impressed?
+
+#SAY.Fungus.472.Mei
+Haha! Hahaha! You haven't done anything impressive yet. Maybe if you carry everything here to the Watchpoint yourself in one trip I will be.
+
+#SAY.Fungus.473.Recruit
+Is that a challenge?
+
+#SAY.Fungus.474.Mei
+Oh, no! I wouldn't want you to hurt yourself attempting that.
+
+#SAY.Fungus.471.Recruit
+I'm kidding.
+
+#SAY.Fungus.466.Mei
+Oh! Oh. Of course you are.
+
+#SAY.Fungus.475.Mei
+You had me worried for a moment there, haha.
+
+#SAY.Fungus.476.Mei
+{w=0.25}I don't want to rush you or anything, but you should probably pick that stuff up before it sinks into the snow and is lost to us forever.
+
+#SAY.Fungus.477.Recruit
+Wait, how deep {i}is{/i} the ice? That can happen?
+
+#SAY.Fungus.480.
+You turn quickly on your heels to follow Mei's instructions, but her giggling makes you pause.
+
+#SAY.Fungus.479.Mei
+Sorry, I was kidding about losing everything. But leaving it lying there probably isn't a good idea!
+
+#SAY.Fungus.478.
+You roll your eyes at her, then carefully make your way down the ramp. The snow is much firmer than you expected. Instead of sinking below the surface of the snow, your boots rest atop it as if it were solid ground rather than frozen water.
+
+#SAY.Fungus.481.
+Mei watches you the entire time, and though she looks chilled out -- {i}ha{/i} -- you feel like she's ready to pounce to your aid once again.
+
+#SAY.Fungus.482.
+On one hand, it's sweet that she's worried about you. On the other hand... this might get annoying, if she thinks you're a risk to yourself.
+
+#SAY.Fungus.483.
+You crouch down to pick up something that looks a bit like a weird, science-fictiony trumpet -- you have no clue what it might do -- and when you stand and check back over your shoulder Mei's disappeared back into the aircraft.
+
+#SAY.Fungus.484.
+It takes you longer than you expect to pick up everything you flung across the snow, partly because walking on snow isn't a cakewalk. It may be firm, but your boots still sink slightly. You take soft steps, worried you'll be engulfed.
+
+#SAY.Fungus.485.
+Mei reappears at the top of the ramp, arms once more filled with scientific objects, and she practically skips down onto the snow without seeming to worry about slipping. You suppose she meant {i}you{/i} needed to learn, not her.
+
+#SAY.Fungus.486.
+She's not wrong.
+
+#SAY.Fungus.487.Mei
+Have you got everything?
+
+#SAY.Fungus.488.Recruit
+I think so. What's this trumpet thing?
+
+#SAY.Fungus.489.
+Mei makes a face at the device you indicate.
+
+#SAY.Fungus.491.Mei
+I, um, don't remember.
+
+#SAY.Fungus.490.Mei
+That's silly, isn't it? A scientist who can't remember her own inventions.
+
+#SAY.Fungus.494.Recruit
+Wait, you made this?
+
+#SAY.Fungus.493.Mei
+Yeah! I invented most of this stuff. Not all of it works, though.
+
+#SAY.Fungus.492.Recruit
+That's amazing! That you invented it, I mean.
+
+#SAY.Fungus.497.Mei
+Oh, um... you really think so?
+
+#SAY.Fungus.498.Recruit
+Of course I do. I can barely get my toaster to work some days, let alone build anything with even half a chance of running.
+
+#SAY.Fungus.499.Mei
+Your toaster? Really?
+
+#SAY.Fungus.501.Recruit
+Look, it's got a lot of buttons. It's a fancy toaster.
+
+#SAY.Fungus.495.Mei
+A fancy toaster. Mm-hmm. {w=0.1}I can show you how to use the toaster here if it's too complicated for you.
+
+#SAY.Fungus.500.Mei
+But, I think you'll be fine. You seem smart enough to figure something like that out.
+
+#SAY.Fungus.496.Recruit
+Thanks. I think.
+
+#SAY.Fungus.502.
+She laughs and starts heading towards the Watchpoint. You quickly follow behind, squinting against the harsh sun reflected from the ice and snow. Who knew Antarctica would be so bright? Not you, that's for sure.
+
+#SAY.Fungus.503.
+The Watchpoint doesn't look all that different to the Overwatch headquarters, not really. You suppose there's an overarching Overwatch aesthetic, that a lot of their Watchpoints look similar.
+
+#SAY.Fungus.504.
+In the distance are massive ice formations, lit by the lowering sun, and you can't help but hope you'll be heading in that direction later. Sure, frozen water isn't exactly your specialty, but you know it can look damn impressive.
+
+#SAY.Fungus.505.
+Water. Is. Amazing.
+
+#SAY.Fungus.506.
+...
+
+#SAY.Fungus.507.Recruit
+Not going to lie, some help would be appreciated. Sorry.
+
+#SAY.Fungus.508.Mei
+No worries! We all need help with something sometimes. You don't need to apologize.
+
+#SAY.Fungus.509.Recruit
+Yeah, okay. But I'm still sorry.
+
+#SAY.Fungus.510.Mei
+Stop that! Four hands are faster than two, anyway.
+
+#SAY.Fungus.511.Recruit
+Four hands? Isn't it two heads?
+
+#SAY.Fungus.514.Mei
+Heads can't pick anything up! Four hands are far more useful than two heads, don't you think?
+
+#SAY.Fungus.513.Recruit
+You're... totally right. Yeah.
+
+#SAY.Fungus.512.Mei
+Of course I am.
+
+#SAY.Fungus.515.
+You can't help but feel bad as she follows you into the snow to start digging out the scattered equipment. If not for you, she could already be half-done by now. Instead, she's stuck with you out here in the cold.
+
+#SAY.Fungus.518.
+Still... you're not sure you mind much. It's not like you don't like being around her, with her sweet smile and even sweeter voice. At least she looks properly bundled up for this temperature, unlike you.
+
+#SAY.Fungus.517.
+Not that you're overly unprepared -- you're definitely not going to die, or lose any fingers -- but the chill has absolutely seeped into your skin by now and made itself home. You imagine twenty hot showers won't erase its bitter caress.
+
+#SAY.Fungus.516.
+Your fingers wrap around a rounded disc, and you pull it free from the ice. You inspect it for a moment, completely unsure of what this thing could be. A weird frisbee? A slightly useless bowl? You have no clue.
+
+#SAY.Fungus.519.Recruit
+What {i}is{/i} this?
+
+#SAY.Fungus.522.Mei
+What? Oh! That's an exothermal disc.
+
+#SAY.Fungus.521.Recruit
+An exo-what?
+
+#SAY.Fungus.520.Mei
+It's a disc that slowly releases heat. The idea is that you can bury it, and it'll warm up the ground for ecosystems that need warmer earth. It might not be very useful here, huh?
+
+#SAY.Fungus.525.Recruit
+Sounds good for a cold bed.
+
+#SAY.Fungus.526.Mei
+Haha, that's one use for it! Maybe I will try that if it gets really cold tonight.
+
+#SAY.Fungus.527.Recruit
+Will it get really cold?
+
+#SAY.Fungus.528.Mei
+Out here, yes! Inside, probably not unless something goes wrong. Watchpoints, especially ones in volatile environments, tend to have the best climate control. Perfect temperature indoors all day and night.
+
+#SAY.Fungus.523.Recruit
+That's reassuring. I hope the food's as good as the temperature.
+
+#SAY.Fungus.524.Mei
+I think that might be up to us and our cooking skills. Now is a good time to tell me if you're a gourmet chef, by the way.
+
+#SAY.Fungus.531.Recruit
+Alas, I am not.
+
+#SAY.Fungus.530.Mei
+I thought as much...
+
+#SAY.Fungus.529.Mei
+But we'll be fine! We'll figure it out.
+
+#SAY.Fungus.532.
+Mei straightens and looks around, but there doesn't seem to be anything else you dropped lying around out here. No evidence of your clumsiness except a confused mess of bootprints surrounding the transport's ramp.
+
+#SAY.Fungus.536.
+Somewhere in that aircraft is the pilot, who seems to have either completely forgotten about you both, or just doesn't want to help out at all. You can't blame them, really. They're probably holed up in the cockpit napping.
+
+#SAY.Fungus.535.
+Still, you can't imagine just sitting back and letting someone else do all the work when you could be helping. That's partly why you've wanted to be in Overwatch for so long; if you can help them, why not at least try?
+
+#SAY.Fungus.534.
+Aid people where you can. Relieve difficulties when possible. That's what you believe.
+
+#SAY.Fungus.533.
+The {i}crunch, crunch{/i} of footsteps on the snow draws your attention away from the aircraft and back to Mei, who's started heading to the Watchpoint while you zoned out. She looks over her shoulder at you.
+
+#SAY.Fungus.537.Mei
+You coming?
+
+#SAY.Fungus.538.Recruit
+Yeah.
+
+#SAY.Fungus.539.
+She pauses to wait for you to catch up, a soft smile upon her face. The sun bounces off the white landscape just right, illuminating her hair as if she were haloed -- an angel of climatology. Her eyes glow.
+
+#SAY.Fungus.542.
+{i}Are all Overwatch agents this beautiful?{/i}
+
+#SAY.Fungus.541.
+She turns away from you again, and the moment passes. You almost think you saw her cheeks coloured with red before she hid her face from you. Probably from you staring at her like that.
+
+#SAY.Fungus.540.
+Embarrassment fills your stomach like an expanding heat, and you watch your feet the rest of the way to the Watchpoint's entrance.
+
+#SAY.Fungus.547.
+It takes you two trips to get everything inside. By the time you're finished, your arms are aching down to the bone and you're sweating beneath all your layers. You throw yourself onto a chair, huffing and puffing with exhaustion.
+
+#SAY.Fungus.549.
+You're not exactly unfit, not really, but it's been a while since you've done anything so intensive. You decide to get back into a good workout regime when you get home, or back to base. Where doesn't matter, as long as there's a treadmill.
+
+#SAY.Fungus.548.
+Mei, however, looks fine. As if she hasn't just lugged what feels like a thousand kilograms from the transport to the Watchpoint. You're not sure whether to admire or fear her power.
+
+#SAY.Fungus.550.
+You decide to do both. Adfear. Feadmire.
+
+#SAY.Fungus.552.
+{i}Hmm. I need to work on my portmanteaus.{/i}
+
+#SAY.Fungus.556.
+Mei puts her hands on her hips and grins.
+
+#SAY.Fungus.553.Mei
+Good work, team!
+
+#SAY.Fungus.554.Recruit
+You're half of the team. Are you congratulating yourself?
+
+#SAY.Fungus.555.Mei
+Half of the congratulations go to me. The other half, to you.
+
+#SAY.Fungus.551.
+You give her a weak thumbs up, your arm trembling with the effort it takes just to raise it. You can only hope a good sleep and some food will make you feel better, or else tomorrow will be hell. And thinking of food...
+
+#SAY.Fungus.558.
+Your stomach growls, loud enough that it's impossible Mei doesn't notice.
+
+#SAY.Fungus.557.Mei
+Guess you're hungry! How about I check out the kitchen and make us some dinner?
+
+#SAY.Fungus.559.Mei
+You stay here, I don't want you passing out on the kitchen floor.
+
+#SAY.Fungus.560.Recruit
+I wouldn't pass out, I'm fiiiine.
+
+#SAY.Fungus.561.
+Mei watches as you try to lift yourself from your seat, muscles shaking with effort and fatigue. You're not going anywhere.
+
+#SAY.Fungus.562.
+You collapse back against the chair, glaring at Mei's smug expression. She doffs her gloves, and pulls the little drone strapped to her back free. It hovers beside her, little boosters keeping it afloat. She pats its head.
+
+#SAY.Fungus.563.Mei
+This is Snowball. Snowball, meet {$Playername}.
+
+#SAY.Fungus.564.Snowball
+(=^▽^=)
+
+#MENU.Fungus.565
+Hey there.
+
+#MENU.Fungus.566
+What the hell is that?
+
+#SAY.Fungus.569.Recruit
+Hey there, Snowball. Nice to meet you.
+
+#SAY.Fungus.570.Snowball
+Ｏ(≧▽≦)Ｏ
+
+#SAY.Fungus.571.
+Panels at the side of the drone's round head flap out like the ears of a happy dog, and you get the feeling that the droid is feeling pretty great as it bobs in the air before you.
+
+#SAY.Fungus.573.Mei
+Perfect, you two can keep an eye on each other while I make something to eat. Be nice, Snowball!
+
+#SAY.Fungus.572.Snowball
+ʅฺ(◕ ω ◕)ʃฺ
+
+#SAY.Fungus.574.
+Mei pats the little drone on the head, then heads off to the kitchen, which isn't all that far from where you're sitting. She's certainly not out of earshot, which gives you a strange sense of relief...
+
+#SAY.Fungus.575.
+You're not sure you trust this drone. It's cute. {w=0.1}Too cute. {w=0.1}Nothing {i}that{/i} cute is entirely innocent. For all you know, it could be planning to off you the second it thinks you might hurt its owner.
+
+#SAY.Fungus.576.
+Not that you would ever think of hurting Mei, but how's Snowball supposed to know that? Short answer: it can't.
+
+#SAY.Fungus.577.
+You watch the drone as the clatter of Mei working away in the kitchen fills the room. Snowball floats around, inspecting the Watchpoint and everything you've brought inside.
+
+#SAY.Fungus.578.
+After a while, when its curiosity is sated, the drone flies back over to you and settles down in the air nearby, waiting patiently for Mei to return. It's not unlike a cat, you think.
+
+#SAY.Fungus.579.Snowball
+(◕◡◕✿)
+
+#SAY.Fungus.580.
+Yeah. It's definitely planning something.
+
+#SAY.Fungus.581.Recruit
+So... what's it like being, y'know, a robot?
+
+#SAY.Fungus.584.Snowball
+ʅ(ツ)ʃ
+
+#SAY.Fungus.583.Recruit
+Yeah. About the same being a human, too.
+
+#SAY.Fungus.582.Snowball
+(＞ｙ＜）
+
+#SAY.Fungus.585.
+Its ears flap and it bleeps, and you think this is the drone's way of showing laughter. Or it could be Snowball threatening your life. Both options are equally possible, you decide.
+
+#SAY.Fungus.586.
+Mei returns quicker than you expect, both hands holding huge, steaming bowls that smell... meaty. She places on in your lap, and sits beside you with the other.
+
+#SAY.Fungus.587.
+Filling the bowl is a thick, chunky stew swimming with carrots, potatoes, lentils, and an unidentified meat of some kind. Your best scientific guess is beef. Maybe. The scent is certainly mouthwatering, at least.
+
+#SAY.Fungus.588.Recruit
+Smells good.
+
+#SAY.Fungus.589.Mei
+Thanks! But it's not all me. This is just a packaged protein-rich stew I warmed up. Who knows what's actually in this.
+
+#SAY.Fungus.590.Recruit
+Curiosity killed the cat. I'm just hungry.
+
+#SAY.Fungus.591.
+The two of you dig into the stew, and it's possibly the most delicious thing you've had in years -- it's at least the first warm thing you've eaten all day, and {i}damn{/i} does it feel good. Already you can feel your exhaustion fading.
+
+#SAY.Fungus.594.
+You would marry this stew, if you could. Marry it and its ambiguous meat.
+
+#SAY.Fungus.593.
+{i}Okay, this is getting weird.{/i}
+
+#SAY.Fungus.596.Recruit
+If I ever meet whoever makes this stuff, I'm giving them the biggest high-five.
+
+#SAY.Fungus.595.Mei
+I think you might just be biased because all you've eaten all day has been my protein bars. Which aren't terrible, but they're no hot stew.
+
+#SAY.Fungus.592.Recruit
+Maybe I'm just biased because you made it.
+
+#SAY.Fungus.597.Mei
+What?
+
+#SAY.Fungus.598.Recruit
+What?
+
+#SAY.Fungus.599.
+You shove another spoonful of stew into your mouth, hoping that you can't say anything else stupid through the food. Mei watches you for a moment, then pulls out her datapad and focuses on that instead.
+
+#SAY.Fungus.600.
+{i}Ugh. Stupid! What was that?{/i}
+
+#SAY.Fungus.601.Mei
+{i}Ahem{/i}. So. First thing tomorrow we're off to find the penguins.
+
+#SAY.Fungus.602.Recruit
+Any idea where they are?
+
+#SAY.Fungus.603.Mei
+We have some satellite images that theoretically tell us which direction to go. We have a small craft to travel in, so at least the journey shouldn't take {i}too{/i} long.
+
+#SAY.Fungus.604.Recruit
+That's crafty.
+
+#SAY.Fungus.605.
+Mei chokes on her mouthful of stew as she tries to refrain from laughing, smacking a hand across her mouth as she coughs.
+
+#SAY.Fungus.606.Mei
+{i}Hk!{/i} Ah! Guh!
+
+#SAY.Fungus.607.Recruit
+I'm sorry!
+
+#SAY.Fungus.608.Mei
+No, it's -- aha -- it's fine. Do not let my death hinder your humour.
+
+#SAY.Fungus.609.
+She waves away your worries, returning to her stew as soon as her coughing subsides. You watch her stealthily as you finish your own food, making sure that you haven't accidentally caused her serious damage.
+
+#SAY.Fungus.610.
+You guess you're going to have to be more careful when it comes to jokes. You could kill someone, and there are only two someones here: you, and Mei.
+
+#SAY.Fungus.611.
+You don't particularly want to kill either of those people.
+
+#SAY.Fungus.612.Recruit
+What the hell {i}is{/i} that thing?
+
+#SAY.Fungus.613.Mei
+My assistant drone, Snowball. It helps me out, and makes a good companion on solo deployments.
+
+#SAY.Fungus.614.Snowball
+(;˃Δ˂)
+
+#SAY.Fungus.617.
+Mei pats the drone's round head, and it bobs in the air, nuzzling up against her hand.
+
+#SAY.Fungus.616.Snowball
+♡(＾▽＾)♡
+
+#SAY.Fungus.615.Recruit
+Right...
+
+#SAY.Fungus.618.Mei
+What, you don't like it?
+
+#SAY.Fungus.620.Snowball
+(ФоФ)
+
+#SAY.Fungus.619.Recruit
+No, no! I think Snowball's cute. Hey... pal.
+
+#SAY.Fungus.621.Snowball
+Ｏ(≧▽≦)Ｏ
+
+#SAY.Fungus.624.Mei
+I think Snowball likes you. Be nice to it, will you? I don't want you two fighting!
+
+#SAY.Fungus.623.Recruit
+Of course! What kind of person do you take me for? A bot-bully?
+
+#SAY.Fungus.622.Mei
+You really can't tell these days.
+
+#SAY.Fungus.625.Mei
+But! I'm sure you two will be the best of friends. Play nice while I go make dinner.
+
+#SAY.Fungus.626.Recruit
+Yeah, yeah.
+
+#SAY.Fungus.629.Snowball
+ʅ(ツ)ʃ
+
+#SAY.Fungus.630.Mei
+{i}Snowball{/i}...
+
+#SAY.Fungus.631.Snowball
+∩`･◇･)
+
+#SAY.Fungus.632.Mei
+That's the best I'm getting out of you, isn't it?
+
+#SAY.Fungus.634.Snowball
+ʅฺ(◕ ω ◕)ʃฺ
+
+#SAY.Fungus.628.
+Mei gives you an apologetic smile, then disappears off to prepare dinner. You're just glad that the kitchen isn't out of earshot, because you're not entirely sure you trust this drone.
+
+#SAY.Fungus.635.Recruit
+Hey Snowball, you wouldn't hurt a human, right?
+
+#SAY.Fungus.636.Snowball
+ʅ(ツ)ʃ
+
+#SAY.Fungus.633.Recruit
+Uh... That's a yes, right?
+
+#SAY.Fungus.627.Snowball
+Ｏ(≧▽≦)Ｏ
+
+#SAY.Fungus.639.
+Little flaps at the side of Snowball's head flutter along with little beeps in a way that you think is meant to approximate laughter, and you realise suddenly that the drone is probably messing with you.
+
+#SAY.Fungus.638.Recruit
+Right. I get it, you're a joker.
+
+#SAY.Fungus.637.
+What could it do to you anyway? Lightly headbutt you? Make faces? You shake your head and laugh. The drone laughs -- kind of -- along with you. It seems pleased that you're amused by its joke.
+
+#SAY.Fungus.640.
+{i}I'm losing it.{/i}
+
+#SAY.Fungus.642.
+Now that you've figured out Snowball's just kidding around, you feel as if you've bonded with the little drone. It settles down on the chair beside you, its little jets turned off as it sits and waits for Mei like a patient pet.
+
+#SAY.Fungus.641.Snowball
+(∪｡∪)
+
+#SAY.Fungus.643.Recruit
+Yeah, me too.
+
+#SAY.Fungus.644.
+You close your eyes, just resting them for a second. You're snuggled up all nice and warm in your layers of clothes, inside a nicely temperature building with food on the way. There's not much better than this...
+
+#SAY.Fungus.645.
+...
+
+#SAY.Fungus.647.
+...
+
+#SAY.Fungus.646.Mei
+Hey!
+
+#SAY.Fungus.648.Recruit
+Wh --
+
+#SAY.Fungus.649.
+You jolt awake, your eyes flying open. Mei stands before you with a bowl filled with what looks and smells like a steaming-hot stew.
+
+#SAY.Fungus.652.Mei
+Not going to pass out, huh?
+
+#SAY.Fungus.651.Recruit
+I didn't pass out! I was... resting my eyes.
+
+#SAY.Fungus.654.Mei
+Ah, napping.
+
+#SAY.Fungus.653.Recruit
+... yeah.
+
+#SAY.Fungus.650.Mei
+Well, here's some food for you, sleepyhead.
+
+#SAY.Fungus.655.
+Chuckling, Mei holds the bowl out for you to take, which you do gratefully. The warmth of the dish is comforting as you hold it in your lap, and the smell of the meat -- maybe beef, you're not sure -- makes your mouth water.
+
+#SAY.Fungus.656.
+Mei reaches out to Snowball, who has another bowl balanced upon its head, and takes the bowl into her hands. Dishing a mouthful into her mouth, she takes a seat beside you and digs into her food.
+
+#SAY.Fungus.657.
+You follow her lead, feeling instant, wonderful relief as the flavours of the stew explode in your mouth. What could be better than nice, hot food? Nothing. {w=0.1}Literally. {w=0.1}Nothing.
+
+#SAY.Fungus.658.Recruit
+It's good! Thank you!
+
+#SAY.Fungus.661.Mei
+You're welcome, though I just followed the instructions on a packet. It's not rocket science, or climate science.
+
+#SAY.Fungus.660.Recruit
+It's still good. If this is the kind of packaged food Overwatch has, I think I'm gonna stick around.
+
+#SAY.Fungus.663.Mei
+Good! I like having you around. Though...
+
+#SAY.Fungus.664.Recruit
+Though?
+
+#SAY.Fungus.665.Mei
+We'll see how useful you are tomorrow. Could totally change my mind!
+
+#SAY.Fungus.666.Recruit
+Yikes.
+
+#SAY.Fungus.659.Mei
+I'm sure you'll do great.
+
+#SAY.Fungus.662.Recruit
+I'll certainly try my best.
+
+#SAY.Fungus.667.Mei
+Good! I wouldn't want it any other way.
+
+#SAY.Fungus.670.
+Mei places her bowl at her feet and stretches, yawning widely.
+
+#SAY.Fungus.677.Mei
+Ooh, I'm exhausted! I think it's time for bed.
+
+#SAY.Fungus.676.Recruit
+I think I agree.
+
+#SAY.Fungus.675.
+You can't help yawning yourself -- it's contagious! The food certainly helped you feel less like a limp noodle, but you can't deny just how tired you feel. Despite your nap of an indeterminable number of hours, it's been one hell of a day.
+
+#SAY.Fungus.674.
+Plus, having something warm in your stomach is making you feel more than a little drowsy...
+
+#SAY.Fungus.673.
+You suppose it's time to head to your room and snooze for as long as you possibly can before Mei drags you out into the frozen wasteland that is Antarctica again.
+
+#SAY.Fungus.672.
+Mei helps you up and the two of you grab your personal bags and heave the straps over your shoulders -- rather, that's what Mei does. You drag your luggage behind you like the weakling you are. Together, you head to the crew's quarters.
+
+#SAY.Fungus.671.
+Mei pauses before two doors that look identical, and seems to consider them both for a short while before turning to you.
+
+#SAY.Fungus.679.Mei
+Since this is your first deployment, and since I'm super nice, I'm going to let you pick which room you want. It doesn't matter that much, but at least you get to control a little bit of your what is, for now, your home.
+
+#SAY.Fungus.678.Recruit
+Oh, okay. Thank you.
+
+#SAY.Fungus.680.
+Hmmm...
+
+#MENU.Fungus.685
+Left
+
+#MENU.Fungus.684
+Right
+
+#SAY.Fungus.686.Recruit
+I'll take the left room. I've always liked the left.
+
+#SAY.Fungus.692.Mei
+Cool! Guess the right is mine. Fitting because I am {i}always right!{/i} Haha!
+
+#SAY.Fungus.691.Recruit
+Mm-hmm. Always. I'm sure.
+
+#SAY.Fungus.690.Mei
+You'll see. We'll be spending enough time together for you to learn. Have I been wrong yet today?
+
+#SAY.Fungus.689.Recruit
+No, but...
+
+#SAY.Fungus.688.Mei
+Never wrong!
+
+#SAY.Fungus.687.Recruit
+{i}Pffft{/i}. Fine.
+
+#SAY.Fungus.693.
+She pauses for a moment, as if unsure of what to say next. You consider trying to fill the silence, but instead find yourself watching the way her eyelashes flutter when she blinks. They look so soft and delicate. Amazing.
+
+#SAY.Fungus.698.
+She shakes her head slightly -- almost imperceptibly -- and moves towards her room, with a little wave in your direction.
+
+#SAY.Fungus.697.Mei
+Well! Good night. I'll see you bright and early.
+
+#SAY.Fungus.696.Recruit
+Good night, don't let the penguins bite.
+
+#SAY.Fungus.695.
+You head into your own room, taking in the bed, the desk, and the complete lack of anything bright to make it feel like a home. At least there's a window, made from what you can only assume is super-strong glass to survive the weather.
+
+#SAY.Fungus.694.
+The door doesn't quite click closed properly behind you, but you're too tired to do much about that right now. On a list of Most Important Things In Antarctica, a door that doesn't quite close properly is pretty damn low.
+
+#SAY.Fungus.700.
+You have some photos with you, packed away in your bags -- and, yes, they're photos of food, you're not ashamed of it, though maybe you should be. You'll put them up tomorrow. For now, however, you collapse face first onto your bed.
+
+#SAY.Fungus.699.
+...
+
+#SAY.Fungus.702.Recruit
+Uh, the right, I guess.
+
+#SAY.Fungus.711.Mei
+You guess?
+
+#SAY.Fungus.710.Recruit
+Do you have any preference?
+
+#SAY.Fungus.709.Mei
+None at all! It is completely up to you.
+
+#SAY.Fungus.708.Recruit
+Okay. Then, right it is.
+
+#SAY.Fungus.707.Mei
+Perfect! I'll take the left.
+
+#SAY.Fungus.706.
+You move towards the right room, dragging your bag behind you, but hesitate before you open the door. You feel like you should say something more to Mei. She has, after all, put up with your useless self all day.
+
+#SAY.Fungus.705.
+Correction: she has to put up with your useless self for as long as this deployment lasts. Poor lady.
+
+#SAY.Fungus.704.Mei
+Are you okay?
+
+#SAY.Fungus.703.Recruit
+Yeah...
+
+#SAY.Fungus.713.Recruit
+...
+
+#SAY.Fungus.712.
+No words spring to mind, and you find yourself distracted by how silky her hair looks.
+
+#SAY.Fungus.716.
+{i}Definitely bed time!{/i}
+
+#SAY.Fungus.715.Recruit
+Good night. See you in the morning, I guess.
+
+#SAY.Fungus.714.Mei
+Oh, you will.
+
+#SAY.Fungus.719.
+She disappears into her room, and you into yours, and you collapse into your bed without even taking the time to look around. You can always do that tomorrow. For now, your mind is filled with thoughts of Mei.
+
+#SAY.Fungus.718.
+{i}She's so cool...{/i}
+
+#SAY.Fungus.717.
+...
+
+#SAY.Fungus.720.
+...
+
+#SAY.Fungus.728.
+...
+
+#CHARACTER.Agent Frostbite
+Agent Frostbite
+
+#CHARACTER.Bastion
+Bastion
+
+#CHARACTER.Mei
+Mei
+
+#CHARACTER.Genji
+Genji
+
+#CHARACTER.Mercy
+Mercy
+
+#CHARACTER.Snowball
+Snowball
+
+#CHARACTER.Transport Pilot
+Transport Pilot
+
+#CHARACTER.Recruit
+Recruit
+
+#CHARACTER.Cdr.Morrison
+Cdr.Morrison
+

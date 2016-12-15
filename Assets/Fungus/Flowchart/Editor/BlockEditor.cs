@@ -708,6 +708,39 @@ namespace Fungus
 
 			commandMenu.ShowAsContext();
 		}
+        //MIKEHACK
+        public void AddCommandHack(Block bl, Type type, int index)
+        {
+            if (bl == null)
+            {
+                return;
+            }
+
+            Flowchart flowchart = bl.GetFlowchart();
+
+            flowchart.ClearSelectedCommands();
+
+            Command newCommand = Undo.AddComponent(bl.gameObject, type) as Command;
+            bl.GetFlowchart().AddSelectedCommand(newCommand);
+            newCommand.parentBlock = bl;
+            newCommand.itemId = flowchart.NextItemId();
+
+            // Let command know it has just been added to the block
+            newCommand.OnCommandAdded(bl);
+
+            Undo.RecordObject(bl, "Set command type");
+            if (index < bl.commandList.Count - 1)
+            {
+                bl.commandList.Insert(index, newCommand);
+            }
+            else
+            {
+                bl.commandList.Add(newCommand);
+            }
+
+            // Because this is an async call, we need to force prefab instances to record changes
+            PrefabUtility.RecordPrefabInstancePropertyModifications(bl);
+        }
 		
 		protected static List<KeyValuePair<System.Type,CommandInfoAttribute>> GetFilteredCommandInfoAttribute(List<System.Type> menuTypes)
 		{

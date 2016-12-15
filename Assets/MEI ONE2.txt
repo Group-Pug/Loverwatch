@@ -83,7 +83,7 @@ As you wait, your mind begins to wander. What food will there be to eat in Antar
 
 Wait. {w=0.1}Polar bears aren't even {i}in{/i} Antarctica. Some scientist you are. 
 
-You mentally kick yourself, just as a woman swathed in thick furs strides into the hangar.<Mei-neutral> {w=0.1}Her arms are filled with equipment that looks far more expensive than any paycheck you've ever earned. 
+You mentally kick yourself, just as a woman swathed in thick furs strides into the hangar.<meidefault> {w=0.1}Her arms are filled with equipment that looks far more expensive than any paycheck you've ever earned. 
 
 By the way the other Overwatch agents defer to her, you realise this must be Agent Frostbite. {w=0.1}You instantly step towards her to offer help.
 
@@ -123,11 +123,11 @@ N: Mei shakes her head, and the pile of electronics in her arms wobbles dangerou
 
 M: They are all lies. He likes to mess with newbies, like you. I'm nothing like he says, unless he has told you I'm... {w=0.1}a-Mei-zing! 
 
-<Mei-happy> N: She laughs to herself, and you can't help but chuckle along. 
+<meihappy> N: She laughs to herself, and you can't help but chuckle along. 
 
 Word play isn't so bad, you're prone to making a joke or two -- or ten -- yourself sometimes. Your old colleagues once locked you in a lab for it. You never learned. 
 
-<Mei-neutral> M: If you would like to help, you could load these into the transport for me?
+<meidefault> M: If you would like to help, you could load these into the transport for me?
 
 N: Mei nods her head to gesture at her load.
 
@@ -191,11 +191,11 @@ After all, you {i}just{/i} got here. And you're already leaving again. {w=0.25}Y
 
 To distract yourself from your grumblies, you inspect your surroundings. The inside of the transport isn't very exciting, and all you can see through the small windows is white -- whether clouds or snow, it's impossible to tell. 
 
-<Mei-worried>Mei has her eyes on an infopad she has resting on her knee. She chews on her lower lip, her eyebrows furrowed. She blinks, then seems to notice your less-than-subtle gaze and turns to look at you.
+<meiworried>Mei has her eyes on an infopad she has resting on her knee. She chews on her lower lip, her eyebrows furrowed. She blinks, then seems to notice your less-than-subtle gaze and turns to look at you.
 
-<Mei-blushing>M: Oh! I'm sorry, I forgot you were here! 
+<meihappyblush>M: Oh! I'm sorry, I forgot you were here! 
 
-N: She smiles apologetically. As you consider just how forgettable you may well be, she begins to search her coat's overlarge pockets. <Mei-neutral>Probably searching for a super-important climate device.
+N: She smiles apologetically. As you consider just how forgettable you may well be, she begins to search her coat's overlarge pockets. <meidefault>Probably searching for a super-important climate device.
 
 M: Hmm...
 
@@ -211,7 +211,7 @@ It's dense, but the rich chocolate flavour floods your mouth. The hungry monster
 
 P: My parents used to tell me, "You can't save the world on an empty stomach!"
 
-<Mei-blushing> N: Mei laughs, but then... <Mei-worried>her demeanour turns serious, as if a heavy cloud has settled over her head. 
+<meihappyblush> N: Mei laughs, but then... <meiworried>her demeanour turns serious, as if a heavy cloud has settled over her head. 
 
 M: Yes, saving the world. That is what we're going to do. I hope.
 
@@ -219,15 +219,15 @@ P: You hope?
 
 M: Penguins have been moving inland in Antarctica in massive numbers. I'm worried it's a sign of an ecological disaster about to happen -- animals are very intuitive. They sense things we can't.
 
-<Mei-neutral>Maybe it's nothing after all, but if it is something and I ignore it -- well, I'm not ignoring it. {w=0.1}Plus, we get to see penguins!
+<meidefault>Maybe it's nothing after all, but if it is something and I ignore it -- well, I'm not ignoring it. {w=0.1}Plus, we get to see penguins!
 
 P: That's a peng-win if you ask me.
 
 N: Mei breaks out into a massive grin at your joke. Finally, someone who appreciates the finer subtleties of good humour.
 
-<Mei-happy> M: Ha! I would agree. 
+<meihappy> M: Ha! I would agree. 
 
-<Mei-neutral>But first: I have a question for you, {$PlayerName}.
+<meidefault>But first: I have a question for you, {$PlayerName}.
 
 N: Oh no, a {i}question{/i}. What kind of test is she springing? Perhaps this bubbly Mei has just been a facade all along, and Agent Frostbite is waiting for the perfect moment to eject you from the aircraft.
 
@@ -259,7 +259,7 @@ M: Yes! I totally understand this. I've always loved the world and the animals t
 
 I thought becoming a climatologist would give me a chance to help, because our climate is so important. I was always good at science -- I invented so many things that almost worked. I drove my mother up the wall with my inventions!
 
-<Mei-happy>Now I get to work with Overwatch, and meet so many new people -- and cute animals. Plus, my inventions work at least 95% of the time now. Who would have thought I could be so lucky?
+<meihappy>Now I get to work with Overwatch, and meet so many new people -- and cute animals. Plus, my inventions work at least 95% of the time now. Who would have thought I could be so lucky?
 
 N: She positively beams, glowing with enthusiasm. If all of Overwatch are like this, it must be a formidable force indeed. And somehow, they think you're worth joining them. {w=0.25}Well, if they think so, it must be true.
 
@@ -281,19 +281,19 @@ M: I'm sure you'll do fine.
       
 P: I just really think fish are neat.
 
-<Mei-surprised> N: Mei blinks at you, seemingly surprised by your reply. Maybe she doesn't like fish.
+<meisurprise> N: Mei blinks at you, seemingly surprised by your reply. Maybe she doesn't like fish.
 
 P: You know -- and whales and dolphins too. All sea creatures. They're all neat.
 
 M: They're...{w=0.1} neat?
 
-<Mei-neutral> N: She shakes her head, her dark hair shining in the white light streaming in through the windows. She's probably regretting her choice in bringing you along -- though, you suppose it wasn't much of a choice.
+<meidefault> N: She shakes her head, her dark hair shining in the white light streaming in through the windows. She's probably regretting her choice in bringing you along -- though, you suppose it wasn't much of a choice.
 
 P: Yeah. When I was a kid, my parents would take me to the aquarium. I would spend hours just watching the fish drift around. It looked so peaceful in there.
 
 N: Thinking back to the way you stared through those glass walls into another world fills you with that same sense of peace you felt as a child. You can't help but smile.
 
-<Mei-happy> M: That sounds lovely! I haven't been to nearly enough aquariums in my life. Maybe I'll go next time I get shore leave.
+<meihappy> M: That sounds lovely! I haven't been to nearly enough aquariums in my life. Maybe I'll go next time I get shore leave.
 
 P: I could show you the one I used to go to --
 
@@ -457,7 +457,7 @@ P: Sorry
 
 N: Mei waves a hand dismissively.
 
-<Mei-happy> M: It's okay! It's not your fault the ramp was slipperier than you expected. We'll just have to learn from that lesson so nobody else falls over.
+<meihappy> M: It's okay! It's not your fault the ramp was slipperier than you expected. We'll just have to learn from that lesson so nobody else falls over.
 
 Do you want some help picking everything up?
 
@@ -470,17 +470,17 @@ Second choice: Yes, some help would be nice.
 
       P: No, no. It's fine, I can do it myself. I did drop everything, after all.
 
-<Mei-neutral> M: Okay... if you say so. Be careful though, I don't want you hurting yourself more.
+<meidefault> M: Okay... if you say so. Be careful though, I don't want you hurting yourself more.
 
 P: Ha! I'll be a-okay.
       
-      <Mei-happy> M: Good, you better be! And you better not be denying my help just to impress me.
+      <meihappy> M: Good, you better be! And you better not be denying my help just to impress me.
 
 N: She presses a finger to your chest; a warning, but not a serious one. It's your turn for a dismissive gesture now.  
 
 P: Of course not!
 
-<Mei-neutral> N: She narrows her eyes at you, and she's probably right to. Are you trying to impress her? The odds are pretty high that you are, not that you'll ever admit it.
+<meidefault> N: She narrows her eyes at you, and she's probably right to. Are you trying to impress her? The odds are pretty high that you are, not that you'll ever admit it.
 
 M: Good. 
 
@@ -494,13 +494,13 @@ M: Haha! Hahaha! You haven't done anything impressive yet. Maybe if you carry ev
 
 P: Is that a challenge?
 
-<Mei-worried> M: Oh, no! I wouldn't want you to hurt yourself attempting that. 
+<meiworried> M: Oh, no! I wouldn't want you to hurt yourself attempting that. 
 
 P: I'm kidding. 
 
-<Mei-neutral> M: Oh! Oh. Of course you are. <Mei-happy>You had me worried for a moment there, haha. 
+<meidefault> M: Oh! Oh. Of course you are. <meihappy>You had me worried for a moment there, haha. 
 
-{w=0.25}<Mei-neutral>I don't want to rush you or anything, but you should probably pick that stuff up before it sinks into the snow and is lost to us forever.
+{w=0.25}<meidefault>I don't want to rush you or anything, but you should probably pick that stuff up before it sinks into the snow and is lost to us forever.
 
 P: Wait, how deep {i}is{/i} the ice? That can happen?
 
@@ -528,7 +528,7 @@ P: I think so. What's this trumpet thing?
 
 N: Mei makes a face at the device you indicate.
 
-M: I, um, don't remember. <Mei-blushing>That's silly, isn't it? A scientist who can't remember her own inventions.
+M: I, um, don't remember. <meihappyblush>That's silly, isn't it? A scientist who can't remember her own inventions.
 
 P: Wait, you made this?
 
@@ -540,7 +540,7 @@ M: Oh, um... you really think so?
 
 P: Of course I do. I can barely get my toaster to work some days, let alone build anything with even half a chance of running.
 
-<Mei-happy> M: Your toaster? Really?
+<meihappy> M: Your toaster? Really?
 
 P: Look, it's got a lot of buttons. It's a fancy toaster.
 
@@ -610,7 +610,7 @@ M: I think that might be up to us and our cooking skills. Now is a good time to 
 
 P: Alas, I am not.
 
-<Mei-worried> M: I thought as much... <Mei-happy>But we'll be fine! We'll figure it out.
+<meiworried> M: I thought as much... <meihappy>But we'll be fine! We'll figure it out.
 
 N: Mei straightens and looks around, but there doesn't seem to be anything else you dropped lying around out here. No evidence of your clumsiness except a confused mess of bootprints surrounding the transport's ramp.
 
@@ -652,7 +652,7 @@ You decide to do both. Adfear. Feadmire.
 
 Mei puts her hands on her hips and grins.
 
-<Mei-happy> M: Good work, team!
+<meihappy> M: Good work, team!
 
 P: You're half of the team. Are you congratulating yourself?
 
@@ -662,7 +662,7 @@ N: You give her a weak thumbs up, your arm trembling with the effort it takes ju
 
 Your stomach growls, loud enough that it's impossible Mei doesn't notice.
 
-M: Guess you're hungry! How about I check out the kitchen and make us some dinner? <Mei-neutral> You stay here, I don't want you passing out on the kitchen floor.
+M: Guess you're hungry! How about I check out the kitchen and make us some dinner? <meidefault> You stay here, I don't want you passing out on the kitchen floor.
 
 P: I wouldn't pass out, I'm fiiiine.
 
@@ -741,7 +741,7 @@ M: What?
 
 P: What?
 
-<Mei-blushing> N: You shove another spoonful of stew into your mouth, hoping that you can't say anything else stupid through the food. Mei watches you for a moment, then pulls out her datapad and focuses on that instead.
+<meihappyblush> N: You shove another spoonful of stew into your mouth, hoping that you can't say anything else stupid through the food. Mei watches you for a moment, then pulls out her datapad and focuses on that instead.
 
 {i}Ugh. Stupid! What was that?{/i}
 
@@ -749,19 +749,19 @@ M: {i}Ahem{/i}. So. First thing tomorrow we're off to find the penguins.
 
 P: Any idea where they are?
 
-<Mei-neutral> M: We have some satellite images that theoretically tell us which direction to go. We have a small craft to travel in, so at least the journey shouldn't take {i}too{/i} long.
+<meidefault> M: We have some satellite images that theoretically tell us which direction to go. We have a small craft to travel in, so at least the journey shouldn't take {i}too{/i} long.
 
 P: That's crafty.
 
 N: Mei chokes on her mouthful of stew as she tries to refrain from laughing, smacking a hand across her mouth as she coughs.
 
-<Mei-surprised> M: {i}Hk!{/i} Ah! Guh!
+<meisurprise> M: {i}Hk!{/i} Ah! Guh!
 
 P: I'm sorry!
 
 M: No, it's -- aha -- it's fine. Do not let my death hinder your humour.
 
-<Mei-neutral> N: She waves away your worries, returning to her stew as soon as her coughing subsides. You watch her stealthily as you finish your own food, making sure that you haven't accidentally caused her serious damage.
+<meidefault> N: She waves away your worries, returning to her stew as soon as her coughing subsides. You watch her stealthily as you finish your own food, making sure that you haven't accidentally caused her serious damage.
 
 You guess you're going to have to be more careful when it comes to jokes. You could kill someone, and there are only two someones here: you, and Mei.
 
@@ -781,7 +781,7 @@ S: ?(???)?
 
 P: Right...
 
-<Mei-worried> M: What, you don't like it?
+<meiworried> M: What, you don't like it?
 
 S: (???)
 
@@ -793,13 +793,13 @@ M: I think Snowball likes you. Be nice to it, will you? I don't want you two fig
 
 P: Of course! What kind of person do you take me for? A bot-bully?
 
-<Mei-blushing> M: You really can't tell these days. <Mei-happy>But! I'm sure you two will be the best of friends. Play nice while I go make dinner.
+<meihappyblush> M: You really can't tell these days. <meihappy>But! I'm sure you two will be the best of friends. Play nice while I go make dinner.
 
 P: Yeah, yeah.
 
 S: ?(?)?
 
-<Mei-worried> M: {i}Snowball{/i}...
+<meiworried> M: {i}Snowball{/i}...
 
 S: ?`???)
 
@@ -807,7 +807,7 @@ M: That's the best I'm getting out of you, isn't it?
 
 S: ??(? ? ?)?? 
 
-<Mei-neutral> N: Mei gives you an apologetic smile, then disappears off to prepare dinner. You're just glad that the kitchen isn't out of earshot, because you're not entirely sure you trust this drone.
+<meidefault> N: Mei gives you an apologetic smile, then disappears off to prepare dinner. You're just glad that the kitchen isn't out of earshot, because you're not entirely sure you trust this drone.
 
 P: Hey Snowball, you wouldn't hurt a human, right?
 
@@ -837,7 +837,7 @@ N: You close your eyes, just resting them for a second. You're snuggled up all n
 
 ...
 
-<Mei-neutral> M: Hey! 
+<meidefault> M: Hey! 
 
 P: Wh --
 
@@ -861,7 +861,7 @@ You follow her lead, feeling instant, wonderful relief as the flavours of the st
 
 P: It's good! Thank you!
 
-<Mei-blushing> M: You're welcome, though I just followed the instructions on a packet. It's not rocket science, or climate science.
+<meihappyblush> M: You're welcome, though I just followed the instructions on a packet. It's not rocket science, or climate science.
 
 P: It's still good. If this is the kind of packaged food Overwatch has, I think I'm gonna stick around.
 
@@ -869,7 +869,7 @@ M: Good! I like having you around. Though...
 
 P: Though?
 
-<Mei-happy> M: We'll see how useful you are tomorrow. Could totally change my mind!
+<meihappy> M: We'll see how useful you are tomorrow. Could totally change my mind!
 
 P: Yikes.
 
@@ -1015,7 +1015,7 @@ P: What -- no! I thought you did?
 
 N: You have no clue what she's talking about. You've never once in your life driven something like this, all you know is ordinary everyday cars and boats. Did Overwatch send the wrong person?
 
-<Mei-happy> She bursts into peals of laughter, taking the control yoke in her hands. 
+<meihappy> She bursts into peals of laughter, taking the control yoke in her hands. 
 
 M: Of course I do! Haha!
 
@@ -1031,7 +1031,7 @@ P: That too.
 
 N: You strap into your harness, which is more a seatbelt, and Mei pushes the craft forward with an excited gleam in her eyes. You can't tell if she's more gleeful about the prospect of penguins, or driving this weird craft.
 
-<Mei-neutral> The craft accelerates quickly to what you guess is a decent speed -- it's hard to tell when the landscape whipping by all looks the same -- and the two of you are off, away on an adventure.
+<meidefault> The craft accelerates quickly to what you guess is a decent speed -- it's hard to tell when the landscape whipping by all looks the same -- and the two of you are off, away on an adventure.
 
 Something occurs to you suddenly, something you hadn't considered before. What if you're heading into danger?
 
@@ -1053,11 +1053,11 @@ M: Nobody knows everything about anything! But I do know a lot about my field of
 
 P: I know a lot about desserts.
 
-<Mei-worried> M: There's no ocean in a desert!
+<meiworried> M: There's no ocean in a desert!
 
 P: {i}Desserts{/i}. 
 
-M: Oh! {w=0.25} <Mei-happy> That makes much more sense. Are there any desserts that involve fish?
+M: Oh! {w=0.25} <meihappy> That makes much more sense. Are there any desserts that involve fish?
 
 P: I have heard of people using sturgeon in some things... Though that may have been for one of those cooking competition rather than served food at a restaurant. More often people make desserts shaped like fish.
 
@@ -1085,11 +1085,11 @@ M: I didn't choose to come to Antarctica, though this deployment was my idea.
 
 P: Fine, penguins!
 
-<Mei-happy> M: You got me there. I have always liked the cold, ever since I first saw snow as a child. It's a beautiful thing, is it not? 
+<meihappy> M: You got me there. I have always liked the cold, ever since I first saw snow as a child. It's a beautiful thing, is it not? 
 
 P: Yeah.
 
-<Mei-neutral> M: Besides, the cold just feels nice. I would rather be cold than hot. I am definitely a winter person. Commander Morrison, however, is a spring person.
+<meidefault> M: Besides, the cold just feels nice. I would rather be cold than hot. I am definitely a winter person. Commander Morrison, however, is a spring person.
 
 N: You think of the Commander in springtime, trying to imagine his gruff form amidst a field of blooming flowers. It's impossible. You can't see it.
 
@@ -1107,7 +1107,7 @@ I am not actually sure. I think I need to spend a little more time with you befo
 
 P: Yet.
 
-<Mei-happy> M: Let's see how the penguins like you, first!
+<meihappy> M: Let's see how the penguins like you, first!
       
 ///SECOND CHOICE///
 
@@ -1127,11 +1127,11 @@ If we do that, will you make some?
 
 P: Yeah, of course.
 
-<Mei-happy> M: Cool! Now I am kind of hoping we stay here long enough for a resupply, if only for tacos.
+<meihappy> M: Cool! Now I am kind of hoping we stay here long enough for a resupply, if only for tacos.
 
 P: There are tacos back in civilization.
 
-<Mei-neutral> M: Yeah... {i}Sigh{/i}. I am so often away on deployments, I don't get a chance to go out and eat anything exciting. Sometimes Tracer brings me a burger or two. She is lovely.
+<meidefault> M: Yeah... {i}Sigh{/i}. I am so often away on deployments, I don't get a chance to go out and eat anything exciting. Sometimes Tracer brings me a burger or two. She is lovely.
 
 P: I promise you, we will eat tacos at some point.
 
@@ -1151,7 +1151,7 @@ M: Haggis?
 
 P: Haggis.
 
-<Mei-grumpy> M: Eugh! That's disgusting.
+<meigrumpy> M: Eugh! That's disgusting.
 
 P: Don't knock it till you try it. When we get back to Earth, I'm taking you out to get haggis.
 
@@ -1177,15 +1177,15 @@ M: Not long now, I hope.
 
       N: You think of the chocolate tucked away in your pockets, a food you did not expect to be so useful for ventures outside in Antarctica. Not that you're complaining at all -- you never refuse an excuse to eat chocolate.
 
-<Mei-neutral> M: I'm glad it's such nice weather. Better than trying to find a colony of penguins in a blizzard. Did you know a group of penguins on land can also be called a waddle? How cute is that?
+<meidefault> M: I'm glad it's such nice weather. Better than trying to find a colony of penguins in a blizzard. Did you know a group of penguins on land can also be called a waddle? How cute is that?
 
 P: Waddle you do if I say I didn't know that?
 
-<Mei-happy> M: Ha! Don't make me laugh, I have to drive. Keep your word play to a minimum while we're travelling at speed.
+<meihappy> M: Ha! Don't make me laugh, I have to drive. Keep your word play to a minimum while we're travelling at speed.
 
 P: Yes, ma'am.
 
-<Mei-neutral> M: It can also be called a rookery. A group of penguins, I mean. Colony, rookery, waddle. Waddle is the best term, in my opinion.
+<meidefault> M: It can also be called a rookery. A group of penguins, I mean. Colony, rookery, waddle. Waddle is the best term, in my opinion.
 
 N: It seems to you as if you'll never reach the penguins, that you'll be travelling across the snow and ice until the end of time, forever trying to complete your mission.
 
@@ -1199,15 +1199,15 @@ P: Is that every penguin in Antarctica? Sure looks like it.
 
 M: No, definitely not. It is likely only one colony, and I think we should be very thankful of that. Much less work!
 
-<Mei-worried> {w=0.25}They're definitely a long way from the ocean, or any openings to the ocean. What are they doing out here?
+<meiworried> {w=0.25}They're definitely a long way from the ocean, or any openings to the ocean. What are they doing out here?
 
 P: Penguin party? 
 
-<Mei-neutral> M: Where did the penguins go to dance?
+<meidefault> M: Where did the penguins go to dance?
 
 P: Uh, where?
 
-<Mei-happy> M: At the snow ball!
+<meihappy> M: At the snow ball!
 
 P: ...
 
@@ -1219,7 +1219,7 @@ N: You can't help but laugh at her terrible jokes. You have to admit, they're be
 
 P: Haha! Hahaha.
 
-<Mei-neutral> M: But in all seriousness, I doubt the penguins are here to dance.
+<meidefault> M: But in all seriousness, I doubt the penguins are here to dance.
 
 Something is either compelling them to travel inland -- perhaps they can sense something coming? -- or there is something driving them all away from the ocean.
 
@@ -1227,7 +1227,7 @@ Hmm... {w=0.25}I hope they're all okay.
 
 P: We'll do our best to help them.
 
-M: Yes! We will fix their problem, whatever it is. {w=0.1}<Mei-happy>And, we get to see penguins up close!
+M: Yes! We will fix their problem, whatever it is. {w=0.1}<meihappy>And, we get to see penguins up close!
 
 N: She slows the craft to a stop near the penguins -- not too close as to startle them, but not so far that you have to walk more than necessary. Exercise out here expends a lot of energy that's hard to reclaim with just the food you brought.
 
@@ -1259,7 +1259,7 @@ And the white itself is far from bland. Snowflakes glitter in the sunlight, fill
 
 Mei clambers out of the craft after you, closing the door behind her and then pausing to admire the view just like you are. She inhales deeply, then exhales, letting out a cloud of frosty air.
 
-<Mei-happy> M: That's brisk!
+<meihappy> M: That's brisk!
 
 P: Tell me about it.
 
@@ -1281,7 +1281,7 @@ M: Yes! Cool! I was hoping you would want to. They look quite beautiful from afa
 
 P: Quite... a-{i}Mei{/i}-zing, you could say.
 
-<Mei-surprised> N: Mei's eyes widen with delight, and then she doubles over laughing. <Mei-happy>You gather she's a fan of your joke. You are so glad you were paired with someone who appreciates you.
+<meisurprise> N: Mei's eyes widen with delight, and then she doubles over laughing. <meihappy>You gather she's a fan of your joke. You are so glad you were paired with someone who appreciates you.
 
 M: Haha, that is amazing. A-Mei-zing! I am absolutely going to use that. Hahaha!
 
@@ -1289,7 +1289,7 @@ P: It's all yours.
 
 N: She claps her hands together, face so filled with joy she seems almost brighter than the sunlit snow. You're not sure you've ever met someone as wonderful as Mei.
 
-M: Enough jokes! <Mei-neutral>We must get to business. These penguins are not going to sort themselves out. Or at least, I am sure they would appreciate some help.
+M: Enough jokes! <meidefault>We must get to business. These penguins are not going to sort themselves out. Or at least, I am sure they would appreciate some help.
 
 P: What kind of penguins are these, by the way?
 
@@ -1309,7 +1309,7 @@ Mei starts towards the penguins, trying to move as smoothly as she can when bund
 
       P: Nah. I think I'm okay just seeing them from here.
 
-<Mei-worried> M: Oh, okay... That's fair.
+<meiworried> M: Oh, okay... That's fair.
 
 N: It's pretty clear you upset her a little, she must have been excited by the idea of going to see the ice.
 
@@ -1319,7 +1319,7 @@ M: Yeah... I guess so.
 
 N: She looks downcast as she pouts her lips subconsciously, clasping her hands before her. She gazes out at the formations, and you feel a pang in your heart. She might like the ice, but you feel like the cold-hearted one here.
 
-<Mei-neutral> M: No point worrying about that now though! We have penguins to deal with.
+<meidefault> M: No point worrying about that now though! We have penguins to deal with.
 
 N: At her own mention of penguins, her eyes light up again. {i}Whew{/i}. You're past that for now. If she asks again you might just change your mind, becuase you'd hate to make her think you don't want to spend time with her.
 
@@ -1329,13 +1329,13 @@ N: She mimics a little bow, her hands straight by her side like penguin wings.
 
 You bow back, feeling a little like a dork as you pretend to be a penguin. It works, though, because she looks much happier than she did only a few moments ago.
 
-<Mei-happy> M: Just like that! Except with more weird penguin burbling, which is probably super romantic if you're a lady penguin.
+<meihappy> M: Just like that! Except with more weird penguin burbling, which is probably super romantic if you're a lady penguin.
 
 P: You sure know a lot about penguins.
 
 M: It's because I love them! Just like you know a lot about food.
 
-<Mei-neutral>Besides, I've known for a while where this deployment would take me once we got an oceanographer working with us, so I've had time to study a bit.
+<meidefault>Besides, I've known for a while where this deployment would take me once we got an oceanographer working with us, so I've had time to study a bit.
 
 Anyway! Penguins!
 
@@ -1363,11 +1363,11 @@ M: Places that, if a massive ecological disaster happens, could seriously affect
 
 P: Oh, right. That's not good.
 
-<Mei-worried> M: No, it's really not. That's why I took stepped up to this job. If nobody does anything, we'll lose our planet. There are more important things in this world than just humans, we have to protect all life here.
+<meiworried> M: No, it's really not. That's why I took stepped up to this job. If nobody does anything, we'll lose our planet. There are more important things in this world than just humans, we have to protect all life here.
 
 Really, it is very selfish that the climate and natural environments have been so low on governments' agendas for so long. Don't they know how important it is? They must! If humanity dies out, what does everything else matter?
 
-<Mei-neutral> {i}Sigh{/i}. I am sorry. I didn't mean to rant. I just get so worked up about this!
+<meidefault> {i}Sigh{/i}. I am sorry. I didn't mean to rant. I just get so worked up about this!
 
 N: Her cheeks are rosy, and her eyes are shining with her passion for what she does. She is certainly worked up, but it gives her a certain fire that shows just how much she cares. You feel inspired to save the world.
 
@@ -1381,11 +1381,11 @@ M: Maybe... They might just think I am a massive dork, though.
 
 P: Aren't you?
 
-<Mei-blushing> M: No worse than you.
+<meihappyblush> M: No worse than you.
 
 N: She rubs a gloved hand across her nose, looking over at the gathered penguins. You think they're a good two hundred meters from where the two of you stand, but you're not really sure.
 
-<Mei-neutral> M: Penguin time?
+<meidefault> M: Penguin time?
 
 P: Penguin time.
 
@@ -1413,7 +1413,7 @@ N: You're not really a penguin expert, but the way they shuffle definitely looks
 
 P: Yeah, I'd say so.
 
-<Mei-worried> M: Hmmm...
+<meiworried> M: Hmmm...
 
 One of the birds bumps against you and wanders off, and you're surprised by the weight of the thing. No wonder they can't fly, there's no way they'd get that mass off of the ground. 
 
@@ -1425,11 +1425,11 @@ From memory, you recall that the younger penguins' feathers aren't waterproof ye
 
 Mei moves back to you, the penguins wobbling very ungracefully out of her path. She holds her infopad tightly in her gloves, far out of the penguins' reach. 
 
-<Mei-neutral> M: They're healthy, as far as I can tell. However, they aren't travelling to the ocean to eat, and... that's not good.
+<meidefault> M: They're healthy, as far as I can tell. However, they aren't travelling to the ocean to eat, and... that's not good.
 
 P: But they aren't starving?
 
-M: They store up a lot of body fat to survive them through months of fasting, especially when breeding, so they won't starve yet. However... <Mei-worried>
+M: They store up a lot of body fat to survive them through months of fasting, especially when breeding, so they won't starve yet. However... <meiworried>
 
 P: However?
 
@@ -1437,11 +1437,11 @@ M: It's moulting season soon, and they need to store up more food or else they'r
 
 P: Do you know why they won't?
 
-M: I have no clue! <Mei-grumpy> I thought something obvious would present itself once we were here. For all intents and purposes, they are perfectly fine.
+M: I have no clue! <meigrumpy> I thought something obvious would present itself once we were here. For all intents and purposes, they are perfectly fine.
 
 P: But something is wrong.
 
-M: Yes. This isn't normal. <Mei-worried> I'm not sure what to do.
+M: Yes. This isn't normal. <meiworried> I'm not sure what to do.
 
 N: You turn away from Mei and take in the penguins again. They bumble about, the weirdest birds you've ever seen, and you feel your stomach tie itself in knots. How on Earth are you supposed to help them?
 
@@ -1460,11 +1460,11 @@ N: A shadow passes over her eyes as she stares at you intensely through the lens
 
 P: I mean, we don't have to do anything right now. They've got time for us to figure out if there is a problem.
 
-<Mei-grumpy> M: {i}If?{/i} There's no doubt that something is wrong here. And we don't have as much time as you might think! We can't waste time shrugging our shoulders and hoping for the best.
+<meigrumpy> M: {i}If?{/i} There's no doubt that something is wrong here. And we don't have as much time as you might think! We can't waste time shrugging our shoulders and hoping for the best.
 
 ...
 
-<Mei-worried> I can't just leave them. They're in trouble.
+<meiworried> I can't just leave them. They're in trouble.
 
 P: You can't stay out here all night. That's going to get you killed. 
 
@@ -1476,7 +1476,7 @@ But there's nothing we can do right now.
 
 N: Mei raises her head, her eyes wide wide. She covers a gasp with her hand, then grabs your arm excitedly.
 
-<Mei-happy> M: But there is something we can do right now! It's genius!
+<meihappy> M: But there is something we can do right now! It's genius!
 
 P: What?
 
@@ -1508,7 +1508,7 @@ You are {i}not{/i} cleaning that up.
 
 P: Are you sure that's a good plan?
 
-M: Of course it is! We can keep them under direct observation and run better tests on them. <Mei-neutral>I wonder if Jack will be willing to send enough supplies to feed them all...
+M: Of course it is! We can keep them under direct observation and run better tests on them. <meidefault>I wonder if Jack will be willing to send enough supplies to feed them all...
 
 P: How are we going to get them back to the Watchpoint?
 
@@ -1520,7 +1520,7 @@ M: It'll be a few trips.
 
 P: You're not going to back down from this, are you?
 
-<Mei-happy> M: Nope! So you can either help me, or stand there like a big jerk. What'll it be?
+<meihappy> M: Nope! So you can either help me, or stand there like a big jerk. What'll it be?
 
 N: You know that turning down her request will put you even further in her bad books than your last suggestion did, and you're not really willing to risk your mentor-slash-commanding-officer hating you.
 
@@ -1540,7 +1540,7 @@ Oh well, nothing that can be done about it now. At least penguins won't be as sa
 
       P: We could take them back to the base with us.
 
-<Mei-surprised> M: We could... what?
+<meisurprise> M: We could... what?
 
 P: Back to the Watchpoint. We can take care of them there, maybe run more tests. And we'd have constant observation of them.
 
@@ -1556,11 +1556,11 @@ Plus...
 
 P: Plus?
 
-<Mei-happy> M: We'll get to live with penguins! How amazing is that?
+<meihappy> M: We'll get to live with penguins! How amazing is that?
 
 P: Pretty amazing?
 
-<Mei-neutral> M: Oh! But how will we get them back to the Watchpoint? I'm not sure it's easy to herd penguins.
+<meidefault> M: Oh! But how will we get them back to the Watchpoint? I'm not sure it's easy to herd penguins.
 
 P: Hmmm...
 
@@ -1586,7 +1586,7 @@ M: Poor old Jack's about to get a really big food request, I think.
 
 P: The base is going to smell like fish for a long time, isn't it?
 
-<Mei-happy> M: Sure is. But it'll be worth it.
+<meihappy> M: Sure is. But it'll be worth it.
 
 N: You can tell by the grin plastered across Mei's face that she's very happy with your idea. You feel a little burst of pride in your chest at that -- maybe you're not so useless on this mission after all!
 
@@ -1598,7 +1598,7 @@ Poor things, they're about to go on one crazy adventure.
 
       
 
-      <Mei-neutral> M: I'm going to go bring the craft closer, you wait here.
+      <meidefault> M: I'm going to go bring the craft closer, you wait here.
 
 P: I can do that.
 
@@ -1654,7 +1654,7 @@ M: It shouldn't! I've never used it on a penguin, but it's fine for humans.
 
 P: Why were you freezing humans...?
 
-<Mei-blushing> M: Um. {w=0.25}Lab pranks. 
+<meihappyblush> M: Um. {w=0.25}Lab pranks. 
 
 P: ...
 
@@ -1662,7 +1662,7 @@ M: ...
 
 P: ...
 
-<Mei-neutral> M: Anyway! It's the best plan we've got so far. What do you think?
+<meidefault> M: Anyway! It's the best plan we've got so far. What do you think?
 
 P: If you have faith in your ice-gun, sure. Though the penguins will be a lot slipperier if they're encased in ice.
 
@@ -1732,7 +1732,7 @@ M: Whew! They are a talkative bunch.
 
 P: I think they like you.
 
-<Mei-blushing> M: You think so?
+<meihappyblush> M: You think so?
 
 P: Yeah. You're pretty cool.
 
@@ -1752,7 +1752,7 @@ M: Well, tell the penguins I said thanks. And tell them I think you -- uh, the p
 
 P: I'll make a note of it. {w=0.1} Now, shall we go rescue the rest of their friends?
 
-<Mei-happy> M: Let's!
+<meihappy> M: Let's!
 
 <<fade>>
 TITLE: MEI/DEPLOYMENT ONE/I GUESS THIS IS HAPPENING NOW
@@ -1781,15 +1781,15 @@ Will you get a reprimand when you get back to HQ? Get kicked right out of Overwa
 
 But... Mei's a valued Overwatch agent, and from the sounds of things this isn't the first time she's done something, well, odd to complete her mission. She is your mentor here, after all. You're just following her lead.
 
-<Mei-happy> M: Do you think they'll eventually trust us enough to let me cuddle them?
+<meihappy> M: Do you think they'll eventually trust us enough to let me cuddle them?
 
 P: They're still wild animals.
 
-<Mei-grumpy> M: Yeah... well... they're still cute.
+<meigrumpy> M: Yeah... well... they're still cute.
 
 P: Why didn't they bring someone who studied penguins onto this deployment?
 
-<Mei-neutral> M: We may have misjudged what it would entail. Maybe, just a little.
+<meidefault> M: We may have misjudged what it would entail. Maybe, just a little.
 
 Oh well! You're here, and I'm here, and we'll solve this. I know we will. We're both smart enough to figure this out! {w=0.1}And you need to stop doubting yourself.
 
@@ -1797,7 +1797,7 @@ N: She grabs your hands and holds them tightly between you both, her face lit up
 
 M: We didn't just pluck you out at random. You have a good set of skills that fit in well with the rest of the team. You've got a good heart. Have faith in who you are.
 
-Besides... {w=0.1}<Mei-blushing>I think you're pretty cool. I'm glad you're here.
+Besides... {w=0.1}<meihappyblush>I think you're pretty cool. I'm glad you're here.
 
 P: Mei...
 
@@ -1807,7 +1807,7 @@ She looks like she's about to say something, her lips parting slightly, and then
 
 A honking penguin pushes its way between you both, and the world rushes back into existence. It looks up at you and toots again, as if asking something.
 
-<Mei-neutral> M: Well, go on. Don't you speak penguin?
+<meidefault> M: Well, go on. Don't you speak penguin?
 
 P: ...
 
@@ -1837,11 +1837,11 @@ M: What?
 
 P: I mean, before we were interrupted. You looked like you were going to say something.
 
-<Mei-blushing> M: Oh, no, it's nothing. Don't worry about it.
+<meihappyblush> M: Oh, no, it's nothing. Don't worry about it.
 
 P: Are you sure? 
 
-M: Positive. Don't worry. <Mei-neutral>We've got more important things to worry about right now.
+M: Positive. Don't worry. <meidefault>We've got more important things to worry about right now.
 
 P: You mean the penguins, right?
 
@@ -1889,7 +1889,7 @@ M: What?
 
 P: Before, you said you were glad I'm here. I'm glad too. 
 
-<Mei-happy> M: Not many people would help me with something like this. {i}"Mei, this plan doesn't make any sense." "Mei, this is a terrible idea."{/i} That's what they'd say. Not you, though. You're different.
+<meihappy> M: Not many people would help me with something like this. {i}"Mei, this plan doesn't make any sense." "Mei, this is a terrible idea."{/i} That's what they'd say. Not you, though. You're different.
 
 P: I don't know how anyone could say no to a face like yours.
 
@@ -1909,7 +1909,7 @@ Otherwise, you end up with teammates who get scared and back out of something wh
 
 P: You're usually alone?
 
-<Mei-worried> M: Less people to get hurt if something goes wrong. It's not that I don't like being around people... I don't want to be the reason they get hurt.
+<meiworried> M: Less people to get hurt if something goes wrong. It's not that I don't like being around people... I don't want to be the reason they get hurt.
 
 P: You know that if someone makes a choice that harms them, it's not your fault.
 
@@ -1931,7 +1931,7 @@ Okay.
 
 P: Good. Now, let's get these last few penguins so we can get home and grab something warm to eat.
 
-<Mei-neutral> M: Sounds like a good plan.
+<meidefault> M: Sounds like a good plan.
 
 N: As you start towards the penguins, you hear the sounds of Mei freeing her freeze gun -- endothermic ray, rather -- from its holster. She catches up to you quickly, looking all kinds of heroic with the way she shines in the sun. 
       
@@ -1959,7 +1959,7 @@ Being more like Mei doesn't seem like a bad thing, though. She seems so calm and
 
 P: Yeah, I'll try.
 
-M: Good. <Mei-happy>No point getting worried about things now, we're both here. It's settled and I'm not going to trade you out for someone else. Especially not now.
+M: Good. <meihappy>No point getting worried about things now, we're both here. It's settled and I'm not going to trade you out for someone else. Especially not now.
 
 P: Aye-aye, Cap'n. 
 
@@ -1967,7 +1967,7 @@ M: Damn it {$PlayerName}, I'm a scientist, not a pirate.
 
 P: Aye-aye, Doc. I promise I'll stop asking if you're sure you want me here.
 
-<Mei-neutral> M: And promise you'll stop thinking about it, too. Or at least try to stop.
+<meidefault> M: And promise you'll stop thinking about it, too. Or at least try to stop.
 
 N: You're not actually sure you {i}can{/i} promise that, at least not for a while yet. But Mei seems so determined to have you believe in your worth, and you suppose if she has faith in you, you can at least believe in that.
 
@@ -2058,7 +2058,7 @@ M: Seeing things on screens changes them. That's why so many people don't actual
 
 But it's not like we'd want people to come visit here, I guess. They'd just cause more damage. Tourists aren't necessarily the most considerate visitors to at-risk environments, or endangered species. 
 
-<Mei-worried> It makes me sad. So many people just aren't ever going to know.
+<meiworried> It makes me sad. So many people just aren't ever going to know.
 
 N: Her eyebrows draw together as she crosses her arms. Lowering her head, she sighs. You wish you knew something you could do to comfort her, like a hug. But you're not sure you know her well enough for that, so you stay back.
 
@@ -2066,7 +2066,7 @@ P: You know. And I know. And we both care. That's something, isn't it?
 
 N: She looks up at you, her eyes swimming with sadness and worry behind her glasses. Tucking a strand of hair behind her ears, she smiles slightly.
 
-<Mei-neutral> M: You're right. That is something! 
+<meidefault> M: You're right. That is something! 
 
 We're in a position to help Antarctica and the penguins! Thank you for reminding me of that. Sometimes it's hard not to get caught up in how much more I wish everyone could be doing.
 
@@ -2097,7 +2097,7 @@ We're in a position to help Antarctica and the penguins! Thank you for reminding
 
 	M: It's okay, I don't expect you to. I think it's kind of a me thing. I probably just think too much. 
 
-	<Mei-blushing>Aah, sorry for over-sharing, I didn't mean to bring down the conversation like that!
+	<meihappyblush>Aah, sorry for over-sharing, I didn't mean to bring down the conversation like that!
 
 	P: What?! You don't have to apologize, especially for anything like that!
 
@@ -2111,7 +2111,7 @@ We're in a position to help Antarctica and the penguins! Thank you for reminding
 
 	No, that was just bad
 
-	<Mei-happy>M: That was terrible.
+	<meihappy>M: That was terrible.
 
 	P: Let's just forget that happened.
       
@@ -2129,7 +2129,7 @@ M: It's fine, I'll whip up something that can clean the floors for us. {w=0.25}I
 
 P: I meant that compared to you, it's not much. 
 
-<Mei-blushing> M: That's very nice, but next to nature I don't think any human really compares. Let alone me! I mean...
+<meihappyblush> M: That's very nice, but next to nature I don't think any human really compares. Let alone me! I mean...
 
 N: She sweeps her arms in a wide gesture, seemingly unable to word her thoughts. You get the gist of it though, because despite the dirty snow, the rest is still damn nice.
 
@@ -2144,11 +2144,11 @@ M: You know?
 
       	P: I feel sorry for any suitors vying for your attention. They're up against a whole planet!
 
-	<Mei-blushing> M: Haha! Hahaha! You're funny. I don't have any suitors.
+	<meihappyblush> M: Haha! Hahaha! You're funny. I don't have any suitors.
 
 	P: I can't believe that.
 
-	<Mei-neutral> M: You're going to have to, because it's true. Where are {i}your{/i} suitors?
+	<meidefault> M: You're going to have to, because it's true. Where are {i}your{/i} suitors?
 
 	P: I... uh, don't have any.
 
@@ -2172,7 +2172,7 @@ M: You know?
 
       	P: I still think you're the best view here.
 
-	<Mei-blushing> M: Haha! Stop! You're being ridiculous.
+	<meihappyblush> M: Haha! Stop! You're being ridiculous.
 
 	P: I'm sorry, I don't want to make you uncomfortable. I'll stop if you want.
 
@@ -2196,7 +2196,7 @@ M: You know?
 
 
 
-      <Mei-neutral> M: We did good work here today, {$PlayerName}. Time to head home before we freeze to death.
+      <meidefault> M: We did good work here today, {$PlayerName}. Time to head home before we freeze to death.
 
 N: Mei climbs into the craft's cockpit, and you quickly follow her. The cold is definitely getting to you now, you're not sure you can feel your toes anymore. 
 
@@ -2244,7 +2244,7 @@ Besides, saving the penguins would definitely be heroic. Don't write yourself of
 
 P: Oh shush, you're gonna make me blush.
 
-<Mei-happy> M: That's the idea! Haha!
+<meihappy> M: That's the idea! Haha!
 
 N: Mei continues talking, but already you can feel the world drifting away into darkness, your eyelids too heavy to fight. It'll take a while to get back to the Watchpoint from here, surely long enough for a nap.
 
@@ -2291,7 +2291,7 @@ If $BrokenDoor is true:
 
 P: ...and the bad?
 
-<Mei-worried> M: There are penguins in your room.
+<meiworried> M: There are penguins in your room.
 
 P: How?! What?!
 
@@ -2299,7 +2299,7 @@ M: So it turns out your room's locking mechanism is broken, which means the door
 
 P: Ugh... 
 
-<Mei-blushing> M: I'm sorry. Guess you'll be sharing a bit more than you expected.
+<meihappyblush> M: I'm sorry. Guess you'll be sharing a bit more than you expected.
 
 P: I just hope they're respectful roommates.
 
@@ -2329,7 +2329,7 @@ M: I'm sure! Don't you worry about it.
 
       P: This is only the first day.
 
-<Mei-happy> M: What next? An orca guard-dog? {w=0.1}Though... hmm, more of a guard-whale, I guess. 
+<meihappy> M: What next? An orca guard-dog? {w=0.1}Though... hmm, more of a guard-whale, I guess. 
 
 P: I think I might draw the line at orcas. 
 
@@ -2347,13 +2347,13 @@ M: What is it?
 
 P: If the penguins won't go into the ocean, maybe it's nothing to do with the penguins themselves. Maybe there's something wrong with the ocean.
 
-<Mei-surprised> M: Oh! Oh, you might be onto something there! I can't believe I didn't think of that. <Mei-neutral> That means we're going to need some things to run tests on the water, and maybe the other animals in the water...
+<meisurprise> M: Oh! Oh, you might be onto something there! I can't believe I didn't think of that. <meidefault> That means we're going to need some things to run tests on the water, and maybe the other animals in the water...
 
 N: She trails off, muttering to herself about experiments and equipment you're both going to need to follow up on your idea. You're just happy she likes your suggestion.
 
 Then, she pauses, and smiles at you.
 
-<Mei-happy> M: By the way, I've decided to give us tomorrow off. We deserve a break day.
+<meihappy> M: By the way, I've decided to give us tomorrow off. We deserve a break day.
 
 P: Does that mean I can sleep in?
 
@@ -2449,7 +2449,7 @@ You taste sweet victory as you watch the penguins escape the kitchen, feeling po
 
 Then, the penguins part, and Mei enters the room. The pan and spoon drop from your hands, hitting the floor with a clatter.
 
-<Mei-grumpy> She puts her hands on her hips and frowns at you. Her eyes flash, and you know you're in trouble. This is the end for you. She's going to kill you and feed you to the penguins, isn't she?
+<meigrumpy> She puts her hands on her hips and frowns at you. Her eyes flash, and you know you're in trouble. This is the end for you. She's going to kill you and feed you to the penguins, isn't she?
 
 M: ...
 
@@ -2501,7 +2501,7 @@ M: I don't think they all heard you.
 
 P: Fine. I'm sorry, penguins! I shouldn't have tried to chase you out.
 
-N: The penguins seem to accept your apology this time, waddling back to their claimed spaces in the kitchen. <Mei-neutral> Mei drops her hands, nodding acceptance. You breathe a sigh of relief, feeling the icy atmosphere slowly return to normal.
+N: The penguins seem to accept your apology this time, waddling back to their claimed spaces in the kitchen. <meidefault> Mei drops her hands, nodding acceptance. You breathe a sigh of relief, feeling the icy atmosphere slowly return to normal.
 
 M: Good, I'm sure you won't distress the penguins anymore, right?
 
@@ -2557,9 +2557,9 @@ Maybe you can learn how to icefish. You could catch some real, fresh meals for d
 
 You sit down, crossing your legs and making yourself as comfortable as possible while you wait out your accidental isolation. The penguins looks so happy to you that even if you have just made a mistake, it feels worth it.
 
-Penguins wiggle away from the kitchen entrance, and you turn your head to see Mei standing at the edge of the hungry horde. <Mei-neutral> Her eyes sparkle as she takes in the view, and then she looks at you.
+Penguins wiggle away from the kitchen entrance, and you turn your head to see Mei standing at the edge of the hungry horde. <meidefault> Her eyes sparkle as she takes in the view, and then she looks at you.
 
-<Mei-happy> M: Haha! What have you done?
+<meihappy> M: Haha! What have you done?
 
 P: I fed the penguins. They looked hungry.
 
@@ -2579,7 +2579,7 @@ N: She rolls her eyes, obviously not convinced. You can't possibly understand wh
 
 Oh yeah, your supervising officer. 
 
-<Mei-neutral> M: Is this our food they're eating?
+<meidefault> M: Is this our food they're eating?
 
 P: Uh, yes.
 
@@ -2597,21 +2597,21 @@ M: We definitely have enough food to last until the next shipment. Assuming you 
 
 P: I won't, I'm sorry.
 
-<Mei-surprised> M: Oh! No! <Mei-neutral> I'm sorry, I didn't mean that as a bad thing. I think this was so nice of you to do. Especially when I know you love eating so much.
+<meisurprise> M: Oh! No! <meidefault> I'm sorry, I didn't mean that as a bad thing. I think this was so nice of you to do. Especially when I know you love eating so much.
 
 P: I just couldn't bear the way they looked at me. I couldn't imagine being so hungry.
 
-<Mei-happy> M: You're so sweet. I'm sure they appreciate it.
+<meihappy> M: You're so sweet. I'm sure they appreciate it.
 
 N: She pats your shoulder and moves as if to leave, picking her path through the crowding birds.
 
 P: Wait!
 
-<Mei-neutral> M: Hmm?
+<meidefault> M: Hmm?
 
 P: Uh... could you help me out of here?
 
-<Mei-happy> M: I knew it! Haha! You're totally stuck.
+<meihappy> M: I knew it! Haha! You're totally stuck.
 
 P: Look,
 
@@ -2625,7 +2625,7 @@ N: She puts her arms around you and picks you up as if you weigh nothing at all.
 
 P: I wouldn't want to arm wrestle you.
 
-<Mei-blushing> M: Oh, I'm the worst at arm wrestling. You'd definitely win.
+<meihappyblush> M: Oh, I'm the worst at arm wrestling. You'd definitely win.
 
 P: Pffft. Why do I doubt that?
 
@@ -2670,7 +2670,7 @@ SECOND CHOICE: Leave Mei alone.
 
       N: You approach Mei, wishing somewhat that you'd brought a jacket in here with you. You know Mei likes the cold, but you weren't expecting {i}this.{/i}
 
-<Mei-grumpy> As you get closer to Mei, you can see the frustration in her stance and her actions. Hunched shoulders, pouted lips, 
+<meigrumpy> As you get closer to Mei, you can see the frustration in her stance and her actions. Hunched shoulders, pouted lips, 
 
 You stand right beside her, and she still doesn't seem to notice you.
 
@@ -2680,11 +2680,11 @@ P: Whatcha doing there?
 
 N: She nearly leaps right out of her skin, squeaking in surprise as she smacks her hand right into your face. {i}SLAP!{/i}
 
-<Mei-surprised> M: Ahhhh!
+<meisurprise> M: Ahhhh!
 
 P: Ahhhh!
 
-M: Aaaaooohhh... it's you. <Mei-blushing>
+M: Aaaaooohhh... it's you. <meihappyblush>
 
 N: You can't help but give her a hurt look as you rub your stinging nose. She, rightfully, looks apologetic and embarrassed. 
 
@@ -2706,7 +2706,7 @@ M: Hmm. Something I'm working on to scan water for potentially dangerous substan
 
 P: Sounds interesting! How does it work?
 
-<Mei-happy> N: She brightens suddenly, all sense of embarrassment fading, and launches into an explanation filled with terms you don't understand at all. You can tell she's saying words, but she might as well be speaking another language.
+<meihappy> N: She brightens suddenly, all sense of embarrassment fading, and launches into an explanation filled with terms you don't understand at all. You can tell she's saying words, but she might as well be speaking another language.
 
 You smile and nod as she gestures animatedly, hoping she won't ask you any questions when she's finished.
 
@@ -2724,7 +2724,7 @@ M: I'm glad someone thinks so. If only this thing would agree with you...
 
 P: Have you tried hitting it?
 
-<Mei-neutral> M: What?
+<meidefault> M: What?
 
 P: That's what I do when things aren't working.
 
@@ -2744,13 +2744,13 @@ M: You had no clue what I was talking about, did you?
 
 P: ... no.
 
-<Mei-happy> M: Well, you're sweet to listen anyway! You didn't have to do that.
+<meihappy> M: Well, you're sweet to listen anyway! You didn't have to do that.
 
 P: But you looked so excited about it all. I didn't want to ruin that.
 
 M: Awww! You're such a sweetie! 
 
-<Mei-neutral> But for real, you can go now. You're very distracting.
+<meidefault> But for real, you can go now. You're very distracting.
 
 P: Distracting?
 

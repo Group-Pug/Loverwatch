@@ -219,7 +219,7 @@ namespace Fungus
                                 speakerSprite = FindSprite(lastSpeaker, spriteName);
                                 if(speakerSprite != null)
                                 {
-                                            buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1);
+                                    buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1).Trim();
                                 }
                             }
 

@@ -158,40 +158,75 @@ namespace Fungus
 
                 if (buffer != "")
                 {
-                    if (buffer.StartsWith("BG:"))
+                    //title of the block and create a new one
+                    if (buffer.StartsWith("TITLE:"))
                     {
-                        buffer = buffer.Substring(4, buffer.Length - 4); //cuts "BG: " from the front
-                        b.description = buffer;
+                        b = flow.CreateBlock(new Vector2(-500, -500));
+
+                        buffer = buffer.Substring(7, buffer.Length - 7); //cuts "TTITLE: " from the front
+                        b.blockName = buffer;
                     }
                     else
                     {
-                        //Check second character is a colon, which would indicate that someone must have been speaking.
-                        //we're assuming the id's won't ever be longer than 1
-                        //if that's the case we look for the speaker based on the first letter and save that for later
-                        
-                        if (buffer.Substring(1, 1) == ":")
-                        {
-                            lastSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
-                            //cuts the identifier + the space from the front
-                            buffer = buffer.Substring(3, buffer.Length - 3);
-                        }
-
+                    //fade the scene with default params
+                    if(buffer.StartsWith("<<fade>>"))
+                    {
+                        FadeScreen newCommand = flow.gameObject.AddComponent(typeof(FadeScreen)) as FadeScreen;
+                        newCommand.parentBlock = b;
+                        newCommand.itemId = flow.NextItemId();
+                        b.commandList.Add(newCommand);
+                    }
+                    else
+                    {
+                    //if it's a bg change then write the lineID and the buffer
+                    if(buffer.StartsWith("<<bg>>"))
+                    {
                         //Add Say command
                         Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
                         newCommand.parentBlock = b;
                         newCommand.itemId = flow.NextItemId();
                         b.commandList.Add(newCommand);
                         //assign text
-                        newCommand.storyText = buffer;
-                        //assign speaker
-                        newCommand.character = lastSpeaker;
-                        //remove lastSpeaker object again
-                        DestroyImmediate(flow.gameObject.GetComponent<Character>());
-                        //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
+                        newCommand.storyText = "ADD background to object #" + flow.NextItemId() + " :" + buffer;
+                    }
+                    else
+                    {
+                    //description of the block for reference of bgs
+                    if (buffer.StartsWith("BG:"))
+                    {
+                        buffer = buffer.Substring(4, buffer.Length - 4); //cuts "BG: " from the front
+                        b.description = buffer;
+                    }
+                        else
+                        {
+                            //Check second character is a colon, which would indicate that someone must have been speaking.
+                            //we're assuming the id's won't ever be longer than 1
+                            //if that's the case we look for the speaker based on the first letter and save that for later
+                            if (buffer.Substring(1, 1) == ":")
+                            {
+                                lastSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
+                                //cuts the identifier + the space from the front
+                                buffer = buffer.Substring(3, buffer.Length - 3);
+                            }
 
+                            //Add Say command
+                            Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
+                            newCommand.parentBlock = b;
+                            newCommand.itemId = flow.NextItemId();
+                            b.commandList.Add(newCommand);
+                            //assign text
+                            newCommand.storyText = buffer;
+                            //assign speaker
+                            newCommand.character = lastSpeaker;
+                            //remove lastSpeaker object again
+
+                            //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
+                            DestroyImmediate(flow.gameObject.GetComponent<Character>());
+                        }
+                    }
+                    }
                     }
                 }
-                
             }
         }    
 

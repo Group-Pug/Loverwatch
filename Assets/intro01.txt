@@ -44,8 +44,8 @@ Will you be headed out to a watchpoint, or will they stick you behind a desk to 
 
 {i}Didn’t I just say ‘enough?’{/i}
 
-P: Sucking in a deep breath, you let go of the rails and take one last look at the icy landscape before you. {w=0.2}This base, these people - this was your home now, and whatever this place throws at you, you’re going to handle. {w=0.2}You can do this.
+Sucking in a deep breath, you let go of the rails and take one last look at the icy landscape before you. {w=0.2}This base, these people - this was your home now, and whatever this place throws at you, you’re going to handle. {w=0.2}You can do this.
 
 Time to get to work.
 
-N: Turning away from the view of the HQ, you rejoin the bustle of the main compound and head to the meeting that’ll end up deciding your future.
+Turning away from the view of the HQ, you rejoin the bustle of the main compound and head to the meeting that’ll end up deciding your future.

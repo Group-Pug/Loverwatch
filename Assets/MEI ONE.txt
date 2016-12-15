@@ -1,0 +1,4109 @@
+TITLE: MEI/DEPLOYMENT ONE/SO YOU LIKE FISH
+      
+BG: Overwatch HQ (same as intro)
+      
+N: You lower the pad and hand it back to the Commander, watching his 
+face intently. Why do they want an oceanographer? What possible use 
+could your knowledge be to the almighty Overwatch?
+
+His face doesn't change as he looks over your information.
+
+J: So you like... fish?
+
+N: You don't know what to make of this question. You suppose you like 
+fish, but there are many different kinds, and some are definitely 
+worse than others.
+
+P: I mean, it depends on the fish. I like cuttlefish, but flounder 
+kind of freak me out. And clownfish are on a whole other level.
+
+He just stares at you. 
+
+{i}Oh no, I said something wrong.{i}
+
+Maybe he doesn't like fish. Maybe they didn't need an oceanographer 
+anyway, and they called in the wrong person. {i}"Sorry, sorry, wrong 
+number. We'll send you on your way now."{i}
+
+He smirks. This is it. You're about to get the boot. Or... {w=0.25}do 
+they even let people leave here alive? Maybe you already know too 
+much. Maybe this is the end of the road for you.
+
+J: I'm quite fond of beer battered.
+
+N: Oh. {i}Oh{/i}. He chuckles and taps something on the infopad, 
+letting you struggle with your embarrassment in relative privacy for 
+a second or two.
+
+J: You'll be assigned to Agent Frostbite in Environmental Monitoring 
+at our Watchpoint in Antarctica. Hope you packed warm. If not, grab 
+a coat at the commissary. 
+
+N: He considers for a moment.
+
+J: Might want two coats.
+
+N: {i}Antarctica{/i}. {w=0.1}It's already cold enough up here, and 
+they're sending you somewhere even {i}colder{/i}. An involuntary 
+shiver runs down your spine.
+
+J: Environmental Monitoring is our division dedicated to, well, 
+monitoring the environment. They're tasked to stop and, if possible, 
+reverse damage caused to vulnerable ecosystems.
+
+This planet is our home, and we at Overwatch intend on keeping it 
+in one piece for future generations.
+
+N: His words echo the thoughts that get you up in the morning. You 
+feel a spark within you.
+
+P: Sir, I agree! I'm honoured to be placed on this team.
+
+N: For the first time, he looks at you with what could almost be pride. 
+You feel a warmth in your chest, and a determination to not let the 
+Commander down.
+
+He {i}hmm{/i}s for a moment.
+
+J: I'm going to send you straight to the hangar. You're going to want 
+to head out immediately for this -- it's no small deal. I'll get Agent 
+Frostbite to meet you there.
+
+Oh, and...
+
+N: He smirks again.
+
+J: Watch out for Frostbite. She can be... {w=0.1}icy.
+
+N: Oh no. Your first day, and already you've got a job that is {i}no 
+small deal{i}. You're by no means bad at what you do, but they're 
+entrusting you with a great deal of responsibility already.
+
+And a mean boss! What if you screw up? Will this Agent Frostbite just 
+leave you in the icy plains of Antarctica as punishment? 
+
+You shiver again, and not from the cold.
+
+P: Thank...
+
+N: You gulp.
+
+P: Thank you, sir. I'll be on my way.
+
+J: Dismissed. 
+
+N: You salute -- though you're not sure if this is the right time 
+-- and turn on your heels to head back to the hangar. 
+
+Thankfully, you kind of know the route now, and you don't find as 
+many dead ends this time. You pull your coat tighter, and try to not 
+feel anxious about meeting this Agent Frostbite.
+
+<<fade>>
+
+TITLE: MEI/DEPLOYMENT ONE/HOPE YOU PACKED WARM
+
+BG: Overwatch hangar (??) && Aircraft interior??
+
+<<bg>> OVERWATCH HANGAR
+      
+N: The hangar is exactly the same as you left it: cold and mostly 
+empty, a few Overwatch members running to-and-fro with purpose. Some 
+of them are loading the transport you arrived on with scientific 
+equipment you mostly don't recognize. 
+
+As you wait, your mind begins to wander. What food will there be to 
+eat in Antarctica? Fish, maybe. Will Agent Frostbite expect you to 
+eat polar bear?
+
+Wait. {w=0.1}Polar bears aren't even {i}in{/i} Antarctica. Some 
+scientist you are. 
+
+You mentally kick yourself, just as a woman swathed in thick furs 
+strides into the hangar.<Mei-neutral> {w=0.1}Her arms are filled 
+with equipment that looks far more expensive than any paycheck you've 
+ever earned. 
+
+By the way the other Overwatch agents defer to her, you realise this 
+must be Agent Frostbite. {w=0.1}You instantly step towards her to 
+offer help.
+
+P: E-excuse me --
+
+N: At the sound of your voice, Agent Frostbite turns in your direction. 
+You freeze in your steps as she looks you over, waiting for her to 
+deem you unworthy.
+
+P: I'm the new recruit assigned to you, m-ma'am. 
+
+N: You inwardly cringe at your stammering. Surely she will sense your 
+weakness and pounce. 
+
+Her eyes are hidden behind the glare of light across her glasses, 
+but you imagine they're as cold as the air in the hangar.
+
+P: I don't want to assume... but would you like any help carrying 
+anything?
+
+Uh -- Ma'am. Sir. Ma'am.
+
+N: You salute again, then quickly drop your hand and wait for 
+judgment.
+
+Agent Frostbite tilts her head...{w=0.1} and her glasses clear, 
+revealing eyes as warm as the coffee you wish you had in your hands 
+right now.
+
+She breaks into a wide grin.
+
+A: Ah! You are the one helping me! It's good to meet you -- 
+{$playername} is it? I am Mei-Ling Zhou, but you can call me Mei.
+
+M: Oh, but you're trembling! Are you cold? Or...
+
+N: She laughs, and it is one of the cutest sounds you have ever heard. 
+How can someone so cruel sound so sweet? 
+
+M: Did the Commander tell you stories about me? 
+
+N: You nod.
+
+P: Yes, he said you could be, uh, icy?
+
+N: Mei shakes her head, and the pile of electronics in her arms wobbles 
+dangerously.
+
+M: They are all lies. He likes to mess with newbies, like you. I'm 
+nothing like he says, unless he has told you I'm... 
+{w=0.1}a-Mei-zing! 
+
+<Mei-happy> N: She laughs to herself, and you can't help but chuckle 
+along. 
+
+Word play isn't so bad, you're prone to making a joke or two -- or 
+ten -- yourself sometimes. Your old colleagues once locked you in 
+a lab for it. You never learned. 
+
+<Mei-neutral> M: If you would like to help, you could load these into 
+the transport for me?
+
+N: Mei nods her head to gesture at her load.
+
+You hold out your own arms and she unloads the equipment into them 
+with great care.
+
+Your arms drop and your knees bend under the weight instantly. It's 
+all you can do to stop yourself from dropping everything. What on 
+earth is this stuff made of?
+
+M: Are you okay? It's a bit heavy, sorry!
+
+N: You feel your muscles trembling with the strain. You have no clue 
+how you'll make it across the hangar to the transport without your 
+limbs falling right off.
+
+But you started this, and you'll finish it if it kills you. {w=0.1}You 
+paste the fakest smile possible on and speak through gritted teeth. 
+
+P: Yeah, I'm fine.
+
+M: Thank you so much. I left Snowball in the lab. Silly me! 
+
+P: Snowball?
+
+M: Yes, my little assistant! They're very expressive.
+
+I'll be back soon. Thank you for the help, {$PlayerName}!
+
+N: Mei bounces back the way she came, filled with boundless energy 
+and enthusiasm.
+
+{i}... just how strong is that woman?{/i}
+
+Taking a deep breath, you try to judge the distance to the transport 
+from where you stand. The verdict: it's pretty damn far. Might as 
+well be another country at this rate.
+
+{i}Take it one step at a time. One step... after the other... {/i}
+
+Taking small, shuffling steps, you somehow make it to the transport 
+ramp without collapsing. You feel eyes on you, and so you try to keep 
+up your strong facade.
+
+<<bg>> AIRCRAFT INTERIOR
+      
+As soon as you've secured the equipment, you throw yourself into a 
+seat and let your arms hang limp beside you. You're resigned to the 
+knowledge they'll probably never work again.
+
+At least you didn't drop anything. There's a first time for 
+everything. 
+
+M: Hello again!
+
+N: You look up to see Mei entering the aircraft, a small pod-like 
+robot strapped to her back. Too exhausted to reply, you give her a 
+nod. 
+
+Though the exercise warmed you, you know you'll be feeling the chill 
+again soon. You envy Mei and her big, warm-looking clothes. 
+Especially her furred hood.
+
+She spends a few moments checking over the electronics, then as the 
+transport starts up with a deep thrumming, she sits in the seat beside 
+you and straps herself in.
+
+T [unseen, over an intercom]: {i}Hope you're all buckled up and ready 
+to go back there. Could get a little bumpy.{/i}
+
+N: You quickly follow Mei's lead and strap into your harness. The 
+last thing you want is to go flying across the aircraft's interior... 
+{w=0.25}again. Don't want to embarrass yourself in front of Mei on 
+your first day. 
+
+Hopefully you'll at last three days before that. {w=0.1}Or at least 
+two. {w=01}Just one hour would be nice, really.
+
+You shake off the memories of your trip to Overwatch HQ and your 
+anxieties about looking Super Cool enough to be an agent, and settle 
+into your seat for what you know will be a long ride. 
+
+The aircraft lifts off with a light jolt, and then you're away. Off 
+on an adventure, and your first, Serious Business Overwatch mission. 
+Something so vital, you apparently didn't even have time to be briefed 
+before leaving.
+
+After all, you {i}just{/i} got here. And you're already leaving again. 
+{w=0.25}Your stomach rumbles. 
+
+{i}Didn't we at least have time for lunch...?{/i}
+
+To distract yourself from your grumblies, you inspect your 
+surroundings. The inside of the transport isn't very exciting, and 
+all you can see through the small windows is white -- whether clouds 
+or snow, it's impossible to tell. 
+
+<Mei-worried>Mei has her eyes on an infopad she has resting on her 
+knee. She chews on her lower lip, her eyebrows furrowed. She blinks, 
+then seems to notice your less-than-subtle gaze and turns to look 
+at you.
+
+<Mei-blushing>M: Oh! I'm sorry, I forgot you were here! 
+
+N: She smiles apologetically. As you consider just how forgettable 
+you may well be, she begins to search her coat's overlarge pockets. 
+<Mei-neutral>Probably searching for a super-important climate 
+device.
+
+M: Hmm...
+
+N: As you watch, she pulls a veritable plethora of protein bars from 
+her pockets and dumps them on top of her infopad in her lap. Caramel, 
+chocolate, raspberry... 
+
+Your stomach growls again. 
+
+M: It's a long way to Antarctica. I thought we might get hungry. 
+
+N: She hands you some of the protein bars, and you could honestly 
+marry her right here on this aircraft. Instead, you tear away the 
+wrapper from a chocolate flavoured bar and chomp right into it.
+
+It's dense, but the rich chocolate flavour floods your mouth. The 
+hungry monster that is your stomach seems to retreat, appeased for 
+the time being by this sweet offering.
+
+P: My parents used to tell me, "You can't save the world on an empty 
+stomach!"
+
+<Mei-blushing> N: Mei laughs, but then... <Mei-worried>her demeanour 
+turns serious, as if a heavy cloud has settled over her head. 
+
+M: Yes, saving the world. That is what we're going to do. I hope.
+
+P: You hope?
+
+M: Penguins have been moving inland in Antarctica in massive numbers. 
+I'm worried it's a sign of an ecological disaster about to happen 
+-- animals are very intuitive. They sense things we can't.
+
+<Mei-neutral>Maybe it's nothing after all, but if it is something 
+and I ignore it -- well, I'm not ignoring it. {w=0.1}Plus, we get 
+to see penguins!
+
+P: That's a peng-win if you ask me.
+
+N: Mei breaks out into a massive grin at your joke. Finally, someone 
+who appreciates the finer subtleties of good humour.
+
+<Mei-happy> M: Ha! I would agree. 
+
+<Mei-neutral>But first: I have a question for you, {$PlayerName}.
+
+N: Oh no, a {i}question{/i}. What kind of test is she springing? 
+Perhaps this bubbly Mei has just been a facade all along, and Agent 
+Frostbite is waiting for the perfect moment to eject you from the 
+aircraft.
+
+You straighten your shoulders, determined to prove yourself.
+
+P: Shoot.
+
+M: Why did you become an oceanographer?
+
+N: The question hangs in the air between you and Mei as you consider 
+it. This seems less a test of your abilities, but more of your 
+character. 
+
+Or maybe you're just overthinking it, like usual.
+
+{i}Why {/i}did{i} I become an oceanographer...?{/i}
+
+      ///CONSEQUENTIAL CHOICE///
+      
+FIRST CHOICE <approval +1>: I wanted to make a difference.
+SECOND CHOICE <neutral>: Fish are pretty cool.
+THIRD CHOICE <neutral>: It seemed the right path to take.
+
+      ///FIRST CHOICE///
+      
+P: I was raised to believe in helping the world in any way I could, 
+and I've always loved the ocean. I thought that I could combine those 
+two parts of me, so I followed my heart.
+
+Turns out it was something I was good at and enjoyed and, long story 
+short, here I am.
+
+M: Yes! I totally understand this. I've always loved the world and 
+the animals that live here. When I was growing up, global warming 
+was destroying the planet and that scared me, even when I was so young. 
+
+I thought becoming a climatologist would give me a chance to help, 
+because our climate is so important. I was always good at science 
+-- I invented so many things that almost worked. I drove my mother 
+up the wall with my inventions!
+
+<Mei-happy>Now I get to work with Overwatch, and meet so many new 
+people -- and cute animals. Plus, my inventions work at least 95% 
+of the time now. Who would have thought I could be so lucky?
+
+N: She positively beams, glowing with enthusiasm. If all of Overwatch 
+are like this, it must be a formidable force indeed. And somehow, 
+they think you're worth joining them. {w=0.25}Well, if they think 
+so, it must be true.
+
+You wonder if you look like that when you talk about the ocean, with 
+such a light in your eyes. Too bad you'll never get a chance to... 
+{w=0.1}sea it for yourself.
+
+...
+
+{i}Why am I like this?{/i}
+
+M: I may be worried about what we're going to find, but I'm excited 
+to work with you. If only for your jokes.
+
+N: I'll do my best! And I promise I won't peng-wing it -- most of 
+the time.
+
+N: She bursts into laughter, and the sound rings through the 
+aircraft's interior. Reaching over, she pats your shoulder with more 
+strength than you'd expect.
+
+M: I'm sure you'll do fine.
+
+      ///SECOND CHOICE///
+      
+P: I just really think fish are neat.
+
+<Mei-surprised> N: Mei blinks at you, seemingly surprised by your 
+reply. Maybe she doesn't like fish.
+
+P: You know -- and whales and dolphins too. All sea creatures. They're 
+all neat.
+
+M: They're...{w=0.1} neat?
+
+<Mei-neutral> N: She shakes her head, her dark hair shining in the 
+white light streaming in through the windows. She's probably 
+regretting her choice in bringing you along -- though, you suppose 
+it wasn't much of a choice.
+
+P: Yeah. When I was a kid, my parents would take me to the aquarium. 
+I would spend hours just watching the fish drift around. It looked 
+so peaceful in there.
+
+N: Thinking back to the way you stared through those glass walls into 
+another world fills you with that same sense of peace you felt as 
+a child. You can't help but smile.
+
+<Mei-happy> M: That sounds lovely! I haven't been to nearly enough 
+aquariums in my life. Maybe I'll go next time I get shore leave.
+
+P: I could show you the one I used to go to --
+
+N: You cut your sentence off, worried of sounding too forward or 
+familiar. You've never had the easiest time reading other people, 
+perhaps why you've often found refuge in aquariums.
+
+M: ... {w=0.1}I think I'd like that. 
+
+M: But, first we need to save the world, so that all the {i}neat{/i} 
+animals can be safe and happy.
+
+N: Mei grins, cheeks flushed with a soft pink. You get the impression 
+she's thinking about all those animals, like the penguins you're 
+travelling across the world to observe. You hope you'll see whales.
+
+      ///THIRD CHOICE///
+      
+P: I grew up with parents working in the United Nations, so I got 
+it drilled into me that I should do something that would make a 
+difference. They seemed to want me to go into something like 
+oceanography, so I did.
+
+M: So it's just a job to you?
+
+N: Something in her tone makes you think she's definitely judging 
+you.
+
+P: I guess... {w=0.1}But I like the ocean.
+
+M: What about the climate? And the planet? Isn't that important to 
+you?
+
+N: Her eyebrows knit together as she looks you right in the eyes, 
+and you know that despite her sweet exterior, she's filled with a 
+fierce and determined fire. Beside her, you feel inadequate; a candle 
+next to a bonfire. 
+
+P: Yeah -- yeah, of course! Of course it is.
+
+M: Good. Everyone in Overwatch believes very strongly in protecting 
+and helping -- it's what drew us together. If you truly want to be 
+one of us, you need to have that desire, too.
+
+N: Her words resonate within you, and you know this is absolutely 
+where you want to be. You don't have to search far to find the desire 
+she speaks of; it's always been there, ever since you first saw the 
+ocean as a young child.
+
+It was such an awesome, inspiring thing. Not a flat, glassy plane 
+like a lake, but something with real power and energy. The waves rose, 
+crested, and crashed upon the shore, foam tickling your feet, and 
+you thought the ocean might be alive.
+
+P: I do.
+
+M: Yes. I think you do.
+
+      //////
+
+      The aircraft shudders suddenly and violently with turbulence, 
+and you dig your fingertips into the harness as you clutch it tightly. 
+Brushing her fringe out of her face, Mei turns in her seat to gaze 
+out of a window at the view.
+
+T: {i}Sorry, bit of a rough patch there! Should be smooth flying for 
+now.
+
+N: Bright blue fills the windows as the aircraft lifts above the 
+fluffy clouds into the clear, blue sky above. The clouds spread out 
+below the aircraft like marshmallow fluff, appearing so soft you 
+could nap upon them.
+
+Of course, they're nothing but water formed into majestic shapes, 
+but you can dream, right? It's a silly thought, to compare them to 
+marshmallows or pillows -- or marshmallowy pillows -- but you just 
+can't help it.
+
+You angle your head to look over at Mei, who seems enthralled by the 
+view. Her breaths fog the glass of her window as she takes in the 
+bright cloudscape, her face filled with a childlike joy.
+
+As the aircraft smooths out, and the space fills with golden sunlight, 
+you snuggle into your coat and close your eyes, lulled by the soft 
+hum of the aircraft's engine. After an early start and a busy morning, 
+your eyes could use a rest...
+
+...
+
+...
+
+<<fade>>
+
+TITLE: MEI/DEPLOYMENT ONE/THAT SURE IS SNOW
+
+BG: AIRCRAFT INTERIOR
+
+      N: A sharp jolt startles you awake. For a moment, your drowsy 
+mind can't make sense of where you are, until the pilot's voice 
+crackles over the transport's comms.
+
+T: {i}Welcome to Antarctica, everyone! The temperature outside is 
+a frosty really-damn-cold, with a low of turns-your-blood-to-ice. 
+Glad I ain't sticking around long.{/i}
+
+N: You yawn and shake half-forgotten dreams from your head, wondering 
+just how long you've been out for, and what the time actually is in 
+Antarctica. {w=0.1}You forgot to even ask how long the trip would 
+be. Typical.
+
+One day you'll remember to ask for more information. You figure being 
+informed is probably a good thing to master when you're a member of 
+Overwatch. {w=0.25}{i}Especially{/i} a member that's supposed to be 
+a scientist. 
+
+Whoops.
+
+And thinking of being an Overwatch member... {w=0.1}you always 
+assumed there'd be some kind of initiation ceremony, or maybe a hazing 
+ritual for newbies. You even did your hair  this morning just in case 
+of photos, or... or... {w=0.25}something.
+
+But you guess that's not really a thing -- or maybe you were whisked 
+away too quickly for this mission. For all you know, you'll be fully 
+inducted upon your return, when you prove you're truly worthy.
+
+What a dream... to stand beside the heroes like Tracer and Winston 
+and be counted as one of them -- not only by those in Overwatch, but 
+by you yourself. What a day that'll be! Your stomach does backflips 
+just thinking of it.
+
+For now, though, you have other things to deal with: Mei's already 
+out of her seat and opening the rear ramp, and, upon some scientific 
+calculation, you decide there's a hell of a lot of snow outside. Did 
+you really expect anything less?
+
+The bitter chill of what must can only be the worst place on Earth 
+seeps into the transport, seeming to finding every minuscule gap in 
+the material of your clothing. You escape your harness and stand, 
+hoping movement will warm you.
+
+Rubbing your gloved hands together -- friction to cause heat, or so 
+you hope -- you move over to the transport's opening, a door that 
+folds out into a ramp. There's probably some fancy aircraft term for 
+it. To you, it's a door-ramp.
+
+<<bg>> ANTARCTICA EXTERIOR 1
+      
+Mei: Bit chilly, isn't it?
+
+N: She's awfully bright despite the cold, and that in itself somehow 
+helps make the cold less awful. As if she herself is radiating warmth 
+just by existing. 
+
+You smile, and it feels like your skin is frozen so that you kind 
+of have to force the smile to happen. You hope you don't look as if 
+you're experiencing rigor mortis. That's probably {i}not{/i} a good 
+look.
+
+She grins right back at you, making you think you don't look very 
+corpse-like after all. Though... she could just be one of those nice 
+people who are nice {i}all the time{/i}. A terrifying thought. Those 
+people have too much power.
+
+Standing at the top of the ramp, framed by bright light, Mei takes 
+in the overwhelming whiteness that surrounds us. You can't see her 
+face, but the way she holds her shoulders is relaxed.
+
+You gather up as much as you can carry and approach her silhouetted 
+form. Outside: snow everywhere, but a clear sky and a shining sun 
+that hangs low in the sky. And, your new home.
+
+The structure bursts from the snow, a dark building dusted with white 
+like icing sugar atop a pastry -- and what you wouldn't do for jelly 
+donut. The Watchpoint looks pretty new, as if it hasn't settled into 
+the glimmering landscape yet.
+
+M: A lot of eco-Watchpoints are pretty recent. This one is newly 
+established, maybe the newest. I think it was only set up last month? 
+We're the first people assigned here. 
+
+N: She must have been thinking of the same thing as you, given you're 
+both staring at the Watchpoint.{w=0.1}.{w=0.1}. or she's a 
+mindreader. 
+
+Really, you wouldn't be surprised if someone in Overwatch could read 
+minds. There {i}is{/i} a sentient gorilla who can talk, after all. 
+Nothing is impossible in your mind anymore. {w=0.25}Almost anything.
+
+So... you decide to test this theory, with science. They didn't give 
+you that degree for nothing.
+
+...
+
+{i}Mei! If you can hear this... give me a thumbs up.{/i}
+
+Mei doesn't react at all, her hands tucked into her pockets. You 
+deduce that she's probably not a mindreader... or she's super crafty. 
+Perhaps you'll never know the truth. You resign yourself to the 
+knowledge this will forever be a mystery.
+
+{i}Wait, this is stupid.{/i}
+
+You shake your head. Mei raises her eyebrows at you.
+
+M: Are you okay? 
+
+P: Yeah! Just feeling a little hungry.
+
+M: You and me both! Once we get everything into the Watchpoint, we 
+can have something to eat. Have you ever been to a Watchpoint before? 
+Wait -- of course not! They have full kitchen facilities, though I'm 
+not sure how stocked it will be...
+
+But! We'll make something delicious when we're done, then we can 
+prepare and relax. We'll head out to find the penguins first thing 
+tomorrow. It's too late today to do it, once that sun goes down the 
+temperature drops fast.
+
+N: She shivers dramatically, bouncing a little as she rubs her arms 
+with her gloved hands. Little puffs of breath cloud around her face.
+
+M: It's too cold! Let's get everything done as quickly as we can. 
+I'm keen to warm up, and I'd hate to get you sick on your first day. 
+
+P: I'd hate to {i}get{/i} sick on my first day.
+
+N: A blast of ice-cold air freezes your face even more as you step 
+out onto the ramp. All around you is blinding white below the most 
+vibrant blue you've ever seen. {w=0.25}You wonder if noses can 
+actually fall off when they're cold enough.
+
+You take another step and the moment your foot meets the ramp, you 
+feel it slide against the icy metal.
+
+Your leg flies forward. {w=0.1}You fly backwards.
+
+{i}Not even five minutes in.{/i}
+
+You flail your arms around helplessly, equipment flying off into the 
+snow, and know it's too late to save yourself. You close your eyes 
+and wait to hit the hard metal --
+
+{w=0.25}Strong arms encircle you, catching you mid-fall. You hang 
+suspended, momentarily confused as to why your head hasn't connected 
+painfully with the ground. 
+
+Opening you eyes, you see Mei's warm eyes looking right back at you. 
+{w=0.1}Heat rises in your cheeks, either from embarrassment, or...
+
+Ignoring your thoughts, you focus instead on Mei, who continues to 
+surprise you with her strength. Lugging her climate equipment around 
+must have gained her some mad guns. You wouldn't want to arm wrestle 
+her, you'd definitely lose.
+
+M: Are you okay? Are you hurt? 
+
+N: Her eyes are wide with worry, and why wouldn't they be? She's never 
+met you and your clumsy self before today. 
+
+P: Yeah, I'm fine. That happens sometimes. Thanks for the catch.
+
+M: I can't have my new assistant hurting {$Reflexive} on {$possessive} 
+first day. What would HQ think of me then?
+
+N: Her voice sounds sincere, but there's a cheeky quirk to her mouth 
+as she helps you to your feet. 
+
+Scattered in the snow is everything you were holding only moments 
+ago, like a chaotic testament to your clumsiness. Hopefully you 
+didn't break anything.
+
+P: Sorry
+
+N: Mei waves a hand dismissively.
+
+<Mei-happy> M: It's okay! It's not your fault the ramp was slipperier 
+than you expected. We'll just have to learn from that lesson so nobody 
+else falls over.
+
+Do you want some help picking everything up?
+
+      ///INCONSEQUENTIAL CHOICE///
+
+      First choice: No, I can do it.
+Second choice: Yes, some help would be nice.
+
+      ///FIRST CHOICE///
+
+      P: No, no. It's fine, I can do it myself. I did drop everything, 
+after all.
+
+<Mei-neutral> M: Okay... if you say so. Be careful though, I don't 
+want you hurting yourself more.
+
+P: Ha! I'll be a-okay.
+      
+      <Mei-happy> M: Good, you better be! And you better not be denying 
+my help just to impress me.
+
+N: She presses a finger to your chest; a warning, but not a serious 
+one. It's your turn for a dismissive gesture now.  
+
+P: Of course not!
+
+<Mei-neutral> N: She narrows her eyes at you, and she's probably right 
+to. Are you trying to impress her? The odds are pretty high that you 
+are, not that you'll ever admit it.
+
+M: Good. 
+
+P: But is it working?
+
+M: Is what working?
+
+P: Are you impressed?
+
+M: Haha! Hahaha! You haven't done anything impressive yet. Maybe if 
+you carry everything here to the Watchpoint yourself in one trip I 
+will be. 
+
+P: Is that a challenge?
+
+<Mei-worried> M: Oh, no! I wouldn't want you to hurt yourself 
+attempting that. 
+
+P: I'm kidding. 
+
+<Mei-neutral> M: Oh! Oh. Of course you are. <Mei-happy>You had me 
+worried for a moment there, haha. 
+
+{w=0.25}<Mei-neutral>I don't want to rush you or anything, but you 
+should probably pick that stuff up before it sinks into the snow and 
+is lost to us forever.
+
+P: Wait, how deep {i}is{/i} the ice? That can happen?
+
+N: You turn quickly on your heels to follow Mei's instructions, but 
+her giggling makes you pause.
+
+M: Sorry, I was kidding about losing everything. But leaving it lying 
+there probably isn't a good idea!
+
+N: You roll your eyes at her, then carefully make your way down the 
+ramp. The snow is much firmer than you expected. Instead of sinking 
+below the surface of the snow, your boots rest atop it as if it were 
+solid ground rather than frozen water.
+
+Mei watches you the entire time, and though she looks chilled out 
+-- {i}ha{/i} -- you feel like she's ready to pounce to your aid once 
+again. 
+
+On one hand, it's sweet that she's worried about you. On the other 
+hand... this might get annoying, if she thinks you're a risk to 
+yourself.
+
+You crouch down to pick up something that looks a bit like a weird, 
+science-fictiony trumpet -- you have no clue what it might do -- and 
+when you stand and check back over your shoulder Mei's disappeared 
+back into the aircraft.
+
+It takes you longer than you expect to pick up everything you flung 
+across the snow, partly because walking on snow isn't a cakewalk. 
+It may be firm, but your boots still sink slightly. You take soft 
+steps, worried you'll be engulfed.
+
+Mei reappears at the top of the ramp, arms once more filled with 
+scientific objects, and she practically skips down onto the snow 
+without seeming to worry about slipping. You suppose she meant 
+{i}you{/i} needed to learn, not her.
+
+She's not wrong.
+
+M: Have you got everything?
+
+P: I think so. What's this trumpet thing?
+
+N: Mei makes a face at the device you indicate.
+
+M: I, um, don't remember. <Mei-blushing>That's silly, isn't it? A 
+scientist who can't remember her own inventions.
+
+P: Wait, you made this?
+
+M: Yeah! I invented most of this stuff. Not all of it works, though.
+
+P: That's amazing! That you invented it, I mean. 
+
+M: Oh, um... you really think so?
+
+P: Of course I do. I can barely get my toaster to work some days, 
+let alone build anything with even half a chance of running.
+
+<Mei-happy> M: Your toaster? Really?
+
+P: Look, it's got a lot of buttons. It's a fancy toaster.
+
+M: A fancy toaster. Mm-hmm. {w=0.1}I can show you how to use the 
+toaster here if it's too complicated for you.
+
+But, I think you'll be fine. You seem smart enough to figure something 
+like that out.
+
+P: Thanks. I think.
+
+N: She laughs and starts heading towards the Watchpoint. You quickly 
+follow behind, squinting against the harsh sun reflected from the 
+ice and snow. Who knew Antarctica would be so bright? Not you, that's 
+for sure.
+
+The Watchpoint doesn't look all that different to the Overwatch 
+headquarters, not really. You suppose there's an overarching 
+Overwatch aesthetic, that a lot of their Watchpoints look similar. 
+
+In the distance are massive ice formations, lit by the lowering sun, 
+and you can't help but hope you'll be heading in that direction later. 
+Sure, frozen water isn't exactly your specialty, but you know it can 
+look damn impressive. 
+
+Water. Is. Amazing.
+
+...
+
+      ///SECOND CHOICE///
+
+Variable: $HeatDisc
+
+      P: Not going to lie, some help would be appreciated. Sorry.
+
+M: No worries! We all need help with something sometimes. You don't 
+need to apologize.
+
+P: Yeah, okay. But I'm still sorry.
+
+M: Stop that! Four hands are faster than two, anyway.
+
+P: Four hands? Isn't it two heads?
+
+M: Heads can't pick anything up! Four hands are far more useful than 
+two heads, don't you think?
+
+P: You're... totally right. Yeah.
+
+M: Of course I am.
+
+N: You can't help but feel bad as she follows you into the snow to 
+start digging out the scattered equipment. If not for you, she could 
+already be half-done by now. Instead, she's stuck with you out here 
+in the cold.
+
+Still... you're not sure you mind much. It's not like you don't like 
+being around her, with her sweet smile and even sweeter voice. At 
+least she looks properly bundled up for this temperature, unlike you.
+
+Not that you're overly unprepared -- you're definitely not going to 
+die, or lose any fingers -- but the chill has absolutely seeped into 
+your skin by now and made itself home. You imagine twenty hot showers 
+won't erase its bitter caress.
+
+Your fingers wrap around a rounded disc, and you pull it free from 
+the ice. You inspect it for a moment, completely unsure of what this 
+thing could be. A weird frisbee? A slightly useless bowl? You have 
+no clue.
+
+P: What {i}is{/i} this?
+
+M: What? Oh! That's an exothermal disc.
+
+P: An exo-what?
+
+M: It's a disc that slowly releases heat. The idea is that you can 
+bury it, and it'll warm up the ground for ecosystems that need warmer 
+earth. It might not be very useful here, huh?
+
+P: Sounds good for a cold bed.
+
+M: Haha, that's one use for it! Maybe I will try that if it gets really 
+cold tonight.
+
+P: Will it get really cold?
+
+M: Out here, yes! Inside, probably not unless something goes wrong. 
+Watchpoints, especially ones in volatile environments, tend to have 
+the best climate control. Perfect temperature indoors all day and 
+night.
+
+P: That's reassuring. I hope the food's as good as the temperature.
+
+M: I think that might be up to us and our cooking skills. Now is a 
+good time to tell me if you're a gourmet chef, by the way. 
+
+P: Alas, I am not.
+
+<Mei-worried> M: I thought as much... <Mei-happy>But we'll be fine! 
+We'll figure it out.
+
+N: Mei straightens and looks around, but there doesn't seem to be 
+anything else you dropped lying around out here. No evidence of your 
+clumsiness except a confused mess of bootprints surrounding the 
+transport's ramp.
+
+Somewhere in that aircraft is the pilot, who seems to have either 
+completely forgotten about you both, or just doesn't want to help 
+out at all. You can't blame them, really. They're probably holed up 
+in the cockpit napping.
+
+Still, you can't imagine just sitting back and letting someone else 
+do all the work when you could be helping. That's partly why you've 
+wanted to be in Overwatch for so long; if you can help them, why not 
+at least try?
+
+Aid people where you can. Relieve difficulties when possible. That's 
+what you believe. 
+
+The {i}crunch, crunch{/i} of footsteps on the snow draws your 
+attention away from the aircraft and back to Mei, who's started 
+heading to the Watchpoint while you zoned out. She looks over her 
+shoulder at you.
+
+M: You coming?
+
+P: Yeah.
+
+N: She pauses to wait for you to catch up, a soft smile upon her face. 
+The sun bounces off the white landscape just right, illuminating her 
+hair as if she were haloed -- an angel of climatology. Her eyes glow.
+
+{i}Are all Overwatch agents this beautiful?{/i}
+
+She turns away from you again, and the moment passes. You almost think 
+you saw her cheeks coloured with red before she hid her face from 
+you. Probably from you staring at her like that.
+
+Embarrassment fills your stomach like an expanding heat, and you 
+watch your feet the rest of the way to the Watchpoint's entrance.
+
+      /////
+      
+<<fade>>
+
+BG: Eco-Watchpoint Interior
+      
+It takes you two trips to get everything inside. By the time you're 
+finished, your arms are aching down to the bone and you're sweating 
+beneath all your layers. You throw yourself onto a chair, huffing 
+and puffing with exhaustion.
+
+You're not exactly unfit, not really, but it's been a while since 
+you've done anything so intensive. You decide to get back into a good 
+workout regime when you get home, or back to base. Where doesn't 
+matter, as long as there's a treadmill.
+
+Mei, however, looks fine. As if she hasn't just lugged what feels 
+like a thousand kilograms from the transport to the Watchpoint. 
+You're not sure whether to admire or fear her power.
+
+You decide to do both. Adfear. Feadmire.
+
+{i}Hmm. I need to work on my portmanteaus.{/i}
+
+Mei puts her hands on her hips and grins.
+
+<Mei-happy> M: Good work, team!
+
+P: You're half of the team. Are you congratulating yourself?
+
+M: Half of the congratulations go to me. The other half, to you. 
+
+N: You give her a weak thumbs up, your arm trembling with the effort 
+it takes just to raise it. You can only hope a good sleep and some 
+food will make you feel better, or else tomorrow will be hell. And 
+thinking of food...
+
+Your stomach growls, loud enough that it's impossible Mei doesn't 
+notice.
+
+M: Guess you're hungry! How about I check out the kitchen and make 
+us some dinner? <Mei-neutral> You stay here, I don't want you passing 
+out on the kitchen floor.
+
+P: I wouldn't pass out, I'm fiiiine.
+
+N: Mei watches as you try to lift yourself from your seat, muscles 
+shaking with effort and fatigue. You're not going anywhere.
+
+You collapse back against the chair, glaring at Mei's smug expression. 
+She doffs her gloves, and pulls the little drone strapped to her back 
+free. It hovers beside her, little boosters keeping it afloat. She 
+pats its head.
+
+M: This is Snowball. Snowball, meet {$Playername}.
+
+S: (=^?^=)
+
+      /// INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Hey there.
+SECOND CHOICE: What the hell is that?
+      
+///FIRST CHOICE///
+
+      P: Hey there, Snowball. Nice to meet you.
+
+S: ?(???)?
+
+N: Panels at the side of the drone's round head flap out like the 
+ears of a happy dog, and you get the feeling that the droid is feeling 
+pretty great as it bobs in the air before you.
+
+M: Perfect, you two can keep an eye on each other while I make 
+something to eat. Be nice, Snowball!
+
+S: ??(? ? ?)?? 
+
+N: Mei pats the little drone on the head, then heads off to the kitchen, 
+which isn't all that far from where you're sitting. She's certainly 
+not out of earshot, which gives you a strange sense of relief...
+
+<no Mei> You're not sure you trust this drone. It's cute. {w=0.1}Too 
+cute. {w=0.1}Nothing {i}that{/i} cute is entirely innocent. For all 
+you know, it could be planning to off you the second it thinks you 
+might hurt its owner.
+
+Not that you would ever think of hurting Mei, but how's Snowball 
+supposed to know that? Short answer: it can't.
+
+You watch the drone as the clatter of Mei working away in the kitchen 
+fills the room. Snowball floats around, inspecting the Watchpoint 
+and everything you've brought inside. 
+
+After a while, when its curiosity is sated, the drone flies back over 
+to you and settles down in the air nearby, waiting patiently for Mei 
+to return. It's not unlike a cat, you think.
+
+S: (????)
+
+N: Yeah. It's definitely planning something. 
+
+P: So... what's it like being, y'know, a robot?
+
+S: ?(?)?
+
+P: Yeah. About the same being a human, too.
+
+S: ?????
+
+N: Its ears flap and it bleeps, and you think this is the drone's 
+way of showing laughter. Or it could be Snowball threatening your 
+life. Both options are equally possible, you decide.
+
+Mei returns quicker than you expect, both hands holding huge, 
+steaming bowls that smell... meaty. She places on in your lap, and 
+sits beside you with the other.
+
+Filling the bowl is a thick, chunky stew swimming with carrots, 
+potatoes, lentils, and an unidentified meat of some kind. Your best 
+scientific guess is beef. Maybe. The scent is certainly mouthwatering, 
+at least.
+
+P: Smells good.
+
+M: Thanks! But it's not all me. This is just a packaged protein-rich 
+stew I warmed up. Who knows what's actually in this.
+
+P: Curiosity killed the cat. I'm just hungry.
+
+N: The two of you dig into the stew, and it's possibly the most 
+delicious thing you've had in years -- it's at least the first warm 
+thing you've eaten all day, and {i}damn{/i} does it feel good. Already 
+you can feel your exhaustion fading.
+
+You would marry this stew, if you could. Marry it and its ambiguous 
+meat.
+
+{i}Okay, this is getting weird.{/i}
+
+P: If I ever meet whoever makes this stuff, I'm giving them the biggest 
+high-five.
+
+M: I think you might just be biased because all you've eaten all day 
+has been my protein bars. Which aren't terrible, but they're no hot 
+stew.
+
+P: Maybe I'm just biased because you made it.
+
+M: What?
+
+P: What?
+
+<Mei-blushing> N: You shove another spoonful of stew into your mouth, 
+hoping that you can't say anything else stupid through the food. Mei 
+watches you for a moment, then pulls out her datapad and focuses on 
+that instead.
+
+{i}Ugh. Stupid! What was that?{/i}
+
+M: {i}Ahem{/i}. So. First thing tomorrow we're off to find the 
+penguins. 
+
+P: Any idea where they are?
+
+<Mei-neutral> M: We have some satellite images that theoretically 
+tell us which direction to go. We have a small craft to travel in, 
+so at least the journey shouldn't take {i}too{/i} long.
+
+P: That's crafty.
+
+N: Mei chokes on her mouthful of stew as she tries to refrain from 
+laughing, smacking a hand across her mouth as she coughs.
+
+<Mei-surprised> M: {i}Hk!{/i} Ah! Guh!
+
+P: I'm sorry!
+
+M: No, it's -- aha -- it's fine. Do not let my death hinder your humour.
+
+<Mei-neutral> N: She waves away your worries, returning to her stew 
+as soon as her coughing subsides. You watch her stealthily as you 
+finish your own food, making sure that you haven't accidentally 
+caused her serious damage.
+
+You guess you're going to have to be more careful when it comes to 
+jokes. You could kill someone, and there are only two someones here: 
+you, and Mei.
+
+You don't particularly want to kill either of those people.
+      
+///SECOND CHOICE///
+
+      P: What the hell {i}is{/i} that thing?
+
+M: My assistant drone, Snowball. It helps me out, and makes a good 
+companion on solo deployments.
+
+S: (;???)
+
+N: Mei pats the drone's round head, and it bobs in the air, nuzzling 
+up against her hand.
+
+S: ?(???)? 
+
+P: Right...
+
+<Mei-worried> M: What, you don't like it?
+
+S: (???)
+
+P: No, no! I think Snowball's cute. Hey... pal.
+
+S: ?(???)?
+
+M: I think Snowball likes you. Be nice to it, will you? I don't want 
+you two fighting!
+
+P: Of course! What kind of person do you take me for? A bot-bully?
+
+<Mei-blushing> M: You really can't tell these days. <Mei-happy>But! 
+I'm sure you two will be the best of friends. Play nice while I go 
+make dinner.
+
+P: Yeah, yeah.
+
+S: ?(?)?
+
+<Mei-worried> M: {i}Snowball{/i}...
+
+S: ?`???)
+
+M: That's the best I'm getting out of you, isn't it?
+
+S: ??(? ? ?)?? 
+
+<Mei-neutral> N: Mei gives you an apologetic smile, then disappears 
+off to prepare dinner. You're just glad that the kitchen isn't out 
+of earshot, because you're not entirely sure you trust this drone.
+
+P: Hey Snowball, you wouldn't hurt a human, right?
+
+S: ?(?)?
+
+P: Uh... That's a yes, right?
+
+S: ?(???)?
+
+N: Little flaps at the side of Snowball's head flutter along with 
+little beeps in a way that you think is meant to approximate laughter, 
+and you realise suddenly that the drone is probably messing with you.
+
+P: Right. I get it, you're a joker.
+
+N: What could it do to you anyway? Lightly headbutt you? Make faces? 
+You shake your head and laugh. The drone laughs -- kind of -- along 
+with you. It seems pleased that you're amused by its joke.
+
+{i}I'm losing it.{/i}
+
+Now that you've figured out Snowball's just kidding around, you feel 
+as if you've bonded with the little drone. It settles down on the 
+chair beside you, its little jets turned off as it sits and waits 
+for Mei like a patient pet.
+
+S: (???)
+
+P: Yeah, me too. 
+
+N: You close your eyes, just resting them for a second. You're 
+snuggled up all nice and warm in your layers of clothes, inside a 
+nicely temperature building with food on the way. There's not much 
+better than this...
+
+...
+
+...
+
+<Mei-neutral> M: Hey! 
+
+P: Wh --
+
+N: You jolt awake, your eyes flying open. Mei stands before you with 
+a bowl filled with what looks and smells like a steaming-hot stew.
+
+M: Not going to pass out, huh?
+
+P: I didn't pass out! I was... resting my eyes.
+
+M: Ah, napping.
+
+P: ... yeah.
+
+M: Well, here's some food for you, sleepyhead.
+
+N: Chuckling, Mei holds the bowl out for you to take, which you do 
+gratefully. The warmth of the dish is comforting as you hold it in 
+your lap, and the smell of the meat -- maybe beef, you're not sure 
+-- makes your mouth water.
+
+Mei reaches out to Snowball, who has another bowl balanced upon its 
+head, and takes the bowl into her hands. Dishing a mouthful into her 
+mouth, she takes a seat beside you and digs into her food.
+
+You follow her lead, feeling instant, wonderful relief as the 
+flavours of the stew explode in your mouth. What could be better than 
+nice, hot food? Nothing. {w=0.1}Literally. {w=0.1}Nothing.
+
+P: It's good! Thank you!
+
+<Mei-blushing> M: You're welcome, though I just followed the 
+instructions on a packet. It's not rocket science, or climate 
+science.
+
+P: It's still good. If this is the kind of packaged food Overwatch 
+has, I think I'm gonna stick around.
+
+M: Good! I like having you around. Though...
+
+P: Though?
+
+<Mei-happy> M: We'll see how useful you are tomorrow. Could totally 
+change my mind!
+
+P: Yikes.
+
+M: I'm sure you'll do great.
+
+P: I'll certainly try my best.
+
+M: Good! I wouldn't want it any other way.
+      
+/////
+      
+Mei places her bowl at her feet and stretches, yawning widely. 
+
+M: Ooh, I'm exhausted! I think it's time for bed. 
+
+P: I think I agree.
+
+N: You can't help yawning yourself -- it's contagious! The food 
+certainly helped you feel less like a limp noodle, but you can't deny 
+just how tired you feel. Despite your nap of an indeterminable number 
+of hours, it's been one hell of a day.
+
+Plus, having something warm in your stomach is making you feel more 
+than a little drowsy... 
+
+You suppose it's time to head to your room and snooze for as long 
+as you possibly can before Mei drags you out into the frozen wasteland 
+that is Antarctica again.
+
+Mei helps you up and the two of you grab your personal bags and heave 
+the straps over your shoulders -- rather, that's what Mei does. You 
+drag your luggage behind you like the weakling you are. Together, 
+you head to the crew's quarters.
+
+Mei pauses before two doors that look identical, and seems to consider 
+them both for a short while before turning to you.
+
+M: Since this is your first deployment, and since I'm super nice, 
+I'm going to let you pick which room you want. It doesn't matter that 
+much, but at least you get to control a little bit of your what is, 
+for now, your home.
+
+P: Oh, okay. Thank you.
+
+Hmmm...
+
+      /// INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Left.
+SECOND CHOICE: Right.
+      
+///FIRST CHOICE///
+
+Variable: $BrokenDoor
+
+      P: I'll take the left room. I've always liked the left.
+
+M: Cool! Guess the right is mine. Fitting because I am {i}always 
+right!{/i} Haha!
+
+P: Mm-hmm. Always. I'm sure.
+
+M: You'll see. We'll be spending enough time together for you to learn. 
+Have I been wrong yet today?
+
+P: No, but...
+
+M: Never wrong!
+
+P: {i}Pffft{/i}. Fine.
+
+N: She pauses for a moment, as if unsure of what to say next. You 
+consider trying to fill the silence, but instead find yourself 
+watching the way her eyelashes flutter when she blinks. They look 
+so soft and delicate. Amazing.
+
+She shakes her head slightly -- almost imperceptibly -- and moves 
+towards her room, with a little wave in your direction.
+
+M: Well! Good night. I'll see you bright and early.
+
+P: Good night, don't let the penguins bite.
+
+N: You head into your own room, taking in the bed, the desk, and the 
+complete lack of anything bright to make it feel like a home. At least 
+there's a window, made from what you can only assume is super-strong 
+glass to survive the weather.
+
+The door doesn't quite click closed properly behind you, but you're 
+too tired to do much about that right now. On a list of Most Important 
+Things In Antarctica, a door that doesn't quite close properly is 
+pretty damn low.
+
+You have some photos with you, packed away in your bags -- and, yes, 
+they're photos of food, you're not ashamed of it, though maybe you 
+should be. You'll put them up tomorrow. For now, however, you collapse 
+face first onto your bed.
+
+...
+
+<<fade>>
+
+///SECOND CHOICE///
+
+      P: Uh, the right, I guess.
+
+M: You guess? 
+
+P: Do you have any preference?
+
+M: None at all! It is completely up to you.
+
+P: Okay. Then, right it is.
+
+M: Perfect! I'll take the left.
+
+N: You move towards the right room, dragging your bag behind you, 
+but hesitate before you open the door. You feel like you should say 
+something more to Mei. She has, after all, put up with your useless 
+self all day.
+
+Correction: she has to put up with your useless self for as long as 
+this deployment lasts. Poor lady.
+
+M: Are you okay?
+
+P: Yeah...
+
+...
+
+N: No words spring to mind, and you find yourself distracted by how 
+silky her hair looks. 
+
+{i}Definitely bed time!{/i}
+
+P: Good night. See you in the morning, I guess.
+
+M: Oh, you will.
+
+N: She disappears into her room, and you into yours, and you collapse 
+into your bed without even taking the time to look around. You can 
+always do that tomorrow. For now, your mind is filled with thoughts 
+of Mei.
+
+{i}She's so cool...{/i}
+
+...
+
+...
+
+<<fade>>
+
+TITLE: MEI/DEPLOYMENT ONE/WAIT, HOW MANY PENGUINS?
+
+BG: ANTARCTICA EXTERIOR 1
+
+
+ 
+
+
+      N: You raise your hand to block out the blinding light of the 
+sun, squinting against the brightness. Your action is in vain, the 
+sun bounces off of the {i}light-reflective{/i}, white snow that 
+literally surrounds you.
+
+{i}It's too early for this.{/i}
+
+You tromp through the snow towards the snowcraft hovering slightly 
+above the ground, its engines purring softly. Mei sits at the front, 
+behind a windscreen that stretches around her like a weird bubble.
+
+With a certain amount of dismay, you realise that while the snowcraft 
+is made for transporting objects for scientific research and analysis, 
+the car-sized compartment for storing said objects is not made for 
+humans.
+
+Also, as Mei explained you earlier, the compartment is usually kept 
+cold on purpose, because many of the objects are just ice with stuff 
+frozen inside that nobody wants to melt unexpectedly.
+
+Instead of a nice, comfortable ride, you and Mei will both have to 
+squish into the small cockpit. At least the view will be nice.
+
+Mei looks up and gives you a wave through the windscreen, bright-eyed 
+and grinning. You feel like death, she looks like a damn angel. How 
+can anyone look that good this early in the morning? Must be magic.
+
+You clamber into the cockpit beside Mei, and instantly realise that 
+she was not lying when she said it'd be a tight fit. The two of you 
+have your sides pressed right together, with no space to spare.
+
+At least you'll be able to keep each other warm if the heaters somehow 
+fail. 
+
+M: You know how to drive this, right?
+
+P: What -- no! I thought you did?
+
+N: You have no clue what she's talking about. You've never once in 
+your life driven something like this, all you know is ordinary 
+everyday cars and boats. Did Overwatch send the wrong person?
+
+<Mei-happy> She bursts into peals of laughter, taking the control 
+yoke in her hands. 
+
+M: Of course I do! Haha!
+
+N: You heave a sigh of relief, chuckling along with Mei at your own 
+expense. Really, you shouldn't have been so gullible to begin with, 
+and the worst part is, now Mei {i}knows{/i} you're gullible.
+
+They always trick you again when they know. They can't help it. 
+{w=0.25}In all fairness, you'd do the same.
+
+P: That's just cruel.
+
+M: It's funny.
+
+P: That too.
+
+N: You strap into your harness, which is more a seatbelt, and Mei 
+pushes the craft forward with an excited gleam in her eyes. You can't 
+tell if she's more gleeful about the prospect of penguins, or driving 
+this weird craft.
+
+<Mei-neutral> The craft accelerates quickly to what you guess is a 
+decent speed -- it's hard to tell when the landscape whipping by all 
+looks the same -- and the two of you are off, away on an adventure.
+
+Something occurs to you suddenly, something you hadn't considered 
+before. What if you're heading into danger?
+
+P: Um...
+
+M: Yes?
+
+P: Are penguins... dangerous? Will they try to eat us.
+
+M: Oh! No, unless you're a fish they aren't dangerous to you. In fact, 
+they're so unused to humans, there is a very good chance they won't 
+even be scared of us.
+
+P: I guess that's something I should have known.
+
+M: You {i}are{/i} the oceanographer here. Hehe. It's fine. I can't 
+expect you to know everything about every single creature related 
+to the ocean, now can I? You didn't even get time to study Antarctica 
+wildlife before we left.
+
+P: Do you know everything about the climate?
+
+M: Nobody knows everything about anything! But I do know a lot about 
+my field of study, yes.
+
+P: I know a lot about desserts.
+
+<Mei-worried> M: There's no ocean in a desert!
+
+P: {i}Desserts{/i}. 
+
+M: Oh! {w=0.25} <Mei-happy> That makes much more sense. Are there 
+any desserts that involve fish?
+
+P: I have heard of people using sturgeon in some things... Though 
+that may have been for one of those cooking competition rather than 
+served food at a restaurant. More often people make desserts shaped 
+like fish.
+
+M: Food nerd.
+
+P: I'll own it.
+
+M: Ha! Okay, what's your favourite food?
+
+      ///CONSEQUENTIAL CHOICE/// | /// INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Ice cream.
+SECOND CHOICE: Tacos.
+THIRD CHOICE: Haggis.
+      
+///FIRST CHOICE///
+
+      P: Probably something sweet, like... ice cream.
+
+M: I love ice cream! It's so cold, it's the best.
+
+P: You really seem to love the cold. Ice cream, Snowball... 
+Antarctica.
+
+M: I didn't choose to come to Antarctica, though this deployment was 
+my idea.
+
+P: Fine, penguins!
+
+<Mei-happy> M: You got me there. I have always liked the cold, ever 
+since I first saw snow as a child. It's a beautiful thing, is it not? 
+
+P: Yeah.
+
+<Mei-neutral> M: Besides, the cold just feels nice. I would rather 
+be cold than hot. I am definitely a winter person. Commander Morrison, 
+however, is a spring person.
+
+N: You think of the Commander in springtime, trying to imagine his 
+gruff form amidst a field of blooming flowers. It's impossible. You 
+can't see it.
+
+P: What about me?
+
+M: Hmm...
+
+N: Mei glances at you quickly, then looks back outside to watch where 
+the craft is going -- not that it matters, there's not much where 
+you are. 
+
+She chews her lip, lost in thought.
+
+M: Hmmmm{w=0.1}.{w=0.1}.{w=0.1}.
+
+I am not actually sure. I think I need to spend a little more time 
+with you before I decide, something that I am not complaining about, 
+yet.
+
+P: Yet.
+
+<Mei-happy> M: Let's see how the penguins like you, first!
+      
+///SECOND CHOICE///
+
+VARIABLE: $Tacos
+
+      P: I think I could eat tacos forever and never get sick of them, 
+you know? They're just so good. Literally humanity's greatest 
+creation.
+
+M: I am fond of fish tacos.
+
+N: You watch her face for any sly smirks, and find her to be sincere. 
+At least, as sincere as Mei {i}can{/i} be. You never expected her 
+to be such a prankster. Must be where Snowball gets it from, you 
+decide.
+
+P: I can make a pretty good fish taco.
+
+M: Oh! If only we had the ingredients back at the Watchpoint. Maybe 
+we can request them for our next batch of supplies, if we're here 
+long enough for that. 
+
+If we do that, will you make some?
+
+P: Yeah, of course.
+
+<Mei-happy> M: Cool! Now I am kind of hoping we stay here long enough 
+for a resupply, if only for tacos.
+
+P: There are tacos back in civilization.
+
+<Mei-neutral> M: Yeah... {i}Sigh{/i}. I am so often away on 
+deployments, I don't get a chance to go out and eat anything exciting. 
+Sometimes Tracer brings me a burger or two. She is lovely.
+
+P: I promise you, we will eat tacos at some point.
+
+M: I'm going to hold you to that, you know.
+
+P: Fine by me. 
+
+N: Your stomach grumbles at the thought of tacos. This conversation 
+was a bad idea, you realise. Breakfast wasn't even that long ago, 
+and already you're getting hungry again. Who knows when you'll be 
+able to have lunch?
+      
+///THIRD CHOICE///
+
+VARIABLE: $FirstDate
+
+      P: Haggis.
+
+M: Haggis?
+
+P: Haggis.
+
+<Mei-grumpy> M: Eugh! That's disgusting.
+
+P: Don't knock it till you try it. When we get back to Earth, I'm 
+taking you out to get haggis.
+
+M: Earth?
+
+P: Uh, back to civilization, rather.
+
+M: Hmm. {w=0.1}Sounds like a date, then. A disgusting date.
+
+N: {i}A... date?!{/i}
+
+Your mouth dries out, and you find yourself unable say anything more 
+to Mei as she guides the craft across the ice. You know she's joking, 
+but still... a date? With Mei? 
+
+And you suggested haggis, of all things. Absolutely not a good 
+first-date meal. Not that you two will actually be going on a date. 
+Your stomach clenches slightly at that thought.
+
+{i}Ugh!{/i}
+
+P: So how much longer until we see the penguins?
+
+M: Not long now, I hope. 
+
+      //////
+
+      N: You think of the chocolate tucked away in your pockets, a 
+food you did not expect to be so useful for ventures outside in 
+Antarctica. Not that you're complaining at all -- you never refuse 
+an excuse to eat chocolate.
+
+<Mei-neutral> M: I'm glad it's such nice weather. Better than trying 
+to find a colony of penguins in a blizzard. Did you know a group of 
+penguins on land can also be called a waddle? How cute is that?
+
+P: Waddle you do if I say I didn't know that?
+
+<Mei-happy> M: Ha! Don't make me laugh, I have to drive. Keep your 
+word play to a minimum while we're travelling at speed.
+
+P: Yes, ma'am.
+
+<Mei-neutral> M: It can also be called a rookery. A group of penguins, 
+I mean. Colony, rookery, waddle. Waddle is the best term, in my 
+opinion.
+
+N: It seems to you as if you'll never reach the penguins, that you'll 
+be travelling across the snow and ice until the end of time, forever 
+trying to complete your mission.
+
+But then, in the distance... {w=0.1}a black-and-off-white mass 
+begins to appear, growing larger and larger as you approach. At first, 
+you're stunned by the sight, so much black amongst the white you've 
+become so used to.
+
+You seriously question for the first time just how many penguins 
+you're going to be dealing with here.
+
+M: There they are! Wow, there sure are a lot.
+
+P: Is that every penguin in Antarctica? Sure looks like it.
+
+M: No, definitely not. It is likely only one colony, and I think we 
+should be very thankful of that. Much less work!
+
+<Mei-worried> {w=0.25}They're definitely a long way from the ocean, 
+or any openings to the ocean. What are they doing out here?
+
+P: Penguin party? 
+
+<Mei-neutral> M: Where did the penguins go to dance?
+
+P: Uh, where?
+
+<Mei-happy> M: At the snow ball!
+
+P: ...
+
+...
+
+M: Heh. Guess I need to... {i}warm{/i} up the audience first.
+
+N: You can't help but laugh at her terrible jokes. You have to admit, 
+they're better than yours usually are.
+
+P: Haha! Hahaha.
+
+<Mei-neutral> M: But in all seriousness, I doubt the penguins are 
+here to dance.
+
+Something is either compelling them to travel inland -- perhaps they 
+can sense something coming? -- or there is something driving them 
+all away from the ocean.
+
+Hmm... {w=0.25}I hope they're all okay.
+
+P: We'll do our best to help them.
+
+M: Yes! We will fix their problem, whatever it is. 
+{w=0.1}<Mei-happy>And, we get to see penguins up close!
+
+N: She slows the craft to a stop near the penguins -- not too close 
+as to startle them, but not so far that you have to walk more than 
+necessary. Exercise out here expends a lot of energy that's hard to 
+reclaim with just the food you brought.
+
+For a brief moment, you wonder what penguin might taste like...
+
+But then you completely shut that thought down. What would Mei think 
+of a suggestion like that? She may just freeze you in a block of ice 
+and leave you here.
+
+In your cramped cockpit, you and Mei pull on all your extreme-weather 
+clothes, bundling up as much as possible before braving the 
+below-freezing temperatures outside.
+
+Evolution sure is an impressive thing, that penguins can just chill 
+out in this kind of temperature without batting a birdy eyelash thanks 
+to nature's insulator: fat. You, on the other hand, would die pretty 
+quickly without your clothes.
+
+Nature decidedly did not insulate you very well. To be fair, evolution 
+didn't exactly predict you'd be travelling all the way to the bottom 
+of the Earth. It's not like it's a future-seer, it's just a very long, 
+very slow process.
+
+Still... what you wouldn't give for a bit of that 
+ice-dwelling-creature blubber right now. You brace yourself for the 
+freezing cold, and open the cockpit's door.
+
+Ice-cold air rushes in, your nose freezing in seconds. You clamber 
+out of the craft and down onto the snow, thankful that it holds your 
+weight, and take a proper look around.
+
+Sure, there's snow everywhere -- duh, it's Antarctica -- but there 
+are ice formations not too far away. They rise and curve like waves 
+frozen as they crested, layers of blue-green ice lit as if from within 
+by the sun.
+
+{i}Dang. Not a bad view.{/i}
+
+If you're totally honest with yourself, Antarctica always seemed very 
+bland in your mind. How could so much white be interesting? Well, 
+you're definitely getting shown just how wrong you've been this whole 
+time.
+
+White isn't the only colour here. There's the black and yellow of 
+the penguins, the bright blue sky, the layers of turquoise within 
+the ice, and the pink-red of Mei's cold -- and admittedly cute -- 
+nose. 
+
+And the white itself is far from bland. Snowflakes glitter in the 
+sunlight, filling the world with what could be sparkles. Like stars 
+scattered across the landscape. Sure, it's blinding, but it's pretty.
+
+{i}Note to self: remember your sunglasses.{/i}
+
+Mei clambers out of the craft after you, closing the door behind her 
+and then pausing to admire the view just like you are. She inhales 
+deeply, then exhales, letting out a cloud of frosty air.
+
+<Mei-happy> M: That's brisk!
+
+P: Tell me about it.
+
+M: If we have free time later in the deployment, would you want to 
+go see those formations? I think I packed a camera somewhere...
+
+      /// INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Yeah!
+SECOND CHOICE: Nah.
+THIRD CHOICE: If you want.
+      
+///FIRST CHOICE///
+
+VARIABLE: $Iceformation
+
+      P: Yeah! Definitely. I'd love to.
+
+M: Yes! Cool! I was hoping you would want to. They look quite beautiful 
+from afar, don't they?
+
+P: Quite... a-{i}Mei{/i}-zing, you could say.
+
+<Mei-surprised> N: Mei's eyes widen with delight, and then she 
+doubles over laughing. <Mei-happy>You gather she's a fan of your joke. 
+You are so glad you were paired with someone who appreciates you.
+
+M: Haha, that is amazing. A-Mei-zing! I am absolutely going to use 
+that. Hahaha!
+
+P: It's all yours.
+
+N: She claps her hands together, face so filled with joy she seems 
+almost brighter than the sunlit snow. You're not sure you've ever 
+met someone as wonderful as Mei.
+
+M: Enough jokes! <Mei-neutral>We must get to business. These penguins 
+are not going to sort themselves out. Or at least, I am sure they 
+would appreciate some help.
+
+P: What kind of penguins are these, by the way?
+
+M: Oh! Emperor penguins. Aptenodytes forsteri, if you want their 
+scientific name. They are the tallest and heaviest of all penguin 
+species, growing over a meter tall! They can also live up to twenty 
+years.
+
+P: A meter? I always thought penguins were small.
+
+M: Oh no, definitely not. I wouldn't want to be tiny if I lived here. 
+I think the smallest penguins to be found in Antarctica are the 
+rockhoppers. They look like they have little punk hairstyles.
+
+P: Oh, yeah, I know the ones you mean.
+
+N: You're not going to lie, her saying they look like they have 
+hairstyles did help you remember which penguins she meant. Yeah, 
+maybe you didn't pay much attention when learning about Antarctica 
+and seabirds. You still got your degree.
+
+Mei starts towards the penguins, trying to move as smoothly as she 
+can when bundled up and walking through snow.
+      
+///SECOND CHOICE///
+
+      P: Nah. I think I'm okay just seeing them from here.
+
+<Mei-worried> M: Oh, okay... That's fair.
+
+N: It's pretty clear you upset her a little, she must have been excited 
+by the idea of going to see the ice.
+
+P: You can always go, though! You don't have to drag me along.
+
+M: Yeah... I guess so. 
+
+N: She looks downcast as she pouts her lips subconsciously, clasping 
+her hands before her. She gazes out at the formations, and you feel 
+a pang in your heart. She might like the ice, but you feel like the 
+cold-hearted one here.
+
+<Mei-neutral> M: No point worrying about that now though! We have 
+penguins to deal with.
+
+N: At her own mention of penguins, her eyes light up again. 
+{i}Whew{/i}. You're past that for now. If she asks again you might 
+just change your mind, becuase you'd hate to make her think you don't 
+want to spend time with her.
+
+M: Did you know Emperor penguins bow repeatedly to each other when 
+courting? The male will bow to a female he likes, and she'll bow back 
+if she likes him too. It's so cute!
+
+N: She mimics a little bow, her hands straight by her side like penguin 
+wings.
+
+You bow back, feeling a little like a dork as you pretend to be a 
+penguin. It works, though, because she looks much happier than she 
+did only a few moments ago.
+
+<Mei-happy> M: Just like that! Except with more weird penguin 
+burbling, which is probably super romantic if you're a lady penguin.
+
+P: You sure know a lot about penguins.
+
+M: It's because I love them! Just like you know a lot about food.
+
+<Mei-neutral>Besides, I've known for a while where this deployment 
+would take me once we got an oceanographer working with us, so I've 
+had time to study a bit.
+
+Anyway! Penguins!
+
+P: Right!
+
+N: As Mei starts towards the penguins, you think of their little 
+courting ritual. Mei bowed to you -- was that just a silly 
+demonstration, or hints of something else?
+
+{i}Don't be ridiculous!{/i}
+
+You decide that of course she was just demonstrating. Still, as you 
+follow behind her, you can't entirely decide why you bowed back.
+      
+///THIRD CHOICE///
+
+      P: If you want to. It's up to you.
+
+M: Hmm. I think it would be nice, don't you? But only if we end up 
+having time for it! 
+
+P: Okay, that sounds good.
+
+M: Perfect! I wish I had more time to explore this continent, I wonder 
+if I'll be allowed to stay here when this deployment is done, or if 
+I'll have to move on. Antarctica does need observation, it's a 
+critical danger zone.
+
+P: Critical danger zone?
+
+M: Places that, if a massive ecological disaster happens, could 
+seriously affect the world in a very negative way. If Antarctica melts, 
+low-lying places on Earth will flood, and we'll lose Earth's natural 
+aircon, raising temperatures more.
+
+P: Oh, right. That's not good.
+
+<Mei-worried> M: No, it's really not. That's why I took stepped up 
+to this job. If nobody does anything, we'll lose our planet. There 
+are more important things in this world than just humans, we have 
+to protect all life here.
+
+Really, it is very selfish that the climate and natural environments 
+have been so low on governments' agendas for so long. Don't they know 
+how important it is? They must! If humanity dies out, what does 
+everything else matter?
+
+<Mei-neutral> {i}Sigh{/i}. I am sorry. I didn't mean to rant. I just 
+get so worked up about this!
+
+N: Her cheeks are rosy, and her eyes are shining with her passion 
+for what she does. She is certainly worked up, but it gives her a 
+certain fire that shows just how much she cares. You feel inspired 
+to save the world.
+
+P: You don't have to be sorry. I agree.
+
+M: You do? Good! Then they didn't send you here with me for nothing. 
+I would hate to think an oceanographer didn't care about the 
+environment anyway. I just wish more people listened to us.
+
+P: I'm sure they'd listen to you. It's obvious how much passion you 
+have for the environment.
+
+M: Maybe... They might just think I am a massive dork, though.
+
+P: Aren't you?
+
+<Mei-blushing> M: No worse than you.
+
+N: She rubs a gloved hand across her nose, looking over at the gathered 
+penguins. You think they're a good two hundred meters from where the 
+two of you stand, but you're not really sure.
+
+<Mei-neutral> M: Penguin time?
+
+P: Penguin time.
+
+N: You both head in the direction of the penguins, taking care to 
+not make any sudden movements that might startle the birds which means 
+that really, you kind of waddle over.
+
+You can't say the penguins don't know what they're about with that 
+waddling.
+      
+//////
+
+BG: ANTARCTICA EXTERIOR 2
+      
+N: As you approach the penguins, you scientifically conclude that 
+there are a {i}lot{/i} of them. A swaying abundance of birds. A 
+jiggling avian swarm. A veritable plethora of penguins.
+
+Too many to count, that's for sure, and they're far from quiet quiet.
+
+There's a mass of sound emanating from the penguins, a warbling 
+mish-mash of trumpeting and braying unlike anything you've ever heard 
+before. There's an edge to the noise, like distress or fear. Beaked 
+faces turn to watch you both.
+
+You stand at the edge of the colony while the penguins honk at you, 
+but Mei carefully makes her way deeper into the congregation of chubby 
+birds. She stands out, so you don't worry about losing her amongst 
+the penguins.
+
+P: You have any plans?
+
+M: I'm going to run a few non-invasive tests on some of them. Do you 
+think they look a little freaked out?
+
+N: You're not really a penguin expert, but the way they shuffle 
+definitely looks a little anxious. They dart their heads around, as 
+if watching for something. And yet, they don't seem particularly 
+scared of you.
+
+P: Yeah, I'd say so.
+
+<Mei-worried> M: Hmmm...
+
+One of the birds bumps against you and wanders off, and you're 
+surprised by the weight of the thing. No wonder they can't fly, 
+there's no way they'd get that mass off of the ground. 
+
+As Mei works, you watch the penguins mill about. The little 
+orange-yellow patches at their throats remind you of the gradients 
+of a golden sunsent. Now that you're closer, you also notice their 
+backs aren't a uniform black.
+
+Their feathers look soft, though there's no way you're taking off 
+a glove to check. No amount of cuteness would make you that suicidal. 
+Though there are younger penguins with fluffy, grey coats that might 
+test that resolve.
+
+From memory, you recall that the younger penguins' feathers aren't 
+waterproof yet, and that they still need to moult. It's a crime 
+against nature that evolution decided such utter cuteness wasn't 
+viable for adulthood. 
+
+Mei moves back to you, the penguins wobbling very ungracefully out 
+of her path. She holds her infopad tightly in her gloves, far out 
+of the penguins' reach. 
+
+<Mei-neutral> M: They're healthy, as far as I can tell. However, they 
+aren't travelling to the ocean to eat, and... that's not good.
+
+P: But they aren't starving?
+
+M: They store up a lot of body fat to survive them through months 
+of fasting, especially when breeding, so they won't starve yet. 
+However... <Mei-worried>
+
+P: However?
+
+M: It's moulting season soon, and they need to store up more food 
+or else they're going to compromise their moults. That could very 
+well be what starves them, if they continue to refuse to feed.
+
+P: Do you know why they won't?
+
+M: I have no clue! <Mei-grumpy> I thought something obvious would 
+present itself once we were here. For all intents and purposes, they 
+are perfectly fine.
+
+P: But something is wrong.
+
+M: Yes. This isn't normal. <Mei-worried> I'm not sure what to do.
+
+N: You turn away from Mei and take in the penguins again. They bumble 
+about, the weirdest birds you've ever seen, and you feel your stomach 
+tie itself in knots. How on Earth are you supposed to help them?
+
+      ///CONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE <approval - 1>: Maybe there's nothing we can do.
+SECOND CHOICE <approval + 1>: We could take them home with us.
+      
+///FIRST CHOICE///
+
+      P: Maybe there's nothing we can do, nothing we can fix. Nature 
+does weird things sometimes.
+
+M: What?
+
+N: A shadow passes over her eyes as she stares at you intensely through 
+the lenses of her glasses. She puts the pad back into a pocket and 
+crosses her arms, looking very much like a disappointed teacher.
+
+P: I mean, we don't have to do anything right now. They've got time 
+for us to figure out if there is a problem.
+
+<Mei-grumpy> M: {i}If?{/i} There's no doubt that something is wrong 
+here. And we don't have as much time as you might think! We can't 
+waste time shrugging our shoulders and hoping for the best.
+
+...
+
+<Mei-worried> I can't just leave them. They're in trouble.
+
+P: You can't stay out here all night. That's going to get you killed. 
+
+N: She sighs, her breath clouding before her. The glare reflecting 
+off her glasses hides her eyes from you, but you can tell by the slump 
+of her shoulders that she's not exactly happy with your suggestion.  
+
+P: We can observe them for a while, see if anything changes? I'm not 
+saying we up and leave the Watchpoint and go home, obviously. I still 
+think we need to do what we can. 
+
+But there's nothing we can do right now.
+
+N: Mei raises her head, her eyes wide wide. She covers a gasp with 
+her hand, then grabs your arm excitedly.
+
+<Mei-happy> M: But there is something we can do right now! It's 
+genius!
+
+P: What?
+
+M: It won't be easy, and it'll take a couple trips... Hmmm... Can 
+we even fit them...?
+
+P: Fit what?
+
+N: But it's clear she's disappeared into her plan, whatever it is. 
+She pulls out her infopad again and starts tapping away, mumbling 
+to herself as she works. A grin works its way across her face.
+
+You stand silently for a few minutes, waiting for her to resurface 
+and explain everything. It seems that you have totally become 
+non-existent to her in her excitement.
+
+P: What are you planning?
+
+N: She looks up quickly, apparently surprised at your interruption.
+
+M: The Watchpoint!
+
+P: Not to sound repetitive but, what?
+
+M: We can take them to the Watchpoint!
+
+P: Take them...?
+
+N: Her meaning dawns upon you all at once, like a tidal wave of 
+wiggling penguins: she wants to bring the colony -- the waddle -- 
+back to the Watchpoint. The entire lot of them, most likely. No 
+penguin left behind.
+
+Her idea is ridiculous, of course. How on Earth will you fit this 
+many birds into the complex? What does she intend to do with them? 
+Does she expect to feed them? They'll be smelly and loud and... 
+they'll definitely be pooping.
+
+You are {i}not{/i} cleaning that up.
+
+P: Are you sure that's a good plan?
+
+M: Of course it is! We can keep them under direct observation and 
+run better tests on them. <Mei-neutral>I wonder if Jack will be 
+willing to send enough supplies to feed them all...
+
+P: How are we going to get them back to the Watchpoint?
+
+M: In our snowcraft! There's the whole compartment in the back for 
+transport.
+
+P: There are way more penguins here than can fit in there.
+
+M: It'll be a few trips.
+
+P: You're not going to back down from this, are you?
+
+<Mei-happy> M: Nope! So you can either help me, or stand there like 
+a big jerk. What'll it be?
+
+N: You know that turning down her request will put you even further 
+in her bad books than your last suggestion did, and you're not really 
+willing to risk your mentor-slash-commanding-officer hating you.
+
+So, there's only one thing for it.
+
+P: Yeah. I'll help.
+
+M: Perfect! I knew you would, it's the right choice to make.
+
+N: You're not so sure it's the {i}right{/i} choice, per se, but it's 
+definitely the one that's been made. Whether you like it or not, 
+you've suddenly gained a hundred more roommates.
+
+And you were only just getting used to Snowball.
+
+Oh well, nothing that can be done about it now. At least penguins 
+won't be as sassy as the little drone. {w=0.1}Or so you hope.
+
+      ///SECOND CHOICE///
+
+      P: We could take them back to the base with us.
+
+<Mei-surprised> M: We could... what?
+
+P: Back to the Watchpoint. We can take care of them there, maybe run 
+more tests. And we'd have constant observation of them.
+
+It's probably not a good idea. Sorry.
+
+M: You don't have to be sorry! I actually like it.
+
+P: You do?
+
+M: Yes! We'll have to lower the temperature of the Watchpoint a little 
+for their comfort, but it is a good way to make sure they're safe 
+while we figure out what's going on.
+
+Plus...
+
+P: Plus?
+
+<Mei-happy> M: We'll get to live with penguins! How amazing is that?
+
+P: Pretty amazing?
+
+<Mei-neutral> M: Oh! But how will we get them back to the Watchpoint? 
+I'm not sure it's easy to herd penguins.
+
+P: Hmmm...
+
+N: You cast about, looking for anything that could help. You're not 
+sure what you expect to find, the only things here are ice, snow, 
+and an entire community of penguins. Then, something catches your 
+eyes.
+
+There is one more thing nearby, something that could solve your 
+problems.
+
+P: What about the snowcraft?
+
+M: That could work.
+
+P: It'll definitely take more than one trip.
+
+M: Good thing we headed out early, then.
+
+P: Are we really going to do this?
+
+M: Why not? I can't think of anything else we can do for them right 
+now. Once they're secure, we can investigate more.
+
+P: How will we feed them?
+
+M: Poor old Jack's about to get a really big food request, I think.
+
+P: The base is going to smell like fish for a long time, isn't it?
+
+<Mei-happy> M: Sure is. But it'll be worth it.
+
+N: You can tell by the grin plastered across Mei's face that she's 
+very happy with your idea. You feel a little burst of pride in your 
+chest at that -- maybe you're not so useless on this mission after 
+all!
+
+Still, this is going to a hell of a lot of effort to pull off. You're 
+not sure if penguins particularly like being forcibly moved from 
+their homes.
+
+Then again, it's not like this is their home anyway. At least you 
+and Mei might be able to make them feel a little safer than they seem 
+to feel now. After they get used to being inside a human building.
+
+Poor things, they're about to go on one crazy adventure.
+
+      //////
+
+      <Mei-neutral> M: I'm going to go bring the craft closer, you 
+wait here.
+
+P: I can do that.
+
+N: Mei nods, then tromps off back towards the craft you two arrived 
+in. As you wait, the penguins seem to slowly surround you, as if 
+absorbing you into their ranks. You guess they like you.
+
+Good thing, that, since you'll all be living together soon.
+
+Mei pulls the craft in slowly and carefully, and while the penguins 
+definitely edge away from the oncoming craft, they don't straight-up 
+turn and run.
+
+Though you're not sure if penguins can run. At least they're not all 
+sliding away on their bellies.
+
+Disembarking the craft, Mei gives you a quick grin, then heads to 
+the back and opens up the storage compartment. She walks back over 
+to you and places a hand on your shoulder.
+
+M: You ready for this?
+
+P: As ready as I'll ever be.
+
+N: The two of you get to work, not entirely sure exactly what you're 
+doing. You reach for the closest penguin and wrap your arm around 
+the creature, but when you try to lift it, the thing slides right 
+out of your grip.
+
+{i}Damn slippery birds.{/i}
+
+The penguin waddles away from you, tooting rudely.
+
+P: Whatever, buddy! I was trying to help you.
+
+Mei manages to heave one of the penguins up and places it into the 
+craft. The penguin looks at her for a moment, then jumps out back 
+into the snow and slides away.
+
+M: Hmph. This isn't going to work. 
+
+P: What else can we do?
+
+N: Mei scratches her head, looking from the snowcraft to the penguin 
+colony. Her furrowed brow betrays her intense thoughts, and you 
+remain silent so as not to disturb her. 
+
+After a few minutes, she perks up. You can almost see the lightbulb 
+flash above her head.
+
+M: Okay, I have an idea.
+
+P: And...?
+
+M: You might not like it.
+
+P: What is it?
+
+M: I have an endothermic ray.
+
+P: An endo-what?
+
+M: {i}Sigh{/i}. An ice-gun. It can freeze things. Not fatally! But 
+enough that we could freeze the penguins to move them easier. Then, 
+when we get to the Watchpoint, we bring the craft inside and let the 
+penguins out of their own accord.
+
+P: And it won't hurt them?
+
+M: It shouldn't! I've never used it on a penguin, but it's fine for 
+humans.
+
+P: Why were you freezing humans...?
+
+<Mei-blushing> M: Um. {w=0.25}Lab pranks. 
+
+P: ...
+
+M: ...
+
+P: ...
+
+<Mei-neutral> M: Anyway! It's the best plan we've got so far. What 
+do you think?
+
+P: If you have faith in your ice-gun, sure. Though the penguins will 
+be a lot slipperier if they're encased in ice.
+
+M: Stop being such a butter fingers, then!
+
+N: Before you can reply, she disappears into the back of the craft. 
+You hear thuds and clanks as she tries to find her... what did she 
+call it? Endothermic ray? 
+
+She may not be able to see you, but the need to defend your honour 
+is overpowering.
+
+P: I'm not a butter fingers!
+
+M: Haha! Ice fingers!
+
+N: She reappears with a weird-looking gun in her hand. It has what's 
+clearly a canister of some freezing liquid or gas connected to its 
+body, and a glass sphere at the rear that holds a glowing blue orb 
+of {i}something{/i}.
+
+M: Endothermic ray! I thought about calling it a blaster, but that 
+seemed too violent, no?
+
+P: Sure looks like a gun.
+
+M: Surprisingly, the best method of shooting something is a gun. 
+
+P: Point taken. Will it work?
+
+M: Let's find out!
+
+N: By this point, the penguins have gathered around you again, their 
+long bodies bumping against you as they warble. Mei picks out her 
+target -- a particularly tall male -- aims, and fires a spray of frost 
+that freezes the penguin in seconds.
+
+The ice crackles as it settles, but the bird doesn't move. The others 
+around it shy away, trumpeting with confusion and worry. A female 
+cries at the frozen penguin, and you realize she must be its mate. 
+Oops.
+
+Mei targets the female and freezes her too, then nods at you.
+
+M: Time to give this another try! 
+
+N: Both you and Mei take a penguin and lift. The penguin in your arms 
+-- the male -- is as slippery as you thought he might be, but you 
+manage to get a somewhat-solid grip on him and carry him into the 
+craft's storage compartment.
+
+You set him down as softly as you can, and he slides away to the back 
+of the compartment. You step back to give Mei space, and she slides 
+the female into the compartment, where she clinks against her mate.
+
+Mei dusts her hands off beside you, surveying the remainder of the 
+colony. A metric fucktonne of penguins, and only the two of you to 
+move them. This could take a while.
+
+M: Two down. A thousand more to go. We've got this!
+
+N: You groan.
+
+...
+
+It takes longer than you would like to fill the compartment safely 
+with penguins, stacking the frozen birds atop each other. More remain 
+-- hundreds more -- but you've got your first lot.
+
+You and Mei climb back into the cramped cockpit and she takes off, 
+pushing the craft to its limits across the snow in an effort to reach 
+the Watchpoint before the birds fully thaw.
+
+When you return, she pulls the craft into the garage she brought it 
+out from this morning. You both disembark, and open the rear of the 
+craft. Penguins tumble out, big blobs of bird flopping onto the garage 
+floor.
+
+<<bg>> ECO-WATCHPOINT INTERIOR
+      
+They wander about, braying in their weird way, and Mei leads them 
+into the Watchpoint proper with kind words. You watch the entire thing 
+with a sense of disbelief. There's no {i}way{/i} this is what's come 
+of your life, right?
+
+And yet, it's really happening. Right in front of you, Mei calms the 
+penguins and introduces them to your current home -- now their home 
+too.
+
+There's something special about Mei, and the birds must sense it too. 
+Why else are they so chilled out when you've essentially just 
+kidnapped them?
+
+Or maybe they're just chill birds anyway.
+
+Still, you can't stop staring as Mei herds the small bundle of birds 
+into the Watchpoint. She's lit up with the joy of actually doing 
+something to help -- and with the happiness that seems to come from 
+her being near cute animals.
+
+She closes the penguins into the Watchpoint, and returns to your side, 
+her cheeks flushed with the effort.
+
+M: Whew! They are a talkative bunch.
+
+P: I think they like you.
+
+<Mei-blushing> M: You think so?
+
+P: Yeah. You're pretty cool.
+
+M: Ha! That sounds like you talking, not the penguins.
+
+P: No, no. I can understand them, I speak penguin. They definitely 
+said that. "Mei is cool!" 
+
+M: Where did you learn to speak to penguins?
+
+P: At... penguin school. Which is for penguins.
+
+M: Ah, of course. Penguin school. How could I forget the existence 
+of such a prestigious establishment.
+
+P: I don't know, seems pretty foolish on your part.
+
+M: Well, tell the penguins I said thanks. And tell them I think you 
+-- uh, the penguins are pretty cool themselves. 
+
+P: I'll make a note of it. {w=0.1} Now, shall we go rescue the rest 
+of their friends?
+
+<Mei-happy> M: Let's!
+
+<<fade>>
+
+TITLE: MEI/DEPLOYMENT ONE/I GUESS THIS IS HAPPENING NOW
+
+BG: ANTARCTICA EXTERIOR 1
+
+
+ 
+
+
+      N: With a sun that never sets hanging in the sky, you're not 
+entirely sure what time it is, or how long you and Mei have been 
+carting penguins across the snow. You feel as if you've seen a million 
+of the birds, a never-ending waddle.
+
+But as you pause for a break and look out at the birds, you realise 
+that you're almost finished. Somehow, miraculously, there are only 
+enough penguins left for one more journey back to the Watchpoint. 
+The two of you actually did it.
+
+Mei steps up beside you and puts her hands on her hips, her eyes 
+gleaming as she watches the few remaining penguins toddle around in 
+confusion.
+
+P: Will we need to turn down the Watchpoint's temperature for them?
+
+M: Hmm, not too much. Emperor penguins can regulate their body 
+temperatures pretty well up to 20 degrees Celsius. They're amazing 
+creatures.
+
+I can't believe we're going to have them living with us! What an 
+opportunity to learn about them. Though other scientists might not... 
+approve. 
+
+P: ... yeah. Well, we're doing the best we can.
+
+M: Of course we are! {w=0.1}Oh, and I put in an order for food for 
+them. Let's just say that the Commander is... how shall I put it? 
+Confounded. I think he was hoping you might keep me out of trouble 
+here. 
+
+N: Oh dear. You worry you've failed Commander Morrison, if that's 
+really what he wanted from you. It's not like you knew you'd end up 
+complicit in mass penguin kidnapping! 
+
+Will you get a reprimand when you get back to HQ? Get kicked right 
+out of Overwatch? A thousand bad possibilities run through your head 
+all at once.
+
+But... Mei's a valued Overwatch agent, and from the sounds of things 
+this isn't the first time she's done something, well, odd to complete 
+her mission. She is your mentor here, after all. You're just following 
+her lead.
+
+<Mei-happy> M: Do you think they'll eventually trust us enough to 
+let me cuddle them?
+
+P: They're still wild animals.
+
+<Mei-grumpy> M: Yeah... well... they're still cute.
+
+P: Why didn't they bring someone who studied penguins onto this 
+deployment?
+
+<Mei-neutral> M: We may have misjudged what it would entail. Maybe, 
+just a little.
+
+Oh well! You're here, and I'm here, and we'll solve this. I know we 
+will. We're both smart enough to figure this out! {w=0.1}And you need 
+to stop doubting yourself.
+
+N: She grabs your hands and holds them tightly between you both, her 
+face lit up with determination. 
+
+M: We didn't just pluck you out at random. You have a good set of 
+skills that fit in well with the rest of the team. You've got a good 
+heart. Have faith in who you are.
+
+Besides... {w=0.1}<Mei-blushing>I think you're pretty cool. I'm glad 
+you're here.
+
+P: Mei...
+
+N: The white world around you seems to disappear, with only you and 
+Mei remaining. You can feel your own cheeks heating up, and you hope 
+it seems like they're red from the cold, like Mei's. 
+
+She looks like she's about to say something, her lips parting slightly, 
+and then --
+
+A honking penguin pushes its way between you both, and the world 
+rushes back into existence. It looks up at you and toots again, as 
+if asking something.
+
+<Mei-neutral> M: Well, go on. Don't you speak penguin?
+
+P: ...
+
+How... are you, penguin...?
+
+N: The penguin twists its neck around to give Mei a look, then with 
+a final gaw the bird wanders off again, seemingly understanding that 
+you are actually useless to it.
+
+Tossing her head back, Mei laughs. You feel a little embarrassed, 
+though you can't quite pinpoint why. All you can do is chuckle along 
+with Mei as you watch the penguin rejoin its remaining friends.
+
+M: I can see you're extensive training in the language of penguins 
+has really paid off. 
+
+P: Must be a different dialect to what I learned.
+
+M: You're the {i}worst{/i} translator I've ever met. Good thing 
+that's not what we hired you for, huh?
+
+      ///INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Were you going to say something?
+SECOND CHOICE: I'm glad I'm here too.
+THIRD CHOICE: You can always find someone better.
+      
+///FIRST CHOICE///
+
+      P: Were you going to say something?
+
+M: What?
+
+P: I mean, before we were interrupted. You looked like you were going 
+to say something.
+
+<Mei-blushing> M: Oh, no, it's nothing. Don't worry about it.
+
+P: Are you sure? 
+
+M: Positive. Don't worry. <Mei-neutral>We've got more important 
+things to worry about right now.
+
+P: You mean the penguins, right?
+
+M: Yes, I mean the penguins. You are a question machine, did you know 
+that?
+
+P: A question machine?
+
+M: ...
+
+P: ...?
+
+M: Even your silences are questions! How do you do that?
+
+P: I don't know... I didn't realise I did that. Do you want me to 
+stop asking questions?
+
+M: Hehe, no. I don't want to crush anyone's curiosity, especially 
+not when I'm supposed to be their mentor, or whatever the Commander's 
+intends me to be. You can keep being a question machine.
+
+P: So I can keep asking questions?
+
+M: {i}Sigh.{/i} Yes, you can keep asking questions. 
+
+P: ...
+
+M: Yes?
+
+P: No, it's okay. I've run out of questions.
+
+M: That's a first.
+
+P: Is it?
+
+N: Mei rolls her eyes and pulls her freeze-ray from its holster. You 
+take a hesitant step backwards.
+
+M: I'm not going to freeze {i}you{/i}, silly. Not yet, at least.
+
+P: Whew. {w=0.25}Wait... not yet?
+
+N: She winks at you, then heads off towards the penguins with her 
+endothermic-whatever-it-is. You follow along behind at a fair 
+distance, refraining from thinking anything with a question mark.
+      
+///SECOND CHOICE///
+
+      P: I'm glad I'm here, too.
+
+M: What?
+
+P: Before, you said you were glad I'm here. I'm glad too. 
+
+<Mei-happy> M: Not many people would help me with something like this. 
+{i}"Mei, this plan doesn't make any sense." "Mei, this is a terrible 
+idea."{/i} That's what they'd say. Not you, though. You're different.
+
+P: I don't know how anyone could say no to a face like yours.
+
+M: Sucking up to me won't get you a better post-deployment review, 
+you know!
+
+P: That's -- That's not -- I'm not -- 
+
+M: Haha! I know you're not like that.
+
+P: How? You barely know me.
+
+M: I think after a day of penguin-hauling you get to know someone 
+pretty well. Besides, I've always been good at reading people. It's 
+been a skill that's helped me a lot in my time at Overwatch.
+
+You need to know if someone's going to be able to really help you, 
+or if they'll just become a threat or a liability to your mission. 
+That way you can fix things before they become problems.
+
+Otherwise, you end up with teammates who get scared and back out of 
+something when you need them the most. I try to avoid that. {w=0.1}But 
+then... I don't often work with a team.
+
+P: You're usually alone?
+
+<Mei-worried> M: Less people to get hurt if something goes wrong. 
+It's not that I don't like being around people... I don't want to 
+be the reason they get hurt.
+
+P: You know that if someone makes a choice that harms them, it's not 
+your fault.
+
+M: It feels like it is when you're in command of a deployment.
+
+P: Oh...
+
+N: You struggle to find the right words to help reassure Mei, never 
+having been in that position yourself. Does she worry about you 
+getting hurt under her watch? You wish she wouldn't -- you are prone 
+to hurting yourself, after all.
+
+P: You don't have to worry about me. 
+
+M: ...
+
+P: Okay?
+
+M: ...
+
+Okay.
+
+P: Good. Now, let's get these last few penguins so we can get home 
+and grab something warm to eat.
+
+<Mei-neutral> M: Sounds like a good plan.
+
+N: As you start towards the penguins, you hear the sounds of Mei 
+freeing her freeze gun -- endothermic ray, rather -- from its holster. 
+She catches up to you quickly, looking all kinds of heroic with the 
+way she shines in the sun. 
+      
+///THIRD CHOICE///
+
+      P: You can still find someone better suited to the job, you know.
+
+M: What, penguin translator?
+
+P: I meant in general. This whole deployment.
+
+M: What did I just say about having faith in yourself?
+
+P: That I need to have it...?
+
+M: Exactly! You need to be chill when it comes to this kind of thing. 
+If you stress out, everything suddenly gets harder and you make a 
+lot more mistakes. Just go with the flow, believe in what you're 
+doing.
+
+It's not always easy, but you have to try. You might find things a 
+lot easier to deal with when you figure it out. 
+
+So you'll try, right?
+
+N: You think of your entire life before this deployment, of how much 
+you stressed out when preparing for exams and tests because you wanted 
+to do as well as possible. Did that stress and anxiety ever help you? 
+You're not actually sure.
+
+Being more like Mei doesn't seem like a bad thing, though. She seems 
+so calm and in control, even after struggling to transport penguins 
+by the wing-load. 
+
+P: Yeah, I'll try.
+
+M: Good. <Mei-happy>No point getting worried about things now, we're 
+both here. It's settled and I'm not going to trade you out for someone 
+else. Especially not now.
+
+P: Aye-aye, Cap'n. 
+
+M: Damn it {$PlayerName}, I'm a scientist, not a pirate.
+
+P: Aye-aye, Doc. I promise I'll stop asking if you're sure you want 
+me here.
+
+<Mei-neutral> M: And promise you'll stop thinking about it, too. Or 
+at least try to stop.
+
+N: You're not actually sure you {i}can{/i} promise that, at least 
+not for a while yet. But Mei seems so determined to have you believe 
+in your worth, and you suppose if she has faith in you, you can at 
+least believe in that.
+
+P: I'll try. Thank you.
+
+M: Of course! Everyone needs someone to boost their confidence every 
+now and again, and I don't think the penguins are going to help you 
+with that. 
+
+P: It's true, emperors are not known for their encouraging ways. 
+Historically, they've kinda been jerks.
+
+M: Haha! You're not wrong.
+
+P: Speaking of the emperors... Should we get these Royal Majesties 
+to the Watchpoint?
+
+M: Imperial Majesties, actually. 
+
+P: My mistake! I wouldn't want to offend such esteemed royalty, now 
+would I?
+
+M: You know how those monarchs are.
+
+P: They sure are a...{w=0.1} {i}royal{/i} pain in my ass.
+
+N: Mei shakes her head with a laugh and unholsters her endothermic 
+ray. Her intention is clear: it's time to get back to business.
+      
+//////
+
+      N: You and Mei work your way through the last few penguins, her 
+freezing and you both carrying the frozen birds over to the craft. 
+They really do just seem completely resigned. Like, "okay, these 
+weird penguins are taking us somewhere."
+
+The last penguin even walks right up to you, braying plaintively as 
+if asking to be taken to its friends and family. The poor thing looks 
+so lost, you can't stop yourself trying to reassure it.
+
+P: Hey, you'll be with everyone else soon. Don't worry. We won't hurt 
+you.
+
+N: The bird meets your eyes with its own, and you think for a moment 
+that it understands you. 
+
+Then there's a {i}whoosh{/i} and the penguin freezes over. You bend 
+your knees and wrap your arms around it, careful to get as good a 
+grip as you can, then stand to head back to the craft.
+
+You slide the penguin into the back with the rest. They look like 
+strange, icy statues as they are, as if some master carver had come 
+along and created them from the ice and snow of Antarctica.
+
+Closing the compartment, you heave a thankful sigh. You thought your 
+body was unhappy with you yesterday, but today it feels like it might 
+just up and completely rebel against you. Your muscles seem to groan 
+with every movement.
+
+Hopefully, tomorrow won't have anywhere near as much heavy lifting 
+or walking. It would be nice to just sit down for the day and maybe 
+eat the entire time. That would almost be like heaven.
+
+In your mind's eye, you see the table in the kitchen stacked with 
+all sorts of hot, delicious foods. Ramen, roast chicken, stuffed 
+capsicum, heaped pancakes, everything you can possibly imagine.
+
+M: Come back to Earth, {$PlayerName}!
+
+Mei claps you on the shoulder, and you jerk out of your fantasy. At 
+the corner of your mouth you feel a bit of frozen drool, and you blush 
+as you wipe it away. Oops.
+
+M: Feeling a little hungry? I could hear your stomach rumbling.
+
+P: Maybe a little.
+
+M: I've got good news for you, then: we're all done here! 
+
+P: That {i}is{/i} good news.
+
+N: Mei closes the door of the rear compartment, locking it so that 
+it can't accidentally fly open during the trip home. Putting her hands 
+on her hips, she takes one last, long look at the area.
+
+The snow is a mess, disturbed by not just the two of you, but also 
+all the penguins. It's also coloured by, well... it's not like the 
+penguins exactly have toilets out here. You try not to think about 
+that too much.
+
+It's definitely not even close to being a pristine wonderland right 
+here, but it's evidence of life and hard work. Something about that 
+feels good to you... once you get past the smell, at least.
+
+Mei turns to you, grinning, with a block of chocolate in her hand. 
+Breaking off a piece, she hands it to you without words. You take 
+the piece and pop it between your lips, letting the heat of your mouth 
+melt it slowly.
+
+Is there anything better than a good piece of chocolate after a long 
+day of work? You highly doubt it. Thousands of studies could be done, 
+and maybe the only other thing that will come close is being buried 
+in kittens.
+
+Or... your eyes dart to Mei. Her own eyes are closed as she luxuriates 
+in the taste of the chocolate dissolving on her tongue. 
+
+Your heart starts to beat just a little faster as you take in the 
+details of her face -- probably just the sugar kicking in. No doubt 
+your blood sugar is low, right?
+
+You feel your face heat up and you quickly avert your gaze, waiting 
+in companionable silence as you both suck on your respective squares 
+of chocolate.
+
+M: It's really something out here, isn't it?
+
+      ///CONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE <approval +1>: It's beautiful.
+SECOND CHOICE <approval +0.5>: Not next to you.
+      
+///FIRST CHOICE///
+
+      P: Yeah. Beautiful.
+
+M: Do you think that if everyone could see this, they'd want to save 
+the environment even more? How can you see a view like this and think 
+the planet isn't important?
+
+P: Maybe they would. I can't imagine not being awed by this landscape, 
+and by all the penguins. It's... not something you can capture with 
+documentaries. 
+
+M: Seeing things on screens changes them. That's why so many people 
+don't actually understand how beautiful and dangerous the planet and 
+its environments can be. Everything's so much bigger in the real 
+world.
+
+But it's not like we'd want people to come visit here, I guess. They'd 
+just cause more damage. Tourists aren't necessarily the most 
+considerate visitors to at-risk environments, or endangered species. 
+
+<Mei-worried> It makes me sad. So many people just aren't ever going 
+to know.
+
+N: Her eyebrows draw together as she crosses her arms. Lowering her 
+head, she sighs. You wish you knew something you could do to comfort 
+her, like a hug. But you're not sure you know her well enough for 
+that, so you stay back.
+
+P: You know. And I know. And we both care. That's something, isn't 
+it?
+
+N: She looks up at you, her eyes swimming with sadness and worry behind 
+her glasses. Tucking a strand of hair behind her ears, she smiles 
+slightly.
+
+<Mei-neutral> M: You're right. That is something! 
+
+We're in a position to help Antarctica and the penguins! Thank you 
+for reminding me of that. Sometimes it's hard not to get caught up 
+in how much more I wish everyone could be doing.
+
+      	///INCONSEQUENTIAL CHOICE///
+
+      	FIRST CHOICE: I know what you mean.
+	SECOND CHOICE: I don't really get that.
+      
+	///FIRST CHOICE///
+
+      	P: I know what you mean. That happens to me, too.
+
+	M: I'm glad I'm not alone, then. We'll have to make sure neither 
+of us fall into that kind of thinking! We have to be positive about 
+what we're doing, or else it's far too easy to lose our ways.
+
+	P: Yeah, definitely.
+
+	M: Especially when it's only us and miles of snow. We've only 
+got each other to rely on. 
+
+	I know I can rely on you, though. You understand how it feels 
+to want to save the planet, and I know I can trust you.
+
+	P: Thank you. I won't let you down.
+
+	M: I know you won't. 
+      	
+	///SECOND CHOICE///
+
+      	P: I don't really know that feeling. I'm sorry.
+
+	M: It's okay, I don't expect you to. I think it's kind of a me 
+thing. I probably just think too much. 
+
+	<Mei-blushing>Aah, sorry for over-sharing, I didn't mean to 
+bring down the conversation like that!
+
+	P: What?! You don't have to apologize, especially for anything 
+like that!
+
+	M: Thank you. {w=0.1}I really feel like I can talk to you so 
+easily. I haven't met many people like that before.
+
+	P: Me?
+
+	M: Yes, haha! You! Never mind, it's silly.
+
+	P: I don't think it's silly. It might be a bit... {i}chilly{/i} 
+though. {w=0.1}
+
+	No, that was just bad
+
+	<Mei-happy>M: That was terrible.
+
+	P: Let's just forget that happened.
+      
+	//////
+
+///SECOND CHOICE///
+
+      P: Not really. I mean, just look at the mess those penguins made. 
+It's not exactly picturesque.
+
+M: You do know they'll be making this same mess in the Watchpoint, 
+right?
+
+P: ... so who's on cleaning duty?
+
+M: It's fine, I'll whip up something that can clean the floors for 
+us. {w=0.25}I can't believe you're not impressed by this view.
+
+P: I meant that compared to you, it's not much. 
+
+<Mei-blushing> M: That's very nice, but next to nature I don't think 
+any human really compares. Let alone me! I mean...
+
+N: She sweeps her arms in a wide gesture, seemingly unable to word 
+her thoughts. You get the gist of it though, because despite the dirty 
+snow, the rest is still damn nice.
+
+M: You know?
+
+      	///INCONSEQUENTIAL CHOICE///
+
+      	FIRST CHOICE: What if you fell in love?
+	SECOND CHOICE: Still doesn't compare to you.
+      
+	///FIRST CHOICE///
+
+      	P: I feel sorry for any suitors vying for your attention. 
+They're up against a whole planet!
+
+	<Mei-blushing> M: Haha! Hahaha! You're funny. I don't have any 
+suitors.
+
+	P: I can't believe that.
+
+	<Mei-neutral> M: You're going to have to, because it's true. 
+Where are {i}your{/i} suitors?
+
+	P: I... uh, don't have any.
+
+	M: Now I don't believe that! I think we're going to have to agree 
+to disagree here.
+
+	P: ... fine.
+
+	M: And even if I did have any, I'm way too busy for love. There's 
+a whole world out here for me to save.
+
+	P: Even heroes need a break sometimes, especially those as 
+hardworking as you. You don't even think about falling in love?
+
+	N: Her face takes on a dreamy look as she ponders your question, 
+as if she's gazing into another world invisible to you. {w=0.25}She 
+looks at you, and a small smile forms upon her lips, blooming like 
+a bright flower in spring.
+
+	M: ...
+	
+	Maybe one day. It would be nice, wouldn't it?
+
+	P: Yeah, it would be.
+      
+	///SECOND CHOICE///
+
+      	P: I still think you're the best view here.
+
+	<Mei-blushing> M: Haha! Stop! You're being ridiculous.
+
+	P: I'm sorry, I don't want to make you uncomfortable. I'll stop 
+if you want.
+
+	M: You're not making me uncomfortable. I'm just...
+
+	P: You're just...?
+
+	M: It's a very nice compliment. Thank you. You're very sweet. 
+
+	P: I'm only being honest.
+
+	M: Well, your honesty is sweet, then. That's one of the nicest 
+things anyone's ever said to me.
+
+	P: I mean it whole-heartedly.
+
+	N: Mei smiles widely at you, blushing about as much as you feel 
+you are. How can it be possible, you wonder, that nobody else has 
+said anything as sweet to her? She definitely deserves the kindness.
+
+	In fact, you're not sure you've ever met anyone as deserving 
+of kind words as Mei. It can't be only you who can see it, right?
+      
+	//////
+
+//////
+
+      <Mei-neutral> M: We did good work here today, {$PlayerName}. 
+Time to head home before we freeze to death.
+
+N: Mei climbs into the craft's cockpit, and you quickly follow her. 
+The cold is definitely getting to you now, you're not sure you can 
+feel your toes anymore. 
+
+Though, now that you think about it, you're not sure you ever actually 
+feel your toes. You're at least sure that right now, they're very 
+cold. Your nose, too.
+
+After this mission is done, you think you might ask for a deployment 
+somewhere warmer. Fiji, maybe. Surely there's some pending 
+environmental disaster that requires you in the tropics. As long as 
+Mei's in.
+
+Hot air blasts from the cockpit's heaters, and you revel in the warmth. 
+On your mind is the shower back at the Watchpoint, which you will 
+absolutely spend far too long in when you return. 
+
+P: If this killer cold is good for anything, it's making me appreciate 
+how much I enjoy warmth.
+
+M: The same could be said for any bad thing. The lows help you enjoy 
+the highs much more. Having a bad week? Your next good day will feel 
+even brighter afterward! 
+
+P: And a bad salad makes you appreciate a good dessert a lot more.
+
+M: Haha, yes. Exactly like that.
+
+P: I've never thought about it like that before.
+
+M: That's how I look at anything I have to go through that's hard. 
+Like this mission. It's been a lot of hard work to get the penguins 
+to the Watchpoint, and it'll be a lot more to figure out what's wrong.
+
+But once we've solved what's happening and fixed it for the penguins, 
+we'll feel so much more accomplished. It's one of the best feelings 
+in the world, helping those who need it even if it's difficult for 
+you at the time.
+
+P: How are you such a good person?
+
+M: I'm not sure I'm a good person, but I do try my hardest to be the 
+best I can be! I don't see the point of living any other way.
+
+I think everyone should do the best they can all the time, then we 
+can all help to make humanity the best {i}it{/i} can be!
+
+P: That's what Overwatch is here for, right? Doing the best it can 
+to help everyone.
+
+M: Yes, exactly. That's why Overwatch and all it stands for is so 
+important. If people have their heroes like Tracer and Winston to 
+look up to, then maybe they'll strive to become good people too. At 
+least, that's what I believe.
+
+Maybe they might even look up to me and want to help save the planet's 
+environment! That would be nice, I think.
+
+P: I can't imagine anyone looking up to me.
+
+M: Why not?
+
+P: I'm just an oceanographer. Next to people like you and Tracer, 
+I'm no hero. I'm just trying my best.
+
+M: And that's exactly what you should be doing! It shouldn't matter 
+if you're a world-renowned hero or "just" and oceanographer. You're 
+doing the best you can, and {i}that{/i} is what matters.
+
+Besides, saving the penguins would definitely be heroic. Don't write 
+yourself off yet. One day people will look up to you, I know it.
+
+P: Oh shush, you're gonna make me blush.
+
+<Mei-happy> M: That's the idea! Haha!
+
+N: Mei continues talking, but already you can feel the world drifting 
+away into darkness, your eyelids too heavy to fight. It'll take a 
+while to get back to the Watchpoint from here, surely long enough 
+for a nap.
+
+Her words fade into a soft, rhythmic sound without meaning. You feel 
+bad that you're not actually listening to her, but the warmth has 
+lulled you into a state of total blissed-out sleepiness that you don't 
+have the energy to tell her.
+
+Besides, her voice is nice to listen to{w=0.1}.{w=0.1}.{w=0.1}.
+
+...
+
+...
+
+<<fade>>
+
+TITLE: Interior
+BG: ECO-WATCHPOINT INTERIOR
+
+
+ 
+
+
+      N: {i}Clang!{/i}
+
+You startle awake suddenly, awoken by a loud clatter from nearby. 
+The world has become black and white, and the floor seems to be moving 
+and wriggling. Have you gone colourblind from the cold? Are you 
+dreaming? Hallucinating?
+
+You rub your eyes and realise that actually, you are just surrounded 
+by penguins. Of {i}course{/i} you are.
+
+It takes a moment to notice that you're back in the Watchpoint instead 
+of the cramped snowcraft. How you got back inside without noticing 
+is a mystery to you.
+
+From the smells and sounds emanating from the kitchen, you figure 
+Mei is making food. No doubt she was the cause of the sound that jolted 
+you from your now-faded dreams. That, or a penguin messing with 
+something it shouldn't be touching.
+
+You push yourself up from your seat and make your way through the 
+penguins and into the kitchen, where Mei hovers over the stove. 
+Looking up at you, she smiles.
+
+M: Hey, sleepyhead. Hungry? Just kidding, I know you are!
+
+P: Smells good.
+
+N: The penguins in the kitchen seem to swarm around Mei, hampering 
+any attempts on her part to move around. They gak at the stove, as 
+if they know there is food being cooked and they're asking for some 
+too.
+
+M: So I have some good news, and I have some bad news.
+      
+      P: Oh boy.
+
+      ///VARIABLE/// 
+
+If $BrokenDoor is true:
+
+      M: The good news is that the penguins have settled in better 
+than I expected, {i}and{/i} that there are no penguins in my room.
+
+P: ...and the bad?
+
+<Mei-worried> M: There are penguins in your room.
+
+P: How?! What?!
+
+M: So it turns out your room's locking mechanism is broken, which 
+means the door can't be closed properly. The penguins figured that 
+out pretty quickly.
+
+P: Ugh... 
+
+<Mei-blushing> M: I'm sorry. Guess you'll be sharing a bit more than 
+you expected.
+
+P: I just hope they're respectful roommates.
+
+M: Sorry! Sorry. Hopefully they'll be gone soon.
+
+      If $BrokenDoor is false:
+      
+M: The good news is that the penguins have settled in better than 
+I expected. Even better news for you: there are no penguins in your 
+room!
+
+P: That's great news! {w=0,25}Wait, my room?
+
+M: The bad news is my door is broken. It seems that some of the penguins 
+have decided to bunk with me.
+
+P: Hmm, that's not the best news.
+
+M: That's what I get for letting {i}you{/i} choose, huh?
+
+P: We can swap rooms, if you want.
+
+M: No, it's fine. I don't mind sharing with these cuties. Besides, 
+they shouldn't be here long anyway.
+
+P: You sure?
+
+M: I'm sure! Don't you worry about it. 
+
+      //////
+
+      P: This is only the first day.
+
+<Mei-happy> M: What next? An orca guard-dog? {w=0.1}Though... hmm, 
+more of a guard-whale, I guess. 
+
+P: I think I might draw the line at orcas. 
+
+M: What about a sealion?
+
+P: I might consider a sealion.
+
+M: I know what I'm bringing home tomorrow, then.
+
+P: Uh oh.
+
+N: You grin at her, but then something occurs to you. She must notice 
+the way your face changes, because she frowns inquisitively.
+
+M: What is it?
+
+P: If the penguins won't go into the ocean, maybe it's nothing to 
+do with the penguins themselves. Maybe there's something wrong with 
+the ocean.
+
+<Mei-surprised> M: Oh! Oh, you might be onto something there! I can't 
+believe I didn't think of that. <Mei-neutral> That means we're going 
+to need some things to run tests on the water, and maybe the other 
+animals in the water...
+
+N: She trails off, muttering to herself about experiments and 
+equipment you're both going to need to follow up on your idea. You're 
+just happy she likes your suggestion.
+
+Then, she pauses, and smiles at you.
+
+<Mei-happy> M: By the way, I've decided to give us tomorrow off. We 
+deserve a break day.
+
+P: Does that mean I can sleep in?
+
+M: Of course.
+
+P: Yes!
+
+N: She laughs, serving the food up as she does. Fighting through the 
+penguin horde, she hands you a warm bowl filled with something that 
+smells delicious. You're not sure what's in it, but you're too hungry 
+to ask more questions.
+
+You and Mei settle down with your dinner, chatting the rest of your 
+still-sunlit evening away as you eat. You feel good, the best you 
+have in months. Finally, you feel like you're doing something that 
+matters.
+
+Mei smiles warmly at you and your heart flutters in your chest. 
+
+What could the rest of this mission bring...?
+
+Probably nothing interesting.
+
+<<fade>>
+      
+      
+
+TITLE: ///SHORE LEAVE///
+      
+      FIRST CHOICE: KITCHEN
+SECOND CHOICE: CLIMATE LAB
+THIRD CHOICE: RECREATION ROOM
+      
+TITLE: MEI/SHORE LEAVE 1/KITCHEN
+      
+BG: KITCHEN
+
+
+
+
+
+      N: You step into the kitchen, which is, typically, filled with 
+penguins. No matter where you turn, they are there waiting for you. 
+You think the Watchpoint is your home? No. It belongs to the penguins 
+now. You're {i}their{/i} guest.
+
+You pick a path through the birds to the cupboard, only to find it 
+open and the food stored on the lower shelves stolen. Who could the 
+culprit be?
+
+Oh yeah. {i}Penguins.{/i}
+
+The birds nearest you look up with guilt in their little eyes, torn 
+food packaging at their feet. They know what they've done.
+
+
+      ///CONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE <approval -1.5>: Chase the penguins out.
+SECOND CHOICE <approval +1>: Feed the penguins more.
+      
+///FIRST CHOICE///
+
+      N: You're too hungry to deal with their shit right now, though. 
+How are you supposed to eat in peace with all of them watching you, 
+knowing they're likely planning a coup right at this moment to steal 
+all the food?
+
+Okay, you think that might be a bit too far-fetched. But you can't 
+deny that's what you'd be doing if you were in their place. There's 
+only one thing for it, then: getting the penguins out of the kitchen.
+
+It seems easy in theory, but you remember how hard it was to get the 
+penguins to the Watchpoint in the first place. This will require all 
+your wits and skills if you want to succeed. 
+
+...
+
+You flap your arms and squawk at the birds, informing them that this 
+is your space, and they need to leave -- or at least, that's what 
+you're hoping to tell them. 
+
+The penguins in the kitchen all look up at you, and for a moment you 
+think they might have gotten the message. Then, one by one, they all 
+go back to what they were doing before: literally nothing. Useless 
+layabouts.
+
+A couple of the birds honk at you, probably saying that you look like 
+a damn fool, and why are you embarrassing yourself like this? 
+
+A good question.
+
+You've been told before that when diplomacy fails, force is the next 
+logical step. Negotiating with these birds is clearly doomed for 
+failure, considering the massive language barrier and their outright 
+refusal to listen to you.
+
+You roll up your sleeves and push at the penguins near you, not 
+violently, but not softly either. They gak in response, shuffling 
+their weird little feet against the floor to right themselves and 
+push back against you.
+
+They huddle together into a group, giving you offended looks as you 
+try to slide them out of the kitchen. In barely no time at all you're 
+hot and huffing, and the penguins have barely moved.
+
+In fact, more have squeezed their way into the kitchen. They seem 
+curious about the fuss you're causing, judging your feeble attempts 
+at clearing some space.
+
+You didn't ever think you'd be judged by a penguin, but here you are.
+
+Taking a break to lean against the bench, you realise that force is 
+not going to work. You may be bigger and stronger, but there are a 
+lot more penguins than there are you.
+
+You only have one more option left to you...{w=0.1} annoying the 
+penguins away. A method proven to be effective many times throughout 
+history. You only hope it doesn't fail you now.
+
+It doesn't take you long to source a saucepan and a large spoon. The 
+birds crowd around you inquisitively, and you have to hold the 
+saucepan above their head to stop them tapping their beaks against 
+it.
+
+You raise the pan over your head, preparing yourself. Then, you bring 
+the spoon against the metal pan with as much strength as you can.
+
+{i}CLANG!{/i}
+
+The sound echoes through the kitchen and, you assume, the rest of 
+the Watchpoint. The birds jump away from you and the loud noise, 
+voicing their displeasure in your direction.
+
+You continue hitting the spoon against the pan. {i}CLANG! CLANG! 
+CLANGCLANGCLANGCLANG!{/i}
+
+Braying, the birds waddle their way away from the one-person 
+cacophony that is you and your makeshift instruments. 
+
+{/i}Yes!{/i}
+
+You taste sweet victory as you watch the penguins escape the kitchen, 
+feeling powerful at having succeeded.
+
+Then, the penguins part, and Mei enters the room. The pan and spoon 
+drop from your hands, hitting the floor with a clatter.
+
+<Mei-grumpy> She puts her hands on her hips and frowns at you. Her 
+eyes flash, and you know you're in trouble. This is the end for you. 
+She's going to kill you and feed you to the penguins, isn't she?
+
+M: ...
+
+P: ...
+
+M: What do you think you're doing?
+
+P: ... making noise.
+
+M: Why?
+
+P: ... I was trying to chase the penguins out.
+
+M: By scaring them? What in the world made you think that was a good 
+idea?
+
+P: I tried to ask nicely...
+
+M: ...
+
+N: You bow your head, only hoping that Mei is merciful when angry. 
+No doubt she is the patron god of penguins, and you have wronged the 
+poor birds. 
+
+P: I'm sorry.
+
+M: Are you really?
+
+P: Yes, I swear!
+
+M: You shouldn't be apologizing to me, then.
+
+P: What?
+
+N: She spreads her arms, gesturing at the birds that have huddled 
+around her. Instantly, you know what she's about to tell you to do.
+
+M: Apologize to them.
+
+P: But they're birds.
+
+M: Apologize. To. The. Penguins.
+
+N: This is ridiculous, right? She can't possibly expect you to 
+actually apologize to animals who can't even understand the words 
+"I'm sorry." 
+
+But she continues staring at you with the same hard look, her fists 
+planted firmly back on her hips. You know that at this moment you 
+have accidentally stumbled upon the icy part of her heart. 
+
+P: ... I'm sorry, penguins.
+
+N: Your mumbling seems to meet deaf ears, and neither Mei nor the 
+penguins drop their cold glares. She raises her eyebrows at you, 
+unamused.
+
+M: I don't think they all heard you.
+
+P: Fine. I'm sorry, penguins! I shouldn't have tried to chase you 
+out.
+
+N: The penguins seem to accept your apology this time, waddling back 
+to their claimed spaces in the kitchen. <Mei-neutral> Mei drops her 
+hands, nodding acceptance. You breathe a sigh of relief, feeling the 
+icy atmosphere slowly return to normal.
+
+M: Good, I'm sure you won't distress the penguins anymore, right?
+
+P: Right. I promise.
+
+M: Sorry for getting so mad. But you shouldn't have done that.
+
+P: I know.
+
+M: Good. I'm watching you.
+
+N: She points two fingers at her eyes, then swings them around to 
+point at yours. You get her message loud and clear.
+
+Without another word, she turns on her heels and disappears back where 
+she came from. The penguins fill the gap where she stood, giving you 
+the kind of look you imagine a smug young sibling might.
+
+Frustrated, but still hungry, you grab a couple protein bars and stalk 
+out of the kitchen. Damn penguins.
+      
+///SECOND CHOICE///
+      
+N: You can't bring yourself to blame them, though. How hungry must 
+the poor things be? Wouldn't you do the same thing if you were in 
+their place? You can't imagine not eating for a whole day, let alone 
+weeks at a time.
+
+You're suddenly very thankful you're not a penguin. You're also 
+thankful the penguins can't reach higher than their own heads, or 
+else you might {i}have{/i} to go without eating for a while.
+
+The birds stare at you plaintively and you feel your heart melt. How 
+can you even consider making yourself food in front of them, when 
+they must be starving? 
+
+You dig around in the cupboard, looking for food you think the 
+penguins might like. Unsurprisingly, there's no fish, squid, or krill 
+to be found anywhere. Just the packaged meals meant for human 
+consumption.
+
+You suppose they'll just have to deal. They already ate whatever was 
+stored lower down, anyway. They're probably not picky right now.
+
+You grab packages of food arbitrarily, throwing them onto the counter 
+with barely a look at their labels. After creating a sizeable pile, 
+you push through the throng to the food and begin opening packets, 
+emptying the contents.
+
+As you drop food to the floor, you make your way around the kitchen 
+in a loop to allow more penguins to access whatever random meals 
+you've spilled for them. You see something that looks like scrambled 
+eggs in the mix. {i}Eugh.{/i}
+
+P: Eat up! 
+
+N: The penguins barely hesitate before ducking their heads down to 
+investigate. It's not long until the curious few begin chomping away, 
+prompting their fellow birds to join them. 
+
+Soon enough, the kitchen is filled with penguins vying for a bite 
+to eat. You quickly realise there's no more space for you, and no 
+way to escape the mass of feathers and blubber filling the room.
+
+You climb onto the bench and stand, surveying the kitchen as if a 
+benevolent dictator watching over {$Possessive} kingdom. For your 
+first day as penguin-leader, you think you're not doing too bad.
+
+As long as you don't think too hard about the fact that you forgot 
+to grab a snack for yourself before climbing up here. You have no 
+idea how long you'll be stuck on this bench, waiting for the birds 
+to finish and disperse.
+
+Something occurs to you suddenly: the thought that maybe feeding the 
+penguins this much {i}wasn't{/i} such a good idea, after all. You 
+and Mei only have a finite amount of food, and you personally have 
+no clue when the next shipment is.
+
+The penguins can survive longer without food than the two humans 
+residing within the Watchpoint. What if you've just doomed Mei and 
+yourself? Will someone have to resort to cannibalism? 
+
+You're not sure you could bring yourself to that.
+
+Maybe you can learn how to icefish. You could catch some real, fresh 
+meals for dinner, and impress Mei while you're at it.
+
+... on second thought, you're more likely to slip on the ice and fall 
+through into the cold water below. You don't even know how to fish 
+{i}normally{/i}.
+
+You sit down, crossing your legs and making yourself as comfortable 
+as possible while you wait out your accidental isolation. The 
+penguins looks so happy to you that even if you have just made a 
+mistake, it feels worth it.
+
+Penguins wiggle away from the kitchen entrance, and you turn your 
+head to see Mei standing at the edge of the hungry horde. 
+<Mei-neutral> Her eyes sparkle as she takes in the view, and then 
+she looks at you.
+
+<Mei-happy> M: Haha! What have you done?
+
+P: I fed the penguins. They looked hungry.
+
+M: Are you stuck?
+
+N: You feel embarrassed to admit it, not wanting to appear as if you 
+don't think your plans through.
+
+Even though you clearly don't.
+
+P: No, I just like sitting.
+
+M: On kitchen benches?
+
+P: Yeah. What, you {i}don't{/i} like sitting on benches?
+
+N: She rolls her eyes, obviously not convinced. You can't possibly 
+understand why, your lying skills are stellar and your story totally 
+checks out. Maybe you just like being tall. Who is she to judge?
+
+Oh yeah, your supervising officer. 
+
+<Mei-neutral> M: Is this our food they're eating?
+
+P: Uh, yes.
+
+N: Her eyes dark to the half-open cupboard, and she crosses her arms. 
+Here it comes: The Lecture.
+
+M: You didn't give them everything, right?
+
+P: Of course not! But they also stole a lot of their own. So not all 
+of that is my fault.
+
+N: She sighs and makes her way to the cupboard. Though the penguins 
+refused to move for you, they easily make space for Mei to pass. No 
+doubt about who the favourite is here.
+
+She rifles through the food inside, mumbling to herself quietly as 
+she checks everything over. When she turns back to you, her shoulders 
+look much more relaxed.
+
+M: We definitely have enough food to last until the next shipment. 
+Assuming you don't go feeding the penguins the rest.
+
+P: I won't, I'm sorry.
+
+<Mei-surprised> M: Oh! No! <Mei-neutral> I'm sorry, I didn't mean 
+that as a bad thing. I think this was so nice of you to do. Especially 
+when I know you love eating so much.
+
+P: I just couldn't bear the way they looked at me. I couldn't imagine 
+being so hungry.
+
+<Mei-happy> M: You're so sweet. I'm sure they appreciate it.
+
+N: She pats your shoulder and moves as if to leave, picking her path 
+through the crowding birds.
+
+P: Wait!
+
+<Mei-neutral> M: Hmm?
+
+P: Uh... could you help me out of here?
+
+<Mei-happy> M: I knew it! Haha! You're totally stuck.
+
+P: Look,
+
+M: I am looking. At you stuck on the bench.
+
+P: Please?
+
+M: Of course.
+
+N: She puts her arms around you and picks you up as if you weigh nothing 
+at all. For a moment, you think she's going to throw you over her 
+shoulder, but instead she cradles you like the big baby you are.
+
+P: I wouldn't want to arm wrestle you.
+
+<Mei-blushing> M: Oh, I'm the worst at arm wrestling. You'd 
+definitely win.
+
+P: Pffft. Why do I doubt that?
+
+N: She just smiles at you, before setting you back on your feet at 
+the edge of the penguin crush. On the opposite side to the pantry. 
+Where the food is.
+
+M: I have to get back to some things. Have fun with your new friends, 
+{$PlayerName}!
+
+P: See ya.
+
+N: She gives you a little wave and heads off elsewhere. The heroic 
+climatologist, off to save another useless person from their own bad 
+decisions.
+
+Oh, right. You're the only person on this continent that fits that 
+description.
+
+Mei's probably off doing something actually useful, then.
+
+Your stomach grumbles, and you gaze longingly at the cupboard across 
+what seems like an infinite sea of penguins.
+
+Damn it.
+
+      //////
+
+<<fade>>
+MEI/SHORE LEAVE 1/CLIMATE LAB
+
+BG: KITCHEN
+
+
+
+
+
+      N: The moment you enter the climate lab, you feel the temperature 
+drop. Not so cold that you can see your breath, but cold enough that 
+you gather your clothes closer to you as you move further inside.
+
+Scattered around the place is the equipment you helped Mei carry 
+inside, most of it unidentifiable to you though some devices are at 
+least familiar. 
+
+There are also penguins, because of course there are. They all seemed 
+pretty chilled out, no doubt a result of finding the coldest room 
+in the Watchpoint. 
+
+You see Mei working at a desk, a device gutted before her. She doesn't 
+seem to have noticed your entry, she's so sucked into whatever she's 
+working on.
+
+      ///INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Approach Mei <approval +0.5>.
+SECOND CHOICE: Leave Mei alone.
+
+      ///FIRST CHOICE///
+
+      N: You approach Mei, wishing somewhat that you'd brought a 
+jacket in here with you. You know Mei likes the cold, but you weren't 
+expecting {i}this.{/i}
+
+<Mei-grumpy> As you get closer to Mei, you can see the frustration 
+in her stance and her actions. Hunched shoulders, pouted lips, 
+
+You stand right beside her, and she still doesn't seem to notice you.
+
+M: ... stupid thing... 
+
+P: Whatcha doing there?
+
+N: She nearly leaps right out of her skin, squeaking in surprise as 
+she smacks her hand right into your face. {i}SLAP!{/i}
+
+<Mei-surprised> M: Ahhhh!
+
+P: Ahhhh!
+
+M: Aaaaooohhh... it's you. <Mei-blushing>
+
+N: You can't help but give her a hurt look as you rub your stinging 
+nose. She, rightfully, looks apologetic and embarrassed. 
+
+M: Sorry! Sorry! I'm sorry!
+
+P: It's fine.
+
+M: I didn't realise you were there, you totally snuck up on me!
+
+P: You were very involved in... whatever you're working on.
+
+N: She looks down at the device lying in pieces on the table and 
+scratches her head. Even now, upon closer inspection, you have no 
+idea what this thing might be.
+
+M: I guess so.
+
+P: What is this object that has captured your attention so?
+
+M: Hmm. Something I'm working on to scan water for potentially 
+dangerous substances. For when we head out next.
+
+P: Sounds interesting! How does it work?
+
+<Mei-happy> N: She brightens suddenly, all sense of embarrassment 
+fading, and launches into an explanation filled with terms you don't 
+understand at all. You can tell she's saying words, but she might 
+as well be speaking another language.
+
+You smile and nod as she gestures animatedly, hoping she won't ask 
+you any questions when she's finished.
+
+You kind of regret asking her the question.
+
+M: What do you think?
+
+P: Uh...
+
+N: As she watches you, you search for something smart to say.
+
+P: Sounds like you know what you're doing.
+
+M: I'm glad someone thinks so. If only this thing would agree with 
+you...
+
+P: Have you tried hitting it?
+
+<Mei-neutral> M: What?
+
+P: That's what I do when things aren't working.
+
+M: And... does that work?
+
+P: Sometimes.
+
+M: ...
+
+...
+
+... I might try that.
+
+P: Good luck! I don't think I can be much more help than that.
+
+M: You had no clue what I was talking about, did you?
+
+P: ... no.
+
+<Mei-happy> M: Well, you're sweet to listen anyway! You didn't have 
+to do that.
+
+P: But you looked so excited about it all. I didn't want to ruin that.
+
+M: Awww! You're such a sweetie! 
+
+<Mei-neutral> But for real, you can go now. You're very distracting.
+
+P: Distracting?
+
+M: Yes.
+
+P: You're worried I'm going to trip and knock everything away, aren't 
+you?
+
+M: Yes.
+
+N: You can't blame her for worrying about that, it {i}is{/i} very 
+much something you would do, after all. No point staying here if 
+you're just going to get in her way. It's not like you know anything 
+about her equipment.
+
+P: Okay, but if you need anything just ask.
+
+N: Turning back to her work, she waves a hand at you.
+
+M: Mhmm, sure, of course.
+
+P: Why do I get the feeling you won't need me for anything? 
+
+M: Go have fun with the penguins!
+
+P: Yeah, yeah. Good luck with your... ocean-checker.
+
+N: She laughs, but says nothing more, and you have no choice but to 
+leave or else risk hanging around creepily. You turn to leave, waving 
+at her despite her not looking at you.
+
+As you leave the lab, you hear a {i}thunk{/i} that sounds awfully 
+like someone hitting a stubborn piece of technology.
+
+      ///SECOND CHOICE///
+
+      N: You stare at Mei for a few minutes, debating whether or not 
+to disturb her as she works. On one hand: you get to talk to Mei. 
+On the other: she look awfully busy.
+
+The penguins watch you cautiously as you stand there awkwardly, 
+trying to decide on what your next course of action should be. If 
+only you could stop being such an over-thinker.
+
+...
+
+Best to leave her be. You remember how much you hate it when someone 
+distracts you while you're in the zone, and this definitely seems 
+like Mei's zone. You don't want to ruin that for her.
+
+You turn back the way you came and leave.
+
+      //////
+
+<<fade>>
+TITLE: MEI/SHORE LEAVE 1/REC ROOM
+
+BG: KITCHEN
+
+
+
+
+      N: Looking for a little R&R, you make your way to the recreation 
+room. Upon arrival, however, you discover it's actually lacking a 
+lot of recreational activities. 
+
+A post-it note stuck to the wall nearby catches your eyes. You 
+approach it and read over the short, scribbled message.
+
+{i}Sorry, forgot to order some things for the room. Remind me to stock 
+when more agents move in. -- Morrison{/i}
+
+So, looks like the Commander isn't infallible after all. This 
+information warms you, until you remember that you wanted to do 
+something fun and not just stand amongst the penguins like a loser.
+
+And yes, there are penguins here. Aren't they everywhere, now? You 
+feel like you'll probably be dreaming about them tonight. They will 
+invade every facet of your life until you yourself become a penguin.
+
+Which might not be so bad, you decide. At least penguins don't have 
+to worry about half-empty recreation rooms. They can slide anywhere 
+on their stomachs. They are, thanks to evolution, able to have fun 
+anywhere they go.
+
+There's a treadmill against one wall, and really, what else is there 
+to do? You guess you could read some books, or something.
+
+      ///INCONSEQUENTIAL CHOICE///
+
+      FIRST CHOICE: Run for a while.
+SECOND CHOICE: Read a book.
+
+      ///FIRST CHOICE///
+
+      N: You head to the treadmill and switch it on. After a while, 
+you warm up to the rhythm of the machine and feel pretty badass as 
+you run.
+
+A few penguins gather around the machine curiously, their heads 
+whipping back and forth as they watch the track fly past. 
+
+For a moment, as you realise what's about to happen next, time seems 
+to slow. But there's nothing you can do.
+
+One of the penguins flops onto the track, ready to slide along the 
+treadmill as it goes. The penguin sure slides down the track{w=0.1}, 
+right into your feet.
+ 
+You and the penguin go flying off the end of the treadmill, into a 
+pile of more penguins. The birds honk with shock and indignation, 
+and all you can do is lie among them as the world spins and regret 
+every choice that lead you here.
+
+The penguin that tumbled off the machine with you wriggles off of 
+your stomach and waddles away from both you and the treadmill, likely 
+done with exercise for the day.
+
+You get up and switch the treadmill off. You're pretty done with 
+exercise for the day too.
+
+      ///SECOND CHOICE///
+
+      N: Yikes, exercise. Not today. No thanks.
+
+You instead grab a fun-looking book from the shelf and settle down 
+onto a couch. It's not something you've read before, but you're sure 
+you've heard of it. The Malnutrition Matches. Yeah, you've definitely 
+heard of it.
+
+...
+
+...
+
+About a third of the way through the book, you realise this is a 
+less-than-fun story. Maybe the Malnutrition in the title should've 
+alerted you to that. 
+
+When you look up from the book, you notice that as you've read, you've 
+been surrounded by penguins who have made their way onto the couch 
+too. Somehow, without realising, you became part of a big penguin 
+cuddle-pile.
+
+{i}Hmm.{/i}
+
+With a shrug, you return to your book.
+
+<<fade>>

@@ -140,9 +140,10 @@ namespace Fungus
         {
             //TODO: fix block position;
             Flowchart flow = FindObjectOfType<Flowchart>();
-            
+
             //Create block
-            Block b = flow.CreateBlock(new Vector2(-500, -500));
+            Vector2 blockPos = new Vector2(-500, -500);
+            Block b = flow.CreateBlock(blockPos);
             
             //load in data
             string textData = FindObjectOfType<Localization>().rtfDocument.text;
@@ -150,6 +151,7 @@ namespace Fungus
             string[] lines = textData.Split('\n');
 
             Character lastSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who's speaking, outside of loop to remember.
+            Sprite speakerSprite = null;
 
             //process line by line
             foreach (string line in lines)
@@ -161,7 +163,8 @@ namespace Fungus
                     //title of the block and create a new one
                     if (buffer.StartsWith("TITLE:"))
                     {
-                        b = flow.CreateBlock(new Vector2(-500, -500));
+                        blockPos = new Vector2(blockPos.x + 250, -500);
+                        b = flow.CreateBlock(blockPos);
 
                         buffer = buffer.Substring(7, buffer.Length - 7); //cuts "TTITLE: " from the front
                         b.blockName = buffer;
@@ -209,6 +212,17 @@ namespace Fungus
                                 buffer = buffer.Substring(3, buffer.Length - 3);
                             }
 
+                            if (buffer.StartsWith("<mei") || buffer.StartsWith("<bastion") || buffer.StartsWith("<soldier") || buffer.StartsWith("<mercy") || buffer.StartsWith("<genji"))
+                            {
+                                int lasti = buffer.LastIndexOf(">");
+                                string spriteName = buffer.Substring(1, lasti - 1);
+                                speakerSprite = FindSprite(lastSpeaker, spriteName);
+                                if(speakerSprite != null)
+                                {
+                                            buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1);
+                                }
+                            }
+
                             //Add Say command
                             Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
                             newCommand.parentBlock = b;
@@ -218,8 +232,20 @@ namespace Fungus
                             newCommand.storyText = buffer;
                             //assign speaker
                             newCommand.character = lastSpeaker;
-                            //remove lastSpeaker object again
 
+                            if(speakerSprite != null)
+                            {
+                                newCommand.portrait = speakerSprite;
+                            }
+                            else
+                            {
+                                if(lastSpeaker != null && lastSpeaker.portraits.Count > 0)
+                                {
+                                    newCommand.portrait = lastSpeaker.portraits[0];//default
+                                }
+                            }
+                            
+                            //remove lastSpeaker object again
                             //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
                             DestroyImmediate(flow.gameObject.GetComponent<Character>());
                         }
@@ -252,6 +278,19 @@ namespace Fungus
                             }
                         }
                     }
+                }
+            }
+            return null;
+        }
+
+        private Sprite FindSprite (Character speaker, string val)
+        {
+            
+            for(int i = 0; i<speaker.portraits.Count; i++)
+            {
+                if(speaker.portraits[i].name == val)
+                {
+                    return speaker.portraits[i];
                 }
             }
             return null;

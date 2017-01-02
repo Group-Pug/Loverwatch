@@ -191,7 +191,7 @@ After all, you {i}just{/i} got here. And you're already leaving again. {w=0.25}Y
 
 To distract yourself from your grumblies, you inspect your surroundings. The inside of the transport isn't very exciting, and all you can see through the small windows is white -- whether clouds or snow, it's impossible to tell. 
 
-<meiworried>Mei has her eyes on an infopad she has resting on her knee. She chews on her lower lip, her eyebrows furrowed. She blinks, then seems to notice your less-than-subtle gaze and turns to look at you.
+<meiworried> Mei has her eyes on an infopad she has resting on her knee. She chews on her lower lip, her eyebrows furrowed. She blinks, then seems to notice your less-than-subtle gaze and turns to look at you.
 
 <meihappyblush>M: Oh! I'm sorry, I forgot you were here! 
 

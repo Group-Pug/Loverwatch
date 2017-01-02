@@ -150,7 +150,9 @@ namespace Fungus
             b.blockName = FindObjectOfType<Localization>().rtfDocument.name;
             string[] lines = textData.Split('\n');
 
-            Character lastSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who's speaking, outside of loop to remember.
+            Character lastSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who spoke last, outside of loop to remember.
+            Character currentSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who's speaking, outside of loop to remember.
+            bool narratorSpeaker = false;
             Sprite speakerSprite = null;
 
             //process line by line
@@ -190,7 +192,7 @@ namespace Fungus
                         newCommand.itemId = flow.NextItemId();
                         b.commandList.Add(newCommand);
                         //assign text
-                        newCommand.storyText = "ADD background to object #" + flow.NextItemId() + " :" + buffer;
+                        newCommand.storyText = "ADD BACKGROUND TO OBJECT #" + flow.NextItemId() + " :" + buffer;
                     }
                     else
                     {
@@ -207,20 +209,49 @@ namespace Fungus
                             //if that's the case we look for the speaker based on the first letter and save that for later
                             if (buffer.Substring(1, 1) == ":")
                             {
-                                lastSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
+                                currentSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
+                                if(currentSpeaker == null)
+                                        {
+                                            Debug.Log("A narrator!");
+                                            narratorSpeaker = true;
+                                        }
+                                
+
                                 //cuts the identifier + the space from the front
                                 buffer = buffer.Substring(3, buffer.Length - 3);
-                            }
+                                }
+                                else
+                                {
+                                    currentSpeaker = lastSpeaker;
+                                }
 
                             if (buffer.StartsWith("<mei") || buffer.StartsWith("<bastion") || buffer.StartsWith("<soldier") || buffer.StartsWith("<mercy") || buffer.StartsWith("<genji"))
                             {
                                 int lasti = buffer.LastIndexOf(">");
                                 string spriteName = buffer.Substring(1, lasti - 1);
-                                speakerSprite = FindSprite(lastSpeaker, spriteName);
-                                if(speakerSprite != null)
+                                buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1).Trim();
+
+                                if (buffer.Substring(1, 1) == ":")
                                 {
-                                    buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1).Trim();
+                                    currentSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
+                                    //cuts the identifier + the space from the front
+                                    buffer = buffer.Substring(3, buffer.Length - 3);
                                 }
+                                else
+                                {
+                                    currentSpeaker = lastSpeaker;
+                                }
+
+                                if(narratorSpeaker)
+                                {
+                                            //PROBLEM IS HERE
+                                            Debug.Log("the narrator will show : " + lastSpeaker);
+                                            speakerSprite = FindSprite(lastSpeaker, spriteName);
+                                        }
+                                        else
+                                        {
+                                            speakerSprite = FindSprite(currentSpeaker, spriteName);
+                                        }
                             }
 
                             //Add Say command
@@ -231,21 +262,36 @@ namespace Fungus
                             //assign text
                             newCommand.storyText = buffer;
                             //assign speaker
-                            newCommand.character = lastSpeaker;
+                            newCommand.character = currentSpeaker;
 
                             if(speakerSprite != null)
                             {
-                                newCommand.portrait = speakerSprite;
+                                        //if a portrait should be shown while narrator speaks
+                                        if(narratorSpeaker)
+                                        {
+                                            newCommand.showNarratorPortrait = true; //show narrator portrait
+                                            newCommand.narratorCharacter = lastSpeaker; //replace narrator character
+                                            newCommand.narratorPortrait = speakerSprite; //replace narrator portrait
+                                        }
+                                        else
+                                        {
+                                            newCommand.portrait = speakerSprite;
+                                        }
                             }
                             else
                             {
-                                if(lastSpeaker != null && lastSpeaker.portraits.Count > 0)
+                                        
+                                if (currentSpeaker != null && currentSpeaker.portraits.Count > 0)
                                 {
-                                    newCommand.portrait = lastSpeaker.portraits[0];//default
+                                    newCommand.portrait = currentSpeaker.portraits[0]; //default
                                 }
+                                       
                             }
+                            //keep track of who spoke 
+                            lastSpeaker = currentSpeaker;
+                            narratorSpeaker = false;
                             
-                            //remove lastSpeaker object again
+                            //remove speaker objects again
                             //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
                             DestroyImmediate(flow.gameObject.GetComponent<Character>());
                         }
@@ -259,8 +305,8 @@ namespace Fungus
         //Return who is speaking
         private Character WhoIsSpeaking(string val)
         {
-            SerializedProperty it = characterIds.Copy(); //buffer the characterIds 'cause well be iterating through them
-            while (it.Next(true)) //next is used to iterate literally fkn everything
+            SerializedProperty it = characterIds.Copy(); //buffer the characterIds 'cause we'll be iterating through them
+            while (it.Next(true)) //next is used to iterate literally fkn everything(ALL PROPERTIES)
             {
                 //gotta check type to see if it's possible to run next code
                 if(it.type == "string")
@@ -285,14 +331,17 @@ namespace Fungus
 
         private Sprite FindSprite (Character speaker, string val)
         {
-            
-            for(int i = 0; i<speaker.portraits.Count; i++)
+            if(speaker !=null)
             {
-                if(speaker.portraits[i].name == val)
+                for (int i = 0; i < speaker.portraits.Count; i++)
                 {
-                    return speaker.portraits[i];
+                    if (speaker.portraits[i].name == val)
+                    {
+                        return speaker.portraits[i];
+                    }
                 }
             }
+            
             return null;
         }
     }

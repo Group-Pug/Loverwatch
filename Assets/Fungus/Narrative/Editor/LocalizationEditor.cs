@@ -152,157 +152,144 @@ namespace Fungus
 
             Character lastSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who spoke last, outside of loop to remember.
             Character currentSpeaker = flow.gameObject.AddComponent(typeof(Character)) as Character; //used to keep track of who's speaking, outside of loop to remember.
-            bool narratorSpeaker = false;
             Sprite speakerSprite = null;
+            bool portraitStart = false;
 
             //process line by line
             foreach (string line in lines)
             {
                 string buffer = line.Trim();
 
-                if (buffer != "")
-                {
-                    //title of the block and create a new one
-                    if (buffer.StartsWith("TITLE:"))
-                    {
-                        blockPos = new Vector2(blockPos.x + 250, -500);
-                        b = flow.CreateBlock(blockPos);
+                if (buffer == "")
+                { continue; }
 
-                        buffer = buffer.Substring(7, buffer.Length - 7); //cuts "TTITLE: " from the front
-                        b.blockName = buffer;
+                //title of the block and create a new one
+                if (buffer.StartsWith("TITLE:"))
+                {
+                    blockPos = new Vector2(blockPos.x + 250, -500);
+                    b = flow.CreateBlock(blockPos);
+
+                    buffer = buffer.Substring(7, buffer.Length - 7); //cuts "TITLE: " from the front
+                    b.blockName = buffer;
+
+                    continue;
+                }
+
+                //fade the scene with default params
+                if (buffer.StartsWith("<<fade>>"))
+                {
+                    FadeScreen newCommand = flow.gameObject.AddComponent(typeof(FadeScreen)) as FadeScreen;
+                    newCommand.parentBlock = b;
+                    newCommand.itemId = flow.NextItemId();
+                    b.commandList.Add(newCommand);
+
+                    continue;
+                }
+
+                //if it's a bg change then write the lineID and the buffer
+                if (buffer.StartsWith("<<bg>>"))
+                {
+                    //Add Say command
+                    Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
+                    newCommand.parentBlock = b;
+                    newCommand.itemId = flow.NextItemId();
+                    b.commandList.Add(newCommand);
+                    //assign text
+                    newCommand.storyText = "ADD BACKGROUND TO OBJECT #" + flow.NextItemId() + " :" + buffer;
+
+                    continue;
+                }
+
+                //description of the block for reference of bgs
+                if (buffer.StartsWith("BG:"))
+                {
+                    buffer = buffer.Substring(4, buffer.Length - 4); //cuts "BG: " from the front
+                    b.description = buffer;
+
+                    continue;
+                }
+                else
+                {
+                    //if it starts with some portrait, we try and find that portrait and set it
+                    if (buffer.StartsWith("<mei") || buffer.StartsWith("<bastion") || buffer.StartsWith("<soldier") || buffer.StartsWith("<mercy") || buffer.StartsWith("<genji"))
+                    {
+                        portraitStart = true; //using this to track whether or not to remember portrait
+
+                        int lasti = buffer.LastIndexOf(">");
+                        string spriteName = buffer.Substring(1, lasti - 1);
+                        speakerSprite = FindSprite(spriteName);
+
+                        buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1).Trim();
                     }
                     else
                     {
-                    //fade the scene with default params
-                    if(buffer.StartsWith("<<fade>>"))
+                        portraitStart = false;
+                    }
+
+                    //Check second character is a colon, which would indicate that someone must have been speaking.
+                    //we're assuming the id's won't ever be longer than 1
+                    //if that's the case we look for the speaker based on the first letter and save that for later
+                    if (buffer.Substring(1, 1) == ":")
                     {
-                        FadeScreen newCommand = flow.gameObject.AddComponent(typeof(FadeScreen)) as FadeScreen;
-                        newCommand.parentBlock = b;
-                        newCommand.itemId = flow.NextItemId();
-                        b.commandList.Add(newCommand);
+                        currentSpeaker = WhoIsSpeaking(buffer.Substring(0, 1)); // will return null if it's the narrator
+
+                        //if there is no portrait and the sentence starts with an ID we reset the speakerSprite
+                        if (!portraitStart)
+                        {
+                            speakerSprite = null;
+                        }
+
+                        //cuts the identifier + the space from the front
+                        buffer = buffer.Substring(3, buffer.Length - 3);
                     }
                     else
                     {
-                    //if it's a bg change then write the lineID and the buffer
-                    if(buffer.StartsWith("<<bg>>"))
-                    {
-                        //Add Say command
-                        Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
-                        newCommand.parentBlock = b;
-                        newCommand.itemId = flow.NextItemId();
-                        b.commandList.Add(newCommand);
-                        //assign text
-                        newCommand.storyText = "ADD BACKGROUND TO OBJECT #" + flow.NextItemId() + " :" + buffer;
+                        currentSpeaker = lastSpeaker;
                     }
-                    else
+
+                    //Add Say command
+                    Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
+                    newCommand.parentBlock = b;
+                    newCommand.itemId = flow.NextItemId();
+                    b.commandList.Add(newCommand);
+                    //assign text
+                    newCommand.storyText = buffer;
+                    //assign speaker
+                    newCommand.character = currentSpeaker;
+
+                    if (speakerSprite != null)
                     {
-                    //description of the block for reference of bgs
-                    if (buffer.StartsWith("BG:"))
-                    {
-                        buffer = buffer.Substring(4, buffer.Length - 4); //cuts "BG: " from the front
-                        b.description = buffer;
-                    }
+                        //if a portrait should be shown while narrator speaks
+                        if (currentSpeaker == null)
+                        {
+                            newCommand.showNarratorPortrait = true; //show narrator portrait
+                            newCommand.narratorCharacter = WhoHasSprite(speakerSprite); //replace narrator character with whoever owns the sprite.
+                            newCommand.narratorPortrait = speakerSprite; //replace narrator portrait
+                        }
                         else
                         {
-                            //Check second character is a colon, which would indicate that someone must have been speaking.
-                            //we're assuming the id's won't ever be longer than 1
-                            //if that's the case we look for the speaker based on the first letter and save that for later
-                            if (buffer.Substring(1, 1) == ":")
-                            {
-                                currentSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
-                                if(currentSpeaker == null)
-                                        {
-                                            Debug.Log("A narrator!");
-                                            narratorSpeaker = true;
-                                        }
-                                
-
-                                //cuts the identifier + the space from the front
-                                buffer = buffer.Substring(3, buffer.Length - 3);
-                                }
-                                else
-                                {
-                                    currentSpeaker = lastSpeaker;
-                                }
-
-                            if (buffer.StartsWith("<mei") || buffer.StartsWith("<bastion") || buffer.StartsWith("<soldier") || buffer.StartsWith("<mercy") || buffer.StartsWith("<genji"))
-                            {
-                                int lasti = buffer.LastIndexOf(">");
-                                string spriteName = buffer.Substring(1, lasti - 1);
-                                buffer = buffer.Substring(lasti + 1, buffer.Length - lasti - 1).Trim();
-
-                                if (buffer.Substring(1, 1) == ":")
-                                {
-                                    currentSpeaker = WhoIsSpeaking(buffer.Substring(0, 1));
-                                    //cuts the identifier + the space from the front
-                                    buffer = buffer.Substring(3, buffer.Length - 3);
-                                }
-                                else
-                                {
-                                    currentSpeaker = lastSpeaker;
-                                }
-
-                                if(narratorSpeaker)
-                                {
-                                            //PROBLEM IS HERE
-                                            Debug.Log("the narrator will show : " + lastSpeaker);
-                                            speakerSprite = FindSprite(lastSpeaker, spriteName);
-                                        }
-                                        else
-                                        {
-                                            speakerSprite = FindSprite(currentSpeaker, spriteName);
-                                        }
-                            }
-
-                            //Add Say command
-                            Say newCommand = flow.gameObject.AddComponent(typeof(Say)) as Say;
-                            newCommand.parentBlock = b;
-                            newCommand.itemId = flow.NextItemId();
-                            b.commandList.Add(newCommand);
-                            //assign text
-                            newCommand.storyText = buffer;
-                            //assign speaker
-                            newCommand.character = currentSpeaker;
-
-                            if(speakerSprite != null)
-                            {
-                                        //if a portrait should be shown while narrator speaks
-                                        if(narratorSpeaker)
-                                        {
-                                            newCommand.showNarratorPortrait = true; //show narrator portrait
-                                            newCommand.narratorCharacter = lastSpeaker; //replace narrator character
-                                            newCommand.narratorPortrait = speakerSprite; //replace narrator portrait
-                                        }
-                                        else
-                                        {
-                                            newCommand.portrait = speakerSprite;
-                                        }
-                            }
-                            else
-                            {
-                                        
-                                if (currentSpeaker != null && currentSpeaker.portraits.Count > 0)
-                                {
-                                    newCommand.portrait = currentSpeaker.portraits[0]; //default
-                                }
-                                       
-                            }
-                            //keep track of who spoke 
-                            lastSpeaker = currentSpeaker;
-                            narratorSpeaker = false;
-                            
-                            //remove speaker objects again
-                            //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
-                            DestroyImmediate(flow.gameObject.GetComponent<Character>());
+                            newCommand.portrait = speakerSprite;
                         }
                     }
+                    else
+                    {
+                        if (currentSpeaker != null && currentSpeaker.portraits.Count > 0)
+                        {
+                            newCommand.portrait = currentSpeaker.portraits[0]; //default
+                        }
                     }
-                    }
+
+
+                    lastSpeaker = currentSpeaker;   
+
+                    //remove speaker objects again
+                    //TODO: fix this garbage, it's a workaround for the lack of "new" keyword
+                    DestroyImmediate(flow.gameObject.GetComponent<Character>());
                 }
-            }
+            }       
         }    
 
-        //Return who is speaking
+        //Return who is speaking based on ID
         private Character WhoIsSpeaking(string val)
         {
             SerializedProperty it = characterIds.Copy(); //buffer the characterIds 'cause we'll be iterating through them
@@ -329,21 +316,44 @@ namespace Fungus
             return null;
         }
 
-        private Sprite FindSprite (Character speaker, string val)
+        //return who owns this sprite
+        private Character WhoHasSprite(Sprite val)
         {
-            if(speaker !=null)
+            List<Character> actives = Character.activeCharacters;
+
+            for(int i = 0; i < actives.Count; i++)
             {
-                for (int i = 0; i < speaker.portraits.Count; i++)
+                for (int j = 0; j < actives[i].portraits.Count; j++)
                 {
-                    if (speaker.portraits[i].name == val)
+                    if (actives[i].portraits[j] != null && actives[i].portraits[j] == val)
                     {
-                        return speaker.portraits[i];
+                        return actives[i];
                     }
                 }
             }
-            
+
             return null;
         }
+
+        private Sprite FindSprite (string spriteName)
+        {
+            List<Character> actives = Character.activeCharacters;
+
+            for (int i = 0; i < actives.Count; i++)
+            {
+                for (int j = 0; j < actives[i].portraits.Count; j++)
+                {
+                    if (actives[i].portraits[j] != null && actives[i].portraits[j].name == spriteName)
+                    {
+                        return actives[i].portraits[j];
+                    }
+                }
+            }
+
+            return null;
+        }
+
+
     }
     
 }

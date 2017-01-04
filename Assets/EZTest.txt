@@ -31,3 +31,19 @@ she is still satan again
 <meiworried> M: mei speaks again
 
 M: mei is defaulting
+
+N: Narrator and no one
+
+<meiworried> narrator speaks while mei is worried.
+
+just another line.
+
+M: mei speaks default
+
+<meihappy> mei is happy
+
+stays happy.
+
+?: just testing symbol
+
+G: and the bird

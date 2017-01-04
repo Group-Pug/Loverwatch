@@ -1,28 +1,4 @@
-Loverwatch - Bastion Route
-
-Ganymede
-by Damon Reece
-Intro
-
-Summary
-
-Here's where we start! 
-
-Real quickly: Hello! I'm Damon, the writer of this route. If you're reading this, I'll assume that you've played Loverwatch ( http://loverwatch-game.tumblr.com/ ) and, hopefully, enjoyed it! If not, please do go check it out, we worked very hard on it and this script is just a small part of what makes it amazing!
-
-This script comprises the entirety of the Bastion route in Loverwatch. We've departed a little bit from traditional visual novel/dating sim design by having you choose your route immediately and transparently, instead of having to go through a "common" route. The rest, though, follows a fairly standard "diamond-bottleneck" form. If we'd had more time to work on it, the structure might have had space for more dynamic elements - but we've got to work with what we have, not with what we wish we have.
-
-So, hey... welcome to Overwatch. But why the hell did you hit "birdwatching" on your signup form? ;)
-
-BASTION/INTRO/YOU PICKED... BIRDWATCHING?
-
-This script takes place directly after "0-1: Introduction."
-
 BG: Overwatch HQ - briefing room
-
-N: Narrator
-P: Player
-J: John "Jacky Boiiii" Morrison (stern father:76)
 
 P: ... {$Playername}, aand... birdwatching! There we go.
 
@@ -86,18 +62,13 @@ J: Dismissed, soldier.
 
 N: You make your way down the halls, through the throngs of busy Overwatch agents. Everything is terrifying and you absolutely feel out of your depth.
 
-FADE TO BLACK
+<<fade>>
 
-BASTION/INTRO/THE DOMAIN OF AGENT FROSTBITE
+TITLE: BASTION/INTRO/THE DOMAIN OF AGENT FROSTBITE
 
 This script takes place directly after "You picked... birdwatching?"
 
-Starting BG: Black
-
-N: Narrator
-P: Player
-A: Agent Frostbite (Mei)
-M: Mei (fluffball of love and happiness)
+BG:  Black
 
 N: ...
 
@@ -223,22 +194,19 @@ N: Your stomach emits the sound of distant thunder.
 
 M: I think that's a resounding "yes"! Follow me!
 
-FADE to black. goto lunchtime
+goto lunchtime
 
-BASTION/INTRO/LUNCHTIME
+<<fade>> 
 
-N: Narrator
-P: Player
-M: Mei
-J: John "Jack Black" Morrison (daddy-o ver. 1976)
+TITLE: BASTION/INTRO/LUNCHTIME
 
-Starting BG: Black
+BG:  Black
 
 N: You and Mei make your way to the canteen, snaking your way through endless corridors as she merrily waxes eloquent about climatology and saving the environment...
 
 ... But you're too distracted by the sights and sounds around you to pay much attention to her. Plus, you're starving, and you can't devote mental resources to thinking about the environment on an empty stomach.
 
-FADE to lunchroom.
+<<bg>> FADE to lunchroom.
 
 M: ... Aaand we're here! 
 
@@ -250,13 +218,13 @@ P: Ah! Yes... excuse me... I need to put this in my face.
 
 M: Hehe! I'm pretty hungry too. Which dish are we gonna have? I'll let you decide, 'cause it's your first day.
 
-INCONSEQUENTIAL CHOICE:
+///INCONSEQUENTIAL CHOICE///
 
 P: (What should I have?)
 
-1: Piping hot oatmeal with stewed fruit
-2: Borscht with rice on the side
-3: Shepherd's pie with... lychee sauce?
+First //CHOICE:// Piping hot oatmeal with stewed fruit
+Second //CHOICE:// Borscht with rice on the side
+Third //CHOICE:// Shepherd's pie with... lychee sauce?
 
 Choice 1:
 
@@ -318,7 +286,7 @@ Mei clears her throat, trying to catch your attention.
 
 goto LUNCHTIME 2
 
-BASTION/INTRO/LUNCHTIME 2
+TITLE: BASTION/INTRO/LUNCHTIME 2
 
 M: So, anyway, the mission. 
 
@@ -442,18 +410,11 @@ See ya later!
 
 Exeunt Mei.
 
-Fade to black.
+<<fade>>
 
-BASTION/INTRO/MISSION PREP
+TITLE: BASTION/INTRO/MISSION PREP
 
-Starting BG: black
-
-N: Narrator
-P: Player
-D: Mercy
-G: Genji
-M: Mei
-C: Dad:76
+BG:  black
 
 N: You spend the rest of your day wandering around Overwatch HQ, putting faces to names and names to faces. 
 
@@ -465,7 +426,7 @@ In the afternoon, just before you're due for your appointment with Mei, you run 
 
 It looks like an omnic, at least.
 
-Fade to corridor background
+<<bg>> Fade to corridor background
 
 Enter Genji & Mercy
 
@@ -493,7 +454,7 @@ P: Ack! I'm gonna be late!
 
 N: Fortunately, you're not too far from the briefing room, and you arrive five minutes early.
 
-Fade to briefing room
+<<bg>> Fade to briefing room
 
 P: Oh... nobody's here.
 
@@ -569,23 +530,15 @@ M: Me too!
 
 N: The trust of your superiors fills you with determination. You're gonna do great.
 
-Exeunt Mei & Commander Morrison; fade to black
+Exeunt Mei & Commander Morrison; 
+
+<<fade>>
 
 Goto Environmental Monitoring
-Deployment 1
 
-Summary
+TITLE: BASTION/DEPLOYMENT 1/ENVIRONMENTAL MONITORING
 
-This chapter acts as a vehicle to introduce Bastion and Ganymede. It adds some ~*~spooky conflict~*~ as well, which we'll call back to later on.
-
-
-BASTION/DEPLOYMENT 1/ENVIRONMENTAL MONITORING
-
-N: Narrator
-P: Player
-M: Mei
-
-Starting BG: Black
+BG:  Black
 
 N: Sleep doesn't take hold easily. It's like trying to catch butterflies with your bare hands. You can't stop thinking about your first deployment.
 
@@ -599,7 +552,7 @@ Nobody's around to see you off, but at least the pilot of your transport looks a
 
 The ninety-minute flight to Ilios passes uneventfully, and by the time you're there, the sun has risen, fresh and rosy-fingered.
 
-Fade to Ilios
+<<bg>> Fade to Ilios
 
 P: Yawn...
 
@@ -676,13 +629,13 @@ M: My pleasure! Just yell if you need me.
 
 N: The connection closes with a static crackle, and you're alone again, amongst the ruins.
 
-Fade to black
+<<fade>>
 
 N: You roam through the ruins for hours, taking photos with your infopad and identifying all sorts of creatures.
 
 The howl of the ocean wind drops sharply in the afternoon, and the air becomes still and warm.
 
-Fade to Ilios 2
+<<bg>> Fade to Ilios 2
 
 P: Phew... it's hot out here.
 
@@ -692,12 +645,12 @@ Maybe I should call Mei again.
 
 But maybe she wouldn't approve of me slacking off on the job to chat with her?
 
-CHOICE:
+////CHOICE:////
 
 P: What should I do?
 
-1: Call Mei and say hi
-2: Do some more exploring
+CHOICE 1: Call Mei and say hi
+CHOICE 2: Do some more exploring
 
 
 Choice 1:
@@ -730,12 +683,12 @@ M: I think so! I programmed Snowball to be playful, so it's fun to have it aroun
 
 Why? Do you not like robots?
 
-CHOICE:
+//CHOICE://
 
 P: Well...
 
-1a: I don't really know...
-1b: I'm okay with them
+CHOICE 1a: I don't really know...
+CHOICE 1b: I'm okay with them
 
 Choice 1a:
 
@@ -789,7 +742,7 @@ Either way, having Snowball around to help me has been really amazing!
 
 N: A small, semi-spherical robot floats into the camera feed, spinning wildly. Mei smiles fondly and gives it a hug.
 
-SNOWBALL: ☆*:.｡.o(≧▽≦)o.｡.:*☆
+S: ☆*:.｡.o(≧▽≦)o.｡.:*☆
 
 M: Shush, you! Don't you have calculations to be working on?
 
@@ -845,7 +798,7 @@ You're getting too absorbed into this, and decide to distract yourself by analys
 
 A small pile of broken pottery sits in the corner. On the other side of the room, a mound of debris emits a faint glow.
 
-CHOICE:
+//CHOICE://
 
 P: I don't have too long to mess around. I should investigate...
 
@@ -896,14 +849,9 @@ You shake your head to clear the cobwebs. It's a useless power source, and you'r
 
 Goto Ganymede
 
-BASTION/DEPLOYMENT 1/GANYMEDE
+TITLE: BASTION/DEPLOYMENT 1/GANYMEDE
 
-N: Narrator
-P: Player
-M: Mei
-G: Bird
-
-Starting BG: Ilios-2
+BG:  Ilios-2
 
 N: Before you can get far, something stops you in your tracks. The quiet of the ruins is interrupted by a distant cawing.
 
@@ -915,9 +863,7 @@ You're wracked with indecision. On one hand, you really should be getting back t
 
 You decide to go check it out.
 
-[Show Ganymede]
-
-The source of the cawing is closer than you think, and it's immediately apparent why: a brightly coloured bird has somehow found itself trapped in some vines. It's angrily struggling, but it seems to be running out of energy.
+<ganymededefault> The source of the cawing is closer than you think, and it's immediately apparent why: a brightly coloured bird has somehow found itself trapped in some vines. It's angrily struggling, but it seems to be running out of energy.
 
 P: Whoa there, little guy...
 
@@ -937,7 +883,7 @@ P: Ouch! You little monster...
 
 N: One of its feet suddenly becomes unstuck, and it begins using it to claw at you.
 
-G: [angry noises]
+B: [angry noises]
 
 P: Listen here, you! You're not gonna get out if you keep being a jerk!
 
@@ -949,7 +895,7 @@ You reach back down, and it nips you again... but it's a little more gentle this
 
 Soon enough, you're able to get its other leg out of the bind, and you step back to let it gather its senses.
 
-G: ...
+B: ...
 
 It doesn't fly away, and you realize that it's hurt one of its wings. Poor little thing...
 
@@ -975,7 +921,7 @@ Hmm.
 
 You reach towards it. It jumps back a few steps, and yells at you.
 
-G: !!!
+B: !!!
 
 P: I've gotta take you home, or I'll fail my boss! You've gotta stay still, little guy!
 
@@ -1013,15 +959,9 @@ Half a muesli bar later, you manage to finally coax it into standing on your han
 
 Goto Stay Very, Very Still
 
-BASTION/DEPLOYMENT 1/STAY VERY, VERY STILL
+TITLE: BASTION/DEPLOYMENT 1/STAY VERY, VERY STILL
 
-N: Narrator
-P: Player
-M: Mei
-G: Bird
-B: Bastion
-
-Starting BG: Ilios-2
+BG:  Ilios-2
 
 You start walking back to camp, keeping your eyes on it to make sure it doesn't fall off. It watches you carefully, but doesn't attempt to escape.
 
@@ -1047,9 +987,7 @@ You stand up and brush yourself off, but you spot something out the corner of yo
 
 It's in the bushes. {w=0.5}It's got sharp edges. {w=0.5}It's not made of stone. {w=0.5}It's glowing yellow. {w=0.5}It has a gigantic gun mounted on it. {w=0.5}And it's looking right at you.
 
-[Show Bastion, yellow]
-
-B: ...
+<bastionyellow> B: ...
 
 N: You're out of your depth. This is singularly the worst thing that could have possibly happened to you on your first mission.
 
@@ -1067,13 +1005,13 @@ M: Oh my goodness...
 
 I think you need to run.
 
-CHOICE:
+//CHOICE://
 
 M: I think you need to run.
 
-1: Run
-2: Run
-3: Run
+Choice 1: Run
+Choice 2: Run
+Choice 3: Run
 
 Choice 1, 2, 3:
 
@@ -1091,9 +1029,7 @@ P: I can't.
 
 M: Just do it!
 
-[Show Bastion, green, with Ganymede]
-
-N: The machine is looking at you. The light on its head has changed from yellow to green, and, most curious of all, the bird has climbed onto its hand, and from there, onto its head.
+<bastiongreenwg> N: The machine is looking at you. The light on its head has changed from yellow to green, and, most curious of all, the bird has climbed onto its hand, and from there, onto its head.
 
 P: Mei... what's going on?
 
@@ -1199,27 +1135,13 @@ P: Alright, then. C'mon.
 
 N: You beckon for the omnic to follow you, and it does, with each of its footfalls shaking the ground. {w=0.3}{Smallshake}Stomp. {w=0.3}{Smallshake}Stomp. {w=0.3}{Smallshake}Stomp. 
 
-Fade to black, goto It's a Matter of Trust
-Shore Leave 1
+goto It's a Matter of Trust
 
-Summary
+<<fade>>
 
-Shore Leave 1 is our proper introduction to Bastion, Ganymede, and their interactions with the rest of the team. It's also where we begin to see the cracks in Overwatch. They might not be huge, but they're definitely there. Everyone's human.
+TITLE: BASTION/SHORE LEAVE 1/IT'S A MATTER OF TRUST
 
-Except Bastion.
-
-BASTION/SHORE LEAVE 1/IT'S A MATTER OF TRUST
-
-N: Narrator
-P: Player
-M: Mei
-G: Bird
-B: Bastion
-T: Transport Pilot
-C: Commander Jack "Jack Morrison" Morrison
-Guard: Guard
-
-Starting BG: Black
+BG:  Black
 
 N: The flight passes uneventfully, though your pilot is understandably annoyed at having to redo her flight plan to account for the multiple-ton robot sitting in the back of her jet.
 
@@ -1241,11 +1163,9 @@ The transport lands in one of the base's hangars, and instead of standing up, th
 
 You stand up and open the cargo bay door yourself...
 
-Fade to Hangar
+<<bg>> Fade to Hangar
 
 N: ... But find yourself, for the second time today, looking down the barrel of a gun.
-
-Show Commander
 
 C: Recruit, you've got some explaining to do.
 
@@ -1255,9 +1175,7 @@ P: Sir... I'm sorry. It was the only way to get the bird back.
 
 C: What in blue blazes are you talking about, soldier?
 
-Show Bastion with Ganymede
-
-G: ♪
+<bastiongreenwg> G: ♪
 
 B: ♫
 
@@ -1276,8 +1194,6 @@ You close your eyes. You're ready for it. You deserve this.
 C: I'm going to need you to-
 
 M: {LargeShake}WAIT!
-
-Show Mei
 
 M: You can't fire {$Object}! I'm the one who authorized this, and I won't allow someone to lose their job because of my unshakable compulsion to save the world!
 
@@ -1315,7 +1231,7 @@ N: Huh.
 
 You beckon to the Bastion, and it cheerily follows you to the science station. 
 
-Fade to background Corridor
+<<bg>> Fade to background Corridor
 
 N: The corridors are silent as you pass through, save for the metallic clomps of the robot's feet and the squeaking of rubber-soled combat boots fifteen feet behind you.
 
@@ -1331,13 +1247,13 @@ As you reach the door, you look back at the guards. You're not sure how to proce
 
 P: Hey, should I...
 
-Guard: Go in and make yourself comfortable. Try not to make any sudden movements. If the robot goes rogue, get behind something solid.
+U: Go in and make yourself comfortable. Try not to make any sudden movements. If the robot goes rogue, get behind something solid.
 
 N: You open your mouth to ask why, but then realize that it's probably related to the guns they're pointing at you.
 
 P: Gotcha.
 
-Fade to background Science Station
+<<bg>> Fade to background Science Station
 
 N: You push through the double doors into the lab, and hold one open for the robot. It still has to open the other door, but it nods at you in unspoken thanks.
 
@@ -1345,18 +1261,13 @@ Looking around, there's nothing much for you to do other than to grab a chair an
 
 The omnic takes note, and sits down opposite you.
 
-Show Bastion, with Ganymede
-
-N: The silence takes hold, and stretches out the seconds. Nobody seems to be coming for you. Despite the quiet, you can still hear your heartbeat.
+<bastiondefault> N: The silence takes hold, and stretches out the seconds. Nobody seems to be coming for you. Despite the quiet, you can still hear your heartbeat.
 
 You're positive that the uncertainty is taking years off your life, that's for sure. 
 
-After a little while, the Bastion begins paying attention to the bird perched on its head. It carefully raises a hand up and brings the bird to eye level. 
+<bastiongreen> After a little while, the Bastion begins paying attention to the bird perched on its head. It carefully raises a hand up and brings the bird to eye level. 
 
-Show Bastion, without Ganymede
-Show Ganymede
-
-The little fella isn't too fussed. It begins to preen, avoiding the sore spot on its wing. It still doesn't seem serious, but you make a mental note to have a doctor look at it.
+<ganymededefault> The little fella isn't too fussed. It begins to preen, avoiding the sore spot on its wing. It still doesn't seem serious, but you make a mental note to have a doctor look at it.
 
 You wonder if you're allowed to name the bird. Would Mei approve? She should approve. Naming wild animals is definitely a Mei thing...
 
@@ -1386,10 +1297,10 @@ N: It looks back at the bird and lets out a long sighing sound, almost like it's
 
 B: Hoo...
 
-CHOICE:
+//CHOICE://
 
-1: Make a joke
-2: Check the bird for injuries
+CHOICE 1: Make a joke
+CHOICE 2: Check the bird for injuries
 
 Choice 1:
 
@@ -1397,9 +1308,7 @@ N: You decide to go for the risky play with a joke.
 
 P: Hehe. I don't think "Hoo" is a good name. It's not an owl, after all.
 
-Show Bastion, surprised (yellow)
-
-N: Its light flashes yellow, and it makes a sound that you assume (hope) is an omnic's equivalent to laughter.
+<bastionyellow> N: Its light flashes yellow, and it makes a sound that you assume (hope) is an omnic's equivalent to laughter.
 
 (+1 fire)
 
@@ -1407,9 +1316,7 @@ B: Hoo hoo hoo. Boop.
 
 P: Sorry, I couldn't resist.
 
-Show Bastion, normal (green)
-
-N: It waves at you in a "pshaw" motion. It was obviously tickled by the jape.
+<bastiongreen> N: It waves at you in a "pshaw" motion. It was obviously tickled by the jape.
 
 ---
 
@@ -1419,9 +1326,7 @@ N: You decide to let the robot think it over while you check the bird for injuri
 
 P: Anyway... hey, little guy.
 
-Show Bastion, angry (red)
-
-N: You reach forward to pick up the bird, and it and the Bastion both react. The bird flaps its uninjured wing and caws angrily, and the Bastion stands up tall. It looks scary.
+<bastionredwg> N: You reach forward to pick up the bird, and it and the Bastion both react. The bird flaps its uninjured wing and caws angrily, and the Bastion stands up tall. It looks scary.
 
 Threatening, even. Uh-oh.
 
@@ -1433,9 +1338,7 @@ Imagine that. Being shot on your second day by a combat robot you brought home. 
 
 P: Okay. I'll let it be. You've gotta let Mei handle it when she comes in though, okay? She's a professional with animals.
 
-Show Bastion, normal (green)
-
-N: It nods, and sits down on the floor. 
+<bastiongreenwg> N: It nods, and sits down on the floor. 
 
 P: Do you want to go back to thinking about names?
 
@@ -1503,21 +1406,15 @@ N: A chorus rings out. "Yes, sir!"
 
 The commander and Mei push through the double doors, and both you and the Bastion turn to watch them. Commander Morrison is unarmed, and Mei is carrying a box of electronics.
 
-Show Mei, Commander
-
 M: Hiya!
 
 P: Hey... 
 
 M: So the commander and I had some words, and even though it {i}definitely{/i} was not a good idea for me to tell you to bring this robot home, it looks like it hasn't caused any trouble.
 
-Show Dad grumpy
-
 C: That's... sigh. That's not all of it, Mei.
 
-Show Mei worried
-
-M: ...
+<meiworried> M: ...
 
 C: Recruit, I understand that you were following orders, and you claim to be unharmed, but I'm going to have you undertake an examination with Dr. Ziegler anyway. 
 
@@ -1533,11 +1430,7 @@ P: Does she wear white combat armour?
 
 C: That's the one.
 
-Show Dad, neutral
-
 C: Now, Mei, I believe you had some questions for {$PlayerName}.
-
-Show Mei, neutral
 
 M: Yes! I wanted to make sure you're okay, for one. Did the deployment go well before you ran into the Bastion? Did I pack enough snacks? Did-
 
@@ -1549,9 +1442,7 @@ M: I'm sure that won't be necessary. We can send a drone to do the rest.
 
 P: But I thought... I thought I was out there because a robot wouldn't be able to do the work!
 
-Show Mei, happy
-
-M: Nope! It was a test! You passed! Surprise!
+<meihappy> M: Nope! It was a test! You passed! Surprise!
 
 C: I'd say that you did remarkably well, considering you're standing in front of us right now.
 
@@ -1568,8 +1459,6 @@ N: The bird jumps off of the Bastion and right into Mei's hands. This must be so
 You watch the Bastion carefully while she combs through the bird's wing feathers, but it seems more preoccupied with observing her work than actively defending the bird.
 
 While Mei works, cheerily carrying on a one-sided conversation with the bird and the robot, the commander takes you aside.
-
-Hide Mei, Bastion, Ganymede
 
 C: Now, soldier... I have to warn you. Don't get too attached to the robot. It's a killing machine. Mei's going to open it up, and take a look at its programming, but even then...
 
@@ -1621,11 +1510,9 @@ N: He says it with a cool detachedness. You're uncomfortable, but... you can har
 
 P: Yessir.
 
-N: You walk back over to the gang. Mei is done with the bird; it's back on Bastion's head, with an adorable flower-patterned bandage tucked under its wing. 
+<bastiongreenwg> N: You walk back over to the gang. Mei is done with the bird; it's back on Bastion's head, with an adorable flower-patterned bandage tucked under its wing. 
 
 As you approach, they turn to you, and greet you with a wave, a tweet, and a jubilant "hee-hoo".
-
-Show Mei, Bastion (green, with Ganymede)
 
 M: So! I have an important question for you, kid.
 
@@ -1665,12 +1552,12 @@ P: Um, Bastion, I've gotta talk to you about something.
 
 N: It nods and gestures for you to continue.
 
-CHOICE:
+//CHOICE://
 
 P: I've gotta talk to you about something...
 
-1: We need to guarantee our own safety.
-2: I want you to go to sleep for me.
+CHOICE 1: We need to guarantee our own safety.
+CHOICE 2: I want you to go to sleep for me.
 
 Choice 1:
 
@@ -1678,25 +1565,15 @@ N: You decide to take the direct approach. Bastion might not appreciate it, but.
 
 P: We're worried that you're going to murder us all.
 
-
-Show Mei, surprised
-Show Bastion, yellow with Ganymede
-
-N: Bastion cocks its head. You could hear a pin drop in the silence that follows. {w=0.2}The commander sighs loudly.
-
-Show Mei, neutral
+<bastionyellowwg> N: Bastion cocks its head. You could hear a pin drop in the silence that follows. {w=0.2}The commander sighs loudly.
 
 M: Well, it is a good thing that we didn't hire you for your negotiating skills.
 
 So, Bastion, what the recruit is suggesting is that, in order for us to ensure our safety, and that of our comrades, we will need to audit your ROM.
 
-Show Mei, worried
+<meiworried> That means you will need to shut yourself down for a few hours. Is that okay?
 
-That means you will need to shut yourself down for a few hours. Is that okay?
-
-N: Bastion appears to ruminate on it, stroking Ganymede's head with one finger.
-
-Show Bastion, green with Ganymede
+<bastiongreenwg> N: Bastion appears to ruminate on it, stroking Ganymede's head with one finger.
 
 +1 Fire
 
@@ -1708,27 +1585,19 @@ N: You decide to soften the blow a little bit. Hopefully it'll understand.
 
 P: I want you to go to sleep for me so we can check up on some stuff. Is that okay?
 
-Show Bastion, yellow with ganymede
-
-N: Bastion cocks its head, confused.
+<bastionyellowwg> N: Bastion cocks its head, confused.
 
 B: Hoo?
 
 P: I, uh... we're not going to do anything bad! Promise! We just need you to go to sleep.
 
-Show Mei, grumpy
-
 N: It leans forward a tiny bit and inspects your face, clearly skeptical. You hear the commander shift behind you. He's either uncomfortable with the situation or reaching for a weapon.
 
 You dearly hope it's the former.
 
-Bastion reaches forward and places a cold hand on your shoulder.
+<bastionredwg> Bastion reaches forward and places a cold hand on your shoulder.
 
-Show Bastion, red with ganymede
-
-Show Mei, worried
-
-N: The implication of this gesture is clear. {i}If you're lying to me, there'll be hell to pay.{/i} You look at Mei desperately, but she's holding her breath and watching the commander.
+<meiworried> N: The implication of this gesture is clear. {i}If you're lying to me, there'll be hell to pay.{/i} You look at Mei desperately, but she's holding her breath and watching the commander.
 
 P: I... I...
 
@@ -1740,9 +1609,7 @@ It's like... a doctor's appointment. We aren't going to hurt you, I promise.
 
 N: Do omnics even have doctors? Stupid, stupid.
 
-Show Bastion, yellow with ganymede
-
-Bastion lets go of you and returns to its previous position, but something in its body language screams hurt feelings.
+<bastionyellowwg> Bastion lets go of you and returns to its previous position, but something in its body language screams hurt feelings.
 
 Instead of directly responding to you, it reaches up to Ganymede and begins stroking him with a single finger.
 
@@ -1750,17 +1617,13 @@ You don't know how much more of this you can take, and you're terrified that Bas
 
 Go to Bit Rot
 
-
-
-BASTION/SHORE LEAVE 1/IT'S A MATTER OF TRUST
+TITLE: BASTION/SHORE LEAVE 1/IT'S A MATTER OF TRUST
 
 N: Eventually, it looks back up at you and nods. You breathe a shaky sigh of relief. 
 
 P: I promise you'll be okay. This is just to make sure that, um, we're okay too.
 
-N: Bastion nods again. It gently lifts both hands up to its head and scoops up Ganymede, offering him to you.
-
-Show Bastion, green
+<bastiongreen> N: Bastion nods again. It gently lifts both hands up to its head and scoops up Ganymede, offering him to you.
 
 P: You'll wake up in a couple of hours and Ganymede will be right here with me. Mei will be the one doing the audit, it'll be okay. I promise.
 
@@ -1778,7 +1641,9 @@ Mei grabs a toolbox and drops it on the tabletop with a {i}clonk{/i}!
 
 M: Okay! Let's get started.
 
-Hide everybody, Fade to black
+Hide everybody, 
+
+<<fade>>
 
 N: ... Mei's explorations take hours, and you barely understand a tenth of the jargon that comes out of her mouth during.
 
@@ -1798,30 +1663,21 @@ Then, at the end, black. Corresponding diagnostics show an internal power source
 
 Four hours after your awkward conversation, Bastion wakes up.
 
-Fade to science station
-
-Show Mei, neutral
-Show Bastion, off
+<<bg>> Fade to science station
 
 N: It happens quite unexpectedly, while Mei is working on screwing Bastion's access plate back on. The room is quiet. You're in the corner, wrapped up in a blanket and watching Ganymede.
 
-Show Bastion, yellow
+<bastionyellow> B: ...
 wait 0.2
-Show Bastion, green
-
-B: Hoo?
+<bastiongreen> B: Hoo?
 
 N: Mei hops back with a surprised squeal.
 
-Show Mei, surprised
-
-M: Ahh! Don't scare me like that, you... you jerk!
+<meisurprise> M: Ahh! Don't scare me like that, you... you jerk!
 
 N: Bastion looks abashed - well, as much as a faceless robot can.
 
-Show Bastion, pink
-
-B: Hoo.
+<bastionpink> B: Hoo.
 
 M: There will be none of that! Sit down so I can finish putting you together.
 
@@ -1831,9 +1687,7 @@ M: Hey! Recruit! {smallshake}Wake up! Bastion wants its bird. Can you bring it o
 
 P: Huh? Oh, yeah, sure...
 
-N: Ganymede chirps happily and settles on Bastion's head.
-
-Show Bastion, green with Ganymede
+<bastiongreenwg> N: Ganymede chirps happily and settles on Bastion's head.
 
 P: Yawn... where'd the commander go?
 
@@ -1847,21 +1701,16 @@ By the way, he left a couple guards outside the door. Would you mind telling the
 
 P: Sure thing... so it's safe now?
 
-Show Mei, happy
+<meihappy> M: Yep! This killer robot is 100% not going to murder us with brutal efficiency!
 
-M: Yep! This killer robot is 100% not going to murder us with brutal efficiency!
 
-Show Bastion, pink with ganymede
+<bastionpinkwg> B: Wheeeooooooo.
 
-B: Wheeeooooooo.
 
-Show Mei, neutral
 
 M: I said don't move, you big ol' rust bucket!
 
-B: Hoo.
-
-Show Bastion, green with ganymede
+<bastiongreenwg> B: Hoo.
 
 N: You head to the door and inform the bored-looking guards that the deed is done. They nod, and one of them stifles a huge yawn as they shuffle off.
 
@@ -1885,7 +1734,6 @@ M: Of course not! I smoothed it all over with the commander. The only thing you 
 
 P: Oh. I thought it was just a physical checkup...
 
-Show Mei, neutral
 
 M: Nope! Well, it's that too. But the commander just wants to make sure you're not an Omnic Resistance sleeper agent.
 
@@ -1893,9 +1741,7 @@ P: ... {w=0.4}Beep boop.
 
 N: Bastion rears up and puts its hands on its hips.
 
-Show Bastion, yellow with ganymede
-
-B: {largeshake}Heeoooooooo.
+<bastionyellowwg> B: {largeshake}Heeoooooooo.
 
 N: You put your hands up in feigned alarm.
 
@@ -1907,15 +1753,13 @@ M: Better watch it, kid! You know what they do to spies 'round these parts...
 
 P: ... What do they do to spies around here?
 
-Show Mei, happy
-
-M: Freeze 'em solid!
+<meihappy> M: Freeze 'em solid!
 
 P: I get the feeling that "they" is actually "you".
 
 M: I don't know what you're talking about! They definitely get someone else to freeze spies who is absolutely not me!
 
-Show Mei, neutral
+
 
 M: I do want you to go get that evaluation tomorrow morning, though.
 
@@ -1933,24 +1777,18 @@ P: I need to know where the medbay is...
 
 M: Oh. {w=0.3}It's in the next building over. Down the hall, take the stairs to the skybridge. 
 
-Show Mei, happy
-
-M: Tell her that you took the stairs and she'll give you a sticker!
+<meihappy> M: Tell her that you took the stairs and she'll give you a sticker!
 
 P: Gotcha! Thanks, Mei! See you tomorrow! Probably.
 
-Fade to black
-
 Go to Mercy
 
-BASTION/SHORE LEAVE 1/MERCY
+<<fade>>
 
-N: Narrator
-P: Player
-Z: Mercy
-S: Genji Shimada
 
-Starting BG: Black
+TITLE: BASTION/SHORE LEAVE 1/MERCY
+
+BG:  Black
 
 N: The next morning, you wake with a start. Your thoughts about yesterday are a muddle of confusion...
 
@@ -1962,7 +1800,7 @@ N: You make a note to yourself: don't trust Mei when it comes to directions. Sur
 
 ... But she definitely neglected to mention that there were six flights of them.
 
-Show Corridor
+<<bg>> Corridor
 
 P: *huff* Phew...
 
@@ -1978,9 +1816,7 @@ Hmm... it sure {i}feels{/i} like you've got a heartbeat... {w=0.5}especially aft
 
 You hear metallic footsteps approaching down the corridor.
 
-S: What are you doing?
-
-Show Genji
+G: What are you doing?
 
 P: I, um, I...
 
@@ -1988,31 +1824,31 @@ N: A painful silence. The corridor is empty. There were people here...
 
 It stands before you. More of a machine than man. Weeping cuts and all.
 
-S: Spit it out. I do not have all day.
+G: Spit it out. I do not have all day.
 
 P: Eek! I was checking if I'm an omnic and don't know it. I'm sorry!
 
 N: It leans toward you. Checks your face, crosses his arms. Contempt in his voice.
 
-S: You puny insect.{w=0.3} You would know if you were a machine. There is no doubt.
+G: You puny insect.{w=0.3} You would know if you were a machine. There is no doubt.
 
 N: Who are you, sir...? Are you a sir?
 
-S: Hmph.
+G: Hmph.
 
 Genji Shimada is my name. I am a man, not a machine. Remember it, or you will find yourself regretting the choices that led you here.
 
 P: I... I'm sorry. I didn't mean to offend you, sir. Are you one of the doctor's friends?
 
-S: Friends? No. 
+G: Friends? No. 
 
 P: Sworn enemy, then?
 
-S: Are you making fun of me?
+G: Are you making fun of me?
 
 P: N-no, sir. Not at all. 
 
-S: Pah! I do not have time for this.
+G: Pah! I do not have time for this.
 
 N: He stomps down the corridor, away from you. 
 
@@ -2046,8 +1882,6 @@ I'm very disappointed in you all!
 
 N: You hear a polite cough.
 
-Show Mercy
-
 Z: Hmm?
 
 P: Huh? I...
@@ -2080,9 +1914,7 @@ N: Behind her is a door marked "Medical Lab". If you hadn't been caught fooling 
 
 You follow the doctor in, but the door sticks a little, and you bump your shoulder. Ouch!
 
-Fade to Medical Lab
-
-Show Mercy
+<<bg>> Fade to Medical Lab
 
 Z: So.
 
@@ -2220,7 +2052,7 @@ P: Yes, doctor. I'll, um, let myself out.
 
 Hide Mercy
 
-Fade to Corridor
+<<bg>> Fade to Corridor
 
 N: The door whacks your other shoulder on the way out, and the pain makes you realize you've been holding your breath.
 
@@ -2232,8 +2064,8 @@ You bend down and stretch, and as you do, you hear voices from inside the medica
 
 INCONSEQUENTIAL DECISION
 
-1: "...But you do anyway."
-2: "No buts. You go downstairs."
+CHOICE 1: "...But you do anyway."
+CHOICE 2: "No buts. You go downstairs."
 
 Choice 1:
 
@@ -2273,7 +2105,7 @@ Halfway down the stairs, your bootlace comes untied and you trip into a railing.
 
 Goto Doors
 
-BASTION/SHORE LEAVE 1/DOORS
+TITLE: BASTION/SHORE LEAVE 1/DOORS
 
 Fade Lunchroom
 
@@ -2287,18 +2119,16 @@ On the other, would she even notice if you took a little time out to visit Basti
 
 DOORS CHOICE! WHOA
 
-Door 1: Climate Lab (Mei)
--> Goto Mei 1
-Door 2: Hangar (Bastion?)
--> Goto Bastion 1
+Door 1: Climate Lab (Mei)-> Goto Mei 1
+Door 2: Hangar (Bastion?)-> Goto Bastion 1
 
-BASTION/SHORE LEAVE 1/MEI 1
+TITLE: BASTION/SHORE LEAVE 1/MEI 1
 
-Fade to Black
+<<fade>>
 
 N: There's no sense in making Mei wait. Sure, she might not notice, but there's always the chance that she could get a little frosty over it...
 
-Fade to Climate Lab
+<<bg>> Fade to Climate Lab
 
 N: You push through the door into the climate lab. It's like walking into a wall of coldness.
 
@@ -2328,8 +2158,6 @@ You tap Mei on the shoulder, politely, and say "hello".
 
 P: Hello!
 
-Show Mei, normal
-
 M: Hi.
 
 P: ...
@@ -2342,19 +2170,13 @@ M: Why? Thought you had snuck up on me? Like last time?
 
 P: Yes. A little bit, I mean. I didn't want to scare you, I just expected it...
 
-Show Mei, grumpy
+<meiworried> M: I am Frostbite, and I am omniscient in this domain. Grrrr.
 
-M: I am Frostbite, and I am omniscient in this domain. Grrrr.
-
-Show Mei, happy
-
-M: I'm really scary!
+<meihappy> M: I'm really scary!
 
 P: Um, boss, I have some bad news for you.
 
-Show Mei, grumpy
-
-M: Ahh. You're a robot. 
+<meigrumpy> M: Ahh. You're a robot. 
 
 P: N-no! I...
 
@@ -2364,27 +2186,21 @@ Hide Mei
 
 M: I knew this day would come. But, {$PlayerName}, I've been waiting to try this out.
 
-Show Mei, grumpy
+<meigrumpy> M: {largeshake}Heee-yah!
 
-M: {largeshake}Heee-yah!
-
-N: She spins around and points a blue weapon at you. {w=0.3}Her momentum, however, causes it to fly out of her hand, and across the lab.
-
-Show Mei, blush
+<meihappyblush> N: She spins around and points a blue weapon at you. {w=0.3}Her momentum, however, causes it to fly out of her hand, and across the lab.
 
 P: Boss, I'm not a robot. The doctor cleared me.
 
 M: I know. I just wanted to look cool.
 
-Show Mei, happy
-
-M: And I wanted to see that panicked look on your face again. Thanks, by the way!
+<meihappy> M: And I wanted to see that panicked look on your face again. Thanks, by the way!
 
 N: Not again...
 
 P: Do you prank all of your new recruits this frequently?
 
-Show Mei, default
+
 
 M: Hmm... how do I put this?
 
@@ -2396,9 +2212,7 @@ Something dawns on you...
 
 P: Wait a second... Does that explain why the lab's empty every time I come in here?
 
-Show Mei, happy
-
-M: You're on a roll today!
+<meihappy> M: You're on a roll today!
 
 N: Mei grabs her infopad off the table.
 
@@ -2410,7 +2224,7 @@ Wait, what time is it? I feel like I've been awake for hours already.
 
 M: Oh, um... let me check.
 
-Show Mei, default
+
 
 It's midday.
 
@@ -2418,21 +2232,19 @@ P: You've got to be kidding me. I guess those {i}twelve flights of stairs{/i} pr
 
 N: Mei attempts a look of startled innocence.
 
-Show Mei, surprised
-
-M: Twelve flights of stairs? You must be awfully fit! I bet Dr. Ziegler thinks you are really cool!
+<meisurprise> M: Twelve flights of stairs? You must be awfully fit! I bet Dr. Ziegler thinks you are really cool!
 
 N: You sigh loudly, and resign yourself to a lifetime of being owned by your boss.
 
-Show Mei, default
+
 
 M: Please do tell me if my pranks make you uncomfortable, {$PlayerName}. I like jokes, but I also want to make sure you feel safe in the workplace!
 
 P: Oh, um... I'm fine with it, really. Thank you for asking, though.
 
-Show Mei, happy
 
-M: I am glad to hear that! Here, why don't you take a seat? We can take a little break before lunchtime.
+
+<meihappy> M: I am glad to hear that! Here, why don't you take a seat? We can take a little break before lunchtime.
 
 N: You sit down on the closest chair.
 
@@ -2450,7 +2262,7 @@ M: You'll get used to it, kid.
 
 N: A muffled voice yells out from... inside a cupboard?
 
-???: You won't! I promise!
+?: You won't! I promise!
 
 M: Right, well, time to go do something else.
 
@@ -2460,7 +2272,7 @@ M: Nope! Time to go!
 
 N: Mei grabs your shoulders and steers you out the doors.
 
-Fade to Corridor
+<<bg>> Fade to Corridor
 
 P: But we were going to talk about my next deployment!
 
@@ -2468,13 +2280,13 @@ M: That can wait until tomorrow morning! It's lunchtime!
 
 Hide Mei
 
-Fade to lunchroom
+<<bg>> Fade to lunchroom
 
 Show Mei
 
 Go to Lunchtime, Day 3
 
-BASTION/SHORE LEAVE 1/BASTION 1
+TITLE: BASTION/SHORE LEAVE 1/BASTION 1
 
 N: Mei can wait, right? She's probably too busy to notice, anyway.
 
@@ -2510,13 +2322,13 @@ Close infopad
 
 N: Oh no. You've got to find the hangar again.
 
-Show corridors
+<<bg>> corridors
 
 N: Getting lost is inevitable. A number of other people seem to be having trouble finding their way through the corridors, too.
 
 Eventually, though, you make your way to the hangar.
 
-Show hangar
+<<bg>> hangar
 
 N: It's quieter - and calmer - than it was last time you were in here. No guards pointing big guns at you, for one.
 
@@ -2524,17 +2336,15 @@ You can't see the Bastion anywhere, though. A few minutes of looking nets you no
 
 On the wind, you hear a sound.
 
-G: ♪
+B: ♪
 
 N: You follow the sound, and find yourself behind a wall of supply crates. 
-
-Show Bastion, normal w/ Ganymede
 
 N: Bastion and Ganymede are nestled in a clearing behind the crates, and they appear to be... playing cards?
 
 B: Dweeoooo.
 
-G: ♪♪
+B: ♪♪
 
 N: You clear your throat, and they both give you a "{i}what?{/i}" look. Well, as much as a faceless robot and a five-inch-tall bird can.
 
@@ -2548,19 +2358,13 @@ You shake your head to shoo the thoughts away, and they both give you another od
 
 What they're {i}actually{/i} doing is building a house of cards. At least, that's how you interpret it. It doesn't seem to be a team activity, as far as you can tell.
 
-Bastion's attention turns back to the cards, and you watch as it slowly grips an ace of spades, taking care not to fold it, and props it against its gun.
+<bastiondefault> Bastion's attention turns back to the cards, and you watch as it slowly grips an ace of spades, taking care not to fold it, and props it against its gun.
 
 Then, it gets another one, and puts the two together, making a standing triangle shape. {w=0.5}{i}Oh!{/i}{w=0.4} They're building a house of cards!
 
-Show Bastion, normal
-Show Ganymede, angry
+<ganymededefault> B: ♫!!!
 
-G: ♫!!!
-
-N: Ganymede flaps forward and knocks it over. Guess it's not a team activity, after all... Bastion isn't deterred, though. It just picks up a card and starts again.
-
-Hide Ganymede
-Show Bastion, normal w/ Ganymede
+<bastiondefault> N: Ganymede flaps forward and knocks it over. Guess it's not a team activity, after all... Bastion isn't deterred, though. It just picks up a card and starts again.
 
 You wonder for a moment how long they've been together. Mei wasn't even able to identify Ganymede's species, so it's almost impossible to tell where they both came from.
 
@@ -2608,9 +2412,7 @@ N: Bastion stops, and lifts its arms in apology. You spin around, in mock anger.
 
 P: And I came down to spend time with you! I should be debriefing right now...
 
-Show Bastion, pink w/ Ganymede
-
-B: Hoo!
+<bastionpinkwg> B: Hoo!
 
 N: At this, you turn around. Bastion is looking apologetic - well, as apologetic as a siege automaton can look.
 
@@ -2624,10 +2426,10 @@ P: I was only kidding, y' know. I came down 'cause I wanted to get to know you a
 
 N: Bastion relaxes a little, but keeps its hand up. You realize it's waiting for something.
 
-Choice:
+//CHOICE://
 
-1: Give it a high-five
-2: Give it a hug
+CHOICE 1: Give it a high-five
+CHOICE 2: Give it a hug
 
 CHOICE 1:
 
@@ -2635,9 +2437,7 @@ N: All Bastion wants is a bit of reassurance that you're still friends. A high-f
 
 You reach up - with difficulty, since Bastion towers above you - and give it a high five. Your hand hits its hand with a soft {SmallShake}{i}whap{/i}.
 
-Show Bastion, green w/ Ganymede
-
-Bastion just looks at you.
+<bastiongreenwg> Bastion just looks at you.
 
 B: Dwee!
 
@@ -2681,10 +2481,7 @@ It obviously doesn't feel like sharing more details about its past. Perhaps a mo
 
 You yawn and sit down next to Ganymede. He jumps up, startled.
 
-Show Bastion, green w/o Ganymede
-Show Ganymede, angry
-
-G: !!!
+B: !!!
 
 P: Oops! Didn't mean to scare you, little fella.
 
@@ -2752,7 +2549,7 @@ Your infopad dings. It's just another agency-wide newsletter, but the time seems
 
 P: I should... probably go. 
 
-BASTION/SHORE LEAVE 1/LUNCHTIME (BASTION)
+TITLE: BASTION/SHORE LEAVE 1/LUNCHTIME (BASTION)
 
 You feel like you've learned some valuable information about Bastion. As you stand up, your legs feel like they're full of lead, but your heart is light... and that's all that matters.
 
@@ -2778,9 +2575,9 @@ Hide infopad
 
 N: As if to agree, your stomach emits a low rumble.
 
-Show Bastion, yellow w/o ganymede
 
-N: Bastion stiffens up, and begins checking the corners. Ganymede seems spooked, too. You watch as he takes flight, and disappears behind some supply crates.
+
+<bastionyellow> N: Bastion stiffens up, and begins checking the corners. Ganymede seems spooked, too. You watch as he takes flight, and disappears behind some supply crates.
 
 P: Hey, you ok?
 
@@ -2800,15 +2597,11 @@ N: Nothing.
 
 You hear the sound of flapping wings, and Ganymede alights on Bastion's head, carrying something in its beak.
 
-Show Bastion, yellow w/ ganymede
-
-N: Bastion doesn't react until Ganymede jumps down onto its outstretched arm. Then, it just looks down at the bird.
+<bastionyellowwg> N: Bastion doesn't react until Ganymede jumps down onto its outstretched arm. Then, it just looks down at the bird.
 
 Ganymede hops around a little, then drops whatever it's holding into Bastion's hand.
 
-Show bastion, green w/ ganymede
-
-Immediately, you can tell that Bastion has calmed down. Its pose becomes more relaxed, and it strokes Ganymede's head with its thumb.
+<bastiongreenwg> Immediately, you can tell that Bastion has calmed down. Its pose becomes more relaxed, and it strokes Ganymede's head with its thumb.
 
 P: Hey, Bastion... are you okay?
 
@@ -2836,17 +2629,15 @@ N: You reach over and give Ganymede a boop on the head. He bites your finger.
 
 P: Ouch! I guess we're not good enough friends for that yet, huh?
 
-G: ♪
+B: ♪
 
 P: See ya, Bastion.
 
 N: Bastion waves as you head back out into the main area of the hangar.
 
-Fade to corridor
+<<bg>> Fade to corridor
 
 N: Thankfully, the lunchroom isn't too far away, and as you get near the door, Mei springs out of nowhere.
-
-Show Mei
 
 M: Hiya! You ready to get some chow?
 
@@ -2854,13 +2645,13 @@ P: Sure am! Lead the way, boss!
 
 Hide Mei
 
-Show Lunchroom
+<<bg>> Lunchroom
 
 Show Mei
 
 Go to Lunchtime, Day 3
 
-BASTION/SHORE LEAVE 1/LUNCHTIME (DAY 3)
+TITLE: BASTION/SHORE LEAVE 1/LUNCHTIME (DAY 3)
 
 N: The lunchroom is packed with Overwatch members. At the back, near the windows, a small crowd is gathered around a giant, moustached man. He's shouting animatedly.
 
@@ -2871,8 +2662,6 @@ Before you can look closer, though, Mei drags you to an empty seat. You turn to 
 How the heck...?
 
 C: Afternoon, soldier.
-
-Show Dad, normal
 
 N: Ack! It's the commander!
 
@@ -2899,8 +2688,6 @@ C: I should hope so, soldier.
 N: You shrink into your seat a little. He's definitely still at least a little bit angry. 
 
 Thankfully, Mei appears again, and breaks the silence by plopping herself down next to you and cheerily asking the commander about his morning.
-
-Show Mei
 
 M: Boss! How'd your admin stuff go?
 
@@ -2934,21 +2721,15 @@ C: And I keep telling {i}you{/i}, Mei, that it's expensive and unnecessary. Ther
 
 N: Mei gives a dramatic sigh.
 
-Show Mei, happy
-
-M: I guess you're right... {w=0.3}but I'm going to keep nagging you anyway!
+<meihappy> M: I guess you're right... {w=0.3}but I'm going to keep nagging you anyway!
 
 C: Maybe one day you'll wear me down. Until then, I expect you to stop sending emails to the Antarctica team, begging to be reassigned.
 
-Show Mei, blush
-
-M: I didn't know you knew about those...
+<meihappyblush> M: I didn't know you knew about those...
 
 N: The commander grins wolfishly. The back-and-forth between him and Mei is a fun diversion to the awkward conversation that came before it...
 
 C: Commander Amari reports to {i}me{/i}, too, you know/
-
-Show Mei, normal
 
 M: Ooooh, I'm gonna freeze her solid when I get my hands on her...
 
@@ -2992,22 +2773,22 @@ P: Oh. Thank you for the reminder, sir.
 
 N: You both stand up, and he nods at you before turning to leave.
 
-Fade to black
+<<fade>>
 
 N: Without Mei around, you're free to choose a meal that doesn't need to taste good with lychee sauce. You end up filling your bowl with pasta - those carbs will do you good.
 
 If first choice == Bastion, proceed to Mei Chat (Second)
 If first choice == Mei, proceed to Bastion Chat (Second)
 
-BASTION/SHORE LEAVE 1/MEI 2
+TITLE: BASTION/SHORE LEAVE 1/MEI 2
 
 N: After you empty your bowl, you reluctantly get up. That was probably too much food...
 
-Fade to corridor
+<<bg>> Fade to corridor
 
 N: Taking your time, you waddle through the corridors. Three bowls of pasta was obviously too much. Far too much. You need to learn some moderation, obviously.
 
-Fade to Climate Lab
+<<bg>> Fade to Climate Lab
 
 N: You push through the door into the climate lab. Tendrils of cold air worm their way under your clothes - it's like walking into a wall of frost.
 
@@ -3037,7 +2818,7 @@ You tap Mei on the shoulder, politely, and say "hello".
 
 P: Hello!
 
-Show Mei, normal
+
 
 M: Hi.
 
@@ -3051,19 +2832,19 @@ M: Why? Thought you had snuck up on me? Like last time?
 
 P: Yes. A little bit, I mean. I didn't want to scare you, I just expected it...
 
-Show Mei, grumpy
 
-M: I am Frostbite, and I am omniscient in this domain. Grrrr.
 
-Show Mei, happy
+<meigrumpy> M: I am Frostbite, and I am omniscient in this domain. Grrrr.
 
-M: I'm really scary!
+
+
+<meihappy> M: I'm really scary!
 
 P: Um, boss, I have some bad news for you.
 
-Show Mei, grumpy
 
-M: Ahh. You're a robot. 
+
+<meigrumpy> M: Ahh. You're a robot. 
 
 P: N-no! I...
 
@@ -3073,27 +2854,25 @@ Hide Mei
 
 M: I knew this day would come. But, {$PlayerName}, I've been waiting to try this out.
 
-Show Mei, grumpy
 
-M: {largeshake}Heee-yah!
 
-N: She spins around and points a blue weapon at you. {w=0.3}Her momentum, however, causes it to fly out of her hand, and across the lab.
+<meigrumpy> M: {largeshake}Heee-yah!
 
-Show Mei, blush
+<meihappyblush> N: She spins around and points a blue weapon at you. {w=0.3}Her momentum, however, causes it to fly out of her hand, and across the lab.
 
 P: Boss, I'm not a robot. The doctor cleared me.
 
 M: I know. I just wanted to look cool.
 
-Show Mei, happy
 
-M: And I wanted to see that panicked look on your face again. Thanks, by the way!
+
+<meihappy> M: And I wanted to see that panicked look on your face again. Thanks, by the way!
 
 N: Not again...
 
 P: Do you prank all of your new recruits this frequently?
 
-Show Mei, default
+
 
 M: Hmm... how do I put this?
 
@@ -3105,9 +2884,9 @@ Something dawns on you...
 
 P: Wait a second... Does that explain why the lab's empty every time I come in here?
 
-Show Mei, happy
 
-M: You're on a roll today!
+
+<meihappy> M: You're on a roll today!
 
 N: Mei grabs her infopad off the table.
 
@@ -3119,7 +2898,7 @@ Wait, what time is it? This day's been going way too long already.
 
 M: Oh, um... let me check.
 
-Show Mei, default
+
 
 It's five o'clock.
 
@@ -3127,21 +2906,21 @@ P: You've got to be kidding me. I guess those {i}twelve flights of stairs{/i} pr
 
 N: Mei attempts a look of startled innocence.
 
-Show Mei, surprised
 
-M: Twelve flights of stairs? You must be awfully fit! I bet Dr. Ziegler thinks you are really cool!
+
+<meisurprise> M: Twelve flights of stairs? You must be awfully fit! I bet Dr. Ziegler thinks you are really cool!
 
 N: You sigh loudly, and resign yourself to a lifetime of being owned by your boss.
 
-Show Mei, default
+
 
 M: Please do tell me if my pranks make you uncomfortable, {$PlayerName}. I like jokes, but I also want to make sure you feel safe in the workplace!
 
 P: Oh, um... I'm fine with it, really. Thank you for asking, though.
 
-Show Mei, happy
 
-M: I am glad to hear that! Here, why don't you take a seat? We can take a little break before lunchtime.
+
+<meihappy> M: I am glad to hear that! Here, why don't you take a seat? We can take a little break before lunchtime.
 
 N: You sit down on the closest chair.
 
@@ -3159,7 +2938,7 @@ M: You'll get used to it, kid.
 
 N: A muffled voice yells out from... inside a cupboard?
 
-???: You won't! I promise!
+?: You won't! I promise!
 
 M: Right, well, time to go do something else.
 
@@ -3175,7 +2954,7 @@ P:
 
 Hide Mei
 
-Fade to Corridor
+<<bg>> Fade to Corridor
 
 P: Seriously. What?
 
@@ -3186,8 +2965,6 @@ You stick your head back through the doors to the lab. Mei is chuckling with an 
 P: Hey! I wanted to ask you about something!
 
 M: Be there in a sec!
-
-Show Mei, normal
 
 M: What's up?
 
@@ -3207,13 +2984,13 @@ P: Huh, yeah, I never asked Bastion about that. I always used "it" as a default.
 
 M: Me too. Maybe you should ask Bastion about that at some point.
 
-Show Mei, happy
 
-M: It can only lead to increased understanding between us, as sentient beings!
+
+<meihappy> M: It can only lead to increased understanding between us, as sentient beings!
 
 P: Um, speaking of, the thing I wanted to ask you about... do you think Bastion likes hugs?
 
-Show Mei, normal
+
 
 M: That's an odd question.
 
@@ -3237,25 +3014,17 @@ M: Yep! See ya!
 
 Hide Mei
 
-Fade to black
+<<fade>>
 
 Go to Mission Prep II
 
-Summary
-
-Deployment 2 explores the Curiosity/Interest stage of the relationship between Bastion and our player character. This chapter contains multiple chances to gain or lose fire, based on the PC's interactions with both Bastion and Ganymede.
-
-We also learn more about Bastion's history; how'd it come so far south from Germany without being captured?
-
-Bastion sees something that triggers it. You attempt to comfort it.
-
-BASTION/DEPLOYMENT 2/MISSION PREP II
+TITLE: BASTION/DEPLOYMENT 2/MISSION PREP II
 
 N: You're woken by the sunrise poking through your curtains. It's a morning you'd describe as fresh and rosy-fingered. 
 
 You can't remember where you first heard that phrase. Probably some nerd stuff, right?
 
-Show Lunchroom
+<<bg>> Lunchroom
 
 N: Breakfast is... pastries. You feel like twelve is a good number, but, against your better judgement, you go for six. Gotta stay healthy, after all.
 
@@ -3283,7 +3052,7 @@ By way of explanation, he lifts up his info-pad, and shows you the latest messag
 
 Unbelievable.
 
-Fade to black
+<<fade>>
 
 N: On the way to the climate lab, you ruminate on what your next deployment could be.
 
@@ -3295,13 +3064,13 @@ Hmm. Maybe wrong's not the best way to describe it...
 
 Your brain crunches away at the problem until you reach the double doors leading into the lab.
 
-Show corridor
+<<bg>> corridor
 
 N: Maybe it's something local? A wildlife survey of the Swiss Alps? Sunshine and birdlife and impressing your boss are just a few of your favourite things...
 
-Show Mei, grumpy
 
-N: Or, maybe, just maybe, you're going somewhere lush and exotic, for a {i}real{/i} test.
+
+<meigrumpy> N: Or, maybe, just maybe, you're going somewhere lush and exotic, for a {i}real{/i} test.
 
 Hide Mei
 
@@ -3315,15 +3084,14 @@ On top of that, your hands are empty.
 
 P: What the...
 
-N: Mei sticks her head out the door, holding a pot of coffee.
+<meidefault> N: Mei sticks her head out the door, holding a pot of coffee.
 
-Show Mei, normal
 
 You do a double-take. Eventually, you make the connection between your hands being empty and Mei holding a coffee pot, but it takes... a while.
 
-Show Mei, grumpy
 
-M: You done?
+
+<meigrumpy> M: You done?
 
 N: Ah.
 
@@ -3331,7 +3099,7 @@ P: Yeah... sorry.
 
 Hide Mei
 
-Show Climate Lab
+<<bg>> Climate Lab
 
 N: Mei grabs a pen, and leads you to a strange, cobbled-together contraption standing in the corner of the lab.
 
@@ -3339,7 +3107,7 @@ It almost looks like a rolling whiteboard - the sort you saw in old movies about
 
 P: What's this?
 
-Show Mei
+
 
 M: It's a prototype hard-light projection-
 
@@ -3373,17 +3141,17 @@ N: Mei looks up from her infopad, mouth slightly open, then chuckles rustily.
 
 M: Kid, I was up late watching eSports. 
 
-Show Mei, happy
 
-M: It's nice of you to think of me, though. Do you need to talk about anything?
+
+<meihappy> M: It's nice of you to think of me, though. Do you need to talk about anything?
 
 N: Come to mention it, there's a sticker on the back of Mei's infopad, and now that you look closer, it definitely strongly resembles the StarCraft III Remaster logo.
 
 P: Oh. {w=0.3}Um. {w=0.3}Nah. {w=0.3}It's not a big deal. {w=0.3}Just spent a lot of time ruminating on it, you know?
 
-Show Mei, normal
 
-N: Her face softens, and fills with empathy. 
+
+<meidefault> N: Her face softens, and fills with empathy. 
 
 M: Trust me, {$PlayerName}, I understand. It's a lot to handle. Especially when you're new to this sort of thing.
 
@@ -3423,13 +3191,11 @@ M: Right. No problem. Anyway, I want you to go into that unclaimed area and look
 
 P: Sure. {w=0.5}Wait. Just one bird?
 
-Show Mei, grumpy
 
-M: Of course not! 
 
-Show Mei, normal
+<meigrumpy> M: Of course not! 
 
-M: Wait... I guess if there was only one of them left, you'd be looking for just one. But I hope that's not the case.
+<meidefault> M: Wait... I guess if there was only one of them left, you'd be looking for just one. But I hope that's not the case.
 
 P: Got it. What am I after?
 
@@ -3571,20 +3337,20 @@ P: You think so?
 
 M: Of course! Come on, I'll come with you.
 
-Fade to black
+<<fade>>
 
 Go to Travel Time
 
 
-BASTION/DEPLOYMENT 2/TRAVEL TIME
+TITLE: BASTION/DEPLOYMENT 2/TRAVEL TIME
 
 N: You and Mei begin to make your way down to the hangar. On the way, Mei stops, distracted by her infopad.
 
-Show Corridor
+<<bg>> Corridor
 
-Show Mei, worried
 
-M: What...?
+
+<meiworried> M: What...?
 
 P: Hmm? What's up?
 
@@ -3608,19 +3374,17 @@ Hide Mei
 
 Nothing else stops you on the way to the hangar, though Mei's expression is decidedly dark. You've not seen her like this before...
 
-Show Hangar
+<<bg>> Hangar
 
 N: You arrive in the hangar. It's bustling with activity - apparently, this is what it's like on a normal day. 
 
-Mei leads you to the outside end of the room, where, in the distance, you can see Bastion's silhouette against the blinding midday sun.
-
-Show Bastion, blue w/o Ganymede
+<bastiongreen> Mei leads you to the outside end of the room, where, in the distance, you can see Bastion's silhouette against the blinding midday sun.
 
 P: Hey, you.
 
-Show Bastion, green w/o Ganymede
 
-N: Bastion whirrs happily to greet you, and points to Ganymede circling above.
+
+<bastiongreen> N: Bastion whirrs happily to greet you, and points to Ganymede circling above.
 
 P: Oh! Ganymede looks like he's happy!
 
@@ -3632,17 +3396,17 @@ M: Hey, {$PlayerName}, this is really nice, but...
 
 P: Yeah. I get it, don't worry.
 
-N: You turn to Bastion, and wave to get its attention.
+<bastiongreen> N: You turn to Bastion, and wave to get its attention.
 
-Show Bastion, blue w/o Ganymede
+
 
 <APPEND> It looks at you, and tilts its head curiously.
 
 P: So, I was, uh...
 
-Choice:
-1: Come on deployment with me
-2: I'm worried about my next deployment
+//CHOICE://
+CHOICE 1: Come on deployment with me
+CHOICE 2: I'm worried about my next deployment
 
 CHOICE 1:
 
@@ -3670,9 +3434,9 @@ N: Bastion nods, and reaches out to high-five Mei. She returns it with gusto, an
 
 M: You're pretty cute, you know. I'd love to have you as a lab assistant.
 
-Show Bastion, pink w/o Ganymede
 
-N: In response to this, Bastion flashes pink, and nods enthusiastically. 
+
+<bastionpink> N: In response to this, Bastion flashes pink, and nods enthusiastically. 
 
 You feel like the conversation's moving a little bit away from the topic at hand.
 
@@ -3700,9 +3464,9 @@ M: That sounds like an excellent idea, {$PlayerName}.
 
 N: Her infopad beeps, and she looks down at it.
 
-Show Mei, surprised
 
-M: Oh! I just remembered, I left an experiment running in the lab. I'll send through the briefing later. 
+
+<meisurprise> M: Oh! I just remembered, I left an experiment running in the lab. I'll send through the briefing later. 
 
 Hide Mei
 
@@ -3728,9 +3492,9 @@ I think I'd feel safer with you around, is all.
 
 N: Mei jumps in, and grins widely.
 
-Show Mei, happy
 
-M: I was the one who suggested it! 
+
+<meihappy> M: I was the one who suggested it! 
 
 N: Bastion turns, and looks up at Ganymede again.
 
@@ -3758,9 +3522,9 @@ N: Bastion nods, and reaches out to high-five Mei. She returns it with gusto, an
 
 M: You're pretty cute, you know. I'd love to have you as a lab assistant.
 
-Show Bastion, pink w/o Ganymede
 
-N: In response to this, Bastion flashes pink, and nods enthusiastically. 
+
+<bastionpink> N: In response to this, Bastion flashes pink, and nods enthusiastically. 
 
 You look from Bastion to Mei, and can't help but smile at the mental image of them pottering around the lab.
 
@@ -3790,9 +3554,9 @@ M: That sounds like an excellent idea, {$PlayerName}.
 
 N: Her infopad beeps, and she looks down at it.
 
-Show Mei, surprised
 
-M: Oh! I left an experiment running in the lab. I'll send through the briefing later. 
+
+<meisurprise> M: Oh! I left an experiment running in the lab. I'll send through the briefing later. 
 
 N: Before you can respond, she disappears behind some crates.
 
@@ -3808,7 +3572,7 @@ N: Bastion nods, and gestures to the ground beside it. You fall into a companion
 
 Before long, the midmorning sun reaches its peak, and your perch at the end of the hangar is bathed in gorgeous, warm sunlight.
 
-Fade to white
+<<bg>> Fade to white
 
 Timeskip!
 
@@ -3818,7 +3582,7 @@ You can handle this. Mei believes in you. And that's all that matters.
 
 Repeating this to yourself gets you through the day.
 
-Fade to black
+<<fade>>
 
 N: .{w=0.3}.{w=0.3}.{w=0.3}.{w=0.3}.
 
@@ -3832,7 +3596,7 @@ P: Ahhh!!!
 
 Flash to bedroom
 
-Show Mei
+
 
 M: Your transport leaves in fifteen minutes! Bastion and Ganymede are waiting for you!
 
@@ -3854,13 +3618,11 @@ To clarify, your hair is not actually on fire. It's a metaphor.
 
 You make it to the hangar three minutes late.
 
-Fade to hangar
+<<bg>> Fade to hangar
 
 N: The transport is waiting, just like Mei said. It looks like the pilot is already going through pre-flight checks, so hopefully you haven't wasted too much time...
 
 To your left, you see Mei packing supplies into the transport, tongue between her teeth. And, to your right, you see...
-
-Show Dad, grumpy
 
 C: Soldier.
 
@@ -3884,9 +3646,8 @@ You let out a deep breath, and look around for Bastion and Ganymede. They're now
 
 ... Until you poke your head into the transport, and spot Bastion merrily humming away to itself, with Ganymede perched on its head.
 
-Show Bastion, blue with ganymede
 
-B: Hoo!
+<bastiongreen> B: Hoo!
 
 N: Bastion waves. Seems like it's in a good mood.
 
@@ -3894,7 +3655,7 @@ P: Hey! Are you looking forward to our outing?
 
 N: Bastion nods eagerly, and Ganymede voices his agreement.
 
-G: ♪!
+B: ♪!
 
 P: I, uh... woke up a little late, so I gotta go talk to the pilot. I hope she's not mad...
 
@@ -3926,7 +3687,7 @@ P: Got it, thanks!
 
 N: Down in the cargo bay, Mei is waiting.
 
-Show Mei, normal
+
 
 M: Hi! You ready?
 
@@ -3956,13 +3717,13 @@ You glance at Bastion and Ganymede, who seem to be happy enough, and go sit in t
 
 T: Alright, let's go. Closing bay door... and we're off!
 
-Fade to white
+<<bg>> Fade to white
 
 N: The transport lurches upwards, and soars out into the morning's blinding light.
 
 Soon enough, the roar of the pulse-jets lulls you into a welcome slumber.
 
-Fade to black
+<<fade>>
 
 Goto Search for the Thrasher
 
@@ -3986,7 +3747,7 @@ N: Around the corner from the sign, you see a clear-cut entrance into the cliff.
 
 P: Look! A cave! It's all mysterious!
 
-Fade to black
+<<fade>>
 
 N: You poke your head in. Nothing. Nobody's in there. Absolute silence.
 
@@ -3994,13 +3755,13 @@ P: Hello?
 
 B: Hoo?
 
-G: ♯♫?!
+B: ♯♫?!
 
 N: ...
 
 You hear a click.
 
-Show Cave of Mystery, with white flash
+<<bg>> Cave of Mystery, with white flash
 
 P: Ahhh!!
 
@@ -4010,9 +3771,9 @@ P: ... Oh.
 
 N: The room is full of junk, abandoned years ago. On the ceiling, you can see cables leading from the lights to holes in the ceiling... there must be solar panels somewhere, keeping the system alive.
 
-Show Bastion, green w/o ganymede
 
-N: Bastion steps in after you, and inspects a table of "aliens". 
+
+<bastiongreen> N: Bastion steps in after you, and inspects a table of "aliens". 
 
 B: Wheeeeoo?
 
@@ -4040,23 +3801,23 @@ Hide Bastion
 
 P: Sigh. This wasn't a good start...
 
-Show R66-Valley through white fade
+<<bg>> R66-Valley through white fade
 
-Show Bastion, blue w/ Ganymede
 
-N: Outside, Bastion and Ganymede are looking through a bush. Because, of course, that's a totally natural and normal thing for a giant robot and a mutant bird to be doing.
+
+<bastiondefault> N: Outside, Bastion and Ganymede are looking through a bush. Because, of course, that's a totally natural and normal thing for a giant robot and a mutant bird to be doing.
 
 P: Hey, you two! What are you up to?
 
 N: Bastion waves a hand at you, but doesn't look up. 
 
-Show Bastion, blue w/o Ganymede
 
-N: Ganymede jumps down into the bush, and scratches through the dirt with his beak. 
 
-Show Ganymede, normal
+<bastiongreen> N: Ganymede jumps down into the bush, and scratches through the dirt with his beak. 
 
-G: !
+
+
+B: !
 
 N: Ganymede pops up, clutching a piece of shiny metal.
 
@@ -4066,20 +3827,18 @@ Uh. {w=0.3}That's not exactly what we're looking for.
 
 Sorry, lil' fella.
 
-N: Ganymede ignores you, and flaps up to Bastion's head.
+<bastiondefault> N: Ganymede ignores you, and flaps up to Bastion's head.
 
 Hide Ganymede
 
-Show Bastion, blue w/ Ganymede
-
 P: Well, never mind. Let's go somewhere else, Bastion.
 
-CHOICE:
+//CHOICE://
 
 P: Let's go to...
 
-1: ...the gas station.
-2: ...the diner.
+CHOICE 1: ...the gas station.
+CHOICE 2: ...the diner.
 
 Choice 1: goto D2/Gas Station
 Choice 2: goto D2/Diner
@@ -4094,13 +3853,13 @@ On the way, you check the spaces between boulders and the tops of cacti for bird
 
 You can hear birds in the distance, but they don't sound at all like the ones you're looking for. Your life would be a lot easier if they were, that's for sure.
 
-Show gas station ext
+<<bg>> gas station ext
 
 N: A little way past the cliff sits the gas station, slowly rotting. Faded stains from oil and petroleum spills draw a patchwork on the concrete.
 
 Now that you're off the edge of the cliff, the wind sound has died down a little, and in its place you hear the distinctive sound of a motor humming.
 
-Show r66-cliff
+<<bg>> r66-cliff
 
 N: Outside, the wind has picked up a little, and you shiver a little, despite the warmth. 
 
@@ -4164,11 +3923,9 @@ P: Do you think we're going to be able to find one, Bastion?
 
 N: Bastion shrugs, and keeps walking.
 
-Show Diner, ext.
+<<bg>> Diner, ext.
 
-Show Bastion, blue w/ Ganymede
-
-N: The diner is only a few minutes' walk to the west, and as you approach, you note that its doors are hanging off their hinges.
+<bastiondefault> N: The diner is only a few minutes' walk to the west, and as you approach, you note that its doors are hanging off their hinges.
 
 Usually, that wouldn't be a good sign, but for your purposes, it's encouraging.
 
@@ -4188,7 +3945,7 @@ N: Your big robot friend clomps off, and is quickly out of sight.
 
 Hide Bastion
 
-Show Diner Int. 
+<<bg>> Diner Int. 
 
 N: As you pass through the doors, a small gust of wind makes one rattle loudly against its fittings. You jump in fright, but, fortunately, you're alone, so there's nobody to laugh at you.
 
@@ -4212,7 +3969,7 @@ As you step forward, something shifts in the ceiling, and a small stream of dust
 
 Spooky.
 
-Show diner-int2 with fade
+<<bg>> diner-int2 with fade
 
 N: You turn the corner, and the rustling stops.
 
@@ -4230,9 +3987,9 @@ Bastion's footsteps outside come closer, and...
 
 {LargeShake}{i}CRASH!{/i}
 
-Show Bastion, green w/ ganymede
 
-N: Bastion walks through the wall.
+
+<bastiongreenwg> N: Bastion walks through the wall.
 
 B: Doo?
 
@@ -4260,19 +4017,14 @@ Instead, it's walking over to the counter.
 
 P: Hey, you.
 
-N: Bastion pokes at the cash register. Sensing an opportunity for troublemaking, Ganymede flaps down and starts pecking at the buttons too.
+<bastion default> N: Bastion pokes at the cash register. Sensing an opportunity for troublemaking, Ganymede flaps down and starts pecking at the buttons too.
 
-Show Bastion blue w/o ganymede
-
-Show ganymede normal
 
 P: Listen, you two...
 
 N: The cash register pops open with a {i}ding{/i}! Ganymede flutters up in surprise.
 
-Show ganymede angry
-
-N: Bastion chuckles again. It seems like it's not interested in the money, though - instead, it picks up the cash register, examining its mechanisms.
+<ganymededefault> N: Bastion chuckles again. It seems like it's not interested in the money, though - instead, it picks up the cash register, examining its mechanisms.
 
 P: Oi! You're not the cashier, Bastion! You're my research assistant, and I need your help scoping out the rest of the cliff!
 
@@ -4286,7 +4038,7 @@ It's sure as heck not going on the mission report, that's for sure.
 
 Hide bastion, ganymede
 
-Show r66-cliff
+<<bg>> r66-cliff
 
 N: Outside, the wind has picked up a little, and you shiver a little, despite the warmth. 
 
@@ -4335,343 +4087,3 @@ You sigh. It's true, you'd expected to find one by now...
 Mei ends the chat, and the cliffside is silent again.
 
 
-
-You inadvertently cause some rocks to fall, and one hits a sheet of tin metal, making a sound like a gunshot. Bastion is freaked the FUCK out.
-
-Summary
-
-Things are heating up!
-
-Bastion is beginning to break down.
-
-Summary
-
-Things have heated to a very high temperature! Boy heck!
-
-Something out of your control happens that makes Bastion incredibly upset. The pressure is on YOU to make Bastion calm again, either by talking to it, or fixing it permanently.
-
-Bastion goes loud.
-
-You're deployed to Eichenwalde. Bastion is upset by all the broken units scattered about.
-
-You have a job to do. Observing wildlife as it reclaims the castle. It's been "at least" fifteen years since the end of the Crisis
-
-
-
-Optional: "Verge" scene
-
-This scene only happens if you're extremely close (±1 fire) to hitting good/bad ending. 
-
-
-
-Show Mei, sad
-
-N: Mei lowers herself into a sitting position on the floor, and is silent. 
-
-The bags under her eyes seem to have deepened over the past few days. She looks down at her hands and massages them.
-
-Left hand, right hand. Left hand, right hand. Right hand, left hand.
-
-You turn and sit down at her work bench. Behind you, Mei begins to cry quietly.
-
-M: {$Playername}... I... I'm sorry...
-
-N: You can't think clearly. Everything is swirling around in your mind, horribly. Thoughts ricochet into ugly places, and you're seized with an urge to scream.
-
-P: I have to go outside. This is too much, I'm sorry.
-
-N: At this, Mei springs up, and grabs you by the shoulders.
-
-M: {SmallShake}No.
-
-P: What?
-
-M: We need to fix this.
-
-N: You grimace, both internally and externally.
-
-P: Mei, don't you think... I've tried... to fix this... enough already?
-
-N: This only serves to redouble the torrent of tears running down her face.
-
-M: Yes! I- I know we can make it better, {$PlayerName}!
-
-P: I can't, Mei-
-
-M: You can!
-
-P: I can't. Let me go, before I ruin something else.
-
-N: You say it with unexpected venom, and Mei unhands you with a jerky shudder, as if your anger turned your shoulders to white-hot steel.
-
-M: {$PlayerName}... you can't leave. You're an Overwatch agent. We pledged to save the world together.
-
-P: And what did I do instead, Mei? I pulled a machine out of the wild, and hurt it. I hurt it so freaking much, Mei.
-
-N: Mei grits her teeth, roughly wipes the tears from her eyes, and puffs herself up.
-
-Show Mei, angry
-
-M: Listen to me, you punk.
-
-It.{w=0.3} Is.{w=0.3} Not.{w=0.3} Too.{w=0.3} Late.{w=0.3} To.{w=0.3} Fix.{w=0.3} This.
-
-P: You really think that, Mei?
-
-M: Yes.
-
-Choice:
-
-1: You've been wrong the whole time. (goes to bad ending)
-2: You were supposed to help me. (goes to good ending)
-
-Choice 1
-
-P: If you believe that, you're deluded.
-
-I don't think you ever understood what was right for Bastion. Ever.
-
-N: Her eyes fill with tears again. There's a silence, and this time, she speaks softly.
-
-Show Mei, sad
-
-M: I don't think you did, either.
-
-None of us did. We failed.
-
-But... but it's not too late. Right?
-
-P: Mei, I'm done. I quit. If I had a badge, I'd be slapping it on the counter right now.
-
-M: Listen. Please. I want you to stay.
-
-N: You turn, and walk out the door. The lab is dark and silent behind you.
-
-Fade to black
-
-Go to Ending Pointers - Bad Ending
-
-Choice 2
-
-P: You were meant to help me, Mei. I depended on you.
-
-N: Mei's eyes brim with tears. She stays silent.
-
-P: I thought we could change the world! You, me, everyone! But we never stopped to consider the cost of trying to fix everything.
-
-We've failed, Mei. That's all there is to it. It's time to let this go.
-
-I don't know why I even bothered. There's no point.
-
-N: You turn on your heel, and begin to pace.
-
-P: I don't know if you think we can actually do anything, but I know we can't. I am {i}absolutely{/i} certain.
-
-M: Never say never, {$Playername}.
-
-N: She says it quietly, but with conviction. You give her a dirty look. Surely, it's too late for optimism.
-
-M: I know you must hate me right now, but I think... {w=0.4}no, I know that we can make this better.
-
-P: You can't possibly be serious.
-
-Show Mei, angry
-
-M: I am deadly serious, {$PlayerName}. As long as my name is Mei-Ling Zhou, I will {i}never{/i} stop fighting for what I believe in.
-
-And I believe, with all my heart, that we can make this better.
-
-Will you stand with me?
-
-N: Her furious gaze burns into you. You feel naked in front of it; she's never turned it up like this before. It's not a look you can match. Not one bit.
-
-In your heart, you know that you can't fix this. It's impossible, it's never been done - and it's something that could get a whole lot of people hurt.
-
-But Mei... Mei believes that she can calm Bastion's rage. If she's so certain... why shouldn't you trust her?
-
-She's not always right, but she puts her heart into everything she does.
-
-Maybe she's right this time. Maybe she's right, this time, when it really, really counts.
-
-You turn back to Mei, and she holds out a hand. She's still puffed up with fury, but it's a powerful flame that draws you in.
-
-M: {$PlayerName}. Take the leap. We can change the world.
-
-N: She raises her chin and makes eye contact with you again, and this time, it's a look you can match.
-
-Fade to black
-
-Go to Ending Pointers - Good Ending
-Peak of action
-
-Crisis is averted, and Bastion stays with Overwatch
-
-Peak of action
-
-Crisis is averted - but Bastion leaves forever
-
-
-
-Summary
-
-Bastion gets inducted as an official member of Overwatch
-
-THREE MONTHS LATER
-
-Fade to white
-
-N: The blah does blah.
-
-BASTION/ENDING 1/CODA
-
-
-You say goodbye, as Bastion leaves for Antarctica for a month to assist Mei in her research. Bastion gives you a high five. Callback! See it?
-
-
-
-Fade to black
-
-N: The strident beeping of your alarm clock pulls you out of bed. It's still very, very dark outside.
-
-What time {i}is{/i} it...?
-
-You remember, very suddenly, and hurriedly throw on some clothes. Hangar. You've got to get to the hangar.
-
-
-go to the hangar after getting a quick breakfast
-
-mei and mercy are there
-
-remember, one month, do this and that for the bird
-
-mercy tells you about the mission, all bubbly, while Bastion and Ganymede share a moment
-
-Ganymede alights onto your hand, and with your other, you give Bastion a high five
-
-
-
-
-
-Go to Credits
-Ending 2
-
-Summary
-
-Bastion leaves in the night, dissatisfied
-
-Ganymede is so fucking sad holy shit? it's Heartbreaking
-
-You go to the hangar
-
-Bastion is in a bad state, and you accidentally aggravate it even more
-
-Bastion accidentally hurts Ganymede's wing
-
-
-
-
-
-
-
-
-
-
-
-Bastion takes one step into the darkness,{w=0.2} then another.{w=0.4} With each plodding crunch into the snow, its gait gets heavier, more laboured.
-
-Ganymede's claws dig into your shoulder.{w=0.4} You can hear him breathing, in and out. 
-
-A few steps forward.{w=0.4} Bastion stumbles.{w=0.4} Down on one hand.{w=0.4} Ganymede cries out:{w=0.2} a harsh,{w=0.2} pained squawk.
-
-Bastion turns to look at you, and abruptly pulls itself back to its feet, as if this gives it resolve.
-
-Crunch.{w=0.2} Crunch.{w=0.3} Crunch.{w=0.4} Crunch...{w=0.5} Crunch...{w=0.6} Crunch.{w=0.4} Silence.
-
-Your shoulder burns.{w=0.4} A tickling sensation, lower down your back, tells you that Ganymede has drawn blood.{w=0.4} You don't move. Neither does Ganymede.
-
-Pause, 3
-
-N: The wind rams up against the metal-and-glass shell of Overwatch HQ, screaming and crying.
-
-You stand there with Ganymede, getting colder and colder, watching snowflakes hurl themselves against the ground.
-
-Shapes form and dance in the wind and snow, only to dash themselves into scattered motes against the blackness.
-
-Pause, 3
-
-N: After an amount of time - you honestly can't tell how long - you lift a hand to your chest. Ganymede is still breathing heavily, and he's beginning to shake slightly.
-
-P: C'mon. Down you hop.
-
-N: Ganymede obliges, and your shoulder gives a howl of pain as the bird's claws retract from your flesh.
-
-You bring your hands together and make a bowl for Ganymede to nestle in. He's cold.
-
-P: Let's get to somewhere warm, okay?
-
-Fade to black
-
-THREE MONTHS LATER
-
-Fade to white
-
-Show Bastion, blue w/ Ganymede
-
-N: Bastion never came back.
-
-You and everyone else never really expected it, of course. But it was obvious that Mei, for one, still had hope.
-
-"Just wait," she'd say. "This one is worth fighting for."
-
-After the incident, Ganymede wasn't inclined to go outside much.
-
-When he went out with you, he'd stay on your shoulders, his dulled green-and-yellow wings tucked in tightly.
-
-But, eventually,
-
-Hide Bastion, blue w/ Ganymede
-Show Ganymede
-
-<append> N: three months after Bastion left...
-
-Hide Ganymede (can we do this real slow?)
-
-<append> Ganymede did too.
-
-Hide Bastion (reeeeal slow fade?)
-
-Go to Coda
-
-BASTION/ENDING 2/CODA
-
-Fade to black
-
-Show infopad
-
-Personal Diary of Mei-Ling Zhou
-
-Dear Diary,
-What do you do when you feel like you've ruined everything?
-I feel like I have done this, and it is not a good feeling.
-I try very hard to be a wise mentor for all of my staff, no matter the subject.
-But sometimes it feels impossible to do the right thing, and there can be consequences for that.
-I feel like I have failed. This does not happen often. I think that makes it worse.
-Because of my poor leadership, Overwatch lost an agent, and a good friend.
-I don't know what to do.
-
-<clear screen>
-
-I must do my best, even though I failed. I must do my best every day.
-I will miss Bastion, Ganymede, and {$PlayerName}.
-But life will go on.
-...
-Our world is worth fighting for. Even if we fail every now and then.
-...
-I am going to Antarctica soon. I was not successful in procuring funding to hire a research assistant.
-Bastion would have been good for that, I think.
-
-Mei out.
-
-Hide infopad
-
-Go to Credits

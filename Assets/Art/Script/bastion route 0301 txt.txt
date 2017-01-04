@@ -2950,7 +2950,7 @@ N: Mei grabs your shoulders and steers you out the doors.
 
 M: By the way, you've got a deployment tomorrow! Sleep well!
 
-P: 
+P: ...
 
 Hide Mei
 

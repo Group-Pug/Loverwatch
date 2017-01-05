@@ -33,7 +33,13 @@ public class BugReport : MonoBehaviour {
 
     public void SubmitReport (string val)
     {
-        File.AppendAllText(documentsFolder, "Line: " + problemId + " " + val + Environment.NewLine);
+        StreamWriter sw = File.AppendText(documentsFolder);
+
+        sw.WriteLine("Line: " + problemId + " " + val);
+
+        sw.Close();
+
+        //File.AppendAllText(documentsFolder, "Line: " + problemId + " " + val + Environment.NewLine);
         toggleDialogo();
     }
 

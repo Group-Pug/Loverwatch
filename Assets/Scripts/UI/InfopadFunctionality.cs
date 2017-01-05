@@ -51,11 +51,11 @@ public class InfopadFunctionality : MonoBehaviour {
     void UpdateMentorUI ()
     {
         Profession prof = player.GetProfession();
-        string mentor = "";
+        //string mentor = "";
 
         if(ch.FindHeroByProfession(prof) != null)
         {
-             mentor = ch.FindHeroByProfession(prof).GetFullName();
+             //mentor = ch.FindHeroByProfession(prof).GetFullName();
         }
 
         transform.parent.FindChild("Mentor").GetComponent<Text>().text = "???";

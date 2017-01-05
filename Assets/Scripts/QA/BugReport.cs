@@ -2,7 +2,6 @@
 using System.IO;
 using System;
 using Fungus;
-using System.Collections;
 
 public class BugReport : MonoBehaviour {
     [SerializeField]
@@ -13,18 +12,20 @@ public class BugReport : MonoBehaviour {
     private DialogInput sayDia;
 
     private string documentsFolder;
-    private int problemId;
+    private int problemId = 0;
+
+    private int hackedCurrentBlock;
 
     void Start ()
     {
-        documentsFolder = Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments) + "\\loverwatchBugs.txt";
+        documentsFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\loverwatchBugs.txt";
     }
 	
 	void Update ()
     {
         if(Input.GetKeyDown(KeyCode.F9))
         {
-            problemId = flow.selectedBlock.activeCommand.itemId;
+            problemId = hackedCurrentBlock;
             qaPanel.SetActive(!qaPanel.activeSelf);
             toggleDialogo();
         }
@@ -41,6 +42,9 @@ public class BugReport : MonoBehaviour {
         sayDia.enabled = !sayDia.enabled;
     }
 
-
+    public void SetCurrentBlock (int val)
+    {
+        hackedCurrentBlock = val;
+    }
 
 }

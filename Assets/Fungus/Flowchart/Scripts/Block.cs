@@ -35,8 +35,8 @@ namespace Fungus
 		public EventHandler eventHandler;
 
 		[HideInInspector]
-		[System.NonSerialized]
-		public Command activeCommand;
+        [System.NonSerialized]
+        public Command activeCommand;
 
 		// Index of last command executed before the current one
 		// -1 indicates no previous command
@@ -206,6 +206,9 @@ namespace Fungus
 
 				Command command = commandList[i];
 				activeCommand = command;
+
+                //MIKE HACK to make sure the active command is logged
+                GameObject.Find("QA").GetComponent<BugReport>().SetCurrentBlock(activeCommand.itemId);
 
 				if (flowchart.gameObject.activeInHierarchy)
 				{

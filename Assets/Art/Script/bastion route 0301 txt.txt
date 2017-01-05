@@ -1,6 +1,6 @@
 BG: Overwatch HQ - briefing room
 
-P: ... {$Playername}, aand... birdwatching! There we go.
+P: ... {$PlayerName}, aand... birdwatching! There we go.
 
 N: You look up at the commander and attempt to look composed.
 
@@ -494,7 +494,7 @@ N: Mei salutes, somewhat sassily.
 
 M: Yes, sir!
 
-Here's what you'll be checking up on, {$Playername}.
+Here's what you'll be checking up on, {$PlayerName}.
 
 First, you need to do a survey of the wildlife found around the Ilios ruins in Greece. That includes birdlife and any other animals you might spot.
 
@@ -698,7 +698,7 @@ M: But the Omnic Crisis is over. We even have people trying to bridge the gap be
 
 P: ... I don't know. Probably. I'd like to be friends with a robot. But I also don't know if it'd flip out and kill me, you know?
 
-M: Hmph. I think you need to have a little more faith in the power of friendship, {$Playername}.
+M: Hmph. I think you need to have a little more faith in the power of friendship, {$PlayerName}.
 
 P: You think?
 
@@ -1051,7 +1051,7 @@ N: She almost sounds... a little angry. And scared. Understandable. Imagine send
 
 You stare it down, willing it to not fire on you.
 
-M: I'm sorry, {Playername}, I can't help you at all here. Try saying hi to it.
+M: I'm sorry, {PlayerName}, I can't help you at all here. Try saying hi to it.
 
 P: Are you serious?!
 
@@ -1099,7 +1099,7 @@ Bad news: its programming is to indiscriminately eliminate all enemy combatants.
 
 P: Ah. So you're saying...
 
-M: I think you're going to be okay, {$Playername}! Trust me, nobody's as relieved as I am.
+M: I think you're going to be okay, {$PlayerName}! Trust me, nobody's as relieved as I am.
 
 P: Okay. What should I do now?
 
@@ -1211,13 +1211,13 @@ N: You clap your palm to your face. The commander stays silent.
 
 M: I promise, I checked before I gave the go-ahead! Yes, it has combat programming, but something's blocking it from executing, and I'm sure we can trust it!
 
-It didn't harm our recruit, after all, and {$Subject} didn't let it out of {$Possessive} sight for the whole flight! It didn't misbehave, did it, {$Playername}? Right?
+It didn't harm our recruit, after all, and {$Subject} didn't let it out of {$Possessive} sight for the whole flight! It didn't misbehave, did it, {$PlayerName}? Right?
 
 N: You open your mouth to speak, but the Commander shoots you a look, and you shut it quickly.
 
 C: Mei... Agent Frostbite. It's not a matter of whether it's behaving right now. It's a matter of trust. How can we know it won't go rogue and take out a room full of people?
 
-M: We... can't. You're right. But I'll vouch for it, and I bet {$Playername} will too.
+M: We... can't. You're right. But I'll vouch for it, and I bet {$PlayerName} will too.
 
 N: Oh no. You don't want to be dragged into this, but...
 

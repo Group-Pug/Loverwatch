@@ -417,7 +417,6 @@ namespace Fungus
             }
             else
             {
-                int nextID = GameObject.Find("Fungus").GetComponent<Flowchart>().NextItemId();
                 Say say = new Say();
                 object[] attributes = say.GetType().GetCustomAttributes(false);
                 foreach (object obj in attributes)

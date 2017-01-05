@@ -18,7 +18,7 @@ public class BugReport : MonoBehaviour {
 
     void Start ()
     {
-        documentsFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\loverwatchBugs.txt";
+        documentsFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/loverwatchBugs.txt";
     }
 	
 	void Update ()

@@ -2,6 +2,7 @@
 {
     private string name;
     private Profession profession;
+    private float approval;
 
     public string GetName ()
     {

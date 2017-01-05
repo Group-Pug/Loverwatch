@@ -1,6 +1,6 @@
 ﻿public class Hero : Character {
     private string fullName;
-    private int relationship; //relationship meter towards player (0-100)
+    private float relationship; //relationship meter towards player (0-9)
 
     public string GetFullName ()
     {
@@ -12,14 +12,15 @@
         fullName = val;
     }
 
-    public int GetRelationShipStatus ()
+    public float GetRelationShipStatus ()
     {
         return relationship;
     }
 
-    public void ModRelationship (int val)
+    public void ModRelationship (float val)
     {
         relationship += val;
+        
     }
 
 

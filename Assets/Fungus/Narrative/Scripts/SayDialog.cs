@@ -296,14 +296,13 @@ namespace Fungus
 			if (image != null)
 			{
 				characterImage.sprite = image;
-                //TODO: Fix this dirty shit. Basically making sure the progress bar isn't shown during narrator
                 if(narrator)
                 {
-                    characterImage.transform.GetChild(0).gameObject.SetActive(false);
+                    romanceCounter.SetActive(false);
                 }
                 else
                 {
-                    characterImage.transform.GetChild(0).gameObject.SetActive(true);
+                    romanceCounter.SetActive(true);
                 }
 				characterImage.gameObject.SetActive(true);
 

@@ -1,0 +1,3095 @@
+TITLE: MEI/DEPLOYMENT TWO/LYCHEE SAUCE?
+
+BG: KITCHEN
+
+N: Drawn in by the scent of cooking porridge, you step into the kitchen ready for breakfast. You make a beeline for the saucepan on the stove, stomach rumbling. You vaguely notice Mei sitting nearby, eating already.
+
+P: Thanks Mei!
+
+Z: You're welcome, but...
+
+N: {i}That's not Mei...!{/i}
+
+You whip around to face the source of this new voice, and find yourself joined by a completely new woman. <Mercy-neutral> Her long, pale-blond hair is tied back in a ponytail, and her blue eyes sparkle with kind humour.
+
+Upon her lap is a penguin. Just chilling. As penguins are known to do.
+
+P: I'm sorry! I didn't know anyone else was here.
+
+Z: I only got in earlier this morning, apologies for the surprise. I am Doctor Angela Ziegler, head of Overwatch's medical research branch. You're our new recruit, $PlayerName, right?
+
+P: That I am.
+
+Z: Pleasure to meet you. I can see that you haven't exactly kept Mei's ideas reigned in. 
+
+P: I — yeah...
+
+Z: She sure is a powerful force, isn't she? 
+
+P: I guess. {w=0.1}What's brought you to our neck of the snow, Doctor?
+
+Z: Mostly that I was curious about the penguins. I had to see this for myself. Besides, even though animals are not exactly my specialty, and even though Mei's tests shows they're fine...
+
+N: She frowns deeply.
+
+Z: I wanted to come and make sure everything is as it should be. I'm worried there may be some kind of contaminant affecting the penguins, and that it could cause you both harm, too.
+
+In which case, inviting these birds into your home may not have been the wisest choice.
+
+P: Oh...
+
+Z: Would you mind if I quickly checked your vitals?
+
+P: Not at all.
+
+N: Dr. Zeigler helps the penguin down from her lap and extricates a little scanner device from her bag. She walks over to you, exuding the air of a wise and able medical professional. 
+
+Which makes sense, since that's what she is. 
+
+P: Do I have to do anything?
+
+Z: Just stand there, please.
+
+P: Am I allowed to breathe?
+
+Z: Yes, please continue to breathe.
+
+P: Okay, good.
+
+N: Chuckling quietly, she waves the scanner over you like a hand-held metal detector. You are suddenly very aware of your hands, what are you supposed to do with them? Put them on your hips? Fold your arms? Just let them hang there?
+
+You decide on letting them hang, feeling very conscious of every finger.
+
+Dr. Ziegler reads the results on the little screen of the scanner, then nods once to herself. 
+
+P: So... am I dying?
+
+Z: No, you're not dying. You're in great physical health, actually.
+
+P: I've been getting quite a workout.
+
+N: She looks at the horde of penguins filling the base and grins.
+
+Z: Yes, I can see that. How exactly did you get the penguins here?
+
+P: We froze them.
+
+Z: You {i}froze{/i} them?
+
+P: Yeah. Mei has a cryo-gun... thing. 
+
+Z: Oh. Right. {i}That{/i}.
+
+P: You know of it?
+
+Z: I know she's turned up to my medical lab needing her own arm thawed out more than once. I'm amazed it worked so well here. Lucky birds.
+
+N: She winks at you.
+
+Z: Don't mess with her, she might freeze you next.
+
+P: Yikes.
+
+N: You hear Mei laugh, and she steps up beside you. She waggles her fingers at you. 
+
+<meihappy> M: My arm is {i}fine{/i}. And I've been told very explicitly to not freeze anyone under my command. So you're safe.
+
+For now.
+
+P: Oh, good...
+
+M: Hey Angela, how's it going?
+
+Z: You know I'm not as fond of the cold as you.
+
+<meidefault> M: It grows on you. Or at least, ice might. 
+
+P: The view is nice, at least.
+
+Z: I've seen a lot of snow in my life, I can't say I'm particularly excited by it anymore. {w=0.25}
+
+Oh! I brought something for you.
+
+N: Dr. Ziegler reaches into her bag again and pulls out a bottle of red sauce and tosses it Mei's way. Quick as a cat, Mei's hand darts out and catches the bottle softly. 
+
+<meisurprised> M: Is this what I think it is?
+
+Z: Sure is.
+
+N: Mei raises the bottle above her head like a trophy, or the idol of a deity. You can almost see rays of angelic light shining upon the mysterious bottle. 
+
+<meihappy> M: Yeeessssssssss! 
+
+P: What is that?
+
+M: Lychee sauce. What else?
+
+P: Lychee sauce?
+
+M: Lychee sauce!
+
+P: ... lychee sauce.
+
+Z: If one of you says lychee one more time someone here is going to need a strong painkiller. 
+
+N: She takes one look at our blank faces.
+
+Z: {i}Sigh{/i}. I mean me. I'm going to need painkillers. For the headache you're causing me.
+
+<meidefault> M: Angela, thank you for the — 
+
+Z: ...
+
+M: ...
+
+Z: ... 
+
+M: ... {w=0.25}lychee sauce.
+
+Z: Argh!
+
+N: Dr. Ziegler throws her hands into the air, but her frustration isn't real. The small smirk quirking the edges of her mouth upwards give her away.
+
+As Mei passes you, she holds her hand out at her hip for a low-key high five. 
+
+///CONSEQUENTIAL CHOICE///
+
+FIRST CHOICE <approval + 1> : High five.
+SECOND CHOICE <approval - 1>: Let it hang.
+
+///FIRST CHOICE///
+
+N: You oblige, softly slapping an open hand against hers. <meihappy>Mei grins at you.
+
+She fills a bowl with porridge — which, oops, you forgot you were in the middle of — and pours a gratuitous amount of lychee sauce all over the off-white mush. 
+
+Dr. Ziegler sighs, again. You get the feeling she's not unlike the long-suffering mother of the Overwatch bunch. 
+
+<meidefault> Mei wiggles the sauce bottle in your face.
+
+M: Do you want to try it?
+
+P: Sure. Why not?
+
+N: Mei seems to like it enough so you figure, what's the harm in giving it a go? You've never been particularly scared of trying new food.
+
+You fill your own bowl, your stomach's growling renewed now it's been reminded of how hungry you are, and squirt some of the red liquid over your porridge. Less than Mei, but enough to turn your food a healthy pink.
+
+{i}Hmmm.{/i}
+
+Z: You're a bad influence, Zhou. 
+
+M: Nobody's ever ended up in the medical bay for lychee poisoning, Ziegler. 
+
+Z: I wouldn't be surprised if you ended up there one day soon.
+
+M: ... yeah. Me neither.
+
+N: You dig into your breakfast, spooning pink paste into your mouth. It's... sweet. Not bad, but definitely not something you're used to. Sort of how you imagine perfume might taste.
+
+Mei obviously loves the sauce, she positively glows as she eats. Dr. Ziegler wrinkles her nose, but says nothing.
+
+Tasting another spoonful, you still can't decide whether or not you like the sauce. You only hope Mei doesn't ask your thoughts.
+
+M: What do you think?
+
+N: {i}Damn it.{/i}
+
+P: It's... nice?
+
+<meihappy> M: Yeah! You think so? I love it.
+
+Z: I think {$Subject} can see that.
+
+N: Mei pokes her tongue out at Dr. Ziegler. 
+
+P: I'm always here for food enthusiasm. Enfoodiasum.
+
+M: Enfoodiasum?
+
+Z: I don't think that's a word.
+
+M: It sounds... weird. Gross weird. Haha!
+
+P: I wasn't hired to be a linguist.
+
+Z: Perhaps for the best, I think. 
+
+On that note, what {i}are{/i} your plans? You are the oceanographer here, after all. Surely you have some idea on how to proceed with aiding the penguins. There's only so much I can do.
+
+<meidefault> M: You have to go back soon, don't you?
+
+Z: Sooner rather than later, I'm afraid.
+
+///SECOND CHOICE///
+
+N: You look down at her hand, then back at Dr. Ziegler. You make no movement to reciprocate the five.
+
+Mei's hand lingers for a moment, then with a disappointed frown she pushes past you and fills a bowl with porridge.
+
+<meigrumpy> M: You're no fun.
+
+P: I can be fun!
+
+N: You watch as she drowns her breakfast in the lychee sauce, and you admit you're more than a little curious to try.
+
+P: Mei?
+
+M: Yes?
+
+P: Could I try it, please?
+
+N: She frowns down at her food, then at you.
+
+<meidefault> M: On one condition.
+
+P: Sure.
+
+N: She places her food onto the bench and holds both of her hands up, open-palmed. An obvious request for a high ten. A {i}high{/i} price to pay.
+
+She raises her eyebrows at you, inclines her head towards her hands.
+
+You realise you have no choice but to participate in this celebratory ritual.
+
+You clap your hands against Mei's with a soft {i}fwap{/i}, palms slapping together as Dr. Ziegler looks on.
+
+Z: This is weird. Has the isolation gotten to you both so fast?
+
+<meihappy> N: Mei hands you the sauce bottle with a grin, her eyes you as you ladle porridge into your already partly-filled bowl and drizzle lychee sauce over the top. 
+
+But how much to pour? She has flooded her bowl with the pink-red stuff, but you're not entirely sure she follows the typical lychee sauce serving size. For all you know, she has become a lychee monster. 
+
+By the time you think you've judged a safe amount of sauce, you've already poured far more than that over the porridge. Almost as much as Mei. 
+
+{i}Oops.{/i} Should've paid more attention.
+
+Mei nods approval, and her attention wanders back to her own breakfast as she digs in.
+
+You shovel a heap of lychee-and-porridge sludge into your mouth, and the sweetness of the lychee bursts against your tongue. It's nice, for a second. 
+
+Then it overwhelms you. The flavour dominates your mouth, obliterating all memories of any other tastes. All you know is lychee. All you have ever known... {w=0.1}is lychee.
+
+P: Too much! Too much!!
+
+M: Haha! That's the perfect amount!
+
+P: Are you superhuman? 
+
+M: Hmm, maybe. Are you going to eat that, then?
+
+P: No, you can have it!
+
+N: She grins and takes the proffered bowl, settling down with her two servings of too-sweet porridge quite happily. Shoulders hung in defeat, you fill a new bowl with fresh porridge and settle on your usual toppings.
+
+Z: So... do the two of you have a plan of action with regards to these penguins? I'm a surgeon, not a bird scientist. I can't help you keep them healthy indefinitely. In fact, I have to return to Headquarters sooner rather than later.
+
+<meidefault> N: The two women look at you for an answer, and you suddenly realise that being The Oceanographer has placed this decision upon your shoulders.
+
+//////
+
+P: Uh. Well. The penguins are avoiding the ocean, right?
+
+M: Unfortunately.
+
+P: And there's nothing wrong with them, correct?
+
+Z: I am no mental health expert, especially not when it comes to birds, but yes. Everything checks out. They seem to be totally healthy, if not a bit hungry.
+
+P: I think Mei's already thinking it, but there's probably something wrong with the ocean. 
+
+M: You're right, that exactly what I was thinking. I even made something we can use to scan the water for dangerous substances.
+
+Z: Glad to see you two are on the same page. So the next stop is the beachside?
+
+M: Yep.
+
+P: The Antarctic beachside? I'm guessing it's all sunshine and white sands.
+
+M: And I didn't even pack my swimsuit. Silly!
+
+N: Dr. Ziegler places a hand over her heart dramatically.
+
+Z: I know you're both joking but please wear clothes out to the ocean. I don't want $PlayerName's first trip to end with amputation. I've already... {i}Sigh{/i}. Either way. Be safe.
+
+M: Hey, you know me. I'm always safe!
+
+Z: Are you?
+
+M: Usually safe.
+
+Z: Really?
+
+M: So, $PlayerName, do you have any deeper theories on the ocean?
+P: I'm not shore I do, actually. 
+
+M: Maybe we'll find something fishy when we get there?
+
+P: Yeah, I guess we can wait and... {i}sea{/i}.
+
+Z: {i}Mein Gott.{/i} You two are incorrigible.
+
+P: Shell we stop?
+
+Z: Please just leave, you both have work to be doing. You can make terrible jokes at each other outside. Where I can't hear it.
+
+M: Are you going to get salty?
+
+Z: Zhou. You need kelp. {w=0.2.5}Oh no. {i}Oh no!{/i}
+
+<meihappy> M: One of us!
+
+Z: No. No! I take it back!
+
+M: Haha! Too late now!
+
+Z: What have you done to me? Shoo. Shoo! Go do your job! I need to rethink my life.
+
+M: What do you think, $PlayerName? Time to head out and leave the Doctor to her misery?
+
+P: Yeah. She's suffered enough. Don't want to make her crabby.
+
+Z: I hope you both freeze out there.
+
+M: Love you too, Ange!
+
+Z: I'm not thawing you out this time, Mei!
+
+M: Byyeee!
+
+N: Mei dumps her bowls in the dishwasher and skips out of the kitchen. You look at Dr. Ziegler, who rolls her eyes at you. 
+
+P: It was nice meeting you, Dr. Ziegler.
+
+Z: You too. You'll look after her, won't you?
+
+P: I will.
+
+Z: Hmm.
+
+N: Her eyes narrow, and you feel as if she's analyzing you. Searching for something. A shiver runs down your spine, but you do your best to remain composed.
+
+She leans back, seeming to have found whatever she was looking for.
+
+Z: Yes. I have no doubt that you will.
+
+N: Before you can ask what her words and little smirk mean, she slips through the penguins and away into the base. The last you see of her is the flicker of her golden ponytail as she disappears around a corner.
+
+FADE TO BLACK
+
+//////
+
+BG: ANTARCTICA EXTERIOR 2
+
+N: After gearing up and squishing into the snowcraft, the two of you speed off to the seaside. Which, as it turns out, is just a lot more ice and snow bordering a rather grey ocean. It's surprisingly not too far from the Watchpoint.
+
+Light snow drifts down from heavy clouds. You're starting to forget what fresh grass looks like. So... much... white...
+
+VARIABLE: $Scanner
+
+If yes to $Scanner:
+
+<meidefault> N: Mei leads the way to the water's edge, the device you saw gutted in the climate lab in one piece in her hands. It's not entirely different to the scanner Dr. Ziegler used on you this morning, actually.
+
+P: Did you get it working?
+
+M: Hmm? Oh, yes! <meihappyblush>Your advice helped.
+
+P: My advice? 
+
+M: You know. Hitting it.
+
+P: Wow.
+
+<meidefault> M: Yeah. I was surprised too. Turns out you're actually a mechanical genius.
+
+P: Pfft. If you say so. What do you call it?
+
+M: For your sake, I'm calling it a sea-scanner.
+
+P: You think I'm not smart enough for the scientific name?
+
+M: No offense but, yes.
+
+P: ... you're probably right.
+
+M: I'm definitely right.
+
+If no to $Scanner:
+
+<meidefault> M: Mei heads to the water's edge with you trailing along behind. In her hands is a device not unlike the scanner Dr. Ziegler used to give you a check-up earlier today. 
+
+Though you don't recognize the device entirely, you assume it's the thing she mentioned at breakfast that could scan water and find... what was it? Dangerous substances, or something.
+
+Mei catches you frowning inquisitively at her device, and smiles.
+
+M: It's a sea-scanner. It took me all night to figure out why I couldn't get it working, but I got there eventually. {w=0.25}I hope.
+
+P: Sea-scanner?
+
+M: I gave it a simpler name. For your sake.
+
+P: Oh. Wow. I see how it is.
+
+M: Would you really have understood what it was if I'd called it something else?
+
+P: I mean... probably not.
+
+M: See? I'm being nice, I swear!
+
+//////
+
+P: So what does it actually do? Apart from scanning the sea.
+
+M: It can detect and identify particles making up liquid. It might also be good for figuring out the cause of some of those torrential acid rain downpours... Hmmm....
+
+P: We don't have to worry about that here, surely.
+
+<meihappyblush> M: Oh, no! I'm just getting distracted! <meidefault>If there's a contaminant or something in the ocean that's making the penguins want to avoid it, this will find it.
+
+P: That's very cool.
+
+M: As long as it works!
+
+P: I'm sure it will.
+
+<meihappy> M: I'm glad you have faith in me.
+
+P: Do we need to... get into the ocean?
+
+<meidefault> M: Nooooo. We would definitely freeze. We can scan from up here. 
+
+P: Okay, you want to give it a go, then?
+
+M: Okay!
+
+N: She paces along the edge of the water for a few meters, holding the scanner out towards the ocean. The machine beeps quietly and regularly, lights flashing on its little console.
+
+Mei walks back to you, frowning at the scanner's screen.
+
+<meigrumpy> M: Hmm. Nothing here that shouldn't be.
+
+P: Could be something further along? Might as well walk a bit and see.
+
+M: Yeah, you're right. <meidefault> Do you want to give it a go?
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: Yes.
+SECOND CHOICE: No.
+
+///FIRST CHOICE///
+
+N: You're so shocked that she trusts you to handle such an important task, you almost forget how to use words. 
+
+P: Y-yes! If you think I can do it.
+
+N: She smiles at your stammering.
+
+M: Of course you can. Here, it's easy.
+
+N: She hands the device to you, and for the first time you get a proper look at it. There are little dials and buttons next to little, flashing lights, and a screen that takes up most of the top. 
+
+You have no conceivable clue how it works. There are no labels, no markings or anything of the sort next to the various buttons to give you any sense of what they might do.
+
+P: Uh, how do I use it?
+
+M: Oh, sorry! I've set everything up, all you have to do is point it at the ocean and push the blue button. It'll give you live readings of what it finds on the screen. If it finds something odd, it'll beep more frantically.
+
+P: Like a {i}beep beep beep{/i} or a {i}beepbeepbeep{/i}?
+
+M: Hmmmmm. {w=0.1}More of a {i}bipbipbipbip{/i}.
+
+P: Oh. Okay. I'll listen out for that, then.
+
+M: Trust me, you won't be able to miss it. 
+
+N: You look back down at the scanner, suddenly feeling overwhelmed by the responsibility.
+
+P: So I just... point it? 
+
+N: Mei's hands close over yours and she guides you to the ocean's edge, pointing the scanner at the waves lapping at the small icy cliff below. When she steps away from you, you can only hope you don't look as red-faced as you feel.
+
+M: See? At the ocean.
+
+P: Okay, this isn't so hard. But, aren't you worried I'll slip into the ocean and lose it?
+
+M: At least thirty percent worried. If you trip over again, can you at least try to throw my equipment inland?
+
+P: I make no promises.
+
+M: {i}Sigh{i}. Fine. Come on, then. Try not to trip!
+
+N: She gestures onward and the both of you set off in the direction of large ice formations to your left, following the ice's drop-off into the ocean. The machine continues beeping in its normal way.
+
+You kind of want to run around in the snow, making snow angels and throwing snowballs, but you know that it's time to be responsible and mature. As much fun as {i}that{/i} is. 
+
+You wonder what kind of snowman Mei might make. Would she use two spheres to make up its body, or three? She catches you gazing at her, and her cheeks redden.
+
+<meihappyblush> M: So... what did you think of Angela?
+
+P: Doctor Ziegler? 
+
+<meidefault> M: Yeah! Her official designation is Mercy.
+
+P: ... oooohhh. Yeah, I've heard of Mercy.
+
+M: What'd you think?
+
+P: She seems nice. Maybe like a mother, a little. She seems like she could give you a good telling off, but also let you scrape the cookie dough from the bowl.
+
+M: Ha, I can see that.
+
+P: You two seem like you know each other well?
+
+M: We've worked together before. She's pretty cool and very good at what she does. I think it's because she genuinely cares so much for the people she helps.
+
+P: She had a penguin on her lap when I met her.
+
+M: Who wouldn't?
+
+P: ...
+
+M: What?!
+
+P: ...
+
+M: They're so cuddly! 
+
+P: They smell.
+
+M: You smell!
+
+P: Wow, rude. 
+
+M: Sorry! Sorry. {w=0.25}Okay, I'm only a little sorry. {w=0.25}I promise you don't smell that bad.
+
+And I'm not surprised she was bonding with the penguins. She's probably just as worried as I am that something is wrong. 
+
+P: Is she a vet too?
+
+M: Haha, no! She's just very empathetic. She makes this world a better place.
+
+P: So the two of you have a lot in common.
+
+<meihappyblush> M: Chill out, you! 
+
+P: I'm just saying!
+
+N: Mei rolls her eyes, but she can't hide how her nose crinkles, or the way her mouth curves into a smile. 
+
+P: Must be an Overwatch thing.
+
+<meidefault> M: It was so nice of her to bring me the lychee sauce. What a sweetie!
+
+P: You really like that stuff, huh?
+
+M: I would marry it.
+
+P: Marry the sauce?
+
+M: Or just lychee in general, I'm not picky. Anything with lychees in it is delicious! 
+
+I'm surprised you haven't tried it before, with your food loving.
+
+P: I can't say I've even encountered it before today. Never even heard of it.
+
+M: Huh. Weird! 
+
+P: How am I the weird one here?
+
+M: How are you {i}not{/i} the weird one here?
+
+N: Mei pauses mid-step and holds out a hand, looking up at the clouds. You hadn't realised it before now, but the snow is falling much harder than it was only a short while ago.
+
+You look back, and already the snow is clouding your view of where you came from. You've both walked too far to see the snowcraft, and you suddenly feel very isolated. Just the two of you in the middle of nowhere.
+
+M: This got heavy fast.
+
+P: We should head back.
+
+N: As you ask the question, the scanner in your hands erupts into furious beeps. {i}Bipbipbipbipbip!{/i} 
+
+P: There's something here! I think we found something!
+
+M: What?! Can I look?
+
+N: You hand the device back over to Mei. She holds a hand over the screen to protect it from the falling snow and frowns at the results.
+
+M: There's a mysterious substance in the ocean here! Maybe we've found what's scaring the penguins off!
+
+P: Really? That's awesome!
+
+<meiworried>M: Yes. But, um...
+
+P: Um?
+
+M: That snow is getting way too heavy, way too quickly.
+
+N: You look around and realise she's not wrong. The world is rapidly disappearing around the two of you, being erased by white and grey. If you wandered away from Mei for a few feet, you may well lose her. 
+
+The wind is whipping up too, harsh and bitter cold. The weather is getting infinitely worse by the second. You can't see a single footprint left from the direction you came... if that even is the way you came from.
+
+{i}Oh no.{/i}
+
+P: I can barely see anything! Do you think we can make it back to the craft? 
+
+M: I'm not sure... it's so thick already, we might accidentally walk right off of the snow and into the sea.
+
+P: Then what can we do? Are we going to die out here?
+
+N: You remember Dr. Ziegler's words: {i}You'll look after her, won't you?{/i}. You're sure doing a bang-up job so far, aren't you? You're sure Dr. Ziegler didn't have both of you freezing to death in mind when she said that.
+
+<meidefault> M: Not to worry! I packed a tent.
+
+P: I'm not sure a tent will stand up to this, Mei... It's a bit too... {i}in-tents.{/i}
+
+M: ...
+
+Pffhahaha! Not even near-death will stop you, huh? And speaking of intense... we better actually get in the tent.
+
+///SECOND CHOICE///
+
+P: Nah, I'm good. I'd probably just drop it in the ocean, anyway.
+
+M: Ha! Good point.
+
+P: You're not supposed to agree with that!
+
+M: You want me to lie to you?
+
+P: ... maybe. If it makes me feel better.
+
+<meisurprised> M: Oh, $PlayerName, you'd {i}never{/i} do {i}anything{/i} like falling into the ocean! {i}Neveerrr!{/i}ee
+
+P: Thank you. I appreciate your confidence in me.
+
+<meihappy> N: She rolls her eyes, chuckling. Your heart flutters just a little.
+
+P: Besides, you know what you're doing better than me. I'm okay with being your sidekick right now.
+
+M: Aww, you'll never be a sidekick to me. 
+
+P: I think that's the nicest thing anyone's ever said to me.
+
+N: You lean closer to get a good look at the scanner, but the entire interface is a mystery to you. Probably a good thing you're letting her take care of it.
+
+A screen takes up most of the front, beside various buttons, dials and lights, with a dish-like protrusion from the top. The screen glows a soft blue, and the scanner beeps to its own little regular beat.
+
+P: You know how to work this?
+
+<meidefault> M: I did make it.
+
+P: Oh. Right. Duh.
+
+M: It's easy to use! You just point it at a liquid and it tells you what it consists of. Super simple science.
+
+P: So for the lychee sauce, it'd just be lychees and sugar? 
+
+M: Oh my gosh! I need to try that when we get back. 
+
+P: I'm telling you now, lychees and a whooooole lotta sugar.
+
+M: Mmmmmm. Lychees.
+
+N: She smiles dreamily, her eyes glazing over as she thinks of the sweet sauce. For a very real moment, you worry she's going to be the one to walk right into the ocean.
+
+P: Wait, Mei, come back to Earth! I need you!
+
+<meisurprised> M: What?! Oh! Sorry! <meidefault> Sorry. 
+
+P: Usually I'm the person zoning out about food. 
+
+M: Sorry... I'm sorry. I didn't mean to.
+
+P: It's fine! Don't worry about it, really. {w=0.25}Why don't you show me how this thing works? 
+
+M: Right! Let's get started, then. Who knows how far we'll have to walk before we find something.
+
+{i}If{/i} we find something.
+
+P: We'll find something! I'm sure of it.
+
+N: Mei starts off up the coastline, which isn't much of a beach but more of an icy ledge that drops suddenly into deep ocean. Slipping on the ice and falling in might actually kill you.
+
+Better to not fall, you decide.
+
+P: How will we know if we find something? Will you read it on the screen?
+
+M: No, it beeps.
+
+P: But it's already beeping.
+
+M: It beeps {i}more{/i}, assuming it works.
+
+P: I'm sure it'll work. See? The lights are doing things already. 
+
+M: Yes, the lights are certainly doing things. <meihappy>I'm sure you're right. 
+
+N: She seems to hesitate for a moment, her brows coming together in a slight frown. You're about to ask her what's wrong, but she speaks before you have the chance.
+
+M: I'm glad you're here, $PlayerName.
+
+P: What? Me? Why?
+
+M: You've got so much faith in my weird little things. Sure, they all trust me back at HQ, but...
+
+<meihappyblush> You know how they can be. You play a few pranks, break a few things, and suddenly you can't go off to Antarctica without everyone expecting you to adopt every penguin.
+
+P: I mean, we did kind of adopt every penguin.
+
+M: Yes, but you helped! Which is my point. You don't doubt my ideas, you just help me with them.
+
+It's nice, is all.
+
+P: Ha, well... you know...
+
+N: You look out to the ocean, trying to hide your own flustered expression. The green water, the soft, white clouds. It would be such a nice view, if not for the heavy snow obscuring most of it. 
+
+In fact... can you even {i}see{/i} the sea anymore?
+
+A gut-punch of a realisation hits you. You gasp loudly, startling Mei.
+
+P: Mei!
+
+<meiworried> M: What?! What is it?
+
+P: The snow! I can't see anything!
+
+N: A hand flies to her mouth, and she spins around, taking in the snowfall, suddenly so much heavier than it was only a minute ago. As she swivels, the machine in her hand suddenly erupts into a furious {i}bipbipbipbip!{/i}
+
+<meisurprised> M: Oh! Oh! It's found something!
+
+P: What? Now?! 
+
+<meiworried> M: Oh... but we can't continue now. You really might slip to your icy death, I can barely see where the snow ends and the water begins.
+
+P: Yeah, we need to go back to the snowcraft until this blows over. But...
+
+N: You cast about frantically, but all you see is white. Even your most recent footprints have been obliterated by the howling wind and swirling snow.
+
+P: I'm not sure which way we'd have to go to find our way back. We may have needed to pay a little more attention.
+
+M: You might be right there. I think we're going to have to hunker down here until the blizzard is done.
+
+P: Do we make an igloo and huddle for warmth?
+
+<meidefault> M: You have {i}no{/i} chill.
+
+P: I can tell you I definitely am feeling a lot of chill right now. So, no igloo? Or no huddling?
+
+M: We don't need to build an igloo. I came prepared.
+
+N: You shiver suddenly, the cold wind finding its way between the seams of your thick layers of clothing. You hope that whatever Mei's prepared happens fast, or else she's going to be dragging an ice statue home.
+
+P: P-prepared?
+
+<meiworried> M: Oh no, you're really freezing! Hang on! I have a tent!
+
+P: A t-tent? In weather like th-this?
+
+M: Shush! Save your energy.
+
+//////
+
+<meidefault> N: She pulls her pack from her shoulders and digs around in its deep interior for a moment, muttering to herself as she does. 
+
+M: ... where did I pack it...?
+
+...
+
+Ah!
+
+N: She unearths a small packet from her stuffed pack and thrusts it at you victoriously. You take the packet from her, turning it over in your hands. It's blue and black, with a tag that reads, {i}"pull".{/i} Do you... pull it?
+
+P: Do I pull this?
+
+N: Mei stares at you for a moment, then nods slowly and, you think, with a little too much sass.
+
+P: Here goes nothing!
+
+N: You grasp the tag in a closed fist and pull with all your might. Instantly, the packet bursts from your hands and falls into the snow, unfolding and re-arranging itself rapidly.
+
+Before you even have a chance to ask Mei what's happening, you find yourself facing a small, yet tough-looking tent. Though you struggle to stand against the buffeting gusts, the tent barely sways an inch.
+
+Mei unzips the opening flaps and pushes you inside. She tumbles in behind you, followed by snow and the bitter wind. While you hold down the flaps, she zips them back up.
+
+BG: ???? I DON'T FUCKIN KNOW
+
+The moment they're fully closed, the alarming din of the blizzard dulls into background noise. As if it almost isn't even happening outside. With the howling wind gone, you notice insistent beeping of Mei's sea-scanner again.
+
+It must get Mei's attention at the same time, because she slams her hand on half of it and the beeping stops completely. {i}Whew.{/i}
+
+M: That was exciting!
+
+P: Seriously! What is this thing {i}made{/i} of? Steel? Diamonds?
+
+M: You know, I'm not actually sure. I found it at the Watchpoint and thought it might be handy. Good thing I did!
+
+P: You are a literal lifesaver.
+
+<meihappyblush> M: If only I'd noticed the blizzard coming in a little sooner... I'm really sorry.
+
+///CONSEQUENTIAL CHOICE///
+
+FIRST CHOICE <+ 1>: I missed it too.
+SECOND CHOICE <- 1>: You should've.
+THIRD CHOICE <neutral>: Whatever.
+
+///FIRST CHOICE///
+
+P: Hey, I missed it too. It's hardly your fault — and besides, you had a solution that saved our asses!
+
+M: You're right. I still feel bad though. I'm sorry.
+
+P: You don't need to be sorry!
+
+M: Sorry!
+
+P: No, stop saying sorry!
+
+M: Sorry —<meisurprised> ah! No! Sorry, sorry!
+
+P: Oh no, I'm sorry!
+
+M: No! {i}I'm{/i} sorry!
+
+P: Arghh!!!!
+
+M: Aahhhh!!!!
+
+P: No more! No more of the s-word! We're safe inside and not freezing to death, everything's okay.
+
+<meidefault> M: Whew, yeah. We're cool. Everything is cool.
+
+P: {i}Sigh.{/i} How long do you think we'll be stuck here?
+
+M: Hopefully not too long!
+
+P: You have no clue, do you?
+
+<meihappy> M: Nope! Not at all. <meidefault>Do {i}you{/i} have any idea?
+
+P: Me? What — of course not! It's not like I'm a — uh...
+
+M: A...?
+
+P: ... a climatologist. 
+
+M: Ha! We all make mistakes sometimes. At least we didn't have to bury ourselves in a snow cave.
+
+P: Brr!
+
+N: As you mock-shiver, you suddenly notice that you're actually not all that warm as is. Warmer than if you were in an ice cave, sure, but you could definitely stand to be toastier. A toasty piece of toast, toasting under a grill.
+
+{i}Ugh. No more toast!{/i}
+
+///SECOND CHOICE///
+
+P: You should have. How could you have missed something like that? You're supposed to be a climatologist!
+
+<meigrumpy> M: Hey, you missed it too! I was just trying to apologize! No need to be mean.
+
+P: Fine. Apology accepted.
+
+M: Are you hungry or something? Why are you suddenly being such a jerk?
+
+N: Her tone is suddenly chilled, glacial in temperature. A shiver runs violently through you. She is like an ice cream: sweet, but with the power to cause you immense pain with her coldness.
+
+Now that she mentions it, your stomach {i}is{/i} feeling a little grumbly. You hate to admit that she might be right — you've always hated people saying you're only cranky because you're hungry — but...
+
+She's absolutely right.
+
+{i}Damn it.{/i}
+
+P: ...
+
+M: ...?
+
+P: Yeah... I guess I am hungry. Sorry for snapping at you. You're right, I missed the weather getting worse, too. It's on both of us.
+
+<meidefault> M: Apology accepted. Now eat some chocolate before you go full crabby. I don't need another sea creature to take care of.
+
+N: At her request — and because you just {i}want some damn chocolate of your own accord{/i} — you fish a protein bar from the inside pocket of your coat and munch away.
+
+P: Do penguins really count as sea creatures? They don't live in the ocean.
+
+M: You'd know that better than me.
+
+P: You'd think so, wouldn't you? And yet.
+
+M: You are a little useless at your chosen profession, aren't you?
+
+P: Maybe I should've picked birdwatcher...
+
+M: Birdwatcher?
+
+P: That was an option on the form I filled out when I first got brought in. I thought it was weird at the time, but maybe I'm better suited to it.
+
+<meihappyblush> M: I think that was a joke. Not a real opening. Heh.
+
+P: ... why do I get the feeling you had something to do with it.
+
+<meihappy> M: Because I absolutely had something to do with it! Haha! I thought Jack's reaction would be hilarious if someone actually picked it.
+
+P: I admit, I was tempted.
+
+Though, now that I think about it, I've kinda ended up birdwatching anyway, haven't I? 
+
+<meidefault> M: Oh, you're right! Ha! Maybe I accidentally predicted your future. Who knew birdwatching would be an actual thing in Overwatch?
+
+P: I know what I'm picking for my next assignment.
+
+N: Mei laughs, eyes sparkling like fresh snow.
+
+And speaking of snow... it sure isn't warm in here. Not cold enough that you're going to turn into an ice sculpture right here and now, but enough to make you very uncomfortable.
+
+Combined with the leftover iciness of Mei being more than a little pissed at you, you're definitely feeling a chill.
+
+///THIRD CHOICE///
+
+P: Whatever, it doesn't matter. We're alive and... well, alive. Could've been a lot worse.
+
+<meidefault> M: Don't say that!
+
+P: Say what?
+
+M: That it could be worse. Don't you know how that works?
+
+P: Mei. Come on. This is real life, things like that don't happen in real life.{w=0.2}.. Right?
+
+M: You tell me. If we die out here, I'm blaming you.
+
+N: Now that you've posed the question, you suddenly find yourself feeling a little anxious about an imminent disaster. What if a polar bear decides there's a tasty snack inside the tent?
+
+Wait... {w=0.2}Why don't polar bears eat penguins? Shouldn't you and Mei have been worried about that?
+
+P: Why don't polar bears eat penguins?
+
+M: What? Seriously?
+
+N: And the moment she asks, you realise exactly why. Polar bears don't even live in Antarctica. 
+
+{i}Stupid!{/i}
+
+P: Haha, noooo... Not serious. I know why. I totally knew why all along.
+
+M: Yeah, it's obviously because a penguin's smell naturally repels all bears. Duh.
+
+N: You stare intently at her, but she keeps a straight face. Is she joking...? Or is that actually true? {i}Are{/i} there polar bears here, after all?
+
+P: Uh... 
+
+<meihappy> M: Haha! You almost believed me, didn't you?
+
+P: No! Never! Why would I ever believe something like that?
+
+M: You totally did! I can see right through you. That's adorable.
+
+P: You're mean. Cold-hearted, even.
+
+M: Ha! Hahaha! 
+
+N: She dissolves into a fit of giggles, and even though you know you're red-faced from falling for her joke, her laughter is so endearing you can't help but join in. 
+
+As you both quieten, you find yourself rubbing your hands together to warm them beneath their gloves. It's a little chilly in this tent, isn't it? You guess you can't expect an emergency tent to have interior heating.
+
+... but you still definitely wish it did.
+
+//////
+
+N: Mei notices your discomfort and frowns. <meiworried>
+
+M: Are you okay? 
+
+P: I'm fine, just a little cold. Does this tent come with a heater?
+
+M: Unfortunately not... will you be all right? I don't want to have saved you from the blizzard for nothing! What would Angela think, if I brought you home as an ice cube?
+
+P: "{i}Good riddance{/i}," probably. 
+
+<meigrumpy> M: Excuse me, losing you would not be a good thing. There would be no "{i}good riddances{/i}!" Don't you dare suggest that.
+
+N: She seems genuinely upset at the thought of losing you, and you can't help but feel... warm. 
+
+Actually, you're still cold. But your guts feel warm, in a weird way. It's nice, isn't it?
+
+P: Hey, I'm fine. Promise.
+
+M: You better be! <meidefault>I wish there was some way to warm this tent up, though...
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: We can handle it.
+SECOND CHOICE: We could huddle.
+VARIABLE: $HeatDisc. If found, include: 
+THIRD CHOICE: What about that disc?
+
+///FIRST CHOICE///
+
+P: It's fine, we can handle it. We're not Overwatch for nothing!
+
+M: I know {i}I{/i} can. It's you I'm worried about.
+
+P: You know you don't need to worry about me so much.
+
+M: Doesn't mean I'm going to stop. It's what I do, I look after my team. 
+
+N: You can't fault her there. You have to admit, you secretly worry about her, too. Even though you know she's much stronger than you, and maybe — okay, there's no maybe there — smarter too. You can't help it.
+
+Her eyes meet yours, and you realise you've been silent for a little too long as you think about it. You stammer out a reply.
+
+P: I-I worry about you too.
+
+M: ...
+
+N: Now you've gone and embarrassed yourself. She's never going to want to talk to you again.
+
+<meihappyblush> M: You shouldn't.
+
+P: Exactly. Neither should you.
+
+<meigrumpy> M: I'm allowed to worry about someone I care for!
+
+N: Her eyes widen, and her face turns a bright red. 
+
+<meihappyblush> M: Y-you know what I mean. You care about the people you work with! That's how you make a good team! 
+
+Don't look at me like that!
+
+N: You can't help it, whatever look you're giving her. You've never seen her so flustered before.
+
+	///INCONSEQUENTIAL CHOICE///
+
+	FIRST CHOICE: Let it slide.
+	SECOND CHOICE: Take the chance.
+
+	///FIRST CHOICE///
+
+	P: I get it, don't worry. I care about my teammates as well. 
+
+	M: Thank you. I knew you'd understand. 
+
+	<meidefault> I'm sorry I can't help with the cold. My specialty tends to be making things colder, so...
+
+	P: It's fine, really! I'll just take a really long, hot bath when we get back to the Watchpoint. After we track down whatever made your scanner beep.
+
+	M: Oh yeah! That almost slipped my mind. What would I do without you?
+
+	P: Not have someone to worry about?
+
+	M: Where's the fun in that?
+
+	N: Everything seems to have returned to normal, but you can't help but feel as if the two of you are on edge in some way. There's a strange tension, and you're not sure how to deal with it.
+
+	Mei picks up her scanner and involves herself with it, frowning as she reads the little words on the lit screen. You find yourself dreaming of that bath...
+
+	M: I know we haven't known each other long...
+
+	P: ...?
+
+	N: She doesn't look up from the scanner as she speaks. 
+
+	M: But I already think of you as a good friend. Is that weird?
+
+	P: Not at all! I think you're a good friend too. {w=0.2}Is {i}that{/i} weird?
+
+	<meihappy> M: I don't think so, we are definitely both a little weird. We're going to give Jack nightmares if we keep working together after this.
+
+	P: I think he's going to have enough nightmares just from {i}this{/i} mission alone.
+
+	M: Ha! I think you might be right. I bet Angela can't wait to see the look on his face when she gets back.
+
+	P: I would be too terrified to see it up close. He kinda scares me.
+
+	<meidefault> M: Aww, he's not so bad. {w=0.2}Most of the time. {w=0.2}I can usually get away with stuff, at least. Probably because I'm so super cute! Nobody can stay mad at me for long.
+	
+	P: Cute and humble. What a combination.
+
+	M: I know, right? I am amazing.
+
+	N: You roll your eyes, but you can't help chuckling. She is ridiculous — but isn't that why you think of her as such a good friend? It's not like you're exactly a serious person yourself. Birds of a feather, and all that.
+
+	Mei goes back to her scanner and you lean against the tent wall, listening to the wind as it buffets the thick material. There's only the tent between you and certain death. You feel like you should be a little more terrified.
+
+	...
+
+	With a wide yawn, you completely conk out.
+
+	///SECOND CHOICE///
+
+	N: Time to be super smooth. The smoothest person to ever exist. You will be smoother than fresh ice, smoother than crème brûlée.
+
+	{i}Here goes!{/i}
+
+	P: I-I care for you too.
+
+	N: {/i}... so smooth.{/i}
+
+	N: Mei looks at you with wide eyes, then smiles almost shyly, brushing her hair behind her ear. You're not entirely sure how to deal with this softer Mei, so unlike the boisterous woman you've been getting to know.
+
+	M: Cool. Cool, cool. 
+
+	P: Cool.
+
+	N: You both look down at the tent floor, awkward silence filling the tent interior. The only sounds are wind, snow, and your breaths. 
+
+	But then... is it really so awkward? You find yourself almost enjoying the odd silence, born of mutual stammering and care for each other. Because you do care for her, don't you?
+
+	You wonder if her care extends just to friendship, or...?
+
+	{i}Don't think about it!!{/i}
+
+	You decide it's better not to question it. 
+
+	M: Of anyone I could be trapped in the middle of a blizzard with, I'm glad it's you.
+
+	P: Yeah. I'm glad it's you, too.
+
+	N: She looks up, her dark eyes meeting yours, and you feel a spark. Somehow, without knowing how, you know she feels it too.
+
+	<meihappy> M: Cool.
+
+	P: Cool.
+
+	N: You gaze at each other quietly for what feels like a decade, and then, without really understanding why, you both dissolve into a fit of laughter. You're not sure who starts it, but soon enough you're both clutching your sides.
+
+	M: Hehe. Hehehe! Hahaha!
+
+	P: Pffhahaha! Haha!
+
+	M: Haha! We are so embarrassing!
+
+	P: Literally the worst!
+
+	N: When the laughter dies down, you notice that you've both scooted closer to each other. In the silence that follows, she reaches for her scanner to read over the words on the glowing screen. You have no clue what they mean.
+
+	She leans against you hesitantly as she reads, and it feels completely natural.
+
+	As she fiddles with the scanner, you begin to drift... It's been a tiring day, after all...
+	
+///SECOND CHOICE///
+
+P: We could huddle for warmth. Isn't that what penguins do?
+
+M: ...
+
+IF ROMANCE LEVEL 5+:
+
+<meihappyblush> M: Are you serious?
+
+P: Yeah, I'm pretty sure they do that. Mass penguin cuddles.
+
+M: No, I mean... are you serious about the huddling?
+
+P: O-oh! Um. {w=0.2}Yes...? 
+
+M: ...
+
+P: ...
+
+M: ...
+
+P: Not if you're not comfortable with it! I don't want to make you uncomfortable.
+
+M: It {i}would{/i} be good for keeping us warm... 
+
+Do you think you'll die if you don't get warm soon?
+
+N: She gives you a very pointed look, and you're not sure what she's trying to get you to say.
+
+P: No...? I don't think so —
+
+<meisurprised> M: What's that? You'll totally freeze to death if I don't cuddle up next to you like a penguin? Oh no!
+
+P: No, that's not what I —
+
+M: That would be {i}terrible!{/i} We have to do something about this!
+
+P: But I —
+
+N: She gives you the look again, and this time you think you get what she's doing. Unable to keep from grinning, you join in on her dramatic mock-horror.
+
+P: I think my legs are going to fall off soon! I won't last much longer like this...! I need... warmth...
+
+M: Don't worry, $PlayerName! I'm here to help!
+
+N: She scoots across the tent floor to sit beside you, then hesitates. You both avoid looking at each other, staring at anything in the tent but into each other's face.
+
+M: Um. How do we do this?
+
+P: Do we... sit? Lie down? How do penguins do it?
+
+M: They stand.
+
+N: Simultaneously, you both look up; there is no way you could both stand in here. As life-saving as this tent is, it's not all that spacious. 
+
+Besides, standing feels like far more effort than you'd be willing to put into anything right now.
+
+M: We're not penguins, though. Unfortunately.
+
+P: A real crime of nature, honestly.
+
+M: So. Um. Hmm.
+
+N: Furiously red, Mei puts an arm around you and nestles in beside you. You can feel her thigh against yours, her head on your shoulder.
+
+You feel as if your heart might burst out of your chest right here and now. {i}Thud-thud. Thud-thud. Thud-thud.{/i} 
+
+You wait. Your heart somehow remains inside of you.
+
+Exhaling, you let yourself snuggle in next to Mei. She isn't exuding a lot of heat, but you have to admit that you're already feeling a little less cold with her body warmth right beside you. It's nice.
+
+P: ...
+
+M: ...
+
+N: You feel as if there is a lump in your throat, freezing your words before you can mange to cough them out.
+
+{i}Be cool.{/i}
+
+P: So, uh, some weather we're having.
+
+N: Mei laughs, and you wonder if you're just imagining her voice being a little more high-pitched than usual. Is she as nervous as you?
+
+Impossible. Mei is much cooler than you.
+
+M: Yes. It sure is something.
+
+N: You both lapse into silence, but it's a comfortable one. This isn't as awkward as you thought it might be, though you're suddenly terrified of moving in case you break the spell and she moves away.
+
+Her other hand rests on her knee, clothed in a big, blue glove. It's all you can focus on right now. What a cutely shaped hand, even with the glove on.
+
+You're not sure you've ever thought a hand was particularly adorable before. {i}Hmmmm.{/i}
+
+	///INCONSEQUENTIAL CHOICE///
+
+	FIRST CHOICE: Hold the hand.
+	SECOND CHOICE: Ignore the hand.
+
+	///FIRST CHOICE///
+
+	N: After a moment of hesitation — and an explosion of anxiety — you hold your breath and reach over for her hand. 
+
+	She doesn't pull away when your hand touches hers, doesn't get up and leap out of the tent to escape you. That's always a good start.
+
+	Your fingers intertwine with hers, though you both continue to remain silent. You fear she may be able to hear your heart as it beats at a thousand kilometers an hour. 
+
+	As the blizzard storms on, you begin to feel yourself nod off. Cuddled up with Mei, your hands clasped together, you're beginning to feel much warmer than before — and not just temperature-wise. 
+
+	Isolated, in the middle of nowhere, on the brink of certain destruction, you can't keep the sleepy smile from your face. 
+
+	///SECOND CHOICE///
+
+	N: You glance away from her hand; this is not the time for that. As nice as it would be to hold her cute hand, you don't want to ruin a perfectly good moment.
+
+	And you're okay with that. 
+
+	Mei snores quietly — and what the hell, how does she even have an adorable {i}snore?!{/i} She must be as tired as you after your joint escape from the storm. 
+
+	As the wind bursts against the tent, muffled but still terrifying, you wriggle as close to Mei as you can and lean your head against hers. You let your eyelids droop closed and revel in Mei's warmth.
+
+	Despite the blizzard, and the threat of an icy demise, you almost don't want this moment to end.
+
+	//////
+
+IF ROMANCE LEVEL BELOW 5:
+
+<meihappyblush> M: I don't think that would be appropriate. 
+
+P: Yeah. You're right. We're not penguins.
+
+M: I wish we were, though.
+
+N: You want to ask if that's because being penguins would mean you could huddle together, or because she loves penguins so much she dreams of becoming one.
+
+Probably the latter.
+
+<meidefault> M: {i}Sigh.{/i} I just love them so much.
+
+N: Definitely the latter.
+
+P: Heh. So you've said.
+
+M: I'm sorry. I just... you know.
+
+P: It's fine. It's {i}cool{/i}, even.
+
+N: She flashes you a small smile.
+
+M: Good! 
+
+If you're cold, maybe food will help?
+
+P: Food always helps. Is there nothing food can't cure?
+
+M: There are plenty of things food can't cure. But I did make sandwiches.
+
+P: Yes!
+
+N: She half-disappears into her pack in search of sandwiches, and emerges with a lunchbox. Upon opening, it reveals a variety of sandwiches cut in the shape of penguins. 
+
+M: I was inspired.
+
+P: They're very cute.
+
+M: Thank you! I hope they're tasty.
+
+N: You take a sandwich from the box and chow down. She didn't need to hope — they are definitely delicious. As you chew your mouthful, she watches you eagerly.
+
+M: So??
+
+P: It's good. 
+
+M: Yes! 
+
+P: Do you think penguins taste this good?
+
+M: No! 
+
+P: Oh.
+
+M: No eating penguins! I won't allow it.
+
+P: I wasn't planning on it. It's weird to eat your roommates.
+
+M: Whew, glad to hear you're not a cannibal.
+
+P: That would be way too much effort. I'll stick with normal human food, please.
+
+N: Mei picks up a sandwich herself and takes a bite. After a minute of thoughtful chewing, she swallows and frowns.
+
+P: You don't like it?
+
+M: Could have used some lychee sauce...
+
+P: Wow.
+
+M: You don't agree?
+
+N: Now that she asks the question, you think that actually... some of the sauce on these sandwiches wouldn't be so bad. Could be good, even.
+
+P: I'd try it.
+
+<meihappy> M: I knew you'd understand. There's a reason I like you so much.
+
+N: She pauses as soon as the words have left her mouth, her lips parted slight in surprise.
+
+P: How much {i}do{/i} you like me?
+
+<meihappyblush> M: ... some amount. A reasonable amount.
+
+P: Like, so much? Or soooooooo much?
+
+M: Pffft. Be quiet and eat your sandwich.
+
+P: Yes, boss.
+
+N: She balances her sandwich on her knee and raises her hands, spread about a meter apart.
+
+M: Maybe like, this much?
+
+N: You can't tell if that's a lot, or not too much at all. What are the exact measurements of liking someone? Can it be expressed in distance? More likely, she's messing with you.
+
+P: Is that to scale?
+
+M: Maybe.
+
+P: Maybe?
+
+<meidefault> M: Maybe. Now eat your food, it is never a good idea to skip lunch!
+
+P: Truer words have never been spoken.
+
+N: You both settle into lunch with a vengeance. Only after eating the first sandwich do you realise just how hungry you are — you wouldn't be surprised if you could eat the entire lunchbox and still be hungry after.
+
+The storm rages outside as you both dine on your penguin-shaped lunch. You still feel a little chilly, but at least you have food, and a good friend who likes you a {i}reasonable amount{i}.
+
+Could be a lot worse.
+
+///THIRD CHOICE///
+
+P: What about that... heat disc thing? The exo-whatever. Did you pack that, too?
+
+N: You gesture at her pack.
+
+P: I mean, that is pretty full.
+
+<meisurprised> M: Oh! The exothermal disc! 
+
+P: Yeah! That thing!
+
+M: I totally forgot about it. You're right, I did pack it. {w=0.25}At least, I think I did.
+
+N: She pulls her pack half onto her lap and opens it up to search. When she opens it, however, the disc happens to be sitting right on top. It must be fate.
+
+M: Huh! I must have moved everything around before. Guess I did pack it. Good work for thinking of it.
+
+P: I'm surprised I remembered it! 
+
+N: Mei turns it over in her hands, {i}hmm{/i}ing quietly to herself.
+
+M: I'm not sure what the best way to use this would be. Maybe if you hold it in your lap?
+
+P: It won't burn me, right?
+
+M: No way! {w=0.25}Well, probably not. 
+
+N: You toss up between spending the next however long feeling cold, or potentially burning your legs. It's not a hard decision.
+
+P: I'll give it a go. If it all goes wrong you can just throw me out into the snow to cool me off.
+
+M: Okay!
+
+N: She seems far too perky about that idea. You'll just have to hope you can trust her invention. 
+
+Flipping the disc the right way around, she turns the device on and hands it over to you. You place it on your thighs and wait. It's not super heavy, and you barely notice its weight.
+
+P: How long should this take?
+
+M: Hmm. Probably about five minutes until it warms up enough for you feel heat.
+
+P: Five minutes?! I'm going to freeze to death before that happens.
+
+N: She rolls her eyes, snorting.
+
+P: Thank you for this thing, by the way.
+
+M: Don't thank me yet. You still might be burnt to a crisp before this day is up.
+
+P: There's enough frozen water around us. I'm sure I'll be fine. Besides, I trust you.
+
+M: A dangerous idea.
+
+P: This entire mission has been a series of dangerous ideas. What's one more?
+
+N: You begin to feel warmth radiating from the disc in your lap, and it feels a little bit like heaven. You hadn't realised how cold you were feeling until just now.
+
+Mei must see your expression change. She tilts her head.
+
+M: Is it working?
+
+P: This is awesome. 
+
+M: Yes!
+
+VARIABLE: $Iceformation
+
+IF YES: 
+
+M: Would you say it is... a-Mei-zing?
+
+P: It is definitely a-Mei-zing.
+
+M: Hehe, yes! Perfect!
+
+N: She claps her hands together with glee.
+
+//////
+
+P: Thank you so much for inventing this exo-thing. 
+
+M: And here I was thinking I wouldn't find any use for it in Antarctica! Thank you for proving me wrong.
+
+N: A yawn springs upon you, brought about by the exertion of escaping the storm and the sudden warmth flooding your body. Even after a day off to rest, the exhaustion of your first outings still hangs upon you.
+
+M: You're looking a little tired. Why not take a nap? We'll probably be here a while.
+
+P: A nap seems like a good idea...
+
+N: You curl up on the tent floor, wrapping your body around the warm disc. Even though you know logically the ground is hard and bumpy, you've never felt more comfortable in your life.
+
+The last thing you see before you drift off is Mei's warm smile aimed right at you.
+
+//////
+
+FADE TO BLACK
+TITLE: MEI/DEPLOYMENT TWO/WEIRD PENGUINS
+
+BG: ANTARCTICA EXTERIOR 2
+
+N: In the silence left in the storm's wake, the sound of Mei unzipping the tent is eerily loud. You fall out of the tent behind her, bursting through piled-up snow into bright sunlight.
+
+P: Gah!
+
+N: You throw your hands over your eyes, blinded by the light after so long in the tent's dark interior. 
+
+M: That sure is bright!
+
+P: Too bright!
+
+N: By the time your eyes have adjusted enough to lower your hands, Mei has collapsed the tent and is putting the little tent-package back into her pack. You're somewhat convinced the technology the tent uses is magic.
+
+Shouldering her pack once more and taking her scanner in hand, Mei peers out towards the ocean, now rippling with the white of fallen snow.
+
+M: You ready to do this?
+
+P: I'm so ready. 
+
+N: She hits a button on the scanner, and it beeps to life once more. Almost instantly, the device picks up whatever it did before, and bursts into a flurry of beeps and bips.
+
+Mei swings the scanner around, eyes intently on its screen. After checking every direction, she settles on one and nods.
+
+M: This way!
+
+N: She bounds off, trudging through the fresh snow as fast as she can. You follow quickly behind, wishing you had both been sent somewhere easier to traverse. Like a desert, or a tropical beach.
+
+You pause to catch your breath, feeling the frozen air burn your lungs.
+
+P: Mei, {i}huff,{/i} wait up! You're going too fast.
+
+N: Mei stops and puts her hands on her hips as she waits for you to stop panting.
+
+M: Come on, I'm sure there's something near here!
+
+P: What are we looking for? We found something in the ocean.
+
+M: Yes, but is that the only reason the penguins are avoiding it? There must be something else.
+
+N: You groan, bent over in half with your hands on your knees, half-missing the penguins back at the Watchpoint. At least you didn't have to run through deep snow there.
+
+M: I'm sorry, I shouldn't be pushing you so hard.
+
+N: You glance up at her, unable to blame her for her excitement.
+
+P: Ha, it's the only way I'll get better, right?
+
+N: As you straighten up, breathing almost normally again, something to your right catches your eye. Something out in the ocean.
+
+Your head whips around to gaze out at the ocean so fast you almost get whiplash. In the near distance, you can see water splashing around as something — a lot of somethings — thrashes around. 
+
+P: Uhhhh, Mei!
+
+N: She crosses her arms, raising an eyebrow.
+
+M: What?
+
+N: You jab a finger out at the frothing water.
+
+P: There's something out there!
+
+M: What — <meisurprised>oh! 
+
+What is that?
+
+N: You hold your hand up against the glare of the sun and squint, trying to make out details... Whatever is splashing around out there, they're big. You catch flashes of black, then white. Penguins?
+
+Those are some weird penguins.
+
+Wait... Those aren't penguins.
+
+P: They're orcas!
+
+<meidefault> M: Oooh! Of course. What are they doing?
+
+P: I don't know. That doesn't look like normal behaviour to me. They look... frenzied?
+
+M: That does not sound good. 
+
+N: She takes another look at her scanner.
+
+M: Whatever the mysterious substance in the water is, it's super concentrated here. 
+
+P: Could be the reason the orcas are acting like that?
+
+M: It's very possible. I think we should try to take a sample of the water. 
+
+N: You take in the distance between the icy shelf you both stand on, and the ocean below. It's not a huge fall, but it might almost be too far for either of you to reach. You think you're likely to slip in if you try.
+
+But, it's possible Mei could fall in if she attempted it. You're not sure which option is worse.
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: I'll do it. 
+SECOND CHOICE: I can't reach.
+
+///FIRST CHOICE///
+
+P: I'll do it. I think I can reach that far, and if not, you can hold me. You're stronger than me, so you're better suited for that job.
+
+<meiworried> M: Are you sure? I don't want you to fall in, I'm not sure how I would get you out again. I didn't pack a lifeboat.
+
+P: Don't worry about me, the last thing I plan on doing today is falling into anything.
+
+M: I'm not sure...
+
+P: Mei, I can do this.
+
+N: She chews her lip, but you can tell she's not going to say no to you.
+
+M: Okay, but be careful. I'll hold onto you the whole time. Uf you think you're going to slip, you tell me straight away.
+
+P: Will do.
+
+M: {i}Straight. Away.{/i}
+
+P: I will! I promise.
+
+M: Good.
+
+N: She gives you a stoppered vial and gives your hand a squeeze. Her nose is bright red, her frosted cheeks rosy-warm. Her care is endearing, but you wish that people would have a little more faith in you.
+
+Not that you have all that much faith in yourself...
+
+<meidefault> M: Use this, and be careful.
+
+P: Okay. 
+
+I've got this.
+
+N: She squeezes your hand again.
+
+M: You've definitely got this. 
+
+N: You take a deep breath and grit your teeth. You crouch down onto your knees, and then lie down at the edge of the ice shelf, your torso hanging over the edge. Mei grips your coat at your hips. You know she won't let you fall.
+
+You pull the stopper from the vial and stretch down as far as you can towards the ocean. Your body slides slightly, gravity glacially pulling you down towards the waves. You keep your grip on the vial tight.
+
+M: Are you okay? I can feel you slipping.
+
+P: I can almost reach it...
+
+M: Be careful!
+
+N: You stretch just a little more, and... {w=0.2}yes! The ocean rises up, and you dip the vial into a wave. Seawater splashes into the container, and you slam the stopper back in.
+
+P: Yes! Got it!
+
+M: I'm pulling you back up now!
+
+N: Her grasp tightens, and your body begins to slide back as she pulls, just as the water below you begins to froth. You see black and white below the surface, coming towards you. It's big. Very big.
+
+P: Uh oh.
+
+<meiworried> M: Uh oh?! 
+
+P: I think —
+
+N: Before you can say any more, an orca leaps out of the water, slamming into you and throwing you back. Mei loses her hold on you as you fly through the air, propelled by an angry-looking killer whale. The vial slips from your hand.
+
+P: AAARRGHHHHH!
+
+M: $PlayerName! NO!
+
+N: You tumble through the air for what feels like forever, before the world rushes in at you. You cross your arms over your face protectively, knowing this is going to hurt.
+
+You slam into the snowy ground and bounce. The breath is knocked from your lungs. The orca hits the ground nearby, squealing and clicking.
+
+You hear Mei's voice, distorted and muffled as the world spins around you.
+
+P: Mei! 
+
+M: $PlayerName!
+
+N: You try to rise, and pain lances through your side.
+
+P: AHH!
+
+M: Don't move! I'm coming!
+
+N: You remember the vial spinning away and shake your head, wincing at the pain. You don't even know if Mei can see you.
+
+P: No, find the vial! I'm not going through that for nothing.
+
+M: No way. You're hurt!
+
+N: You hear her footsteps crunching through snow, coming closer to you. The orca flails, edging its way closer to you.
+
+{i}CRACK!{/i}
+
+The ground beneath you shudders suddenly. 
+
+{i}That can't be good...{/i}
+
+Ignoring the searing pain, you roll onto your stomach and push yourself to your knees. Though you're on snow, you feel the ice creak and crack below. The orca squirms more, and the ice cracks again, louder.
+
+You see Mei standing at the edge of shifting snow, her eyes wide with fear as she realises what is happening.
+
+P: Mei... you know what I said about not falling into anything?
+
+M: It's going to be fine. Don't move a muscle.
+
+N: The orca flops itself closer to you. For a moment, the ice and snow holds. Then —
+
+{i}CR-CRACK!{/i}
+
+With a jolt, the ground beneath you gives way. You push yourself to your feet and try to run towards Mei over the collapsing snow. Her hand stretches out to you, and you reach for it —
+
+Your fingertips brush, but the ground disappears completely beneath your feet. She can't catch you in time. You fall.
+
+P: Mei!
+
+<meisurprised> M: No! 
+
+N: She leaps after you, throwing her arms around you as you both disappear into darkness.
+
+M: Got you!
+
+P: Mei! What are you doing?!
+
+M: This seemed like a good idea when I jumped.
+
+P: That was a terrible idea! 
+
+M: Watch out!
+
+///SECOND CHOICE///
+
+P: I don't think I can reach that far down. It doesn't look very safe.
+
+M: Not everything we do is safe, you know.
+
+P: I mean, yeah. Of course not, but that looks like a disaster waiting to happen.
+
+M: Heh, it's fine. I was going to suggest you stay back while I get the sample anyway. Just to be safe.
+
+P: Maybe we should go back to the Watchpoint and find a safer way of doing this.
+
+M: What if the substance or the orcas move while we're gone? We'll have to find them again, and it could take even longer next time. It just won't do. I'm going to do it now.
+
+N: You look at the ocean, then back at Mei, your mouth a tight line.
+
+P: Are you sure?
+
+M: Of course I'm sure! You can hold onto me to stop me from falling in. It'll take, what, a few seconds? Then we'll be home free for the day! 
+
+N: When she puts it that way, it doesn't sound so bad. And yet... you can't help but feel that all of this is a very bad idea.
+
+P: I have a bad feeling about this.
+
+N: Mei puts her hand on your arm and squeezes, giving you a reassuring smile. You can't actually imagine anything bad happening with her watching. Maybe she's right, and you'll both be headed back to the snowcraft soon.
+
+She produces a vial from her pack and kneels down at the edge of the icy ledge. Setting the scanner and her pack at her side, she motions for you to come help her.
+
+M: Can you hold me steady?
+
+P: Of course.
+
+N: You kneel down beside her and grip her coat tightly, watching her warily as she lies on her stomach to better reach for the waves below. Her hair is flecked with white snow, shimmering in the sunlight.
+
+P: Can you reach?
+
+N: She wriggles forward a little more, and you feel her begin to slide. You hold her back with all your strength — which, admittedly, isn't much.
+
+M: I'm almost there... Just a little more...
+
+P: You're going to fall!
+
+M: I am not!
+
+N: She slides a little more, and you wrap your arms around her waist to keep her steady. You find your head pressed against her back; you can hear each of her breaths.
+
+M: Aha!
+
+P: Did you get it?
+
+M: Yes I did. What did I tell you —
+
+N: Something causes her to cut herself off, and she suddenly starts wriggling backwards as much as she can.
+
+M: Oh no.
+
+P: What is it?!
+
+M: Get me up!
+
+N: You dig your heels into the snow and pull, but she's slid too far forward and gravity is working against you.
+
+M: $PlayerName!
+
+P: I'm trying!
+
+N: Water and ice explodes near Mei, and the two of you are thrown backwards by an orca bursting out of the ocean. Mei flies further than you, propelled by the orca in its desperate bid to escape the water and eat you both. <No Mei>
+
+You roll across the snow, the world spinning. When you come to a stop, you dizzily find your feet and cast about for Mei.
+
+P: Mei?! Where are you?! MEI! {w=0.2}
+
+<meidefault> M: I'm here!
+
+N: Her voice doesn't come from too far away, and you quickly follow it. 
+
+Mei and the orca have both ended up a surprising distance from the water. As you approach, Mei struggles to her feet. 
+
+P: Are you hurt?!
+
+M: I'm only winded. I've been through worse.
+
+N: The orca throws itself closer to Mei, and the ground shudders violently.
+
+{i}CRACK!{/i}
+
+<meisurprised> M: Oh no.
+
+P: What was that?
+
+M: The ice beneath the snow. It must not be solid ground. I think it's cracking.
+
+N: You step towards Mei, but the ground shakes again with your movement. Mei pales as she looks to you.
+
+M: You know how you had a bad feeling?
+
+P: Just walk slowly over to me. Okay? This is going to be fine.
+
+N: Mei edges her way towards you, and you feel a wave of relief as she gets closer to you.
+
+The whale lunges again, and with another almighty {i}CR-CRACK{/i} the ice and snow gives way beneath the whale, and Mei.
+
+She jumps for you, her hand reaching for yours, and you stretch out to her too — her fingertips brush yours.
+
+But she's not close enough to catch, and she disappears into the tumbling mass of snow and darkness. 
+
+P: MEI!
+
+N: Without a second thought, you leap after her. Your body crashes into hers, and you wrap your arms around her as she grasps your coat so that you don't lose her again. Even though you're falling. And probably about to die.
+
+{i}Well, shit.{/i}
+
+M: What are you doing?! This is crazy!
+
+P: You think I'm going to let you fall?
+
+M: I'm still falling! And now you are, too!
+
+P: ...
+
+I can see your point.
+
+M: Angela is going to kill us.
+
+N: You see white come towards you out of the darkness and cry out.
+
+P: Hold tight!
+
+//////
+
+N: You both clutch each other as you hit a snowy ledge and bounce off down a steep, icy slope. You scream, Mei screams, your voices echo around the chasm as you tumble and roll further and further down.
+
+You hit flat ground, and with another bounce come to a rest.
+
+You are alive.{w=0.25} At least, you think you are. You're definitely injured, your ribs aching like you've just been hit by a train. 
+
+Pushing aside the pain, you crawl to Mei and shake her.
+
+P: Mei! Are you hurt?!
+
+<meiworried> N: She sits up suddenly, and you jerk back, surprised by the snow flying off of her. You wince in pain, and she notices with furrowed eyebrows.
+
+M: Are {i}you{/i} hurt? 
+
+N: You wave her off, trying to ignore the way your side hurts as you do.
+
+P: Probably just a bruise. Dr. Ziegler can have a look when we get back.
+
+<meidefault> M: Good idea. But... how do we get back?
+
+N: You take a moment to look around, taking in your surroundings. You've both fallen into a deep crevasse, somehow blocked off from the ocean. The surface is so far away, hidden by enough turns in the chasm, that you can't see the sun.
+
+Oddly enough, a path seems to lead away between the crevasse's walls, disappearing around a corner not far beyond where you landed.
+
+M: Wow. That was quite a fall we took, huh? <meiworried>I hope the orca is okay.
+
+P: Hmm.
+
+N: You don't mention that the killer whale was, in fact, doing what it was named for and trying to kill you both. You know that they're predators, but the way it leapt out of the water at you wasn't normal...
+
+Something is definitely wrong in Antarctica.
+
+P: I'm sure it's fine. It seemed determined enough to find its own way home.
+
+N: You know that Mei knows you're lying to cheer her up, but somehow it seems to work. Maybe she's just humouring you.
+
+<meidefault> M: Maybe.
+
+N: Standing, she shake her head and holds out a hand to help you up. You gladly take it, and she pulls you to your feet.
+
+M: Well! Since we're down here, we might as well look around. We should try to find a way out.
+
+P: Hopefully that's not easier said than done. You didn't pack a hoverboard, did you?
+
+M: Nope. Did {i}you{/i}?
+
+P: What do I look like, someone that plans ahead?
+
+M: Ha! Good point. You do not.
+
+P: At least we have a tent to camp in, if we need to.
+
+M: I would rather it not come to that. We only have so much food, and you have a black hole for a stomach.
+
+P: Yeah... yeeeaaaahhhhh. Sorry. I'm still growing.
+
+N: She raises her eyebrows at you skeptically.
+
+M: Could you grow a little faster, so you can get us out of here?
+
+P: I would need a {i}lot{/i} more food than we have. 
+
+N: She snorts, clapping a hand on your shoulder. You grin at her, happy to bring a little humour to this rather dark situation. What are you good for, if not that?
+
+You should put that on your resumé. 
+
+P: Hey, Mei.
+
+M: What?
+
+P: What do you call a mercenary who hides in glaciers?
+
+M: I don't know, what do you call a mercenary who hides in glaciers?
+
+P: A crevassassin!
+
+<meihappy> M: Pfffft! That's so bad! Haha!
+
+P: What did the scientist call the perfect glacier?
+
+M: You tell me.
+
+P: Fault free!
+
+N: She giggles into her hand.
+
+M: Hahaha! You are so bad at this! Absolutely the worst!
+
+N: You take a mock bow, as if receiving a standing ovation. 
+
+P: I try, I try.
+
+N: As you right yourself, pain lances through your torso. There's no way you can hide your pained cringe, and Mei frowns deeply at you. She crosses her arms, and you know you're about to be in trouble.
+
+<meigrumpy> M: You're really hurt, aren't you?
+
+P: I'll live.
+
+M: You shouldn't be walking! I can carry you.
+
+P: Carry me?
+
+M: Of course, I won't if you don't want me to. But I do {i}not{/i} want you walking around and injuring yourself even more. I'm supposed to take care of you.
+
+I {i}could{/i} just make you stay here while I find a way out.
+
+N: You think about being held in her arms, being so close to her...
+
+///CONSEQUENTIAL CHOICE///
+
+FIRST CHOICE <approval +1>: Okay.
+SECOND CHOICE <approval -2>: No.
+
+///FIRST CHOICE///
+
+N: You ignore your racing heart. You don't want to be left alone here while she wanders off on her own. Plus... being held in her strong arms is a pretty good bonus.
+
+P: Yeah. Okay. That seems like a fair compromise.
+
+N: You're a little proud at how well you're keeping your chill. She sighs with relief.
+
+<meidefault> M: Glad you're seeing sense. For once.
+
+P: I see sense at least twice a year. I guess this is one of those rare times.
+
+M: Here, okay, you ready?
+
+P: Yeah.
+
+N: She crouches down, putting an arm behind your knees and the other around your shoulders, and then she gently tips you back and raises you up. She holds you like a groom carrying a wife over a doorstep.
+
+Or like someone holds a baby. A very big baby. Which is basically what you are.
+
+You wouldn't mind Mei swaddling you like a baby, at least.
+
+{i}Stop it!{/i}
+
+<meihappyblush> M: Are you comfortable?
+
+P: Yeah.
+
+N: Her arms are strong, but with her layers of clothes — and perhaps through them — she is soft and cozy. You could probably fall asleep right here and now, if not for the threat of being stranded out here.
+
+You don't have anywhere to hide your blushing face from her. Thankfully, she's not looking down at you, but ahead at the apparent path forward. Her mouth is set in grim determination.
+
+M: We'll get out of here.
+
+P: Of course we will.
+
+N: Mei nods.
+
+<meidefault> M: Yes.
+
+N: She starts forward, trudging her way across the very frozen snow. Each step is careful, considered so she won't slip on a particularly icy patch and send you both flying.
+
+It's probably good you're not walking, because you don't doubt you'd find every singly slippery patch and wreak havoc upon your poor body.
+
+M: This place is weird.
+
+P: Yeah?
+
+M: There's no reason for a crevasse like this to exist here, especially so close to the ocean. It almost seems...
+
+P: Man-made?
+
+M: Yes. Which worries me. If this is artificial, who created it? Why?
+
+P: Maybe the orcas did.
+
+M: With their flippers? 
+
+P: Mutant orcas. With thumbs.
+
+M: Ahh, yes. Of course. The thumbed orcas.
+
+P: But really, I have no clue who could have made this. It wouldn't be... omnics?
+
+M: No. Whatever we find here, I have a feeling it will be old.
+
+P: And very cold. 
+
+Wait, do you think there might be mole people here? Except like, snow mole people.
+
+N: She gives you a look, the kind of look that says, "{i}You are ridiculous.{/i}"
+
+M: I very highly doubt that. {w=0.2}
+
+<meisurprised> Oh!
+
+P: Oh?!
+
+N: You squirm around in her arms to see what she's looking at, and the moment you do, your mouth drops open in the same surprised expression.
+
+It's Mei's pack, sticking half out of a pile of ice and snow. A weak, reflected beam of light from above shines down upon it as if to say, "{i}Here is the thing you need.{/i}"
+
+Mei gaps it to the pack as quickly as she can, careful of the icy floor and your useless, injured self.
+
+<meidefault> M: I'm going to have to put you down for a moment, okay?
+
+P: Yeah, go ahead.
+
+N: She places you down on your feet and pulls the pack free. With a victorious cry, she raises the bag up into the weak light.
+
+<meihappy> M: Yeessssss!
+
+N: She shoulders the pack, looking much happier than before. 
+
+P: Do you think anything inside is broken?
+
+M: Probably! I'll check when we rest next. Nothing I can do about anything right now.
+
+P: Oh, okay. Fair enough.
+
+N: She gestures as if to lift you again, and you give her a nod. She takes you into her arms once more. This time, you find it much easier to control the colour of your face. You're almost used to it now.
+
+She sets off back into the direction of the twisting path, which swerves through icy walls that progressively come closer and closer together, narrowing the path from wide enough to fit two trucks side-by-side, to only a couple people.
+
+Even the ice above comes together, closing the gap and forming a solid roof. 
+
+As you round a corner, You both find yourselves in a small, dark cave. {w=0.2}On the other wall of the cave is a thick, metal door covered in ice.
+
+M: Huh.
+
+P: That's where they live.
+
+M: If you end up being right, I'll eat one of my gloves.
+
+N: She approaches the door, which is very solidly frozen closed. She looks at the door, then down at you.
+
+M: I'm going to have to put you down so I can open this.
+
+P: That's cool. 
+
+N: She lowers you to your feet and steps away, a hand on your shoulder to steady you. For a moment she watches you, then, upon deeming you safe to stand on your own, she returns to the door.
+
+///SECOND CHOICE///
+
+N: Your heart races too fast, and your face heats up noticeably. You hope the darkness, and the chill of the wind hides your blush. You don't want to be seen as a child needing help, nor do you want to hinder her.
+
+And you're not sure you could keep your chill if you {i}did{/i} say yes.
+
+P: No, but thank you for the offer.
+
+M: I will make you stop and wait if you seem to be in too much pain. I'm not letting you walk around while hurt.
+
+P: You can't stop me. I'm coming with and helping you find a way out.
+
+M: ............
+
+N: Her anger is icy cold, and a chill runs down your spine. You're scared she's going to yell at you, or pick you up regardless.
+
+M: Fine. Be that way.
+
+N: Her mouth is saying fine, but her eyes are saying "{i}I will end you.{/i}" You wonder if you're going to return to the Watchpoint like the penguins. You wouldn't put it past her to freeze you if she thinks it'll be the best for you. 
+
+And because you made her mad. You're not entirely sure how deep her temper can be. Is she like an iceberg, her anger far deeper and bigger than you could even imagine?
+
+You certainly hope not. Better to not push her any further.
+
+P: I promise I'll tell you if it gets too bad. I swear I can handle it.
+
+M: ...
+
+Fine.
+
+P: But, uh...
+
+M: What.
+
+P: Do you have any painkillers on you?
+
+M: Ugh!
+
+N: She throws her hands in the air in frustration. Snow flies free from her shoulders and her hair, a little puff of white sprinkles.
+
+M: <i>Sigh.</i>{w=0.2} I did. In my pack.
+
+N: Which is clearly no longer on her. She must have lost it in the fray. 
+
+{i}Damn it.{/i}
+
+N: You smile reassuringly.
+
+P: That's fine.
+
+N: She narrows her eyes at you. They are so dark in this light, they might as well be black. The colour lends an unnervingly cold quality to her expression. You chuckle nervously.
+
+P: Heh, how about we get a move on? The sooner we find a way out, the sooner I can get rest and stop worrying you.
+
+M: ... fine. Let's get moving. {i}Carefully.{/i} I don't want you falling into anything else.
+
+P: Good idea! 
+
+M: Don't patronize me.
+
+P: I swear I'm not trying to... patron-{i}ice{/i} you.
+
+N: She glares coldly at you, but as hard as she tries, she can't hide the quirk of her mouth. You're going to shatter this icy facade if it's the last thing you do.
+
+And there's a good chance that {i}will{/i} be the last thing you do.
+
+She starts heading off in the direction of the corner where the chasm twists away, and you quickly fall into step beside her, afraid that if she disappeared around the bend you'd never see her again.
+
+Her eyes deliberately avoid you as she investigates the crevasse, searching for any hint of escape. Better she's avoiding looking at you, than giving you more of her chilly stare.
+
+P: Icy you're mad at me.
+
+M: ...
+
+P: You're right to be. I can be a real crev-{i}ass{/i} sometimes.
+
+N: She snorts, and hides it by quickly turning it into a cough. 
+
+P: I understand if you continue to give me the {i}cold{/i} shoulder. I know I'm on thin ice right now.
+
+M: Good.
+
+P: But I'll have you snow I'm sorry.
+
+M: Pff — fine.
+
+P: It was really Rudolph me to ignore your considerate gesture, and the worry behind it.
+
+M: ...
+
+N: She can't hold it in anymore, and she laughs aloud.
+
+<meidefault> M: Ha! Rudolph?! That's a bit of a stretch.
+
+P: I know you were just trying to... {i}alp{/i} me.
+
+M: Haha! Nooo, these are just getting worse!
+
+P: That's the plan. I can keep going all night. Or... day? Wait, how long until the sun sets?
+
+M: A very long time.
+
+P: Well, with great powder comes great responsibility.
+
+<meihappy> M: Hahaha! Ha, stop! These are so bad!
+
+P: Are you still mad at me?
+
+M: {i}Sigh.{/i} No. <meidefault>I wasn't even mad at you, really. I was worried.
+
+P: I know. I am sorry for ignoring that.
+
+M: Thank you. Sorry for getting so grumpy.
+
+P: Good, because we need to work together to get out of here.
+
+M: Yeah, it's definitely...<meihappy> {i}snow{/i} place to be stuck.
+
+P: Ha! Haha!
+
+N: You grin widely at each other. Relief fills you — you're so glad she's not angry at you that you can even ignore the pain in your side.
+
+Something catches your attention, an object out of place in the dim white surrounding you. You hobble away from Mei, making a beeline for the shape. As you approach it, the shadows form into something you think you recognize.
+
+P: Mei! I think I found your pack!
+
+<meisurprised> M: What? Really?
+
+N: Next thing you know, she at your side. She grabs your arm in excitement, and you think she might be about to start bouncing.
+
+<meihappy> M: Yes! Oh my gosh!
+
+N: She pulls it out of the snow and dusts it off before throwing the pack over her shoulder and looping her arms through the straps once more. 
+
+M: I hope nothing is broken!
+
+P: Um, shouldn't you check?
+
+M: I can check later. It's not like checking now will make anything less broken, will it?
+
+P: I guess not.
+
+<meidefault> M: Right now, we have more important things to focus on.
+
+N: You both head off again. You walk through twists and turns, while the ice above you slowly merges together until there is no longer an opening over your heads, only a low, translucent ceiling.
+
+You round a corner, and find yourselves in a small, icy cave. {w=0.2}Before you, on the other side of the cave, is a door.
+
+P: I don't think this is natural.
+
+M: I think you're right. Someone definitely made this.
+
+N: You follow her to the door, which is frozen over and very, {i}very{/i} heavily shut. You know your wimpy arms wouldn't have a chance of wrenching it open.
+
+//////
+
+M: Hmmm. HMMMM. That is very frozen.
+
+P: Do you think you can open it? Like, kick it open or something? 
+
+M: Why don't you try?
+
+N: You gesture at yourself.
+
+P: I'm injured, and also a super weenie compared to you. Do you think a weenie could open that door?
+
+M: No, I do not think a weenie could open that door. 
+
+P: You're no weenie, Mei. 
+
+M: I don't think you're a weenie either. You can do it!
+
+P: ...
+
+N: She smiles encouragingly. You frown at the door, wondering if Mei's faith in you is well-placed. 
+
+Could you open that door?
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: I'll try!
+SECOND CHOICE: No way!
+
+///FIRST CHOICE///
+
+P: I'll try! 
+
+N: You step up to the door. It's big, with one of those spoked wheels, like on a submarine door. Ice covers every inch, shining in the dim light.
+
+Rubbing your hands together, you give the door your best "{i}I will destroy you{/}" expression. If look could kill, that door would be very dead.
+
+You grip the wheel as best you can despite the ice, wrapping your gloved fingers around the smooth surface. With a grunt, you twist the wheel.
+
+Or, you try to.
+
+The wheel doesn't budge. Your hands slip free from the wheel and you nearly stumble right into the door.
+
+P: Argh! Damn you, door!
+
+N: Frustrated, you take hold of the wheel again. With a grunt, you summon all your strength and heave. Your muscles tense, you roar with the fire of a thousand suns. You think you feel the wheel finally slipping —
+
+But it's only you. Your hands slide from the ice again, and you only just catch yourself from falling over completely.
+
+Behind your back, you hear a quiet chuckle, muffled by fabric. You look over your shoulder and see Mei with a gloved hand covering her mouth, the corners of her eyes crinkling with laughter.
+
+M: Having a little trouble there?
+
+P: You knew I'd fail, didn't you?
+
+M: Maaaybe. You are a weenie, after all.
+
+P: ... {w=0.2}I hate that I can't argue with that.
+
+M: Here, step back. I've got this.
+
+N: You move out of her way. She grins at you, and takes your place before the door and its frozen wheel.
+
+///SECOND CHOICE///
+
+P: No way, I have no chance of opening that door!
+
+M: You're right. I just wanted to see you try, haha!
+
+P: What?! You wanted to watch me fail?
+
+M: I thought it might be funny.
+
+N: You pout at her, crossing your arms across your chest in an attempt to look serious. 
+
+M: And... a good learning experience?
+
+N: You're not sure you believe that.
+
+P: If you wanted funny, I could've just told you some more jokes!
+
+M: Go on, then. I'm all ears.
+
+P: Knock knock.
+
+M: Who's there?
+
+P: Canoe.
+
+M: Canoe who?
+
+P: Canoe help me open this door?
+
+<meihappy> M: Hehe! Yes, I can do that. Now you can watch me fail!
+
+P: Pfft. I hardly believe you won't be able to do it.
+
+N: She shrugs, flashing a grin at you before facing the door. The mechanism to open it is old-school, a wheel like on those old era submarines you've seen pictures of. The metal is coated in ice, making it slick.
+
+//////
+
+N: She slides her pack from her shoulders and places it on the ground beside her with a soft {i}thud.{/i} Crouching beside it, she opens the main pocket and begins digging through its contents.
+
+M: There must be something in here I can use...
+
+N: You kneel down beside her to inspect the various objects she pulls free and, upon deciding they are no help to her, sets aside.
+
+P: Can your freeze ray work as an unfreeze ray?
+
+M: Nope. But... this door may have become much more brittle than it would normally be because of the temperature. Especially if it's been here for a long time.
+
+P: So you're going to smash it? With an ice ray?
+
+M: Ray {i}might{/i} have been a bit of a lie. Maybe endothermic blaster does suit it better.
+
+N: She pulls the blaster from her bag and gives you a wink.
+
+P: What are you planning? 
+
+M: We might want to move away from the door a little.
+
+N: Quickly repacking everything into her bag, she helps you to your feet and ushers you back to the entrance of the cave.
+
+M: Just, um, stay behind me.
+
+N: You obey, but peek out from behind her back to watch what she's doing.
+
+P: Are you sure this is going to work?
+
+M: Nope! 
+
+N: She aims with her blaster, and shoots. An icicle shoots out almost too fast for you to see and slams into the door with a sound that echoes through the cave. She shoots again, and again.
+
+M: Shatter already!
+
+N: The door seems to be holding steady, too strong for ice to break. She pulls the trigger one more time. Another icicle smashes into the door.
+
+<screen shake 2??> With an almighty {i}CRASH,{/i} the door shatters. The pieces come apart and what was once a solid door collapses onto the ice and snow covered ground. 
+
+Mei whoops and leaps into the air, her arms thrust skyward.
+
+<meihappy> M: Yes! Yes!!! That was so cool!
+
+N: She grabs your hands and spins you around excitedly. 
+
+P: That was awesome! 
+
+M: Right?!
+
+N: Mei pulls you into a tight hug, and the pain suddenly returns with a vengeance. You cry out, unable to stop yourself.
+
+P: Augh! Damn it!
+
+N: Mei lets you go instantly, stepping back with an expression of horror. You clutch your side.
+
+<meiworried> M: Did I hurt you? Are you okay?! I'm sorry! Sorry!
+
+P: It's not your fault.
+
+M: Sorry, I should've been more careful.
+
+P: Don't worry about it, I got caught up in the excitement too.
+
+And look, you opened the door!
+
+M: Yeah, I did...
+
+P: You're the coolest, Mei. You don't have to apologize. Besides, I got a Mei hug.
+
+<meihappyblush> M: Oh, yeah... Heh. I think I owe you a less painful hug. When we get back to the Watchpoint and you're all patched up.
+
+P: I'm going to hold you to that.
+
+M: That's the plan! 
+
+P: Well, now there's even more reason to get home! We've got an open door, let's go explore.
+
+<meihappy> M: Yes!
+
+N: You gently take her hand, and lead her through the open doorway.
+
+FADE TO BLACK 
+
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE
+
+BG: LAB INTERIOR (can it be darkened a bit?)
+
+N: Beyond the smashed door, you find yourselves within an old lab. Blank screens and near-dead technology fill the room. Lights still flicker — though you're not sure where the electricity comes from — giving the lab an eerie glow.
+
+Six large, cylindrical tanks line one wall, filled with a green, glowing liquid. One of the tanks is half empty, but the others are totally full. Whatever is inside of them, you've never encountered it before.
+
+Mei's hand slides from yours as she wanders away to investigate the lab. She presses buttons as she inspects different machines, but nothing powers on. There's no sound from any machinery, no power humming through their wires.
+
+M: This is weird.
+
+P: What is this place?
+
+M: I have no clue. I don't know what any of this stuff is, or who might have put it here. Maybe if we could find some files, or {i}something{/i}...
+
+P: I'll help you look. 
+
+M: Thank you. Take it easy, though.
+
+P: Yeah, yeah.
+
+<meigrumpy> M: Don't make me freeze you.
+
+P: I'll be careful!
+
+M: You better be.
+
+N: You scan the room, searching for anything you think might hold answers. There's a wooden desk, covered in paper and old devices, that looks promising. Surely there's something in its drawers, or written on the paper.
+
+You also spot cords leading from the tanks and other machinery around the room, which all run in loops across the floor. Maybe they could lead you to where the power is supposed to come from.
+
+And, of course, there are the tanks, ominous and mysterious. But... probably better to know more about them first before you go near them. For all you know, they could be radioactive.
+
+Maybe you'd turn into a superhero. {w=0.25}Or a supervillain.
+
+{i}Nah.{/i}
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: Search the desk.
+SECOND CHOICE: Follow the cords.
+
+///FIRST CHOICE///
+
+P: I'll take the desk.
+
+<meidefault> M: Good idea! Maybe whoever made this place left something written down for us explaining it all.
+
+P: Wouldn't that be nice?
+
+N: You head over to the desk and sit at the chair before it. You're thankful for your thick layers of pants and tights, because you're sure the seat must be extremely cold. But then, what isn't anymore?
+
+First, you search through the scattered paper for anything you can understand. There are a lot of numbers, and formulae for stuff you don't understand. No simple notes. No, "{i}Hey, so this is why I made this!{/i}"
+
+How inconsiderate. 
+
+You shift the paper into one pile and move onto the drawers. You're sure there must be something in the drawers — there always is.
+
+The first drawer slides open smoothly. It is filled with a lot of pens, each one having exploded somewhat when its ink froze. Chuckling, you pick a pen up and inspect it. Did this happen after the place was abandoned?
+
+The second drawer is locked, and the third drawer seems to have been the place where the person who ran this place put all the miscellaneous, broken parts of machines.
+
+You sit back and stare at the locked drawer, your arms crossed. You have a feeling that whatever you want, it's beyond that keyhole.
+
+Good thing you know how to pick locks. Not sure useless after all.
+
+You dig around in the third drawer until you find two bits of metal you think will work. Within a couple minutes, the lock clicks and the drawer springs open.
+
+P: Yes!
+
+M: What? 
+
+P: Got a locked drawer open.
+
+M: Nice!
+
+N: The drawer is mostly empty, except for a single leather-bound journal. You slowly pick the journal up, terrified that it might fall apart in your hands, and place it down on the desk.
+
+Flipping open the cover, you find pages of scribbled words — messy enough that you have to focus to read them, but not so messy they're impossible to decipher.
+
+"{i}... I hypothesized that I could create a serum of sorts, to combat the pollution in the ocean ...{/i}"
+
+P: Mei, I think I found something!
+
+<unseen> M: Hang on on second...!
+
+N: With a crack and a hum, the power suddenly returns completely to the lab. Lights flicker on overhead, illuminating the book before you.
+
+BG: Normal lighting?
+
+<meihappy> M: I found the power. 
+
+P: I can see that!
+
+<meidefault> M: So, what did you find?
+
+P: A journal. I think whoever made this place wrote it. I only read a bit, something about a cure for pollution...?
+
+M: Huh! Interesting.
+
+N: She picks the book up and flips through the pages, her eyes flickering to and fro as she scans the scrawled words.
+
+M: Very interesting...
+
+P: What is it?
+
+M: They were working to make something based off of toxic water that could cancel out the pollution and clear the ocean.
+
+P: Would that work? 
+
+N: She lowers the book and raises her eyebrows at you. The sparkling humour in her eyes gives away what her next question is going to be.
+
+M: Shou —
+
+P: Yeah, yeah, I know. This is more my field of research than yours. Still, I've never heard of using pollution to fight pollution. That seems a bit like fighting fire with fire, doesn't it?
+
+N: You slouch back on your seat with a sigh, shrugging.
+
+P: I guess something went wrong? Why is this place abandoned like this?
+
+M: Hmm, let me see if there's anything in here about that...
+
+M: Seems like this place wasn't actually allowed, they were never given the official go-ahead. Maybe they got found out?
+
+N: Brushing hair out of her eyes, she flips to the end of the journal and reads over the words she finds.
+
+M: They left to head off to visit a colleague in relation to their experiments, and then it just ends. They probably got caught, and weren't able to return. 
+
+P: That'd suck for them. So it's just been here this whole time?
+
+<meiworried> M: I couldn't imagine having to abandon my work like that...
+
+P: Hey, it's not like we're losing this Watchpoint anytime soon. 
+
+<meidefault> M: Heh, guess you're right.
+
+P: Of course I'm right! 
+
+N: Pushing yourself out of your seat, you head over to the glowing tanks. You put your hands in your pockets and rock back on your heels.
+
+P: I guess this was what they were making, then. Wonder if it worked.
+
+N: Mei steps up beside you as she slides the journal into her coat pocket. She shakes her head.
+
+M: From what I read, it doesn't look like they were ever successful. Things kept going wrong.
+
+P: Like... animals going crazy when exposed?
+
+<meisurprised> M: {i}Gasp!{/i} Oh! Yes! That didn't even click! <meidefault>I almost forget why we were here in the first place!
+
+P: After this mission, I am never going near black-and-white animals again. They cause way too much trouble.
+
+///SECOND CHOICE///
+
+P: I'm going to see if I can figure out how to get power properly restored.
+
+<meidefault> M: Sounds good. Maybe if we can get power running, we can figure out what some of these machines are for.
+
+N: You decide to start with the cords leading away from the tanks. They run from the bases of the tanks and snake across the floor. You follow them as they wind their way around the room, twisting around other cords along the way.
+
+P: How do you think they powered this place?
+
+M: Probably a generator of some kind. 
+
+N: You glance over to see what Mei's doing. She's plopped onto the seat before the desk, and is rifling through the pages scattered across its surface with eyebrows pulled together. 
+
+You gather whatever she's reading, it's not simple stuff. You're a little glad you didn't take the desk.
+
+Soon enough, after walking yourself in circles following the wires, you notice a sort of pattern: every cord seems to eventually end up beneath a wide desk holding equipment and monitors. You crouch down, but all you see is shadow.
+
+P: I think I'm going to have to climb under here. If I don't return, go on without me.
+
+M: Okay.
+
+P: Hey! What kinda response is that?
+
+M: Oh, sorry. {w=0.2}I {i}swear{/i} I'll never leave you behind, $PlayerName! {w=0.2}Is that better?
+
+P: Much. 
+
+N: You take a deep breath, and crawl beneath the desk. 
+
+At least, you think, you don't have to watch out for spiders. Unless there are ice-spiders...
+
+P: Mei...?
+
+M: Yes?
+
+P: There isn't such a thing as, uh, ice-spiders, right?
+
+M: Ah, yes, the terrifying ice-spider. When it bites, it fills your blood with tiny icicles.
+
+P: You're lying to me, aren't you?
+
+M: Yes. I'm pretty sure ice-spiders are something you just made up.
+
+P: ... yeah.
+
+N: Reassured you're not going to meet any creepy, frozen bugs, you edge forward until you can barely see your own hands as they come up against the wall. Cords press against your knees through your pants.
+
+Sliding your hand around the wall, you search for any kind of switch to return power. You're not entirely sure what you're looking for until you think you find it.
+
+Your fingers close around a big switch, and you imagine it's like the one Dr. Frankenstein used to reanimate his monster. You desperately hope you're not bringing to life any beasts as you yank it down.
+
+P: It's alive!
+
+N: It felt right.
+
+Humming fills the room as the power slowly, then quickly, rushes back to bring the lab to life once more.
+
+BG: normal lighting?
+
+M: Ah! Nice work! Now I can actually read.
+
+N: Crawling back into the light once more, you stand up and stretch out, constantly aware of the dull ache in your side. Crawling perhaps wasn't a bright idea... but also, it was the {i}brightest{/i} idea.
+
+You head over to Mei, who has a leather-bound journal in her hands. One of the drawers in the desk has clearly been smashed open. Mei must see you notice the drawer.
+
+M: It was locked.
+
+P: Ah. Of course. What did you find?
+
+M: The journal of the person who ran this place. They were trying to find a way to remove pollution from the ocean, but I think they got in trouble and never came back.
+
+P: Remove pollution?
+
+M: Through... making what they called a "serum" out of toxic water. I don't know.
+
+P: A "serum"? That doesn't seem like the right word. None of this seems right.
+
+<meigrumpy> M: I don't think they entirely knew what they were doing. They kept getting things wrong. Screwing things up.
+
+N: She pushes the chair back and leads you over to the glowing tanks.
+
+M: I think this is the stuff they made, but apparently the few times they tried it, it only made the animals in the water go, well...
+
+P: Like the orcas?
+
+<meidefault> M: Yes. Like the orcas. 
+
+P: So we found our mysterious substance. Interesting... {w=0.2}But this place looks like it's been abandoned for ages, how has any of this stuff gotten into the ocean?
+
+//////
+
+N: She leans closer to the tanks, inspecting the glass holding the liquid in. You crouch beside the partly empty tank, and see that the metal at its base has corroded somewhat. 
+
+N: A very, very small trickle of green liquid drips from the metal onto the floor. Placing your hands on the ground, you lower your face closer to the floor to see better.
+
+The floor seems to have worn away beneath the trickle, and the liquid has worked its way into the ice below. 
+
+P: I think I found how it's getting into the ocean.
+
+<meisurprised> M: Really?
+
+P: Yeah, over here.
+
+N: Mei squatss next to you, and you point at the slowly growing drop of green.
+
+P: It's not much, maybe not even a drop a day, but it's slowly gotten into the ice surrounding this place. I think that's how it got into the ocean.
+
+<meigrumpy> M: This is terrible.
+
+P: Agreed.
+
+M: I... I know they thought they were doing good, but all they were doing was wrecking the environment even more with their experiments. It's clear they didn't have the go-ahead, and yet, they continued to cause harm!
+
+Who does that?! Did they actually care, or were they just trying to grow their ego?!
+
+P: I'm not sure we'll even know.
+
+M: If I ever find them... 
+
+N: Her eyes flicker with angry fire in the green glow of the tanks. Her glasses flash as she tilts her head to fume at the tanks themselves.
+
+You would {i}not{/i} want to be on the wrong side of that anger. You'd hate to be whoever ran this place if she ever finds them — you don't doubt they are going to have a very bad day.
+
+P: Mei...
+
+M: What?
+
+///CONSEQUENTIAL CHOICE///
+
+FIRST CHOICE <approval +1>: You're angry.
+SECOND CHOICE <approval -2>: Calm down.
+
+///FIRST CHOICE///
+
+P: I know you're angry, and you have every right to be. I understand. But we need to figure out how to stop this from happening, or else it could get a whole lot worse. If just half of these tanks has done this...
+
+M: ...
+
+P: I'm angry too. This is awful, absolutely awful. {w=0.2}We can help it. We can do something to stop it. So, you can be angry all you want, but you also need to help me.
+
+M: ...
+
+N: You place a hand over hers and squeeze reassuringly. She stares at your hand, then up into your eyes. Only now do you realise how close you are to her.
+
+She heaves a sigh, and though the fire doesn't die, it does dim.
+
+IF RELATIONSHIP BAR IS 5+
+
+<meihappyblush> M: Yeah. Of course.
+
+N: She presses her forehead against yours and squeezes your hand back. A tiny thrill runs up your arm and down your spine.
+
+M: Thank you. I'm not used to people... understanding like that.
+
+P: Anytime. I'm here for you.
+
+IF RELATIONSHIP BAR IS BELOW FIVE
+
+<meidefault> M: You're right. I'm sorry.
+
+P: Of course I'm right. Aren't I always?
+
+M: No, that's me.
+
+P: Oh... right.
+
+///SECOND CHOICE///
+
+P: Mei, you need to calm down.
+
+M: I need to {i}what?{/i}
+
+N: Suddenly, the ice of her anger is turned on you. You jerk back from her reactively.
+
+P: It's just that... um...
+
+M: My entire life has been dedicated to protecting the environment of this planet, and the creatures that rely on it. This person has seriously endangered those things, and I need to {i}calm DOWN?!{/i}
+
+N: You gulp, trying to swallow the lump that's suddenly formed in your throat.
+
+P: I'm sorry! I just — I just —
+
+M: You just what?
+
+P: I need your help!
+
+M: ...
+
+P: I can't... I can't solve this on my own. I need you to be calm and thinking straight. I need your help so we can save the orcas and the penguins and everything else that needs us.
+
+M: ...
+
+P: Mei... I didn't mean it like that.
+
+N: All at once, the anger melts away from her, and her shoulders slump.
+
+<meiworried> M: I'm sorry. {w=0.15} Snapping at you wasn't fair. I was just... so mad. And I thought you were trying to invalidate that.
+
+P: No, never! I'm mad too! But right now, that doesn't matter. What does matter is what we do now.
+
+IF RELATIONSHIP BAR IS 5+
+
+N: Mei softly places her hand over yours and squeezes. 
+
+<meihappyblush> M: We can do this together.
+
+IF RELATIONSHIP BAR IS BELOW 5
+
+N: Mei nods once, sharp and determined.
+
+<meidefault> M: Absolutely. Let's do good.
+
+//////
+
+N: You straighten your legs and stand, ready to get to work. Before joining you, Mei extricates another vial to collect a sample of the liquid. She then stands and sighs, placing her hands on her hips.
+
+<meidefault> M: The only thing I can think of is freezing the ground around the tanks. 
+
+P: Wouldn't that just... melt? Because of the liquid?
+
+M: It's freezing here! Besides, you didn't think the ice in my blaster was normal ice, did you? 
+
+P: Um... maybe.
+
+M: Normal ice can't freeze penguins and leave them alive. This is {i}super{/i} ice. It'll hold long enough to let us find a more permanent solution.
+
+P: I'm no ice genius, but that seems like a... {i}solid{/i} plan.
+
+M: Pffft, hah! That's such a stretch. Did you freeze up trying to think of something better?
+
+P: Snow way!
+
+N: You hear a groan behind you, and the two of you whip around to see Dr. Ziegler at the smashed doorway. She's wearing her Mercy suit, wings and all. <Mercy has wings here>
+
+P: Dr. Ziegler!
+
+M: Angela! 
+
+P: How did you find us?!
+
+N: Mei's little drone, Snowball, bursts into the room from behind Dr. Ziegler and flies into Mei's arms.
+
+M: Snowball! It was you? You're such a good drone!
+
+S: ?(???)?
+
+Z: We were worried after the blizzard, so we decided to track you down. Your drone — Snowball? — is remarkably good at finding you.
+
+S: (????)
+
+M: We have a connection.
+
+N: Dr. Ziegler wanders over to where you both stand, taking in the lab with just a little bewilderment. 
+
+Z: So, what is this place?
+
+N: You can see the anger still brewing in Mei, so you decide to take the initiative. You want to spare her from having to talk about it more than she has to.
+
+P: It's an abandoned lab. Some scientist was using it to try and create something that could eradicate pollution from the ocean. They failed and promptly disappeared without explanation. Typically.
+
+Now we have these tank filled with a liquid that makes animals frenzied, and it's leaking into the ocean.
+
+Z: I see. I'm not sure what I was expecting, but it wasn't... this. So, this is why the penguins have been avoiding the ocean? 
+
+M: There were very angry orcas. That's actually how we found this place. The penguins may well have been avoiding them, and other predators.
+
+Z: I'm not even going to ask how orcas caused you to wind up here. I'm just glad you're both in one piece.
+
+M: Well...
+
+N: She gives you a hard look. You wince.
+
+P: I was injured. Am injured. 
+
+N: Dr. Ziegler raises her eyebrows, waiting for more.
+
+P: My side hurts. I think I bruised something.
+
+Z: {i}Sigh.{/i} I suppose I couldn't have expected you to both be completely unscathed. 
+
+M: We need to find a way to dispose of this liquid safely, but for now I'm just going to freeze the leak.
+
+Z: A classic Mei-Ling solution.
+
+<meihappy> M: If it works!
+
+S: ?(?)?
+
+Z: You do that. I'm going to wait outside, where I won't end up accidentally frozen. 
+
+M: Goooood idea. This shouldn't take long.
+
+N: Dr. Ziegler leaves you both to it, disappearing out through the doorway once more. You wonder how she plans on getting both you and Mei out of here. Is she going to fly you out?
+
+You have to admit, you wouldn't mind that.
+
+<meidefault> M: Would you like to wait out with Angela, too?
+
+P: No way, I want to be here when you help avert this crisis. Don't think I'm going to wimp out now. Besides, I trust you not to freeze me accidentally. Intentionally, on the other hand...
+
+M: One day you'll lose that trust in me! Today probably isn't that day.
+
+I hope.
+
+P: You hope...
+
+M: It'll be fiiiiine. {w=0.2}But could you step back a little? Just in case.
+
+N: You oblige, taking four steps backwards away from the tank, then another just to be sure. You trust Mei well enough, but you're not sure you trust her inventions quite as much.
+
+Snowball darts over and hovers near your shoulder, apparently feeling similarly to you.
+
+Mei takes her exothermal blaster in hand once more. She sprays a frosty mist at the bases of the tanks and the floor directly beneath them. Ice quickly spreads from where the mist bursts against metal, freezing as it does.
+
+Soon enough, the leaking tank has been stopped with the power of super-cold ice, and the rest of the tanks are secured.
+
+Mei blows mist from the barrel of her blaster and winks at you.
+
+<meihappy> M: How about that?
+
+P: It certainly looks cold. Think it'll hold?
+
+<meidefault> M: Hmmmmm.
+
+N: She stoops low to inspect her work.
+
+M: Yes. I think it's good for now. 
+
+N: As the two of you leave, closely followed by Snowball, Mei turns back to the doorway and creates a small wall of ice to block the gap once more.
+
+M: Just in case. Today has been weird enough already.
+
+P: Worried a leopard seal might make its way down here and break the tanks?
+
+M: It might! 
+
+P: Yeah, I can't say I'd be surprised if that happened...
+
+M: Exactly. Better to be safe, right?
+
+Z: I wouldn't exactly say either of you have been safe today. I'll be glad to have you both back in the Watchpoint where you can't get yourselves into any more danger.
+
+M: You underestimate our abilities.
+
+P: We'll get into trouble anywhere. 
+
+Z: That's what I'm worried about.
+
+N: Dr. Ziegler's eyes stare directly into yours, and you feel her judgment. Then, she looks at Mei, and you think Mei might feel the same. 
+
+M: Come on, we're supposed to be able to deal with dangerous situations! We wouldn't have been sent here if we couldn't handle ourselves.
+
+P: We did solve the mystery, didn't we?
+
+Z: As well as getting you injured. And how were you planning on getting out of here if I hadn't come looking for you?
+
+M: Um... 
+
+P: Hmm...
+
+M: Er...
+
+P: Uh...
+
+Z: It's like trying to take care of children. Come on, let's get out of this place before either of you do anything else. 
+
+N: Your stomach growls loudly, echoing around the cave. Mei nudges your arm with her elbow and laughs.
+
+<meihappy> M: And before $PlayerName passes out from hunger, ha!
+
+FADE TO BLACK
+
+BG: ANTARCTICA EXTERIOR 3
+
+N: After Dr. Ziegler carries you both, one by one, back up to the bright surface, you discover that she'd moved the snowcraft from where you'd left it. You're overwhelmed with gratitude; you weren't sure you'd be able to walk that far.
+
+As strong as you've been acting for Mei's sake, you're exhausted, hungry, and in pain. You can't wait to get back to the Watchpoint and sleep for approximately ten days straight. Odds are you'll only get one, but you can dream.
+
+Upon approaching the craft, you have a sudden realisation that two people barely fit inside. There's no way you could squish Dr. Ziegler in there too.
+
+P: Uh, Doctor Ziegler...
+
+Z: Yes, $PlayerName?
+
+P: I'm not sure we're all going to fit inside.
+
+Z: I know. I'll fly back.
+
+P: Oh. Right.
+
+<meidefault> M: Did you think she'd walked all the way out here from the Watchpoint?
+
+P: ... maybe.
+
+M: Hehe, no. Silly. You don't have to worry about Angela.
+
+Z: Mei's right, there's no need to worry about me. Not when we should both be worried about you.
+
+N: Mei and Dr. Ziegler exchange looks, communicating silently in a way only people who've known each other a long time can. Mei nods and smiles, then climbs into the snowcraft beside you.
+
+Z: I'll see you back at the Watchpoint. Try not to fall into any more holes, please.
+
+M: I'll do my utmost. See you soon!
+
+N: With a wave, Dr. Ziegler leaps into the air and away, and it's just you and Mei once more. And Snowball, though the drone is tucked away in Mei's pack for now, holding onto the sample of the "serum".
+
+M: That was an adventure!
+
+P: Is every mission like this?
+
+M: Not exactly. But, yes. Saving the world is hard work!
+
+P: Good thing we like doing it then.
+
+M: Yes!
+
+N: She claps her hands together happily, then starts the craft. Almost as soon as the engine hums to life and the craft moves off through the snow, you fall right asleep.
+
+FADE TO BLACK
+
+BG: ECO-WATCHPOINT INTERIOR
+
+N: The next morning, Mei gathers you and Dr. Ziegler to discuss your plans. You're less exhausted and filled with warm food, and even though you're dosed up with painkillers and wrapped in bandages, your side still aches dully.
+
+Dr. Ziegler had declared you unfit for action for a few days, since it turns out you'd broken some ribs. 
+
+{i}Oops.{/i}
+
+Still, she's leaving after today, and you'll be damned if a couple broken ribs stop you from helping Mei finish this mission. Mei can argue all she wants, but she knows she'd be the exact same way.
+
+So you cross your arms over your chest and pretend it doesn't hurt, and wait for Mei to begin. You can tell from the brightness of her eyes that she has some kind of plan — though her messy hair betrays her lack of sleep.
+
+M: I'm sure you're all wondering why I asked you here —
+
+P: Not really.
+
+Z: You have a plan, correct?
+
+M: Oh. Well. Yes, I do have a plan. I {i}was{/i} trying to be cool, but whatever!
+
+So, we've got this... {i}stuff{/i} leaking into the ocean, and it's making the animals very unhappy. Orcas are angry, penguins are afraid, who knows what the fish are thinking right now.
+
+P: Probably that something seems awfully fishy right now?
+
+M: Haha!
+
+Z: Oh boy. 
+
+M: I've created a solution that should neutralize the liquid from the tanks. Angela, you and I are going to head out and get this in the ocean today while $PlayerName rests, and before you leave us.
+
+Z: That seems fine. 
+
+P: Wait, no! I want to come!
+
+M: No!
+
+Z: No.
+
+P: But...
+
+<meigrumpy> M: No, you need to rest. You can help later, but today you stay right here. You eat, you sleep, and you play nice with the penguins.
+
+P: ...
+
+M: Don't make me freeze you.
+
+P: I'm starting to believe that's an empty threat.
+
+N: Dr. Ziegler leans over to you, voice low.
+
+Z: Trust me, that's definitely not an empty threat.
+
+P: ...
+
+M: ...
+
+P: ......
+
+M: ......
+
+P: Fine! Fine. I'll stay here. But I'm not happy about it.
+
+<meidefault> M: Good. Uh — good you'll stay. Sorry you're not happy about it, but it's for the best.
+
+P: Yeah, yeah. I know.
+
+M: So, Angela, we'll get my neutralizer in the ocean where the — {i}sigh{/i} — serum has spread, and give it a couple days for things to calm down. When we're sure it's safe, we'll release the penguins back into the world.
+
+P: And then mission over?
+
+M: Well... we'll stick around a while after that to keep an eye on things. After that? Yes, I guess mission over. You can go back to HQ and get reassigned somewhere warmer, if you wish.
+
+N: Her eyebrows furrow over her eyes, which are suddenly far-away and dulled. You can feel a frown form on your own face at her words. You, instead of, we. Is she planning to ditch you the moment she can?
+
+Despite the heart-dropping worry, you can't help but feel a little excited. Your first mission is almost successfully completed! You could jump for joy.
+
+If you weren't so anxious that Mei wants you gone.
+
+FADE TO BLACK
+
+BG: BLACK
+
+N: Mei and Dr. Ziegler return victoriously, and the three of you have a celebratory dinner of fondue — perfect for the Antarctic cold, Dr. Ziegler explains. Mei smiles at you across dinner, and the butterflies in your stomach calm slightly.
+
+Soon you'll be free of the penguins and the snow. {w=0.2}But are you sure that's what you really want...?

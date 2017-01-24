@@ -378,6 +378,8 @@ FADE TO BLACK
 
 //////
 
+TITLE: MEI/DEPLOYMENT TWO/LYCHEE SAUCE?2
+
 BG: ANTARCTICA EXTERIOR 2
 
 N: After gearing up and squishing into the snowcraft, the two of you speed off to the seaside. Which, as it turns out, is just a lot more ice and snow bordering a rather grey ocean. It's surprisingly not too far from the Watchpoint.
@@ -812,6 +814,8 @@ N: You grasp the tag in a closed fist and pull with all your might. Instantly, t
 Before you even have a chance to ask Mei what's happening, you find yourself facing a small, yet tough-looking tent. Though you struggle to stand against the buffeting gusts, the tent barely sways an inch.
 
 Mei unzips the opening flaps and pushes you inside. She tumbles in behind you, followed by snow and the bitter wind. While you hold down the flaps, she zips them back up.
+
+TITLE: MEI/DEPLOYMENT TWO/LYCHEE SAUCE?3
 
 BG: ???? I DON'T FUCKIN KNOW
 
@@ -2523,6 +2527,8 @@ P: Mei, I think I found something!
 
 N: With a crack and a hum, the power suddenly returns completely to the lab. Lights flicker on overhead, illuminating the book before you.
 
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE2
+
 BG: Normal lighting?
 
 <meihappy> M: I found the power. 
@@ -2644,6 +2650,8 @@ P: It's alive!
 N: It felt right.
 
 Humming fills the room as the power slowly, then quickly, rushes back to bring the lab to life once more.
+
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE3
 
 BG: normal lighting?
 
@@ -2960,6 +2968,8 @@ N: Your stomach growls loudly, echoing around the cave. Mei nudges your arm with
 
 FADE TO BLACK
 
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE4
+
 BG: ANTARCTICA EXTERIOR 3
 
 N: After Dr. Ziegler carries you both, one by one, back up to the bright surface, you discover that she'd moved the snowcraft from where you'd left it. You're overwhelmed with gratitude; you weren't sure you'd be able to walk that far.
@@ -3007,6 +3017,8 @@ M: Yes!
 N: She claps her hands together happily, then starts the craft. Almost as soon as the engine hums to life and the craft moves off through the snow, you fall right asleep.
 
 FADE TO BLACK
+
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE5
 
 BG: ECO-WATCHPOINT INTERIOR
 
@@ -3087,6 +3099,8 @@ Despite the heart-dropping worry, you can't help but feel a little excited. Your
 If you weren't so anxious that Mei wants you gone.
 
 FADE TO BLACK
+
+TITLE: MEI/DEPLOYMENT TWO/THE MOIST CREVASSE6
 
 BG: BLACK
 

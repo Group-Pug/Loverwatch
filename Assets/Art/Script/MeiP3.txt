@@ -1,0 +1,436 @@
+TITLE: MEI/SHORE LEAVE 2/KITCHEN
+
+BG: KITCHEN
+
+N: As you wade through the penguins into the kitchen, you wonder just how empty the Watchpoint is going to feel once they're all gone. Like a ghost town, perhaps, devoid of the dapper birds that have plagued your life.
+
+You might even miss them when they've left — but there's no way you'd admit that to anyone. What if the penguins heard? You might never be rid of them, then.
+
+You make your way to the cupboard to search for food. You're bored, anxious, and, as always, hungry.
+
+Variable: $Tacos
+
+If yes to tacos:
+
+N: A beam of light seems to fall upon a golden, glowing package of tacos. You almost can't believe the sight before your eyes. Mei must have asked for them in the resupply, and Dr. Ziegler must have brought them with her.
+
+And what better time to make them, if not now? Your mission is almost over, successfully completed, and you may have to say goodbye to Mei soon enough.
+
+Your stomach churns at that thought and you push it down into the deep fissures of your mind. 
+
+You quickly make your way around the kitchen, tracking down the necessary ingredients. Fresh... ish fish in the fridge, frozen vegetables, packs of sauces scavenged from other ready-to-heat meals. Not perfect, but pretty close.
+
+Soon enough, you're hard at work preparing a meal fit for the penguin-saving adventurers you and Mei are. The birds mill about, seemingly entranced by the scent of fish frying. You can't blame them, it {i}does{/i} smell good.
+
+<meidefault> Mei drifts in just as you're serving the food up, rubbing at her eyes and yawning widely. Dark circles ring her eyes, and her perkiness seems to have been knocked down from 20 to an approximate 18.
+
+P: Have you slept?
+
+M: Maybe. 
+
+N: She sniffs at the air and gives you a grin, clapping her hands together with glee.
+
+<meihappy> M: Smells good! What's on the menu?
+
+P: I found ingredients for tacos, which I'm guessing you requested?
+
+M: Yes! I got so excited about the idea, I sent in the request the moment we got back. <Mei-blushing>Haha. 
+
+P: Well, I hope you like them. The penguins sure seem to want them.
+
+<meiworried> M: You didn't make enough for them?
+
+N: The worry in her voice as she asks the question fills you with icy dread. Did you make a mistake by ignoring the birds? Was the fish for them, instead of the both of you?
+
+{i}Oh no.{/i}
+
+P: I — no! Should I have? I could make some more now, though it'll take a while for all of them...
+
+N: Mei tries to keep her face straight, but her facade cracks at your earnest fretting. She snorts.
+
+<meihappy> M: Haha, no! I was kidding! The penguins don't need tacos.
+
+P: Oh...
+
+M: Besides, I'm not sure I'd be willing to share with them even if they did. Hehe.
+
+P: Of course.
+
+M: Aww, I didn't think you'd take me so seriously! I'm sorry.
+
+P: I'll get you back one day.
+
+N: You try not to think about when {i}one day{/i} might be.
+
+M: If you say so.
+
+N: Laughing, she serves herself a plate of the food you've so lovingly prepared and chows down. You watch with simmering anxiety, not sure if your cooking will live up to her expectations.
+
+<meidefault> M: Hmmmmm...
+
+N: She chews for a moment longer, her warm eyes elsewhere as she considers. You feels as if you're hanging onto every taco-shell crunch of her teeth.
+
+Turning to look at you once more, she grins widely.
+
+<meihappy> M: These are really good!
+
+P: Yes!
+
+N: You have to refrain from throwing a fist in the air in victory. You don't want to seem {i}too{/i} excited about her enjoying your cooking.
+
+Joining her with your own plate, you also munch away at your tacos. 
+
+M: You know what would make these better, though?
+
+P: What...?
+
+N: The moment you ask the question, you instantly realise what she's talking about. She watches the realisation dawn upon your face with bright humour.
+
+P: Lychee sauce?
+
+M: Yes!
+
+N: With a sigh, you get back up and go get the bottle of weirdly sweet sauce. 
+
+<fade>
+
+If no to tacos: 
+
+N: You manage to dig out a box filled with near-fresh pastries, each as delicately baked as the next. Why on Earth someone would think pastries of all things would be good for a deployment in the Antarctic, you couldn't say.
+
+But you're not complaining.
+
+You grab a plate and start piling pastries up. One... {w=0.1}three... {w=0.1}ten... {w=0.2}twelve... 
+
+Yeah, that seems like a good, balanced meal. They're definitely balanced, at least. The penguins watch you as you pass, their dark eyes hopeful that a pastry will fall from the precarious pile into their beaks.
+
+{i}Not today, penguins.{/i}
+
+Little do they know, you become at least twenty times more dexterous when food is involved.
+
+Mei wanders into the kitchen when you're halfway through the second pastry, and she stares at your plate in unabashed awe.
+
+Or maybe it's dread.
+
+M: Have you got enough food?
+
+N: You look down at your plate and consider. Your stomach is still growling, even after one and a half of the pastries. {i}Are{/i} you sure twelve is enough?
+
+P: I guess we'll find out.
+
+M: Ah, the scientist's solution. Experiment and see what happens.
+
+P: You know me, always up for experimentation. And science.
+
+N: Mei laughs — though you think it's more of a cackle, really — and settles in to watch you devour your meal, almost as if she doesn't believe you can finish the plate.
+
+You do exactly that in short order, and she stares, mouth agape, at the crumbs that remain.
+
+M: {i}How?{/i}
+
+N: You shrug.
+
+P: I'm still growing?
+
+M: That is statistically impossible.
+
+P: Isn't that what Overwatch does? The impossible?
+
+<meihappy> M: I don't think you understand what is meant by that.
+
+N: She stands, brushing stray crumbs from your pastry devouring from her clothes. Grabbing her own pastry from the box, she steps around the penguins towards the kitchen's exit.
+
+<meidefault> M: I should get back to my tests, but that was definitely... 
+
+N: She seems to struggle for the word she wants.
+
+P: Impressive?
+
+<meihappy> M: I was going to go with "distressing", but I guess impressive works as well.
+
+N: Flashing you a wink, she turns and disappears back into the Watchpoint, penguins following in her wake to catch any dropped pieces of the flaky pastry.
+
+P: ...
+
+I'm still hungry.
+
+<fade>
+
+TITLE: MEI/SHORE LEAVE 2/CLIMATE LAB
+
+BG: CLIMATE LAB
+
+N: The first thing you notice upon entering the climate lab is the distinct scent of chocolate. You're stopped short by the smell, confused and suddenly hungry.
+
+You don't think that chocolate is a particularly important part of climate research, but then again, who are you to say? 
+
+Mei seems to be distracted by a saucepan warming over a Bunsen burner. Her back is to you, her hair up in a messy knot.
+
+Considering the fire, and what you assume is melted chocolate in the saucepan, you decide not to scare Mei by sneaking up on her.
+
+P: {i}Ahem{/i}. Hey.
+
+N: Mei glances over her shoulder at you, teeth flashing in a wide grin.
+
+<meihappy> M: $PlayerName! I'm glad you're here!
+
+N: She beckons you over and sidle up beside her, peering into the saucepan to find that you were right: she's making hot chocolate.
+
+P: I see some good science going on here.
+
+M: Yes! I am experimenting to make the best hot chocolate.
+
+P: Are you really?
+
+M: Ha! No. I just threw chocolate into some of the long-life milk in the cupboard. <meiworried>I hope it tastes good.
+
+P: I don't see how you can go wrong with chocolate. 
+
+<meihappy> M: You would say that.
+
+N: She crosses her arms and peers at the steaming, brown liquid gently warming over the blue flame.
+
+<Mei-blushing> M: I thought, since we don't know how much longer the two of us will be here, that we should have some hot chocolate. 
+
+It seems like something we're supposed to do when surrounded by snow, don't you think?
+
+N: You glance again at the hot chocolate.
+
+///CONSEQUENTIAL CHOICE///
+
+FIRST CHOICE <approval +1>: You can't think of anything better.
+SECOND CHOICE <approval -1>: It looks kinda gross. Maybe not.
+
+///FIRST CHOICE///
+
+N: You can't think of anything better than sharing a warm, sweet mug with Mei, who is so warm and sweet herself. How nice of her to think of doing this.
+
+P: Yeah, I'd say it definitely seems like something we have to do.
+
+N: Her face lights right up, she glows as brightly as the snow does when the sun shines directly at it. Your heart warms.
+
+<meihappy> M: Yes! I knew you'd agree.
+
+P: Do you think the penguins want some too?
+
+<meidefault> M: Hmm. 
+
+<meihappy> M: I don't think it'd be good for them. More for us!
+
+N: You can't help the laugh that bubbles from you.
+
+P: Haha! Good.
+
+N: She picks up two mugs from her desk and hands one to you. Bigger than you're used to, the mug fits much more comfortably when held by both hands — it's almost bowl-sized.
+
+With the utmost caution, she ladles hot chocolate first into your mug, then into her own — which is blue, and decorated with penguins. You wonder if she made it herself, for herself.
+
+She holds out her mug to you, an offer of clinkage.
+
+M: To the penguins! And to hoping that this actually tastes good.
+
+P: Here's hoping!
+
+N: You clink your mug against hers, then take a sip of the thick liquid.
+
+It's... {w=0.2}delicious. Sweet, but not too sweet, with a surprising creaminess considering the milk. 
+
+The drink isn't perfect, but...
+
+You glance at Mei, with her eyes softly closed, her eyelashes tickling her cheeks, and you think that between the chocolate {i}and{/i} Mei, this moment may well be perfect.
+
+///SECOND CHOICE///
+
+N: The bubbling goo doesn't look... edible. Not when you really {i}look{/i} at it. Long-life milk? Disgusting.
+
+Mei looks at you, waiting for your reply with furrowed brows. It's like she can sense your hesitancy.
+
+P: It looks a little... gross, doesn't it?
+
+<meigrumpy> M: What do you mean, "gross"?
+
+P: Uh, just... I'm not sure I want to try it.
+
+<meiworried> M: But... 
+
+N: She frowns at you a moment longer, her lower lip pouting just a little, then she lowers her eyes to the chocolate.
+
+M: Fine. You don't have to have any.
+
+P: I, uh...
+
+M: More for me, then.
+
+P: Yeah, exactly.
+
+N: Your response is half-hearted, and it doesn't do much to make Mei look any more okay with you saying her creation looked "gross".
+
+You silently curse yourself for your inability to think before you speak. She clearly worked hard to make this hot chocolate to share with you, and you threw it back in her face.
+
+With a sigh, she shrugs her shoulders and returns to stirring the contents of the saucepan.
+
+P: Do you need any help?
+
+<meidefault> M: No, I think I can handle it.
+
+N: Her iciness makes you pause, as if the chill in her voice freezes your very heart. 
+
+P: I'm sorry.
+
+N: She sighs again.
+
+M: I know.
+
+<meiworried> M: It's just that... I'm worried.
+
+P: About what? We know your neutralizer works, it's going to be fine.
+
+N: She turns her head and looks you directly in the eyes. You suddenly get the sense that it's not the neutralizer she's worried about.
+
+Before you can say anything to suit the moment, she breaks her gaze from yours and folds her arms across her chest.
+
+<meidefault> M: You're right. I'm sure everything will work out as it should.
+
+N: You watch her face, noticing the slight crease in her forehead, the tightness in the way she holds her lips. You wish you could say something — {i}anything{/i} — to make her feel better.
+
+But, you can't think of anything that would help. So you gaze at her in silence, the scent of the chocolate filling your nose.
+
+//////
+
+<fade>
+
+TITLE: MEI/SHORE LEAVE 2/REC ROOM
+
+BG: REC ROOM
+
+N: You're shocked to find Dr. Ziegler, sitting on the couch with an entourage of penguins, when you enter the rec room. She looks up at you, smiling softly.
+
+Z: Hello, $PlayerName.
+
+P: Hey. I thought you'd be gone by now.
+
+Z: I wanted to say farewell to the penguins before I left.
+
+N: She stands, and the birds tootle with disappointment at her sudden absence.
+
+Z: Besides, I wanted to talk to you about something.
+
+P: Talk... to me?
+
+N: Tilting her head, she appraises you with her bright eyes. Loose strands of blonde hair brush over her shoulder.
+
+Z: You and Mei seem to have gotten close during your mission.
+
+N: Your insides freeze. You're not sure where this talk is going, but you're not sure you like it.
+
+P: Yeah, I think so.
+
+N: The corners of her mouth curl knowingly.
+
+Z: Relax, I'm not going to give you a dressing-down. I think it's good that she has found a friend like you.
+
+N: You let out a relieved breath.
+
+P: Thanks, I think.
+
+Z: However, I have a question for you.
+
+P: Alright, shoot.
+
+Z: Are you planning on sticking around when all of this is done?
+
+///INCONSEQUENTIAL CHOICE///
+
+FIRST CHOICE: I didn't think I could.
+SECOND CHOICE: I will try.
+THIRD CHOICE: No.
+
+///FIRST CHOICE///
+
+P: I didn't think I had a choice in that. I thought I'd be shipped off to another mission.
+
+Z: Ah, that's not always the way it goes. If Mei decides you would make a good part of her team, she could request you stay here at the Watchpoint.
+
+P: So you're saying... I could stay?
+
+Z: If you wanted. It's your decision to make, I was only wondering.
+
+P: Any reason for that?
+
+Z: There's a reason you were the only agent we could send with Mei for this mission. 
+
+P: What do you mean?
+
+Z: You would have to ask Mei, it's not my place.
+
+P: Oh.
+
+Z: Think about it, yes? About staying here. It could be good for the both of you.
+
+P: I will.
+
+///SECOND CHOICE///
+
+P: I've been thinking about it, and I will try to stay here with her, if she wants me to.
+
+Z: Good, I am glad to hear it.
+
+P: Why do you ask? Why are you glad?
+
+Z: Did you notice that there was nobody else to send with Mei except you?
+
+P: I hadn't really thought about it...
+
+Z: Maybe you can ask her about it one day. There's no rush, not if you have already decided to stay.
+
+P: You really care about her, don't you?
+
+Z: She is a good friend. You better take good care of her.
+
+P: I'll do my best, ma'am.
+
+///THIRD CHOICE///
+
+P: No, I don't want to stay here.
+
+Z: Ah.
+
+P: It's not Mei! But the cold... and the penguins... and I want to explore.
+
+Z: You should talk to her about that. Make sure she knows you've decided to leave.
+
+P: Honestly, I thought that was already the decision made for me. That's the feeling she gave me, at least.
+
+N: Dr. Ziegler raises her brows, and you get the feeling she knows something you don't.
+
+Z: I feel like the both of you need to talk.
+
+P: About me leaving?
+
+Z: And about why you were the agent sent with her in the first place, perhaps.
+
+P: I thought that was because I'm a qualified oceanographer.
+
+Z: That as well, but...
+
+N: Chewing her lower lip, she hesitates.
+
+Z: This is not for me to talk about. 
+
+P: Oh.
+
+Z: Bring this up with Mei before your mission is over, please. Make sure you're both on the same page.
+
+P: Okay.
+
+//////
+
+VARIABLE: $Backstory
+
+Z: Ah, but it's time for me to go. Be safe, $PlayerName. Look after the penguins for me.
+
+P: I'm sure Mei's got that covered.
+
+N: With a small laugh, Dr. Ziegler brushes past you and away. You look over your shoulder at the closing door, and wonder when you'll next see that angelic woman.
+
+<fade>

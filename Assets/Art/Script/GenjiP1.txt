@@ -1,0 +1,2714 @@
+TITLE: GENJI/INTRO/CAREER: CYBERNETICS ENGINEER
+BG: Overwatch HQ - briefing room
+
+N: The jet-lag from flying out to Switzerland on such short notice combined with a sudden temperature drop and totally new surroundings does not seem to be boding well for you {i}at all.{/i} 
+
+Weaving in and out of people who seem to have a far better idea of where they’re going than you do, navigating the seemingly endless labyrinth of corridors around the HQ is proving to more challenging than you’d thought.
+
+That, and it’s {i}certainly{/i} not helping your mounting sense of panic.
+
+Corridors lead into more corridors, {w=0.2}that lead into classified areas you’re pretty certain you’re not supposed to be anywhere near, {w=0.2}which lead into {i}more{/i} corridors, and - 
+
+... turning a sharp left on a fool’s hope down Yet Another Identical Hallway, you find yourself in an important looking room, toe to toe with an important looking blonde man.{w=0.2} Oh.
+
+{i}... OH.{/i}{w=0.2} T-The commander...!
+
+Face heating up as you frantically glance at your watch - {w=0.2}1105 hours, oh god{w=0.2} - you wonder whether this is serendipity granted from the power sits above, or if you should’ve just let the world swallowed you whole in your embarrassment and be done with it.
+
+You’re late. {w=0.2}For your first briefing. {w=0.2}With the commander.
+
+... the very {i}tall{/i} commander. {w=0.2}Oh, gosh.
+
+Realising that you’re gaping, you promptly shut your mouth and begin the panicked search for the perfect words of apology - {w=0.2}that is, until the commander beats you to it.
+
+J: You’re late. I remind you that tardiness is not a quality that begets a good soldier.
+
+N: An exceptionally stern look is pointed your way, under which you immediately wilt. Your mind quickly churns, screaming at you to say something, {i}anything{/i} to make this less of a terrible first impression.
+
+P: I understand, {w=0.2}sir! {w=0.2}I’m sorry, {w=0.2}sir.
+
+N: Excellent. You’re absolutely certain such eloquence has blown him away beyond any recognition of doubt.{w=0.5} The unimpressed gaze lingers on you for a moment longer before the commander glances down to an electronic data-pad in his hand.
+
+Nothing is said in reply.
+
+As soon as those piercing eyes leave you, you feel all the blood rush to your head in relief. {w=0.2}If it wasn’t for the sheer fear of being dismissed on your first day, you’d like to collapse right here on {b}this very spot{/b}.
+
+The commander taps away at the data pad, presumably bringing up your personnel file. {w=0.5}He seems even larger in life than the holo-vids - {w=0.2}a person that seemed born to lead even from the most cursory glance.
+
+A stern voice - yes, {w=0.2)you’d already experienced that - {w=0.5}a strong profile from face to form, and an air about him that seemed to effortlessly draw respect. {w=0.5}It’s only when he looks back up that you realise you’re staring.
+
+To try and hide the fact, you clear your throat very unconvincingly.
+
+P: ... sir?
+
+N: You’re pretty sure he didn’t buy it. {w=0.2}The commander taps the data pad against his hand, brow furrowed as he stares you down.
+
+J: I appreciate you were called here on short notice. {w=0.2}An urgent vacancy has presented itself that requires filling, and you happen to be the best fit for the job.
+
+N: Somehow, hearing those words makes you glow on the inside even despite the awkwardness of the past few minutes. {w=0.5}{i}Overwatch needs you.{/i}{w=0.5} That in itself is worth more than any praise you could possibly receive.
+
+J: Our taskforce is not an easy assignment, nor does it tolerate disloyalty or insubordination. {w=0.5}We work hard for a good cause, among good people. {w=0.2} You’re here because we require you to be part of that mission.
+
+J: Overwatch is comprised of only the best from every field, and everyone you meet here is a valuable part of our taskforce’s ecosystem. 
+
+J: It is critical that you, coming on board, accept and exemplify these values because without such a code, we would cease to function as the cohesive unit we are. {w=0.5}Do you understand?
+
+N: It’s a rhetorical question, you know that much - but it comes with a loaded responsbility, and the commander seems to both firmly mean and believe every word he’s saying.
+
+You’ve heard it all before. {w=0.5}Overwatch was elite, so it was only natural that it was tough.{w=0.5} It asked for a lot, and in turn, those who are part of it had to be prepared to give.
+
+P: Yes, sir. {w=0.5}I’m honoured to be called to duty.
+
+N: Morrison raises an eyebrow at your addendum. You’re not quite sure whether it’s incredulity or surprise at your conviction, but to take some small win to bed with you tonight, you’re going to go with the latter.
+
+J: It isn’t a light commitment to join us when there’s such a great deal on the line - both personally, and for the world as a whole.
+
+He pauses, and to your great shock, the edge of his mouth quirks up in the smallest of dry smiles.
+
+J: ... and with all that said, I suppose I should welcome you to Overwatch. 
+
+J: Instead of a fruit basket and a card, you get to enjoy some high quality bureaucracy in the form of a standardised personnel form.{w=0.5} Here.
+
+N: The sudden switch in extremely commanding, formal language to an unexpected sardonic humour takes you slightly aback again as the tall man in front of you offers you the data pad he’d been holding. {w=0.5}Numbly, you nod and take it.
+
+J: For the records, we require you to sign in to duty with your name and professional role. {w=0.5}This is assigned against your personnel number, and upon the completion of the form you’ll be formally a member of the Overwatch taskforce.
+
+N: Eyes focusing on the blue screen of the data pad, your brow furrows slightly as you raise your hand to complete the form.
+
+
+
+
+
+N: You finish up the short form by selecting your profession - cybernetics engineer - and hand it back to the expectant commander. {w=0.5}No doubt he has better places to be, and other people to discipline for turning up to their first assignment {i}late.{/i}
+
+As he checks over the form, you can’t help but feel aware of the excitement bubbling up from within you. {w=0.5}You’ve been in the cybernetics field for years, a fairly obscure but rapidly developing profession.
+
+The past few decades had seen huge leaps and bounds in the capabilities of cybernetic technology - and having loved tinkering with circuitry and wires since you were a child, you were always going to end up an engineer.
+
+Cybernetics, the science that bridged both human and machine, was a natural path. {w=0.5}You’ve always thought that machines had an innate ability to coexist with nature, and ever since you discovered that harmony, you’d thrown yourself into your work.
+
+Really, you’re just glad that there’s a need for you here, {i}now{/i}, and that you can put some of your expertise to good work for the world in some way.
+
+J: Right, well, that all checks out.
+
+N: The commander’s graveled voice jolts you out of your wistful aside, and you look up expectantly. {w=0.5}Much like a golden retriever, but probably a lot less adorable.
+
+With a short sigh, Morrison places the completed data pad back on the desk and a few moments of silence span. {w=0.5}Not enough to be awkward, but enough to plant seeds of worry about just what was going to come next.
+
+This was the part where you received your assignment, right? {w=0.2}Now that the ‘fruit basket’ was out of the way?
+
+J: Your assignment is a particularly difficult one. 
+
+J: There’s a reason we needed an engineer of your caliber out here so quickly, and I’m going to be frank with you - there’s a lot that rests on your assignment being successful.
+
+J: A couple of months ago, Overwatch invested a large amount of time and resources into recovering an agent critical to our taskforce. {w=0.5}It was no small operation by any means, and one that stretched our medical and cybernetic teams to the limit.
+
+N: An agent? {w=0.5}Looking slightly quizzical, you don’t recall hearing anything about this on the grapevine, at least.
+
+Pacing slowly, the commander turns his back to you as he moves around the desk. {w=0.5}You could’ve sworn that before he turned away, there was a decided look of concern etched into his features.
+
+J: After a long, traumatic set of surgeries, the agent pulled through and survived thanks to those teams that attended to him. However...
+
+J: ... this now presents a new problem to us as he... {i}adjusts{/i} to his new limitations and boundaries. {w=0.5}The transition has not been an easy one, and a lot of what is currently keeping him alive is experimental technology at best.
+
+N: The jigsaw pieces fall into place, and suddenly you get what the commander is edging at. Could it really be...
+
+P: He’s a cybernetic being?
+
+N: You blurt out, more from surprise than anything else. {w=0.5}It wasn’t unheard of, but it wasn’t a set of techniques that were widespread by any means. {w=0.5}You certainly couldn’t hop down to the local plastic surgeon and ask for a cyborg upgrade.
+
+J: Precisely.
+
+J: That is to say, he’s not simply a cybernetic being -{w=0.2} but he’s also the perfect soldier. {w=0.5}Perfect for Overwatch, and a great asset to the taskforce. {w=0.2}We can’t afford for anything to happen to him.
+
+J: And, that’s where you come in, {$PlayerName}.
+
+N: Just what is your assignment...?
+
+P: How do you mean? {w=0.5}Are there still procedures to complete?
+
+J: Yes... and no.
+
+J: You are to be permanently assigned to this agent. {w=0.5}Think of it as a personal doctor, if you will, with many of the same responsibilities therein.
+
+N: Damnit, Morrison, you’re a doctor, not an engi-- wait, that’s not the way around that goes. {w=0.5}Everything only seems to be getting more confusing.
+
+Biting your lip, you’re not sure if this is going the way you’d thought it was.
+
+P: A personal doctor.
+
+N: You repeat it out loud just to see if it makes more sense, but it sure doesn’t.
+
+J: Yes. {w=0.5}You’re a cybernetic engineer. {w=0.2}He’s a cybernetic being, with potentially unstable new technology and a very powerful skill set. {w=0.5}He needs to be monitored and assisted, at least in these formative stages of his development.
+
+N: You nod, albeit slowly.
+
+J: Your first task is to ensure that he’s ready for field duty. {w=0.5}There are missions piling up that could only be attended to by someone of his skill, and it’s critical that he’s fit for duty as soon as possible.
+
+J: I’m sure medical can fill in more of the technical mumbo jumbo than I can, but I’ve been informed you’ll essentially be running tests on him, altering and repairing his circuitry, as well as attending to any other cybernetic issues that crop up.
+
+N: That sounds doable. {w=0.5}Exciting, even! {w=0.5}Working on experimental new technology seems to be a great opportunity, and you’re sure as part of Overwatch there’s a lot you can learn from the colleagues around you.
+
+P: Understood, sir.
+
+N: The commander folds his arms across his chest and looks squarely at you. {w=0.5}You don’t think you’re ever going to shake off the feeling that he’s sizing you up every time your eyes meet. {w=0.5}{i}Intimidating{/I}.
+
+J: You’re to report to the medical lab immediately to begin active duty. {w=0.5}As for the details of your assignment, consider it ongoing with the potential to develop into further assignments in the same vein.
+
+N: With a sense of finality, Morrison hands you a different data pad - one that’s been sitting untouched on the desk since you came in. {w=0.5}Taking it, you tap the screen to bring it to life - and you’re met with a very unique personnel file.
+
+J: Your charge is Genji Shimada. 
+
+N: Staring at the pad, the name fits the information given - though you can’t help but look slightly dumbfounded. {w=0.5}The technology was far more advanced than anything your central labs had been working on.
+
+N: You’re so absorbed, you don’t even realise that Morrison isn’t finished, and when he next speaks, you almost drop the pad on the ground.
+
+J: All I’ll say is... good luck, {$PlayerName}. {w=0.5}I get the feeling you’ll need it. {w=0.5}{b}Dismissed.{/b}
+
+N: Nodding, you take your dismissal and promptly leave the room clutching the pad that dictated your first assignment.
+
+A cybernetic engineer ‘doctor’ paired to a man that recently only barely survived his journey through transhumanism?
+
+... taking a deep breath, you slip the data pad into your snow jacket and head back towards the labyrinth of corridors in search of the medical facilities.
+
+There was only one thing left to do, and that was to do your job.
+
+<<fade>>
+
+
+TITLE: GENJI/DEPLOYMENT 1/OVERWATCH HQ
+BG: Overwatch HQ - outside
+
+N: Idly, you wish that you'd received a map of the facility when you arrived here. {w=0.5}Surely finding your way around would come with familiarity, but you're lost {i}again{/i}, still wandering the corridors about twenty minutes later.
+
+Tugging your snow jacket closer to your frame against the chill that seemed to permeate the whole facility, you frown as you survey your surroundings.
+
+People are running to and fro, all with a greater sense of urgency and purpose than yourself, something that makes you feel the slightest bit guilty. {w=0.5}Where were you even going?
+
+The look of confusion on your face at your situation must be pretty severe, because a pleasant, heavily-accented voice jilts you out of your reverie.
+
+... well,{w=0.2} you say 'reverie', {w=0.2}but really you were just staring forlornly at the metal girders in front of you.
+
+<no sprite> ?: My, my. Are you lost?
+
+<Mercy-smiling> Your eyes refocus on the source of the voice — an exceptionally professional-looking woman with a kind smile. {w=0.5}... a smile that may or may not be laced with the smallest trace of pity.
+
+Hm... {w=0.2}somehow, you feel like you've seen her before.
+
+INCONSEQUENTIAL CHOICE:
+
+1.) No, I just really like looking at fine metal craftsmanship.
+2.) Every corridor looks the same.
+3.) Yes, and I'm late for a meeting!
+
+INCONSEQUENTIAL CHOICE RESULT 1:
+
+> No, I just really like looking at fine metal craftsmanship.
+
+<Mercy-surprised> Z: ... 'fine metal craftsmanship'?
+
+N: She looks slightly taken aback at your strange answer, but gives you the benefit of the doubt anyway.
+
+<Mercy-smiling> Z: Well, you know what they say about precision Swiss engineering!
+
+N: You weren't exactly expecting her to reply so exuberantly, and in turn you're taken aback at her ability to roll with the punches.
+
+P: I, um. {w=0.5}They make fantastic girders?
+
+<Mercy-surprised> N: Immediately wilting at your pathetic reply, you're ready to turn tail and head right back to the transport ship that brought you here when the woman in front of you breaks into a peel of laughter.
+
+<Mercy-smiling> Z: Well... something like that.
+
+INCONSEQUENTIAL CHOICE RESULT 2:
+
+> Every corridor looks the same.
+
+<mercydefault> Z: Yes, there is a certain... {i]labyrinthine{/i} quality to the Headquarters, I do agree.
+
+<Mercy-smiling> Z: I'm sure you'll get used to it though! {w=0.2}Everyone does, eventually.
+
+INCONSEQUENTIAL CHOICE RESULT 3:
+
+> Yes, and I'm late for a meeting!
+
+<Mercy-surprised> N: Your panicked outburst is met with surprise, and for a moment, you wish you'd been slightly more tactful. {w=0.2}... and quieter.
+
+<Mercy-smiling> N: The expression on her face is only brief, however, and soon changes into something decidedly warm and reassuring.
+
+Z: Now, now. Getting worked up about it isn't going to help - {w=0.2}take a big, deep breath — 
+
+N: ...
+
+N: Oh, she's actually waiting for you to do it. {w=0.5}Embarrassed, you try to make a dramatic show of inhaling as per her instruction.
+
+Z: ... hold it for three seconds - {w=0.2}yes, that's good - {w=0.2}now, let it all out.
+
+N: You exhale heavily, and as you do so, you could swear that you feel some of the stress leaving your body. {w=0.2}That is, along with your dignity at this whole exchange.
+
+Z: Now, isn't that better?
+
+N: Having nothing else to say, you simply nod and try to ignore the heat furiously creeping up into your cheeks.
+
+—
+
+Z: So, then. {w=0.2}Can I help?
+
+N: You didn't want to be a bother on your first day here, but wandering around these linear corridors is helping no-one and you're already {i}late{/i} to your first assignment.
+
+P: I'm looking for the medical bay, but I can't seem to find it. {w=0.2}I'm to receive a briefing and begin active duty there today as a— 
+
+<Mercy-surprised> Z: {i}Oh!{/i} {w=0.2}You're {$PlayerName}?
+
+N: Wait... how does she know your name?
+
+P: Ah, yes!
+
+<Mercy-smiling> Z: You're the new cybernetic engineer, yes? {w=0.5}We've been waiting for you.
+
+N: Shifting from foot to foot, you wonder what jigsaw pieces you're missing here, because she obviously knows a great deal more about this entire situation than you do.
+
+P: 'We'? {w=0.2}Sorry, I'm completely lost.
+
+N: Extending her arm towards you for a handshake, you speechlessly take it as she grips it warmly.
+
+Z: I'm Dr. Ziegler, head of medical research here at the Overwatch taskforce. {w=0.5}It's a pleasure to meet you.
+
+N: Somewhere distant, you're pretty sure you can hear your jaw hitting the floor with an ear-splitting {i}thud{/i}. {w=0.5}That's where you knew her from - all those medical journals, some of which are required reading for your field.
+
+Queen of nanobiology, you'd poured over numerous journals during your time at university that had her name all over them — {w=0.2}written papers that cited her work.
+
+More shy of the spotlight than many of the other Overwatch taskforce members who were often seen in the front lines, you're not surprised you couldn't immediately put a face to the esteemed name, but now that you've connected the dots...
+
+Absently, you realise you're still holding her hand. {w=0.2} Releasing it like a hot iron, you search for words as you find yourself in the presence of yet another one of your heroes - {w=0.2}twice in one day.
+
+If Dr. Ziegler notices, she doesn't mention it. {w=0.5}Her expression does turn slightly more serious, however, now that the conversation had turned to work and your purpose ascertained.
+
+Z: Truth be told, you couldn't have arrived sooner. {w=0.5}Your expertise — and patience — is sorely needed, both for the taskforce {i}and{/i} your charge in question.
+
+N: You can't help but feel there's a tinge of sadness at the end of her sentence as she says 'your charge', as if there was some sort of personal investment in the case at hand.
+
+N: Looking at the datapad you're still holding in your free hand, the picture of the agent you'd been assigned to blurs into view once more.
+
+P: Agent... Genji Shimada, correct?
+
+N: There's a pregnant pause as Dr. Ziegler's brows furrow, and it's painfully evident at the mention of his name that she cares a great deal.
+
+<Mercy-sad> Z: He's... been through so much. {w=0.5}More than most of us could ever dream of.
+
+Z: To be destroyed and completely rebuilt into something new... his path to recovery was never going to be an easy one.
+
+N: She draws a deep sigh, and fixes you with a look so resolute you feel that she could compel you do just about {i}anything{/i}.
+
+Z: It's our job on paper to make sure he integrates into the taskforce as functional agent — but, moreover, it's our job {i}unspoken{/i} to make sure he can also recover physically and mentally.
+
+Z: He has more to reconcile than we will ever know, and all we can do is help.
+
+N: Nodding slowly in agreement, you meet Dr. Ziegler's eyes and see nothing but compassion. {w=0.2}You hadn't even met your charge yet, and the pain of the situation was already tangible — {w=0.2}were you ready for this?
+
+<mercydefault> Z: It'd be best if we got you down to the lab and give you a proper briefing before we get started.
+
+N: She turns heel and motions for you to follow, but she pauses before she does so, head cocking to the side to look over her shoulder— 
+
+Z: Your work will be incredibly trying, but incredibly important. {w=0.5}We're there to support you, just like we're all there to support him. Please don't forget that!
+
+<Mercy-smiling> N: ... and that reassuring smile returns as she walks off down the corridor. {w=0.2}Running a couple of steps to catch up, something twists slightly in your chest at the weight and responsibility now lying on you.
+
+N: For Dr. Ziegler, for the taskforce and for this 'Genji' — you'd do your best. {w=0.2}You swear you will.
+
+<<fade>>
+
+
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/MEDICAL LAB
+BG: Overwatch HQ - medical lab
+
+N: Half an hour later sees you in a very well furnished medical laboratory, a hot mug of tea in your hands as you sit at a briefing table with Dr. Ziegler and a number of scientists. {w=0.2}The tea had been Dr. Ziegler's idea, of course.
+
+Not that it wasn't welcome, by any means. {w=0.2}You'd jumped at the first chance to hole up in a warm room, shrug your snow jacket off and drink something warm.
+
+The reception so far had been very friendly, and the lab scientists had been nothing but welcoming towards you. {w=0.2}There were specialists of every kind imaginable —  nanotechnologists, surgeons, virologists — you name it.
+
+The Overwatch taskforce really did seem to be on the cutting edge of technology and medicine, and as you walked around each station being introduced to your now-colleagues, a decided sense of honour at being here had bubbled up into your heart.
+
+After the quick tour, a meeting had been called to brief you on your assignment — one that seemed to have involved most of the medical team at some point, if the crowded briefing room was anything to go by.
+
+Taking a small sip from your cup — a delicious brew of Lady Grey — the last specialist edges into the room and takes their seat, at which Dr. Ziegler smiles and leans forward on the table.
+
+<mercydefault> Z: Thank you all for taking time out of your busy schedules for this briefing. {w=0.2}I understand it was scheduled last moment and you all have important tasks to attend to, so your presence is appreciated.
+
+N: The respect that Dr. Ziegler commands in the room is palpable and {i}very{/i] impressive. {w=0.2}Her gratitude is met with a series of nods from her staff, none of whom seem to be outwardly troubled by being there.
+
+<Mercy-smiling> Z: To begin the meeting, I would like to welcome {$PlayerName}, our new cybernetic engineer to the staff. {w=0.2}{$Subject} joined us at very short notice, and we're lucky to have {$Object} with us on the team.
+
+N:  The announcement of your assignment to the lab is met with a round of polite applause, and you give a small smile back to the room in return.
+
+<mercydefault> Z: No doubt you're all aware why we needed a cybernetic engineering specialist on such short notice, so as not to mince words, I'll start the briefing.
+
+N: Dr. Ziegler reaches forward to a command pad on the desk and presses a button, causing the profile you'd received earlier to blip up on the conference screen. {w=0.2}The green-lit visor didn't give much away, that's for sure.
+
+Z: The patient in question here is Genji Shimada. {w=0.2}He was retrieved by our emergency response squad two months ago near one of our East Asian outposts, near death and profoundly wounded.
+
+Z: The majority of these wounds were severe lacerations incurred by a sharp bladed weapon, though this was never recovered at the scene by the response team.
+
+Z: As far as we could tell, the assailant either took the weapon with him after the assault or hid it for fear of recompense by the law. 
+
+Z: The patient also displayed second and third degree burn marks, the cause of which is still unknown and being investigated by our forensics team. {w=0.2}As I'm aware, no progress has been made on that front as of yet.
+
+Z: While our response team did the best that they could, several complications from the injuries he sustained meant that without serious intervention, he would eventually lose his life.
+
+Z: These complications included massive trauma to vital organs, extensive damage to the skin from the thermal burns, extreme loss of blood leading to hypovolemic shock, and eventually cardiac failure. 
+
+Z: At this point, we were undergoing round-the-clock surveillance while the patient relied solely on life support systems to survive. {w=0.2}That was when the taskforce came to an agreement with the patient to go to certain measures to ensure his survival.
+
+N: There's a quick pause in her briefing as if there's an internal conflict about whatever this 'agreement' was, but it's almost barely noticeable. {w=0.2}Except by you, it seems.
+
+<Mercy-downcast> Z: Our specialists then began the large task of using cybernetics and nanotechnology to rebuild the majority of the patient's body. {w=0.2}From the vital organs through to the epidermis, significant procedures were undertaken to repair and heal.
+
+Z: Due to the extent of the patient's injuries and the severity of his condition, not only was this series of procedures significantly traumatic on both a physical and mental level, but a lot of the techniques our team used to save him are experimental at best.
+
+<mercydefault> Z: It is almost unheard of to bring someone so close to death back to life with this amount of cybernetic reconstruction, and because of that, our journey as engineers and medical practitioners is only beginning.
+
+Z: Not only is it critical that we ensure the continued safety and well-being of the patient, but also to document this entire process in the proper fashion for future research. {w=0.2}A lot of the techniques employed will be significant to medical journals.
+
+Z: This documentation may even save more lives in the future, which is — as always — our mission.
+
+Z: And, that brings us to our current stage of the patient's recovery. {w=0.2}The commander has requested he be ready for active service as soon as possible, but due to the nature of this trauma, the rehabilitation period is still ongoing.
+
+<Mercy-smiling> Z: And, that's where our new addition {$PlayerName} comes in. {w=0.2}As a specialist cybernetics engineer, {$Subject} will be assigned to the patient full-time, beginning from today.
+
+<mercydefault> Z: This is to assist with the maintenance of the new implants, as well as keep tabs on the physical and mechanical health of the patient. {w=0.2}{$Subject} will also be responsible for running checks to clear him for duty on the taskforce.
+
+N: Finished the meat of her briefing, Dr. Ziegler lets out a breath you didn't know she'd been holding.
+
+Z: I don't need to remind you, but please do consult with each other if issues arise that require help. {w=0.2}{$PlayerName}, please feel free to find me if there are any significant medical issues, or call me on the comms device.
+
+P: Understood.
+
+<Mercy-smiling> Z: Well, then! I know that was a lot to take in, so are there any questions?
+
+N: The rest of the team is comfortably silent, probably because they're well up-to-date with all this already. You're the new variable, and so far? It all seemed fairly straightforward.
+
+N: ... even if it wasn't exactly what you originally thought being recruited as a cybernetics specialist here would entail, anyway.
+
+Z: So, {$PlayerName} — what are your thoughts? {w=0.2}Are you ready to begin?
+
+N: Wanting to make somewhat of a good impression on your cohort, you give a confident smile and nod decisively towards your new superior. {w=0.2}You were {i}born{/i} ready.
+
+P: Yes, of course. {w=0.2}I'm excited to get to work!
+
+<genjidefault> black silhouette pls ?: Excited...
+
+N: An unfamiliar, accented voice with the slightest mechanical tinge sounds from the back of the room as it repeats you, prompting almost everyone to turn around at the newcomer. 
+
+Standing right by the door, he must've entered while everyone else had been absorbed in the presentation — and it's not very hard to tell that this is the 'patient' in question, his profile undeniably the same as the one on your datapad.
+
+Just how long had he been standing there...?
+
+<genjidefault> sprite fades in G: I am glad that {i}one{/i] of us feels 'excitement'.
+
+N: The reply is cold, but not because it had come from a cybernetic shell. {w=0.2}The green glow of the visor seems to pierce through you from the other end of the room before he turns and leaves just as quietly as he'd entered.
+
+<Mercy-surprised> The twisting sense of morbid embarrassment at your chosen words claws at your stomach as an uncomfortable blanket of silence falls over the briefing room. {w=0.2}Even Dr. Ziegler hadn't noticed his arrival — that much was apparent by her own expression.
+
+<Mercy-downcast> Z: Oh, dear...
+
+N: If that gaping chasm could tear the HQ apart and swallow you up whole right now? {w=0.2}Yeah. That'd be good.
+
+P: I'm really sorry— I didn't mean it that way at all. {w=0.2}I simply meant I— 
+
+<Mercy-sadsmile> Z: I know what you meant. Don't fret.
+
+Z: This is where acceptance will be important. {w=0.2}He's still adjusting to essentially an entirely new self— so there may be, how do you say... 'bumps in the road' at the beginning.
+
+<Mercy-smiling> Z: Please do bear with him. {w=0.2}He's a surprising person in many respects.
+
+P: Of course. {w=0.2}I'll do my best.
+
+N: This seems to please her on a deeper level, and you're greeted with a warm smile in return.
+
+Turning back to the packed briefing room, the doctor beams just as generously at them all as if the previous awkwardness had never happened, and the lift in tension is almost palpable. 
+
+Z: This concludes our preliminary briefing. Please return to your tasks — and we'll talk again at the next check-in.
+
+N: There's a rumble of hubbub as chairs squeak on the floor, papers are picked up and people talk amongst themselves as they leave, quickly emptying the briefing room of everyone but you and your new boss.
+
+As you glance from your now-cold tea back towards her, something softens in her expression as she rises from her seat and gently places her hand on your shoulder.
+
+<Mercy-sadsmile> Z: Come. {w=0.5}I'll introduce you properly.
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/GYM
+BG: Overwatch HQ - gym/rehab area
+
+N: Dr. Ziegler seems to know exactly where to find your new charge — and whether it's from personal experience or just a doctor's intuition, you're not sure. 
+
+It's very much obvious that she does genuinely care about his wellbeing, though. {w=0.2}Perhaps more than a standard patient, even, from what little you'd read into her reactions so far today.
+
+The sun is setting in the cold sky as you both enter the welcome warmth of what seems to be a gym area. {w=0.5}Weights litter the floor, treadmills are humming in the background, and despite the time the place seems fairly alive.
+
+Overwatch personnel of all types seem to be doing various training all around you — all of whom seem {i}very much more{/i} in shape than you could ever hope to be.
+
+Peering around the large complex, you make a futile effort to try and spot your charge amongst all the activity. {w=0.2}Luckily, Angela is far ahead of you and is already making her way over a secluded, deserted corner of the room.
+
+Deserted that is, apart from one significant individual.
+
+Hastily chasing her at her heels, you're one step behind her as she approaches Genji. {w=0.2}The man is sitting hunched over on a weights bench, a dumbbell gripped in his right hand.
+
+Despite the weight seeming fairly light — only two kilograms or so, if the label on the weight was anything to go by — he appears to be having trouble doing a bicep curl.
+
+When he senses you both approaching, you swear you could feel the temperature of the room drop several degrees. {w=0.2}Visor aside, one thing you're sure of is that he certainly doesn't need facial expressions to communicate.
+
+As for his exercise, he doesn't stop what he's doing on your account. {w=0.2}In fact, he seems to be trying to ignore the welcome guests entirely.
+
+<Mercy-smiling> Z: Genji! {w=0.5}How are we feeling today?
+
+N: As always, her voice is nothing but genuine kindness, but she's not met with a reply. {w=0.2}Just more bicep curls.
+
+Either way, Dr. Ziegler doesn't seem discouraged.
+
+Z: As I'm sure you remember, you were briefed last week on the specialist that was being sent to assist in your recovery. {w=0.2}I'd like to do the honour of introducing you two properly, considering you'll be working closely with each other from now on.
+
+Z: {$PlayerName}, this is Genji. {w=0.5}Genji, please meet {$PlayerName}, an exceptional cybernetics engineer who arrived just today.
+
+<genjidefault> N: The curls continue, though under your unusually watchful gaze, you notice that the small trouble he'd been having lifting the weight is increasing. {w=0.5}Is he that stubborn that he's putting on a show to ignore you both?
+
+The dark beige cybernetic musculature, still glossy from being newly applied, seems to be almost unable to handle the pressure — and unknowingly, you begin to frown.
+
+Whether it's at being ignored or out of concern for the ramifications of straining his engineering... {w=0.5}well, you're not quite sure.
+
+Taking on a more mothering tone, your new superior doesn't seem to be giving up.
+
+<mercydefault> Z: {$Subject} will be assigned to you full-time from this moment on. {w=0.2}I'm formally conveying the orders now, and expect you both to communicate between yourselves and with the rest of the medical staff at the appropriate junctures.
+
+N: There's no change in Genji's body language, so you try to offer an olive branch to make up for your bungling of the situation earlier.
+
+P: It's an honour to work with you, agent. {w=0.5}I'm looking forward to— 
+
+N: Unfortunately, your polite words are abruptly cut off by Genji's metal-clad hand shaking and suddenly dropping the weight from his grip. {w=0.5}The large room seems to echo emptily as it hits the floor with a loud {i}clang{/i}, drawing some attention.
+
+<Genji-pain> G: Ugh...!
+
+From what you can see, the musculature seems to be contracting repeatedly and painfully — and indeed, your charge's form seems to have tensed significantly. {w=0.5}An overexertion, or nervous rejection from overstimulation?
+
+Professional experience kicking into gear, you drop to a knee next to his side and take a closer look at the bicep rig. {w=0.5}Without thinking, your hands reach out and touch the fibre with the expressed intent of applying pressure to the correct circuit.
+
+Not a lasting fix, but one you were sure would reduce his immediate pain, nonetheless. {w=0.5}If the fibrous circuits were pressured in the right way and electric signals interrupted, it would give relief from the muscular contractions.
+
+The strong, soft fibre is cold to your touch — surprisingly cold, though you're not quite sure what you were expecting with a man that had been almost completely rebuilt into machine.
+
+However, the moment your fingers connect with the fibre he gets up so quickly it's almost like he's been {i}burned{/i}, glaring down at you on the floor. {w=0.2}His other arm cradles the one suffering the contractions, which don't seem to be stopping.
+
+Again, no facial expressions needed. {w=0.5}You're being directed a glare with the burning force of a thousand suns, and you can feel it so intensely the hairs on the back of your neck are standing up on end.
+
+<Genji-angry> G: Honour? 
+
+G: You know nothing about {i}honour{/i}.
+
+N: His voice sounds strained, and this only amplifies your concern. {w=0.5}You can only imagine the agony his muscular circuitry must be causing him, and despite his coldness, all you really want to do is {i}help{/i}.
+
+After all, that does seem to be your job now, whether either of you liked it or not.
+
+<Mercy-surprised> Z: Genji— you're in pain. Let {$Object} help, {i}please{/i}.
+
+N: It almost comes out as a plea, because you're sure she can feel it too.
+
+<Genji-angry> G: I do not require your help, {$Possessive} help, nor anyone else's. 
+
+G: Do us both a great favour and keep your distance from me.
+
+N: ... and he's gone again, leaving you on one knee on the floor and causing most of the gym to look down at you in quizzical silence. 
+
+With a sigh, you get up and you're not really sure what to make of the situation. {w=0.5}You're tired, jetlagged, hungry — you've been flown around, lost, found, introduced to many colleagues and assigned to an impossible task, all in one day.
+
+Dr. Ziegler seems to sense this encroaching fatigue and shakes her head gently.
+
+<Mercy-downcast> Z: Perhaps I should not have pushed either of you so far on the very first day. {w=0.5}I understand it has been long.
+
+P: That's not it.
+
+P: Well, it {i}has{/i} been a really long day — but I don't think that's really the problem here. 
+
+<mercydefault> Z: Well, then. {w=0.2}In your professional opinion, what is the problem?
+
+N: You'd feel flattered being asked your 'professional opinion' by one of your academic heroes if your knees didn't feel like giving out from under you after the day you'd had.
+
+P: In my professional opinion, he's going to need to cooperate with me otherwise there's no telling the side effects. {w=0.5}He already seems to be putting his cybernetic musculature under more pressure than it should be at this stage, and—
+
+Z: I understand. {w=0.5}As a doctor, gaining the trust of your patient to keep their safety and wellbeing in the palm of your hand is often one of the hardest tasks you'll face.
+
+Z: But, I do ask you this...
+
+<Mercy-sadsmile> Z: What would you do if you were in his position?
+
+P: I...
+
+N: You don't really have an answer for that, because you don't know. {w=0.5}{i}You're not a doctor,{/i} you repeat over and over in your mind like a mantra. {w=0.2}Cybernetic systems always seemed like puzzles to be solved for you.
+
+But confronted with this scale and complexity — it's just now dawning on you that it seems to be much more than that.
+
+What {i}would{/i} you do, if you were rebuilt from scratch?
+
+Your loss for words is met with understanding from Angela's part as the gym whirs back into life following the dramatic scene, thankfully.
+
+You feel like an idiot.
+
+Z: Go now and rest— I'll see to him tonight. {w=0.5}As for tomorrow, I'll ask him to report to your office in the lab at 1000 hours to go over a rigorous testing schedule with you both.
+
+P: Understood.
+
+N: To be honest, you've never felt more ready to be dismissed in your life. {w=0.5}The cumulative emotional and physical exhaustion of the day is catching up to you quicker than you could say, and once you find your bed, you're going to marry it.
+
+Then, you're going to forget about all the naive things you said out loud in the short course of one day on the job.
+
+<Mercy-smiling> Z: Don't worry too much. {w=0.2}If you frown like that, your face will stay that way forever. {w=0.5}Dismissed!
+
+N: Leaving you behind in the gym, slightly perplexed by the terrible joke, you glance down at the dropped dumbbell at your feet.
+
+Gently picking it up, you can feel your own {i}very real{/i} muscles and sinew strain as you return it to the rack — and as you follow Dr. Ziegler's suit and make your way outside to your quarters, a thought suggests itself;
+
+... what makes yours any more real than his own?
+
+<<fade>>
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/HALLWAY
+BG: Overwatch HQ - hallway
+
+N: Wiping sleep away from your eyes, you blearily head towards the medical lab at a pace a snail would sneer at.
+
+The jet lag and full-on first day had been more taxing than you'd expected, and once you'd crawled into the bed in your new quarters, you'd fallen into a deep, satisfying slumber.
+
+One that was interrupted all of half an hour ago by your alarm, that is. {w=0.2}An alarm you may have put on slumber one too many times.
+
+Having quickly showered, dressed and made yourself look presentable, there was no time to seek out the cafeteria for some form of lunch — and instead, you're heading straight to your office and the meeting Dr. Ziegler had scheduled for 1000 hours.
+
+Stifling a yawn as you turn a corner into the bustling people traffic of the HQ, you merge into it like a zip rather than stumbling blindly around like yesterday. {w=0.2}Some small measure of fitting in, perhaps.
+
+As for what waited you in your office, well... {w=0.5}that was anyone's guess, much less yours.
+
+Your interactions with your charge so far hadn't been stellar, and you know you've already put your foot in it. {w=0.5}{i}Twice.{/i}
+
+Still, there was something compelling about the task on many levels — not just from the professional standpoint of working on cutting edge cybernetic technologies, but... there was something else, too.
+
+Something that someone running on a deficit of jet lagged sleep couldn't define eloquently, anyway.
+
+Trying to ignore the protesting rumbles of your empty stomach, you decide that today, you're going to put your best foot forward. {w=0.2}Clear up any misconceptions. {w=0.2}Create a stable working partnership.
+
+If your charge was an Overwatch agent, then at least he'd be cooperative with you. {w=0.2}Right? {w=0.2}Right.
+
+Reaching the entrance to the medical lab, you absently congratulate on not getting completely, utterly lost, and then slip in, somewhat prepared to face the day.
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/MEDICAL LAB 2
+BG: Overwatch HQ - medical lab
+
+N: The lab is alive with activity when you walk in at 0945 hours — admittedly, rather late for the start of a working day. 
+
+Assistants running to and fro with data pads and lab results, various assorted doctors and scientists seated at desks and pouring over work in Very Important Looking labcoats. {w=0.2}Everyone seemed to have a passionate purpose for their being there.
+
+Running a hand through your hair and discovering that the cold wind outside had messed it up to a ridiculous state, you hurriedly pat it down and scan the room, trying not to look too conspicuous.
+
+Luckily, everyone was so knee-deep in their work, they didn't seem to notice your momentary hair mishap. Bless.
+
+From a cursory glance, you can't seem to spot Dr. Ziegler — but the meeting doesn't start for another fifteen minutes, so she's probably engaged with something far more important.
+
+Walking down the steps into the main section of the lab, you give some small waves and smiles to those colleagues you were introduced to yesterday as you make your way through the room. 
+
+At least, those that were able to look up from what they were doing.
+
+Entering a short corridor littered with doors to the left of the lab, you bring yourself to the one you were shown before the briefing yesterday and your eyes are drawn to the freshly applied plaque at perfect eye-height.
+
+To see your name so officially displayed next to your office fills you with determination, something you're almost certain you're going to need to survive the day sans breakfast and coffee.
+
+A small smile tugs at your lips as you press your keycard to the lock and with a pleasant {i}beep{/i}, are let into your new professional digs.
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/MEDICAL LAB 3
+BG: Overwatch HQ - player's office [medical lab]
+
+N: It's not the biggest, fanciest office to grace the face of the Earth. {w=0.2}Rather, you appreciate the humble nature of the room you've been assigned.
+
+A couple of work stations, along with a bench specifically fitted for working on cybernetic equipment. {w=0.2}Some no nonsense, but decidedly ergonomic chairs. {w=0.2}A storage locker.
+
+Even though you'd brought your own tools with you to the HQ, you've been provided with an impressive array of new ones that waited for you proudly on the workbench in a titanium case, emblazoned, of course, with the Overwatch logo.
+
+You hadn't had the chance to look at them yesterday, but curiosity gets the better of you now — new tools to an engineer is like a blank book to a writer. {w=0.2}Exciting and compelling, all in the right measures.
+
+Slipping your keycard into your pocket and your heavy snow-jacket on the back of the chair in front of your workstation, you pause for an almost reverent breath before you press your thumbs into the clips holding the case closed.
+
+It pops open with a very satisfying {i}click{/i}, revealing a wondrous spread of tools both familiar and alien. {w=0.2}Things you'd only seen described as experimental in engineering journals now sat in precision-packed foam, right in front of you.
+
+After the proper amount of gawking, you gingerly take one of the pen-sized lasers out from the case, turning it over with your hands and admiring the handiwork. {w=0.2}The things that you could do with this.
+
+The geeking out continues in this fashion, and you lose track of time picking up and feeling every tool in your own hands. {w=0.5}That is, until a single knock echoes from your door, startling you into dropping a scalpel to the floor.
+
+Luckily missing hitting any fleshy part of yourself, you let out a sigh at your own clumsiness and bend down to pick it up, glancing at your watch as you did so. {w=0.2}{i}1005 hours.{/i}
+
+P: Yes, come in!
+
+N: After a couple of moments, you begin to wonder if you'd imagined the knock or not — after all, you had been completely immersed in fawning over cutting edge cutting implements, that much was for sure.
+
+<genjidefault> <fade in portrait> However, the door eventually opens to reveal that same piercing green visor that had stared you down across from the briefing room yesterday. {w=0.2}Silently, the agent walks into your office, selects a chair and sits down on it. {w=0.2}Okay.
+
+Putting the scalpel hurriedly back into the holding case, you turn to where he sits, arms crossed. From his body language (and, of course, your short list of previous experiences) — you're pretty sure he's not going to be up for small talk.
+
+Still, Dr. Ziegler wasn't here yet, and you can feel an awkward tension threaten to settle on the room if the situation is allowed to continue without some sort of intervention. 
+
+So, you put on your best jetlagged smile and turn to him, leaning against your workbench.
+
+P: Good morning, Genji.
+
+N: Nothing.
+
+Oh, wait — was that even how you were supposed to refer to him? {w=0.2}What if you were being monumentally rude? {w=0.2}It was a well known fact that Overwatch is a diverse organisation, so perhaps there's a cultural cue you're missing here.
+
+P: Um. {w=0.5}Am I allowed to call you Genji? Or is there something you'd prefer?
+
+N: Still no reply.
+
+You're pretty sure you can't even tell if he's breathing or not, and whether that's an inherited skill of being able to control your body to a precision only advanced cybernetics could achieve, or simple stubbornness... well. {w=0.2}Who knew.
+
+Either way, no reply, no contest. {w=0.2}You're just going to run with it.
+
+P: Okay, Genji it is, then!
+
+G: ...
+
+P: How's your morning been? 
+
+G: ...
+
+N: Your inner mind screams at Dr. Ziegler to come in and interrupt the most awkward, one-sided conversation you think you've ever had.
+
+But you're in so deep now, you can't quit. {w=0.2}It's like watching a train wreck.
+
+P: I'm still pretty jetlagged. {w=0.2}I think the altitude isn't helping, either... it's my first time up here in Switzerland, and it's really quite a big change.
+
+G: ...
+
+P: It's also really cold. {w=0.5}Like, really cold.
+
+N: You can almost {i}hear{/i} him sneering at you, and who could really blame him with this conversational gold?
+
+Inwardly panicking, you try to turn it towards work instead as your stomach flips over in tension. {w=0.2}That was the one thing you had in common, after all.
+
+P: How are you feeling after yesterday? {w=0.5}How's your arm?
+
+N: Your mind drifts back to the incident in the gym with the dumbbell, and your question seems to elicit at least {i}some{/i} response from the man sitting in front of you.
+
+<Genji-angry> G: Tch.
+
+G: You must be mistaken. {w=0.2}There was no issue to begin with.
+
+N: He speaks coldly, much like the conversations from yesterday. {w=0.2}The tone is unmistakable above the modulator interference, and despite having a cybernetic shell, it did nothing to hide his human emotions.
+
+Still, you know you have to work with him. {w=0.2}Maintaining the systems that now kept him alive was your sole job, and whether he wanted to be stubborn or not was immaterial. 
+
+After Dr. Ziegler's pointed question last night — {i}'if you were him, what would you do?'{/i} — some thoughts had crossed your mind before you had succumbed to the sweet embrace of sleep you'd been deprived of.
+
+Yes, you can respect this is difficult for him. {w=0.5}That in itself is more than understandable, given the circumstances.
+
+But you're literally here for the sake of his own wellbeing, and if he didn't like you because of that — well, so be it. {w=0.5}You'll try to be understanding, but no amount of stubbornness would keep you from carrying out the task you were brought here to do.
+
+P: Really?
+
+P: Then you won't mind me taking a look at it, then.
+
+G: Like I said. 
+
+G: You must be mistaken.
+
+P: From where I'm standing as your cybernetic engineer, I don't think I'm mistaken.
+
+P: The muscular fibre of your arm was showing significant strain, even {i}overload{/i} at the force of exertio— 
+
+N: Standing up from his chair with a speed and grace that is decidedly inhuman, you're cut off mid sentence as he strides over to meet you toe-to-toe — and you're forced to look up slightly to meet the green glow of his visor.
+
+He's only inches away, and the inability to read his expression is slightly unnerving.
+
+G: Please don't fool yourself into thinking I am here of my own will.
+
+G: Rather, I am here because it is required of me to fulfill my duty to the taskforce, and because Dr. Ziegler requested it.
+
+G: I do not need your input on what is 'right' and 'wrong' — though, to think of it, I do not need your input at all.
+
+G: You know not of what you talk about.
+
+N: The hairs on the back of your neck bristle at his tone, and even {i}you{/i} can't let that slip. {w=0.2}This is your duty, as well as your job. A job you {i}know{/i} you're pretty damn good at.
+
+CONSEQUENTIAL CHOICE:
+
+1.) Actually, I beg to differ. I'd argue that I know a {i}great deal{/i} of what I'm talking about. (0)
+2.) That's no way to talk to your colleague! (-0.5)
+3.) I'm sorry. I overstepped my boundaries. (1)
+
+CONSEQUENTIAL CHOICE RESULT 1:
+
+> Actually, I beg to differ. I'd argue that I know a {i}great deal{/i] of what I'm talking about.
+
+P: Why else do you think the taskforce would've asked me to come here and be assigned to you?
+
+G: Please.
+
+G: Even you must realise that you are nothing more than a glorified watchdog.
+
+N: Both your voices are slowly rising in volume, to the point where the argument is probably audible through the thin door of your office now. 
+
+You're in the thick of it, though, and barely notice it — the nerve that he has to say some of these things is unbelievable.
+
+P: A {i}watchdog?{/i}
+
+P: Without the engineers here, you would never have survived the accident that brought you here in the {i}first[/i} place.
+
+P: Do you think it's appropriate to label them as 'dogs', too?
+
+N: And, perhaps that comment struck a nerve or went a little too far, because before you can even finish your sentence, Genji steps forward with an impressively swift motion, metal cased hand punching into the wall right past your face as you take a step back.
+
+As he leans in, you could swear you see the visor light flicker as your heart races in your chest. {w=0.2}When he speaks again, it's with a voice of dangerous quiet;
+
+G: Do you think it is appropriate to label this {i}'surviving'{/i}?
+
+CONSEQUENTIAL CHOICE RESULT 2:
+
+> That's no way to talk to your colleague!
+
+P: We have to work together, so the sooner you can accept that I'm here for a reason, the easier it will be for both of us.
+
+N: You're met with an empty, hollow laugh that sends chills down your spine - the tone just as cold as his barbed words.
+
+G: {i}Easy.{/i} {w=0.2}Spoken like a true child.
+
+G: You must be more naive than I thought if that is what you truly believe of this situation.
+
+CONSEQUENTIAL CHOICE RESULT 3:
+
+> I'm sorry. I overstepped my boundaries.
+
+P: I didn't meant to offend you, if that's what I did.
+
+N: Drawing in a deep breath, neither of you move an inch and the tension threatens to choke you as your words get stuck in your mouth.
+
+P: I merely mean that... I'm here to help. {w=0.2}I'm concerned for your wellbeing.
+
+N: You're sure you can hear a 'tch' underneath his breath as the green visor flickers slightly. {w=0.2}It seems as it he hadn't expected you to apologise, but that doesn't mean he's any less sharp with his words.
+
+G: Please, do not feign concern to win favour. {w=0.2}You barely know who I am, much less {i}what{/i} I am.
+
+
+
+N: Mind racing to come up with a reply to such a statement, you find that you're utterly lost for a response. Luckily, at exactly the moment, you hear your office door swing open and like an angelic valkyrie herself, Dr. Ziegler appears.
+
+Vaguely, you realise that you're still standing toe to toe with Genji, whom at the doctor's entrance immediately straightens up. 
+
+Must've looked a little suspicious to say the least, and nothing seems to escape her watchful gaze.
+
+<mercydefault> Z: What is going on in here?
+
+P: Nothing.
+
+<genjidefault> G: ...
+
+N: Perhaps you'd offered that reassurance a little {i}too{/i} eagerly as Dr. Ziegler raises an eyebrow at you both, a calm, concerned expression on her face.
+
+No reply at all is offered from your new partner, who simply stands there in stoic silence. Crossing his arms over his chestplate, he leans against your workbench in nonchalance and remains quiet.
+
+Z: Well, good. {w=0.2}It would be awful to see two new partners fighting on the first day of their new assignment.
+
+<Mercy-smiling> Z: Plus, it would be awful to have to refer such people to the Commander for such conduct. {w=0.2}I'm so glad you're getting along!
+
+N: A shiver runs down your spine at her smile.
+
+What a fearsome lady, indeed.
+
+<mercydefault> Z: So, shall we begin? {w=0.2}I try my best to keep my meetings short - time spent away from the lab is time spent away from research.
+
+N: Nodding, you hesitantly move past Genji to sit down at your new desk for the very first time. Still an alien feeling, but then again, much of what has just transpired feels alien to you.
+
+Dr. Ziegler neatly takes a seat on the other side of the desk, allowing plenty of room for Genji to be part of the conversation unobstructed. {w=0.2}Again, completely unspoken, but the concern she seems to have for him continually shows through.
+
+Were they friends? {w=0.2}Well, that would be anyone's guess, with Genji's icy demeanor.
+
+But still... they seemed to share something more than a simple doctor-patient relationship. 
+
+Z: I called you both here to go over the rehabilitation and exercise plan for Genji's recovery, which will begin immediately.
+
+Z: Of course, I welcome any input from an engineer's perspective on what is possible and what isn't - and for you, Genji, if it isn't to your liking.
+
+G: I do not need to repeat the fact that 'rehabilitation' is unnecessary.
+
+Z: If it isn't to your liking, {i}within reason{/i}. 
+
+N: She doesn't miss a beat, and despite visibly disliking what is being said, somehow Dr. Ziegler gets to remain in one piece after her curt reply. 
+
+Inclining her head slightly to look at the agent, there's a certain motherly tone that creeps into her voice.
+
+Z: We've already discussed this with Commander Morrison. {w=0.2}He requires assurance from every angle that you're fit for duty on the taskforce after so many consecutive procedures - please understand.
+
+Z: We want what's best for you, and what's best for Overwatch. 
+
+G: ...
+
+N: Not waiting for the response that she knows will never come, the doctor then turns back to you and hands over a datapad. {w=0.2}Taking it gently, you activate it and scroll down what is a very detailed list of exercises and physiotherapist appointments.
+
+Z: I recommend what's written there. {w=0.2}Initially, I believe physiotherapy is the best place to start - easy, repetitive exercises that can attune the muscle fibres and prepare them for further exertion.
+
+P: Hm... I agree.
+
+I've seen physiotherapy used to help acclimate patients to cybernetic enhancements from time to time, but that's usually for a single limb - not for an entire body.
+
+N: Your eyes drift to the agent in the back of your office, and you realise he's silently watching you. {w=0.2}Quickly shooting your gaze back to the datapad, you scroll further.
+
+Z: Once the physiotherapy has proven the durability and strength of the muscles, strength training would be more appropriate. 
+
+Z: Genji, this is important not only for us to monitor the strengths and capabilities of your body, but also for you to realise your new limits.
+
+Z: They are not what you were used to before.
+
+G: Indeed, I have tested many new limits already.
+
+N: The somewhat sarcastic yet completely level reply indicates those limits were not pleasant to tempt. {w=0.2}For the briefest moment, you feel a pang of sympathy shoot through your heart despite the day so far - so much must be unimaginable.
+
+<Mercy-smiling> Z: This training should come easy to you, then. {w=0.2}Trust me.
+
+Z: You're already an accomplished and valued agent, and you're in the best engineering hands in the organisation.
+
+N: Somehow, you doubt that Genji shares that opinion of you, but it's nice that the doctor is so confident in your ability.
+
+<mercydefault> Z: If you work together, I'm sure that within a couple of weeks, you can finish the training regime and be cleared for active duty.
+
+Z: I know you're itching to get out of the base, and the Commander has left me {i}multiple{/i} reminders that you're very much needed in the field. 
+
+Z: So, think of this as a goal - the quicker you collaborate, the quicker you get to stretch your legs. 
+
+G: ...
+
+N: If you could read anything into his expressions at all, you'd almost think he was considering it. {w=0.5}Dr. Ziegler truly is a miracle worker, just like all the news reports had said.
+
+P: Just to clarify - I'm to be present at all of these scheduled sessions?
+
+Z: Correct. {w=0.2}You are considered partners both on base and in field until further notice - so please make sure you're present at all these appointments, along with your equipment.
+
+P: Understood. I'll be there.
+
+Z: Well, then - it looks as if we're done here, unless there's anything you'd like to add?
+
+P: I'm fine from my side!
+
+G: ...
+
+N: Still no reply from Genji, but at least it's not a cutting edge remark about your ineptitude. {w=0.2}Even if he's following the carrot Dr. Ziegler is dangling in front of him, at least it sounds like there's a silent agreement between you two.
+
+<Mercy-smiling> Z: Excellent! {w=0.2}Then you are both dismissed. I do believe that the first appointment begins tomorrow at 0800 in one of the training rooms - the physiotherapist will be there briefly, but will largely leave you to your own devices.
+
+Z: I know that privacy is important to the healing process, so I have specially arranged it to be so.
+
+Z: In the meantime, I suggest you both prepare for the next two weeks so that you're ready to approach the journey with enthusiasm and professionalism.
+
+N: Getting up from her seat, the doctor smiles at the both of you as she takes her leave. {w=0.2}Unsurprisingly, Genji moves to walk out straight after her.
+
+Dr. Ziegler's pep-talk still in your mind, you try to offer an olive branch and call out to him as he leaves.
+
+P: I'll see you tomorrow...!
+
+N: ... but you're met with your door shutting.
+
+It certainly looks like it'll be a journey for the both of you.
+
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/MESS HALL
+BG: Overwatch HQ - Mess Hall
+
+N: You spend the day agonizing over paperwork and setting up your office for cybernetic work, having taken Dr. Ziegler's words to heart about being prepared for the coming fortnight. 
+
+It's fairly late when your eyes drift to your computer clock and see that it's nearing 1900 hours, and simultaneously your stomach rumbles embarrasingly loudly in protest at the lack of being fed. 
+
+That's right - you'd even skipped breakfast and compulsory coffee this morning since you'd been in such a rush to get to your meeting with Genji and Dr. Ziegler.
+
+Now realising the true ravenous nature of your appetite, you finish up in your office and drag yourself down to the mess hall for what is surprisingly the first time since you'd come to the headquarters.
+
+What's more, you don't even get lost {i}once{/i}.
+
+The mess is still buzzing with activity despite the hour when you arrive, officers, scientists and personnel animatedly talking over food and drink at long tables. 
+
+To the right, there's a buffet of food for whichever hungry soul walks through the door - in this case, you and your bottomless stomach - and you immediately gravitate towards the inviting looking spread.
+
+There's something for everyone, almost - salads, foods laden with carbs and protein for those doing more physical training and work, desserts. {w=0.2}You realise you're drooling just at the thought of eating half of the things in front of you.
+
+Taking a tray, you peruse the selection for scant moments before hastily stacking your plate with a fervor reserved for those who hadn't eaten for a day and a half.
+
+Finishing up, you scan the room briefly for somewhere to sit as you meander over to the tables. There's no unoccupied table, and despite your fatigue, the pepped up side of you points out that perhaps, this is a good opportunity to meet some other coworkers.
+
+Eyeing what seems to be a table of scientists, you move over to one end where a woman in a thick snow jacket seems to be enjoying her meal, and indicate gently to the empty seat opposite her.
+
+P: Is this taken?
+
+<meihappy> M: No, not at all! {w=0.2}Please sit with us.
+
+P: Thanks!
+
+N: Sliding into the seat, you put down your laden tray on the table, full to the brim with...
+
+INCONSEQUENTIAL CHOICE:
+
+1.) An insane amount of donuts and strudels.
+2.) A literal mountain of spaghetti and meatballs.
+3.) Soup and at least five kinds of bread.
+
+INCONSEQUENTIAL CHOICE 1:
+
+> An insane amount of donuts and strudels.
+
+N: You can feel the woman's eyes on your meal as you realise that you failed to collect any proper dinner food at all from the buffet, but rather, stocked up on every powdered pastry you could get your hands on.
+
+Cheeks heating up, you attempt to divert attention from your embarrassment by clearing your throat quietly and picking up a chocolate frosted donut.
+
+If you stuff it in your mouth quick enough, perhaps you won't add insult to injury by saying something idiotic from being so tired, so you do just that. {w=0.2}Donut, meet mouth.
+
+It seems as if your dinner partner realises your shame, and offers you a genuine smile accompanied by a bright laugh.
+
+M: I have dessert for dinner sometimes, too! {w=0.2}My favourite night is chocolate pudding night.
+
+N: And somehow, magically, all your dinner insecurity melts away, just like the tasty, sugared dough you stuffed into your face.
+
+
+INCONSEQUENTIAL CHOICE 2:
+
+> A literal mountain of spaghetti and meatballs.
+
+N: You can feel the woman's eyes on your meal as you realise that you've picked up such a huge amount of spaghetti that it'd be more suitable for a family of three than you alone.
+
+The combined effect of severe hunger and fatigue of getting through your first full day must've clouded your portion judgement, and in response, your cheeks heat up a little in embarrassment as she glances up at you.
+
+Her expression is a warm one, and she shoots you an easy smile. {w=0.2}Phew.
+
+M: You know, I had never tried 'spaghetti and meatballs' before I came here.
+
+M: For some reason, it's a favourite at this base! {w=0.2}You're fitting right in.
+
+N: And with just those few words, you feel more at ease than you have all day.
+
+INCONSEQUENTIAL CHOICE 3:
+
+> Soup and at least five kinds of bread.
+
+N: You can feel the woman's eyes on your meal as you realise that not only have you picked up a gargantuan helping of pumpkin soup, but an impressive pile of bread rolls as well.
+
+Certainly more food than one person could ever need for one meal, but as soon as you entered the mess hall, you've been thinking with your stomach instead of anything more... sensible.
+
+Cheeks heating up a little as the woman across from you giggles a little at your soup predicament, you try to act nonchalant by picking up a spoon and stirring the soup in front of you. {w=0.2}Yep. {w=0.2}All intentional.
+
+M: There's nothing better than hot soup on a cold day!
+
+M: That means every day is good for soup up here. {w=0.2}Hehe.
+
+N: Her smile is so infectious, you forget about the embarrassment of your hulk-like portion size and the edges of your mouth curl up in a grin.
+
+—
+
+<meidefault> M: Actually, I don't think we've met! I'm Mei. {w=0.2}Pleased to meet you!
+
+N: Oh, lord - no, you're not going to ask yourself if this is {i}the{/i} Agent Frostbite. {w=0.2}You already know the answer, and perhaps it's safe to start assuming these things now.
+
+P: I'm honoured! Really, I love your work from what I've seen - I mean, I'm not a climatologist or geologist, but -
+
+P: ... ah, sorry. Got a little carried away.
+
+N: You laugh quietly, wishing you could stuff your entire plate into your face if it'd stop making you say idiotic things to one of the leading climate change researchers on the planet.
+
+{i}Oh, right.{/i} Name.
+
+P: Oh, and I'm {$PlayerName}! It's... been a long day.
+
+N: Your banal ramblings don't seem to bother her much, but when you mention your name her expression morphs into something akin to... excitement?
+
+M: You're {$PlayerName}? I saw your name on the incoming science personnel sheets. 
+
+<meihappy> M: ... and I've heard a lot about you from Dr. Ziegler.
+
+N: She punctuates a fairly panic-inducing statement with a bright, innocent laugh, briefly taking another bite of her dinner. 
+
+Was that... shepherd's pie with {i}lychees?!{/i} 
+
+Okay, normally you'd probably judge, but having turned up with the tray that you did, you're not really in a position to critique anyone else's choice in meals.
+
+P: Good things, I hope...
+
+M: Oh, yes! {w=0.2}Only good things.
+
+P: That's a relief!
+
+N: Considering you'd only been at work for one day, and causing facilitating some friendly interdepartmental drama the day before that.
+
+<meidefault> M: I've heard you've got quite the mission ahead of you.
+
+M: But, don't lose sight of what's important! {w=0.2}Have confidence in yourself, because everyone seems to have it in you.
+
+P: I mean, I've only been here for a couple of days and that's very flattering of you to say, but I wouldn't say {i}everyone...{/i}
+
+N: Yourself, for starters, but namely the jagged, rocky maw of death that was your current relationship with your assigned partner. {w=0.2}It must be written on your face, because Mei pouts, putting her fork down on her plate and picking up her hot chocolate.
+
+Taking a thoughtful sip of the hot liquid, she hums.
+
+<meisurprise> M: I think I know what you mean.
+
+<meidefault> M: Please trust me when I say that Agent Shimada is a kind person though!
+
+M: He may seem prickly like a hedgehog at times, but he has grown on us very quickly. Like frost growth in laminar flow over flat surfaces!
+
+N: Again, she giggles and you laugh along with the joke like you have any idea what obscure glaciology research reference she'd just made was. 
+
+Luckily, she doesn't seem to notice your icy ineptitude. 
+
+P: I know. 
+
+P: Everyone's saying that, so I'm sure it's true.
+
+P: I just wish I knew what to say, I guess. {w=0.2}Talking to him isn't the easiest thing when we have no common ground... or when he's not interested in talking at {i}all{/i}.
+
+<meiworried> M: How do you know you have no common ground if you haven't talked properly yet?
+
+P: Um, how should I put it...
+
+N: You don't know how you ended up here, pouring your heart out to one of the scientific heads of the taskforce, but if you were doing this you weren't going to put your foot in it.
+
+P: He seems to be fundamentally opposed to my presence here, and that is very clear.
+
+P: And I know everything he's been through -{w=0.2} I respect that, and I'm trying to understand.
+
+P: I want to understand.
+
+P: I guess... I was naive for thinking that it would be as easy as putting on a smile and trying to say some magic words.
+
+P: I just wish it were easier.
+
+N: Listening attentively the whole time, Agent Frostbite is nodding over her cup of hot chocolate and marshmallows.
+
+<meidefault> M: It will get easier.{w=0.2} I know it will!
+
+M: You're like two big glaciers, drifting towards each other. {w=0.2}Neither of you quite sure what will happen when you collide.
+
+M: But something brought them together, and they both have a purpose in being there. 
+
+M: Right?
+
+P: ... right...
+
+<meihappy> M: A hedgehog and a glacier. {w=0.2}Maybe these will be some interesting weeks on base.
+
+N: Smiling brightly - as if she's genuinely excited about the nature of your professional relationship - Mei finishes her drink and starts to clean up her tray.
+
+<meidefault> M: I am sorry - I must go.
+
+M: I left Snowball running some experiments in my laboratory, and it would be unwise to leave them unattended for too long.
+
+N: She makes a gesture with both hands that seems to simulating some sort of catastrophic explosion, but she looks so cheerful while doing it you're genuinely confused as to whether or not disaster is a possible outcome.
+
+The senior staff in the taskforce seemed to do little but mystify you, it seemed.
+
+<meihappy> M: It was nice meeting you! {w=0.2}Perhaps we can eat dinner again some evening soon.
+
+P: I would like that!
+
+P: ... thank you, as well. {w=0.2}I appreciate the talk.
+
+M: Please! Don't mention it.
+
+N: And with that, the scientist, her monstrous tray of fruit dinner and motivational words had left you to your laden tray of quickly cooling food.
+
+In angry protest, your stomach lets out a blood-curdling growl that causes some of the nearby seated scientists to look your way in a startled fashion at the sheer {i}noise{/i} of it.
+
+Hurriedly digging into the food on your plate, you start running over Agent Frostbite's words as you eat, as well as the events that had taken place earlier that day. 
+
+You're not quite sure about the glaciers analogy, but both her and Dr. Ziegler seemed to be echoing the same sentiment.
+
+{i}How do you know you have no common ground if you haven't talked properly yet?{/i}
+
+Idly, you wonder what kind of common ground you both could possibly have. 
+
+From what you'd read of his file, Genji was some sort of martial arts prodigy with some significant ties to the underworld.
+
+Whether or not those ties still existed, you had no idea, so mentally you strike that off of the 'possible conversation starters list'.
+
+So, martial arts - well, you used to be a pretty average track and field athlete. {w=0.2}But past elementary self defense, there's no way you're going to be sharing anecdotes over sweet ninja kicks and that one time you opened a beer with a shuriken.
+
+Those points considered... you're pretty unlikely to bond over your love of karate or ninjitsu, as much as you personally love a good ninja movie.
+
+{i}Also{/i} struck off the list.
+
+Slowing your pace of eating down to something normal rather than shoveling it in, your mind wanders to the non-professional side of him.
+
+What were his hobbies? {w=0.2}What is his favourite time of year? {w=0.2}What was his family like?
+
+Grinning outwardly at the mental image of your stoic, emotionless partner listening to the latest pop tunes, you somehow feel a lot better. {w=0.2}At least, it's slightly more pleasant than the one of him belittling your purpose.
+
+Much better.
+
+Maybe it's just a matter of taking things less seriously, or starting somewhere you could both actually relate.
+
+Either way, you've seem to fallen into the confidence of a lot of people on the taskforce, and it's not like failure is an option either.
+
+The professional thing to do would be to come at this with some sort of plan... right?
+
+Step One: {i}find something in common.{/i}
+
+Feeling slightly more at peace than you had all day, the relief seeps into the core of your being and you have just enough energy to finish up your entire meal - a feat within itself - and drag yourself back to your quarters in one piece.
+
+Tomorrow is another day.
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 1/YOUR QUARTERS
+BG: Overwatch HQ - Your Quarters
+
+N: You sleep like a log through the night, stomach satisfied and nerves calmed by the gentle humming of the HQ. 
+
+After a few days on base, this place is starting to feel a little more like home.
+
+Your quarters are small, but comfortable. {w=0.2}There's a few photo frames sitting on your desk next to your personal terminal.
+
+And, of course, no room would feel like home without a certain amount of mess.
+
+Despite your profession, you'd never really been the cleanest homebody - and to ramify that fact, clothes hang off the back of a chair and socks litter your floor.
+
+Turning over in bed, swathed in blankets, you groan as your alarm starts beeping frantically from your nightstand.
+
+For a moment, you have the most overwhelming urge to simply pull the covers over your head and drift back off for a good five minutes. {w=0.2}Okay, ten minutes.
+
+Just to be sure.
+
+... but then, you remember today is the first day of the new training regime, and Mei's words from last night echo in your head.
+
+Summoning up a suitable amount of willpower, you drag yourself from the warm comfort of your bed and stifle a gargantuan yawn as you head towards your bathroom.
+
+This morning, you'd make sure you had time for the holy trinity - shower, breakfast, coffee - and meet Genji at the exercise room {i}on time{/i}.
+
+Unusually determined, you manage to wash and get dressed in a record sprint, leaving plenty of time for the rest of your new morning ritual.
+
+Despite not being a morning person in the least, you seem to have more motivation than usual - {w=0.2}probably easily chalked up to the numerous pep-talks given to you by your superiors.
+
+{i}Time to take the first step.{/i}
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 1/GYM
+BG: Overwatch HQ - gym/rehab area
+
+N: After loading yourself full of a hearty breakfast of espresso and pastries, you briefly thank your lamest superpower - the ability to eat whatever you wanted and seemingly never gain weight - and make it to the exercise rooms right on time.
+
+You'd quickly dropped past your office to grab your new toolkit, saying a brief hello to the colleagues already in the lab, before dashing off to meet your first appointment.
+
+As you let yourself into the quiet exercise area, it seems fairly deserted considering the early hours. {w=0.2}There were a handful of off-duty recruits working out in the main area, lifting weights and doing cardio.
+
+Looking around for the private rooms, you pace slowly down the edge of the main area looking for the one that Dr. Ziegler had booked.
+
+Always mindful of others, she did mention that it would be better to do the training regimen away from prying eyes - and after seeing Genji's reaction to others seeing perceived weakness, you couldn't help but agree wholeheartedly.
+
+Finding the correct room, you punch in the keycode that the doctor had sent to your terminal yesterday and slip in.
+
+Honestly, you're not quite sure what you expected.
+
+Half of you assumed that Genji would simply refuse to turn up - but you're surprised to see him sitting at the edge of the fairly spacious exercise room, already quietly at work.
+
+He's sat hunched over, one arm using what looked like a resistance band with a weight attached.
+
+The observant part of your mind quietly notes that he seems to be using the same arm that couldn't withstand the force of his exercise the other day, and you make a mental note to watch out for that.
+
+P: Good morning!
+
+N: You put on your most cheerful voice, and you're met with a grunt of acknowledgment.
+
+Okay, perhaps not quite at the 'words' stage yet, but this is surely an improvement from the previous days.
+
+P: You already have the schedule and prescribed exercises, right?
+
+P: Dr. Ziegler mentioned to me that she had forwarded them to you, and that you were familiar with them.
+
+G: I do.
+
+N: A response!!
+
+P: Okay, great.
+
+P: I'll try to be as much of a fly on the wall as I can, but I may interrupt from time to time to help with adjustments or run some tests.
+
+P: Is that alright with you?
+
+N: For a second, you almost feel as if he's going to give a barbed rebuttal like your previous interactions - but instead, you're met with a withdrawn sigh and a half-shrug.
+
+G: Do what you must.
+
+P: T-Thank you.
+
+N: Uh, unsure why you're thanking him, but for some reason your interactions seem to be going a bit better today.
+
+You're not stupid - you know that the carrot being dangled in front of him in the form of freedom and active duty is a good motivator. {w=0.2}Really, this change of heart has little to do with your thoughtfulness.
+
+But like Dr. Ziegler said, you would be compassionate - and like Mei said, you would try to understand.
+
+Setting your toolkit down on a bench adjacent to Genji, you settle down and open it up, taking out the medical scanner and a datapad. 
+
+You had spent some time altering the scanner to pick up more cybernetic specific measurements in your downtime the previous day, since those anomalies were what you're most concerned with.
+
+However, keeping track of vital organ functions was also a concern, so this seemed like the best compromise.
+
+As you set about turning the scanner on and setting up your tools, the hubbub outside seems to pick up as more recruits ended up in the gym. {w=0.2}Honestly, the background noise is welcome, and your nerves are set a little more at ease.
+
+Standing up, you move to the side of where Genji's sitting and try to be unobtrusive as you use the medical scanner to take down data.
+
+For a few minutes, a weird calm settles on the room as your partner does his thing, and you do yours. {w=0.2}Punctuated by quiet beeping and your fingers tapping a data pad, there seems no need to break the silence.
+
+Going into this, you thought it may be awkward sitting by with a bunch of electronics as a man worked out in front of you, but... it's really not as bad as you thought it would be.
+
+You suppose you've both realised you want to do your respective jobs.
+
+Most of the exercise set is uneventful, until at the end of a set of repetitions you notice a spike in the readings you're taking - and a quiet, pained noise from your charge.
+
+P: Ah, hold on!
+
+N: Darting back to your toolkit, you quickly peruse the devices before picking up a circuit fusion tool and coming to kneel at Genji's right side.
+
+P: It's the same musculature as the other day.
+
+P: I think it may be having some rejection issues - does it cause you pain even without doing exercise?
+
+G: ... sometimes.
+
+N: A reluctant answer, but one nonetheless.
+
+P: Severe, or?
+
+N: Taking the weight from him, he relinquishes it wordlessly. {w=0.2}Putting it gently on the floor, you try not to make a big show of the issue and quickly run the medical scanner wand over the fibre in question.
+
+It seems to be located in his right tricep, a part of the muscular fibre that wasn't shielded by a protective casing. 
+
+G: More like a dull ache.
+
+G: It has never felt quite right.
+
+P: Hmmm... okay, understood.
+
+N: You're about to just go ahead and try to repair it - but Dr. Ziegler's words ring in your head and you take pause.
+
+P: I'm going to have to touch your arm and regenerate some of the nervous circuits.
+
+P: It may be painful, so... I just wanted to warn you before I do anything.
+
+N: He responds with another cold, hollow laugh - much like the one you'd heard yesterday - and shakes his head.
+
+G: I am no stranger to pain. So, like I said, do what you must.
+
+G: And, do not be so timid. {w=0.2}It is unbecoming.
+
+N: Genji says it so easily in that flat, modulated tone. {w=0.2}At first, your kneejerk reaction is to be insulted, but you catch yourself {i}again{/i} and consider your reply.
+
+CONSEQUENTIAL CHOICE:
+
+1.) You're so intimidating! It's not like you make it easy. (+0.5)
+2.) {i}That's{/i} unbecoming? Then you probably don't want to hear about my breakfast. (1)
+3.) Well, I don't care what you think. (-1)
+
+CONSEQUENTIAL CHOICE RESULT 1:
+
+> You're so intimidating! It's not like you make it easy. (+0.5)
+
+G: Intimidating?
+
+P: Well... uh, yeah. {w=0.2}Just a little.
+
+N: Maybe you shouldn't have said anything, because now he {i}knows{/i} and not only is that an embarrassingly forward admission, but now he's got ground on you.
+
+Whoops.
+
+G: Huh.
+
+G: Interesting.
+
+N: His tone seems maybe a fraction less cold, as if he's barely amused by your folly.
+
+Well, if being stupidly blunt was getting you through this working relationship, then so be it!
+
+Trying desperately to hide the fact your cheeks are burning with embarrassment, you clear your throat in what you think is a commanding manner, but it ends up sounding like a hoarse sheep being squeezed.
+
+P: ...
+
+P: A-Anyway! Let's sort this out, shall we?
+
+CONSEQUENTIAL CHOICE RESULT 2:
+
+> {i}That's{/i} unbecoming? Then you probably don't want to hear about my breakfast.
+
+G: Your... breakfast?
+
+P: Uh, well... you see, I have this strange talent.
+
+G: To do with breakfast.
+
+N: His response is flat, as if he has absolutely no idea where you're going with this.
+
+To be honest, you don't really know either, and you already strongly regret it.
+
+Why the hell would Genji care about the black hole that sits at the bottom of your stomach?
+
+P: I mean, I ate something like twelve pastries for breakfast this morning.
+
+P: ... and I said 'strange talent' when I probably should've said something like 'stupid talent'.
+
+P: I have a weird capacity for food.
+
+N: Trying to ignore the blush creeping up your neck as the green glow of his visor is trained on you in silence, you blurt out the exact number of crossiants you wolfed down this morning.
+
+{i}Smooth.{/i}
+
+Even more strange than your choice of conversation, Genji cocks his head to the side and it almost looks as if he's relaxed a fraction.
+
+G: Ha.
+
+G: I would not have guessed.
+
+N: Did...
+
+... did he just {i}laugh{/i}??
+
+P: It comes as a surprise to most people that eat with me, I guess.
+
+P: A-Anyway! Let's sort this out, shall we?
+
+P: That's more than I should've shared about my embarrassing eating habits.
+
+CONSEQUENTIAL CHOICE RESULT 3:
+
+> Well, I don't care what you think.
+
+N: You're met with a disinterested 'tch' and silence as he reluctantly resigns himself to let you do your work. 
+
+Perhaps your words had been a little harsh, but... unbecoming?
+
+Really?
+
+—
+
+N: Steeling yourself, you turn the fusion tool over once in your hands and reach forward, taking hold of Genji's right arm.
+
+Gently turning it outwards and towards you, you slow your movements even further when you hear him grunt quietly at the pain.
+
+Finally moving the tricep to an angle where you can work unobstructed, you inch your knees a fraction closer to the bench he's sitting on so you have a better field of view.
+
+Honestly, you're so absorbed in your work and the task at hand that you don't realise the weird, intimate closeness of someone that almost had you backed up against the wall of your office yesterday.
+
+Depressing the button on the fusion tool, you furrow your brow in concentration as it flickers to life. 
+
+Tilting it slightly, you touch it to the brown musculature fibre on his arm and run it gently up the length of the tricep - slowly but efficiently, because you {i}know{/i} it won't be a pleasant sensation.
+
+You're about halfway up when you realise that his arm, cool to your touch, is tensing up and his fist is curling into a ball to your side.
+
+The pain must be significant, but he's bearing it well... 
+
+... not that it seems like a particularly good thing to hide.
+
+P: I'm halfway there.
+
+P: Hang on just a little bit longer.
+
+N: Your voice sounds more calm, collected and commanding than it has the whole time you've been on base at HQ so far.
+
+You're in your element, and you have the ability to make a very real difference to someone, {i}right now{/i}.
+
+Nearing the edge of the rejection site, a stifled gasp from the agony emits from the man in your charge, and you frown harder as if concentrating more could make a difference.
+
+P: Hold on...
+
+Just a little further...
+
+... and, you're done. 
+
+Switching the tool off, you gently return Genji's arm back to him and in doing so, return to reality.
+
+P: Here.
+
+Oh.
+
+Oh, you're {i}way too close{/i}.
+
+Hurriedly moving to stand up, you brush the front of your leggings from kneeling on the floor and attempt to look nonchalant.
+
+It had been a weird experience - the outer, harder shell of his exoskeleton was cool and smooth to the touch, but the brown musculature was as warm and soft as human skin, if not significant stronger and more durable.
+
+It's like he's almost a contradiction in terms, and you're not only getting used to {i}him{/i}, but also this new combination of technologies.
+
+P: Give it a few seconds before trying to move it, okay?
+
+P: In short, some of your nervous tissue was rejecting the cybernetic connections in the tricep muscle fibre. 
+
+P: The circuit fusion tool has just cauterized and repaired those connections at a cellular level, so it could still hurt for a minute or two after.
+
+P: But... hopefully it won't give you any more trouble once that subsides.
+
+G: ...
+
+N: Wordlessly, he actually obeys your suggestion and keeps his arm still for the required length of time.
+
+Once, you assume, he feels that it's okay to try and move it, he slowly extends his arm towards you - and then curls it up again.
+
+G: Hm.
+
+G: ... thank you.
+
+N: Floored.
+
+It seems like today is a day of firsts.
+
+P: Oh, not at all!
+
+P: I'm just glad I could help.
+
+N: Realising you should probably be giving him his space, you move back over to your toolkit and replace what you took out, save for the medical scanner. 
+
+P: You should be fine to carry on for the rest of the session today, but I do think we need to watch out for any more examples of muscular rejection.
+
+P: Please let me know if there are any other areas that feel localised pain, or that you have trouble stretching.
+
+G: I will do so.
+
+N: His acquiescence makes you relieved to such a point, you feel as if maybe the ice has been broken and you can both just... get to work.
+
+At least, get to work without feeling so goddamn awkward.
+
+Sitting neatly on the bench next to your tools, you realise you're smiling as you pick up the datapad on top of your kit - but you don't fight it.
+
+You just sit there, tapping in your data and log records as Genji goes back to his training regimen.
+
+Again, the room is enveloped in an odd silence punctuated by the ruckus in the main gym, but... now it's somehow different.
+
+The curling, twisting sensation of tension in the pit of your gut has unraveled, and while you're certainly not {i}best friends forever{/i}, you feel like you've crossed a major barrier in beginning a proper professional relationship.
+
+And that... is very satisfying, given the past two days.
+
+The rest of the training session finishes without incident, after which you quickly pack up your things and bid Genji a cheerful farewell.
+
+P: I'll see you tomorrow morning!
+
+P: Don't push yourself too hard in the meantime, especially with your right arm.
+
+P: I'll check up on it again in our next session just to make sure it's settling fine.
+
+N: Ever the enigmatic soul, Genji doesn't mince words - but he lets you finish as you both stand in front of the door to the main gym.
+
+G: I understand.
+
+G: Tomorrow, then.
+
+<genjidefault> N: <sprite fade out> And with that, he's gone.
+
+Funnily enough, left alone in the room, you don't even feel the need to exhale a great sigh of relief after the way the day went.
+
+You seem to have made a habit of that.
+
+Following him out the door a few moments later, you set off about the rest of your working day - probably further attuning your tools, organising your research duties and other boorish paper work - with that small smile still on your face.
+
+Perhaps you could both do this after all.
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 5/MESS HALL
+BG: Overwatch HQ - Mess Hall
+
+
+N: Five days later, you're nearing the end of the first week of the physiotherapy and things are starting to look much better for your partner after a grueling period of exercise.
+
+There had been a few blips in the radar here and there - a couple more rejection sites that had been promptly dealt with - but overall, Genji seemed to be progressing much faster than expectations.
+
+Both your own, and that of the rest of the medical staff.
+
+It seems as if exceeding expected limits was something that came naturally to him, and while you're fairly sure he hasn't cottoned on to the fact yet, you may have snuck in a few glances of awe as his training progressed.
+
+Gone were the first couple of days of simple weights and gentle cardio.
+
+This morning he'd started to bench press far more than you even weighed, and you'd been about to interject that this wasn't exactly the 'soothing exercise' Dr. Ziegler had intended for his first week - but you'd left it.
+
+Even if it was still quiet and slightly awkward at times, you'd both fallen into a sort of... comfortable rhythm with your daily routine. 
+
+You didn't really exchange more words than necessary, but at least what you {i}did{/i} say to each other was no longer cold and barbed with venom.
+
+If anything, your respect for him has grown over the week you've worked together.
+
+Although he was going through a trying and traumatic period, you don't think you've ever seen someone work so tirelessly towards something in your life.
+
+Every day, he was there before you - and every day, you're either on time or slightly early. 
+
+Every day since the first training session, he left after you, and you're... not even sure when he's been leaving the gym, even though he stated he wouldn't be much longer.
+
+You make a mental note to check on that.
+
+It was later on in the evening now, and your brain is starting to tire as you sit in the mess hall and stare aimlessly into space instead of down at the laden tray in front of you.
+
+True to your nature, you'd stacked it as high as usual - something you now seem to be famous for at the HQ, in your short time here.
+
+Idly, you suppose there are worse things you could be famous for.
+
+... but you're {i}so{/i} exhausted from the day, you can't even focus.
+
+For all intents and purposes, you're entirely dead to the world with a zombie-like expression on your face as you stare right through some intern at a table across from you. 
+
+Probably one of Mei's interns.
+
+You'd seen him before.
+
+It's only when something - {i}someone{/i} - moves between you and The Intern that you actually snap out of your reverie and look expectantly upwards.
+
+<genjidefault> You weren't counting on seeing Genji slide into the seat opposite you, and for a brief moment you look like a deer in headlights.
+
+... if the deer had like, just woken up from a dream about turning up at school naked or something.
+
+Wait, deer are always naked.
+
+Um. {w=0.2}{i}Focus.{/i}
+
+P: Oh, hi!
+
+N: You're so surprised to see him here that your voice comes out weak and feeble, just like a naked deer. Normal deer.
+
+{b}Stop it.{/b}
+
+He seems nonplussed as usual as he settles across from you, leaning with his hands clasped on the table and giving you that trademark unreadable stare.
+
+It's almost unfair that he has the visor - he constantly has the advantage of being able to read you like a book, while you're still figuring out if he's capable of projecting himself as anything other than Cool Guy.
+
+Meanwhile, you stumble over your words with him and you're still not quite sure what he really thinks of you.
+
+Actually, come to think of it, you don't think you've even ever {i}seen{/i} him in the mess hall before, so of course that begs an obvious question.
+
+Luckily over the short time you've worked together, you've learned that he's not hugely partial to obvious questions, so you jam your fork into your Mt. Everest of spaghetti and try smalltalk instead.
+
+P: Don't tell me you only just finished up at the gym?
+
+G: Perhaps an hour ago.
+
+N: Letting out a whistle, you twirl your spaghetti around on your fork and try to push the encroaching thoughts of deer out of your mind.
+
+P: Then you stayed a whole hour after I left?
+
+P: You must be exhausted.
+
+G: I am fine.
+
+N: It's a short, clipped reply, but only half as frosty as it would've been a week ago.
+
+Small victories.
+
+It's only when you've stuffed a large forkful of spaghetti and meatballs into your mouth that you realise he doesn't have a dinner tray with him, and as far as you tell, is effectively watching you pig out.
+
+In response, you try to swallow the entire mouthful and look rightfully ridiculous.
+
+P: You're, uh, not eating?
+
+N: And again, you're reminded you've never actually seen him eat or drink. 
+
+Probably because it would require him to take the front plate of his visor off, and you're yet to see him without it.
+
+Understandable - as far as you knew from his medical records, the remaining living tissue was significantly scarred from burn marks, even if it was healthy and functional again.
+
+You could totally empathize with him wanting not to advertise his very personal struggles further, and that's why you haven't pried.
+
+It's not your place.
+
+G: Do not concern yourself.
+
+G: I ate after my training was complete.
+
+N: You're confused.
+
+P: Then... what brings you to the mess hall?
+
+P: Is it the smell?
+
+P: For some reason, this place always smells like baking bread and I just want to... I dunno.
+
+P: Stay here forever.
+
+N: His visor dips down as if he's looking at your family-sized portion of dinner, and then back up at you.
+
+G: I can see that.
+
+P: I'm a growing person, okay!
+
+P: I need spaghetti for my bones to grow, or something.
+
+N: World's Most Pathetic Defense goes to you.
+
+G: I am not sure that is how bones work.
+
+P: Yeah... me either.
+
+P: But I stand by what I said!
+
+N: Your ridiculous enthusiasm seems to earn you a hollow chuckle from your unexpected dinner partner, and your cheeks heat up at your own folly.
+
+You can't help it if you have a bottomless pit for a stomach.
+
+P: So, if it's not the smell, then what is it?
+
+P: Or did you just come to poke fun at me?
+
+G: Actually, I had to come and see if the rumors were true.
+
+N: {i}Huh?{/i}
+
+P: Rumors? {w=0.2}What rumors?
+
+G: A certain climatologist told me you can consume more food in one sitting than anyone else she has seen on base.
+
+G: I thought it might be interesting to watch the phenomenon myself.
+
+P: I-I'm not a zoo attraction!
+
+P: I just happen to enjoy eating. {w=0.2}No biggie.
+
+G: Hm...
+
+G: What did you say the other morning?
+
+G: You had 'twelve pastries' for breakfast?
+
+G: Impressive.
+
+N: You can't tell if he's genuinely mocking you or simply poking fun, but something in his modulated tone suggests the latter so you settle for pouting and pulling a sour face at him.
+
+P: They were delicious, too. {w=0.2}Every last one of them.
+
+P: I'd do it again in a heartbeat.
+
+G: So there is some substance to the rumors, then. {w=0.2}More than a little substance.
+
+P: So what if there is?
+
+P: Not all of us can be gun-toting, gravity-defying, hookshot-swinging champions of justice.
+
+P: You guys took all the cool, useful talents and left people like me with the lame superpower of being able eat their bodyweight in scones.
+
+N: Almost as if to emphasise your point, you take another mammoth mouthful of spaghetti and stare back defiantly at Genji's visor in an extremely un-intimidating fashion.
+
+A moment of silence passes between you as he patiently waits for you to finish and swallow before you choke.
+
+G: Useful talents...
+
+G: You say that, but you may indeed be more blessed by your strange stomach than anything else you mentioned.
+
+P: H-Hey!
+
+P: What makes you say that?
+
+P: I've admired the Overwatch taskforce for as long as I can remember... {w=0.2}and the people who fought for those who couldn't do it themselves.
+
+P: I don't know any special weaponry and I couldn't shoot my way out of a paper bag, but if I could... perhaps I would've been slightly more useful.
+
+N: There's a rather abrupt change in conversation's atmosphere, and it almost seems as if Genji's frame has gone slightly more rigid.
+
+G: Being able to kill is not {i}useful{/i}.
+
+G: It is something you must reconcile with yourself every night before you go to sleep, and again when you wake up.
+
+G: I would not wish that weight upon you, or anyone else in this place.
+
+G: With the world how it is now... most times, it is unavoidable that we must do so. {w=0.2}But it is not always the solution.
+
+P: I didn't mean to glorify it, I just— 
+
+N: But you're abruptly cut off, and his tone has returned to cold neutrality.
+
+With a swift, graceful movement that you'd come to see as signature to him, he rises from the chair and moves to exit, but stops briefly by you before he leaves.
+
+Looking down at you, you hesitantly glance up and feel that emerald light pierce through you.
+
+G: The less people that need to be burdened by that responsibility, the less the world will suffer.
+
+G: Do not wish for things you do not understand.
+
+N: And with that, he was gone from the mess hall.
+
+Putting your fork down on your tray, you let out a tired sigh and pick up your glass. {w=0.2}Taking a large swig of water, you'd fallen into a verbal trap with him yet again.
+
+It's not like he wasn't making a good point, but why was he so self-sacrificing? {w=0.2}Was he really trying to take the monumental pain of the world on his own shoulders, when he had so much of his own?
+
+Shaking your head at the exchange— which had started off so {i}well{/i}— you realise you've lost your appetite and give up on consuming the rest of your food.
+
+Handing in your tray and heading back to your quarters, you turn in for the night but sleep escapes you for some time. 
+
+Instead, fractions of your conversation from earlier repeat ad nauseum in your head as you try to bury yourself in your sheets.
+
+<genjidefault> N: {i}The less people that need to be burdened by that responsibility, the less the world will suffer.{/i} 
+
+N: Dismally, you wonder if he will be able to offload some of that burden before it consumes him.
+
+Sleep comes, fitful and unsatisfying.
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 10/YOUR LAB
+BG: Overwatch HQ - player's office [medical lab]
+
+N: Day ten of the recuperation cycle, and your two week estimate given by Dr. Ziegler is almost up.
+
+It's about noon and you're standing somewhat awkwardly beside the pallet in your office, medical scanner in hand and your cybernetically enhanced partner standing in front of you.
+
+<genjidefault> You knew this day had been coming for some time, but you'd pushed it out of your mind by the logic of if you didn't {i}think{/i} about it, it wouldn't happen.
+
+The relationship between the two of you had continued along much the same road - workable, with very few minced words - but ever so gradually, things had become less tense.
+
+Maybe you were just getting used to each other's company. {w=0.2}You sure know that you've started to grow far more concerned than you should be about what are strictly professional matters - mostly Genji's general wellbeing...
+
+.. but that's something else you're pushing out of your head. {w=0.2}For now, you're either pinning it down to being worried about performing well on your first assignment, or the altitude making you more emotional than usual.
+
+Regardless, things between you aren't exactly friendly to the point where asking him to let you give him a {i}maintenance physical{/i} is a casual conversation starter.
+
+It involved touching, a {b}lot{/b} of touching. Not only is Genji probably Not Okay with such concentrated contact, but you're likely going to die an early death of embarrassment.
+
+G: Well?
+
+G: I imagine you messaged me to meet you here for a reason.
+
+N: Such a long silence has passed since he'd come into your office that the conversation was now in dangerously cringe-worthy territory.
+
+Clearing your throat, you attempt to appear every inch the professional you are by straightening up and fixing your charge with a no-nonsense stare.
+
+This had to be done.
+
+INCONSEQUENTIAL CHOICE:
+
+1.) Our schedule requires that I do a full work up on you. 
+2.) Let's get physical! Physical! 
+
+INCONSEQUENTIAL CHOICE RESULT 1:
+
+> Our schedule requires that I do a full work up on you.
+
+N: Your voices comes out more authoritative than you thought it would, and for a moment you're proud for treating the situation with every modicum of professionalism you could. {w=0.2}Maybe it was even a little convincing.
+
+To your surprise, you're met with a nonchalant shrug from your charge in what seems to be immediate acquiescence. 
+
+Results!
+
+G: If it is required, then I cannot argue.
+
+N: His words are fairly relaxed considering what you're asking, and you give a small smile in return.
+
+
+CONSEQUENTIAL CHOICE RESULT 2:
+
+> Let's get physical! Physical! 
+
+N: You don't know whether it was the pressure of the situation or the intimate nature of what you were about to ask, but for some reason you thought it'd be a really good idea to burst into your best rendition of Olivia Newton-John's hit 'Physical'.
+
+You're all but those four words in (with appropriate dance moves) before you realise that you're the worst person on the face of the planet right now, being met with a cold, steely silence.
+
+Slowly, you stop pumping your arms.
+
+G: What?
+
+P: Oh, um, I was trying to make a joke.
+
+P: So, I have to give you a physical as one of your training milestones, and I... um...
+
+P: You know Olivia Newton-John, right?
+
+G: Who?
+
+P: 1980's singer? Used to dance around in leotards?
+
+P: ... 'let me hear your body talk'?
+
+G: No.
+
+P: Oh.
+
+P: Well, then.
+
+P: Let's forget this ever happened!
+
+N: Mentally kicking yourself, you somehow manage to make eye contact with him again knowing he'll never actually forget. This was a karaoke faux-pas you were going to forever live with.
+
+P: So... would you be willing to do the physical? It'll only take a short time.
+
+G: Only if there is no further singing.
+
+N: He sounds almost amused, a warm tinge to the edges of his modulated voice - it sounds so different. {w=0.2}So much more pleasant than his chilled words.
+
+Slowly, you manage a sheepish smile.
+
+P: ... that request I think I can fulfill.
+
+
+—
+
+N: Gesturing gently to the pallet - more than big enough to accommodate a grown adult and adjusted so that it was set around waist height - you encourage him to lie down.
+
+It was a standard medical pallet bed that had been appropriated for your uses, something that you'd asked for early on in your assignment.
+
+Genji's comfort was your priority, and you weren't about to ask him to lie down on a hard-surface workbench just because he had a harder shell than most other men his age.
+
+P: Please, make yourself comfortable and lie down.
+
+N: In a quick, cat-like movement, he shifts effortlessly on to the table. {w=0.2}From sitting side on, Genji moves to lie down on the pallet, back flat against the cushioned table.
+
+Swallowing your courage, you tell yourself repeatedly it's nothing more than all those other times you'd worked on him over the past week and a half. {w=0.2}{i}It's fine.{/i}
+
+Moving the prepared trolley over to the pallet with your tools and equipment already laid out for you, you first turn on the bio-scanner at the head of the pallet to maintain vital signs and to monitor any anomalous electromagnetic activity.
+
+As it powers up, it begins to emit a calming, quiet '{i}beep{/i}' in the background, signaling each beat of Genji's heart. {w=0.2}It's... oddly reassuring and slightly more intimate than you were expecting.
+
+Taking one of the larger tools from the trolley - like a pen with a large, rectangular nib - you look down at your partner and present it to him.
+
+Over the time you've worked together, you'd formed a habit of letting him know exactly what you were doing and how, {i}before{/i} you did it. {w=0.2}It had helped all the adjustments and cybernetic work seem a lot more valuable, and, well...
+
+... if someone was continually prodding at you, wouldn't you want to know what they were doing?
+
+P: First of all, I'm just going to check all the muscular fibre to make sure there's no extended wear from the training so far.
+
+P: Since you finished the gentle physiotherapy last week and you've gone back into full combat training, it's necessary to make certain that all the connections to your tissue and nervous system are holding up.
+
+P: It shouldn't hurt - maybe just a tingling feeling.
+
+G: I understand.
+
+G: You may continue.
+
+P: Okay - here goes.
+
+N: Taking a deep breath and steeling yourself, you take the scanning tool and activate it. Gently resting a hand on his right shoulder to steady it, you begin working down his body in sections, the beep fading into the background as you concentrate.
+
+A section of bright light travels steadily down both his arms as you move the scanner, over the beige muscular fibre that had demonstrated more power than you'd thought possible over the past week or so.
+
+You weren't sure what you were expecting once the regime had moved from simple exercises into full on combat training - one minute Genji had been lifting weights, and the next he was running through complicated sword patterns.
+
+Needless to say, you'd had to graduate to a slightly larger training space, and you {i}may{/i} have cowered in the corner for the first bout, utterly terrified that you'd leave the training area with one less head than you'd come in with.
+
+But, he'd promised that you would be fine - and after just thirty minutes, it was plain to see that he held a talent for swordsmanship that you had never seen before, not even from other members of the taskforce.
+
+Of course there would be a reason behind the commander wanting someone like Genji in Overwatch, and that had been proven to you almost every day since you'd been paired together. {w=0.2}There was no doubt in your mind why he was here.
+
+Being able to watch him train almost felt like voyeurism to a certain extent - his movements had become inhumanly fast and precise as he mastered his new limits, but he still retained a certain lithe grace that made even a killing move look beautiful.
+
+... you're not quite sure where you're going with these errant thoughts, but it had been something reoccurring in your mind over the past few days.
+
+You'd even come to look forward to the training sessions, feeling honoured that you were able to see such skill on display.
+
+As the calendar days ticked by, you realised that soon this recuperation period would be over, and while you were immensely proud that Genji had almost completed such a difficult journey - you were going to be at least a little sad when this ended.
+
+You've started humming to yourself as you work, the beep continuing to signal you in the background.
+
+Finishing up with the arms, you work from his neck muscles down over his chest, then towards his thighs. {w=0.2}Your movements are almost automated now, your mind simply on the data and process at hand - so far, so good.
+
+All you really need to watch out for is, er, not putting your hand anywhere delicate on the lower half...
+
+...
+
+Abruptly, you stop humming and as you work gently down his legs, you try to make smalltalk to curb any {i}other{/i} thoughts that could crop up.
+
+P: We're almost done, huh?
+
+G: The physical was that quick?
+
+P: Oh, no, I mean with the training. I still have a little bit to go with this, but...
+
+P: Time flies, doesn't it? I can't believe it's been ten days already.
+
+P: And in just that short time, you're at the level you're at already.
+
+P: That's... so impressive.
+
+N: A short silence follows, but you've grown accustomed to these. {w=0.2}Genji was more thoughtful that your first impressions of him, and he seemed to think through his responses more than others.
+
+G: I am unsure about 'impressive'.
+
+G: However, there is a saying in Japan - {i}nana korobi ya oki{/i}.
+
+N: His native language sounds much like his swordplay feels - fluid, smooth, beautiful.
+
+G: To stumble seven times, but recover eight.
+
+G: Perseverance is better than defeat.
+
+P: That's a noble saying - though... I don't think there's anything particularly wrong with defeat.
+
+P: Not that I'm relating that to your recovery at all!
+
+P: I think if anything, you'd probably be next to the dictionary definition of 'perseverance' if you looked it up. Your dedication has been, well, astounding.
+
+P: But I think we learn a lot from defeat. {w=0.2}Perhaps more than from our victories.
+
+N: There's a quick pause between you as he ponders your words. You're almost finished with the current examination, moving down his right shin.
+
+G: Those are the words of an innocent that has not truly suffered defeat.
+
+G: Defeat brings shame.
+
+N: Again with the 'naive' descriptions? You mutter under your breath.
+
+P: An innocent...
+
+G: What?
+
+P: Um, nothing.
+
+P: But, if everything was a victory, what would challenge us?
+
+P: Then we're just living an existence with no obstacles. I think that's really what makes us human - the ability to suffer a loss, and improve ourselves for the better from it.
+
+G: ...
+
+G: An interesting point of view.
+
+G: I am not sure it is one I agree with, but I can see your meaning.
+
+N: You respond with a slight smile - but as you finish up the scan and refer to your datapad, you realise what you have to do next and it quickly disappears from your face.
+
+It must have been noticeable because Genji catches the change in your expression, cocking his head to look at you with that blank, calculating gaze from his position on the pallet.
+
+G: Is there something wrong?
+
+P: Oh, no! Not at all.
+
+P: I just... 
+
+P: I have to ask something of you that you may not like.
+
+G: Just ask.
+
+N: Sucking in a breath, you set the data pad down and fix him with a very serious look. Again, this day had been coming for a long time, but you had neglected to prepare yourself for it.
+
+Chronic procrastination was just another thing to add to your 'lame superpowers' list.
+
+However, his response had been so firm and decisive, it wasn't like you could refuse. {w=0.2}It was now or never.
+
+P: I... need to ask you to remove your front visor.
+
+P: Part of the physical checklist for your admission to active duty includes checking all the connections from tissue to cybernetic material, and that includes your head, as well.
+
+P: ... I'm sorry.
+
+N: You feel like all you can offer is an apology, and your voice quiets when you do so. 
+
+You'd never seen him without his visor before, and after spending almost every hour of the past ten days with him, the last thing you wanted to do was push him further.
+
+G: Do not apologise unless you have something to be sorry for. Then they are simply empty words.
+
+P: But I—
+
+N: You're cut off by his hands raising to his visor in a smooth movement, thumbs depressing connections at the back of his skull to release a lock at the front of the helmet. 
+
+There's a soft clicking sound as a clasp releases, and his right hand moves to the faceplate, grasping it between thumb and forefinger and pulling it free of the helmet base.
+
+For a second, your heart skips a beat.
+
+You're not sure what you expected, really.
+
+The visible skin from his forehead to his chin had obviously been badly burned at some point, scars branching and weaving across his face like a web. 
+
+His eyes, sharp but surprisingly gentle look back at you with a neutral expression - irises dark brown, so dark you almost can't tell the difference in the poor fluorescent light of your lab.
+
+You can see why there had been rumours floating around the recruits about him being some sort of 'playboy' in the past, or something. He was, by all measures and counts... very attractive.
+
+G: I would prefer it if you did not stare.
+
+N: Broken out of your reverie - you're not going to be ridiculously cliche and say you {i}got lost in his eyes{/i} - you stammer an apology and get back to work with your tools.
+
+P: S-Sorry! I didn't mean to.
+
+P: Please close your eyes - this will only take a minute.
+
+N: With a sigh, he obliges your request and waits patiently for you to finish.
+
+You can't help but feel a little guilty that you're staring once more as you run the scanner around the frame of his helmet, and then down along each side of his face.
+
+Why was this so distracting for you?
+
+It only takes another thirty seconds for you to complete the scan, and you click the scanner off, turning to the trolley and taking the datapad to input the figures.
+
+P: You can open your eyes now. Thank you.
+
+N: Brown eyes open again, and you try your very hardest to keep your own on your logs. As you tap the data into your files, Genji raises himself up onto his elbows and side-eyes you with that decided neutrality.
+
+G: Do you need anything else?
+
+P: No, uh, you're fine.
+
+P: You can put your visor back on, if you'd like.
+
+N: He doesn't need prompting again, and swiftly returns the faceplate to the front of his helmet. That soft, mechanical click indicates his face is hidden from you once more, and given your sudden problem with resembling a wide-eyed doe...
+
+... that's probably for the best. What's with you and deer, anyway?
+
+Your fingers move expertly across the datapad and you finish examining the figures, to which you give a small nod and reach forward, turning off the bioscanner.
+
+P: Looking good so far! You can sit up - I'm done with the majority of the physical.
+
+As you move back over to your terminal to sit down, tucking your lab coat out of the way as you do so, Genji rights himself on the pallet and sits forward. The green glow of the visor has returned, trained on you as you work.
+
+P: It seems like the connections are holding up to the strain. Your body seems to be adapting extremely well to the cybernetic implants.
+
+P: These kinds of attunement rates are unlike anything I've seen before.
+
+P: As for the final part, I'd just like to ask you a few questions... if that's okay?
+
+G: I have complied so far.
+
+G: There is little point in refusing you now.
+
+P: Well... that's true.
+
+N: Straightening up, you look past your terminal and meet his gaze the best you can.
+
+P: How have you been feeling physically, say after training? Anything else other than normal muscle soreness?
+
+G: Mm... perhaps the muscle pain is worse than it was before the incident.
+
+G: But nothing extreme to me.
+
+P: So no prolonged stiffness, or any pain lasting longer than two days?
+
+G: No. At least, not any longer.
+
+P: Hm, okay.
+
+N: You enter the data in, slightly concerned about Genji's definition of 'extreme'. {w=0.2}You're certain it's a far cry worse than most people.
+
+P: Other than that? Any nausea, headaches, dizziness?
+
+G: I still get a headache from time to time.
+
+G: But Dr. Ziegler did explain that the ocular implants might cause them for the near future.
+
+P: Ah yes, I remember reading.
+
+P: But... nothing too serious, right? No migraines or debilitating pain?
+
+G: No.
+
+P: Alright, good.
+
+N: There's a short silence in which you tap in his answers, and... that's the end of your list, really. Leaning back in your chair, you try to offer him a thankful smile, but you're not sure how it's received.
+
+It had been a rollercoaster of a routine physical.
+
+P: That's all I really need to do - as far as I'm concerned, you're excelling in all areas physically and regarding your cybernetic attunement.
+
+P: I'll submit my report to the commander recommending you be summoned to active duty again today.
+
+P: And, um...
+
+N: You play with your hands a little, embarrassed about earlier and not really willing to let it go unsaid.
+
+P: Thank you for your cooperation today.
+
+P: I understand it might have been uncomfortable, and I'm really sorry about that.
+
+N: With a sigh, your partner gets off the pallet and stands up, the visor still fixed on you.
+
+G: Again with the empty apologies.
+
+G: It was necessary for command, so we will talk no more of it.
+
+N: You're about to respond with a rebuttal, something along the lines of '{i}It's not empty!{/i}' in a loud, annoying protest - but something in his voice leaves the words to die on your lips, and instead you sit there silently.
+
+P: ... alright, Genji.
+
+P: If you say so.
+
+N: He inclines his head in a short motion, acknowledging you.
+
+G: I will see you later, {$YourName}.
+
+N: And before you can respond with a goodbye, he's left your office.
+
+Slumping back in your office chair, you chew absently on the end of the stylus in your hand, trying to erase the image of those dark, brown eyes staring back at you.
+
+For all his cool, clipped demeanor, there was something there that you saw - a fragment of something so warm and so gentle - that makes you feel as if even after almost two weeks, you know nothing about him at all.
+
+If the stoic exterior was simply a mechanism of keeping people at an arm's length, you didn't know - and probably wouldn't know.
+
+But after that, for anyone it would be plain to see that there's more to him than meets the eye.
+
+With a sigh, you shake your head and lean forward again, intent on direction your attention elsewhere and filling out the report. {w=0.2}This is why you were here today, after all.
+
+After an hour or two, all the bureaucratic material is stamped, signed and sent through to command clearing your charge for assignment to a field operation once more - three days {i}ahead{/i} of schedule, even.
+
+Technically, your job here is done, but something deep inside you twists and suddenly, you're not so sure.
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 12/COMMAND
+BG: Overwatch HQ - briefing room
+
+N: Late afternoon, you're paged to attend a meeting in the headquarters' briefing room by Commander Morrison.
+
+After your initial run in with him on your first day, you end up turning up about fifteen minutes {i}early{/i}, as if turning up earlier would offset your previous transgression.
+
+<Mercy-smiling> It's not long after that Dr. Ziegler emerges from the briefing room and retrieves you with a kind smile, bringing you into the room where Commander Morrison is sitting with Genji at the central table. <sprite fades>
+
+You quickly take a seat next to Genji, and Dr. Ziegler settles down next to the commander, leaning forward on the table and clasping her hands neatly.
+
+<soldierdefault> J: Thank you all for coming at such short notice. {w=0.2}I know you're all busy.
+
+J: I thought it would be best if we discussed this matter together before proceeding, so we make sure we're all on the same page.
+
+N: Nodding hesitantly, you wonder if you royally fucked up the paperwork and if this is where you die.
+
+To be honest, you're unsure what there's left to discuss.
+
+J: I read your report, {$YourName}.
+
+N: Your heart catches in your throat as you sweat bullets, but you match the commander's stare every inch as intense... somehow.
+
+J: It was very thorough, and it appears as if your conclusions are correct according to your reasoning.
+
+N: ... and, the panic drains out of you.
+
+Thank the heavens.
+
+J: I did confer with Dr. Ziegler about the speed of the process, however.
+
+J: Genji, you're three days ahead of the prescribed schedule and already hitting all the metrics.
+
+J: A good soldier is steady and sure with his progress, not recklessly plowing ahead and—
+
+N: A calm, accented voice interrupts the commander, and you realise that the doctor is probably one of three people on the base that could get away with that without being immolated on the spot.
+
+<mercydefault> Z: I think what the commander is trying to say is that: we think you may be pushing yourself too hard.
+
+N: You expect complete silence as usual from your partner, but he leans forward, one arm on the table in a decidedly aggressive pose.
+
+You've gotten fairly good at reading his body language - that is, since there are no facial clues to pick up on - and you'd said the wrong thing enough times to recognise when he was less than thrilled.
+
+G: I have given you everything you have asked for.
+
+G: What more could you want?
+
+N: His voice sounds strained, as if he's withholding a force of white-hot rage underneath that cool, brushed metal exoskeleton.
+
+You've yet to see him truly angry, but you decide you're quite happy never finding out what that entails.
+
+Ever.
+
+Z: Genji, please - we're on your side.
+
+<Mercy-worried> Z: But... we {i}are{/i} worried about you sustaining such exertion. You must look after yourself, too.
+
+G: ...
+
+<Dad-frown> J: Moderation is everything.
+
+J: I know you want to be back out on the field, but I don't want you to kill yourself pursuing it.
+
+J: Pushing yourself so hard could have ramifications if something happens and you find yourself on a mission with people relying on you.
+
+N: The tension in the air is palpable, and you want to shrink into a speck and disappear from sight. 
+
+<genjidefault> G: If the requirements are met and the physical was acceptable, I am not sure why we are having this conversation.
+
+<mercydefault> Z: Because— 
+
+Z: {i}Because{/i}, we don't want to be on the verge of losing you.
+
+<mercy-worried> Z: Again.
+
+J: Look, you're a talented agent.
+
+J: Perhaps one of the most talented that Overwatch has ever had the privilege of having serve.
+
+J: But I don't think you're ready for field duty — not yet. {w=0.2}Not until you learn to slow down.
+
+N: There's a split second of movement - god, you can barely see it because Genji has the ability to move so {i}goddamn fast{/i}, kinda ironic considering the commander's final statement - and Genji has stood from his chair, slamming his hand on the table.
+
+An ugly screech echoes in the room as the chair goes skittering backwards on the polished floor, a sound that slices through your resolve.
+
+Before your partner can even begin to expel the long string of angry expletives you're sure he's about to shout across the table - eloquent expletives, knowing Genji - you find yourself standing up and addressing your superior.
+
+P: Sir, if I may?
+
+P: I think he's more than ready.
+
+<Dad-frown> N: You're met with a frown, the commander decidedly unhappy at both Genji's outburst and your own interjection. 
+
+J: Didn't I mention that I received your report already, {$YourName}?
+
+J: Your further input isn't required.
+
+P: But there's so much more to this than just a {i}report!{/i}
+
+N: Part of you can't believe you're being this insubordinate to your superior officer, but you can't seem to help yourself.
+
+Genji doesn't deserve this - he's worked so hard, harder than anyone could imagine. 
+
+You'd seen him do it, every step of the way. {w=0.2}Struggle through not only intense physical pain and discomfort, but also whatever personal demons he seemed intent on fighting on his own.
+
+P: It's everything else.
+
+P: There's data, and then there's data. {w=0.2}What you haven't seen is how hard he works, how diligent he is, how much he practices {i}every single day.{/i}
+
+P: He has attunement rates that other engineers wouldn't believe if you presented them his figures.
+
+P: If anything, he's approached this rehabilitation process with dedication and a seriousness we should all envy.
+
+P: More than that, he would never let anyone in his charge come to harm, if that's what you're worried about!
+
+P: And how could he, with the skills he has? {w=0.2}In training he's untouchable, in the field, he'll be just as untouchable.
+
+N: Slowly realising you'd gone on somewhat of an empassioned tirade, you suddenly lose your steam and return to the reality of telling your commander for all intents and purposes, he was totally wrong.
+
+The look that your superior is giving you right now is indeterminable. {w=0.2}Taking a deep breath, you look defiantly forward.
+
+P: I'm sorry, I realise this is insubordination.
+
+P: But... I really believe in what has been accomplished here.
+
+P: You brought me here for my professional opinion — I wish you'd consider it more strongly.
+
+N: Sinking back into your chair, you make a mental note to start job searching when you returned to your quarters later that day because your career is almost certainly finished here.
+
+There's a lengthy silence as the commander considers you both - Genji, still standing and leaning with his arms supporting him on the table, and you, looking somewhat sheepish but fulfilled.
+
+Letting out a short sigh, Commander Morrison runs a hand through his blonde hair and makes a sour expression as he mutters something.
+
+J: {i}I'm too old for this.{/i}
+
+J: You would do well to respect your superiors more when talking about such grave matters, {$YourName}.
+
+J: However, you do seem to believe rather fervently that this is a non-issue, and regarding your appointment, well.
+
+J: You aren't wrong, I suppose.
+
+J: Dr. Ziegler?
+
+N: The doctor glances at the commander, uncertainty flickering across her face when asked for her input. {w=0.2}Deep down, you know she doesn't want Genji to leave the base because of the concern she shows for all her patients.
+
+Like she said earlier, if they had become friends - which seemed very obvious at this point - the notion of him returning on the verge of death would be a rather difficult one to reconcile.
+
+She looks over to you, and then fixes Genji with an unreadable expression. Perhaps even a little sad, if you looked hard enough.
+
+But in the end, she breaks the stare and turns back to the commander.
+
+Z: Alright.
+
+Z: On the provision that if there are any anomalies {i}at all{/i}, that immediate recall procedure is followed.
+
+Z: That means even for the most minor of things.
+
+<soldierdefault> J: Seems reasonable to me.
+
+J: Standing like that, you seem like you have something to say, Genji.
+
+N: At the prompt, the man straightens up from the aggressive pose of earlier, but he still draws himself up tall and powerful - perhaps to even further prove his case.
+
+G: You know I am ready.
+
+G: I will say nothing further on the matter, but I hope you will do the right thing.
+
+J: I see.
+
+J: This wasn't the outcome we'd intended, but I suppose {$YourName} tipped the scales with 
+
+J: We'll reinstate you to active duty with Dr. Ziegler's provisions in effect. {w=0.2}I trust you'll follow them to the letter.
+
+N: And with those words, the tension in the room seems to deflate like a sad party balloon. 
+
+You did it, together.
+
+Genji's hard work had paid off, finally, and to hear his achievements being rewarded warms your heart with startling intensity. {w=0.2}That warmth grows into a smile, spreading across your face at the verdict.
+
+J: You're to report to the command center at 0700 tomorrow morning for your assignment - both of you.
+
+P: — both of us?
+
+J: Remember the description of your original assignment? {w=0.2}You're to accompany the agent on any field mission in the near future, purely as an aide for his cybernetics.
+
+J: Naturally, you will stay far out of harm's way and Genji will make sure that is so.
+
+J: Or have you forgotten already?
+
+P: N-No! I remember! I remember. I'm good.
+
+J: Good. I'm glad you're 'good'.
+
+J: Anyway, enough of this — you're both dismissed. {w=0.2}I'll see you in here tomorrow morning at 0700 sharp.
+
+P: Thank you, sir.
+
+N: You pause, then:
+
+P: I'm sorry, sir. Er, for everything.
+
+J: {i}Dismissed.{/i}
+
+N: {i}Urk.{/i}
+
+There's a somewhat jovial tinge to the edge of the commander's exasperated dismissal, much like a father telling their child to go take a bath, or something. 
+
+Needless to say, you make a hasty exit from the briefing room and meander outside for some much needed fresh air. {w=0.2}You almost suffocated from your own idiocy in there, after all. {w=0.2}Your career had almost ended in the blink of an eye.
+
+
+
+TITLE: GENJI/DEPLOYMENT 1/DAY 12/OVERWATCH HQ
+BG: Overwatch HQ - outside
+
+N: The ice cold wind blasting you in the face as you leave the corridors and head outside is a welcome, welcome feeling.
+
+You left your snow jacket back in the lab because you didn't think you'd be spending much time outside, and the gusts chill you straight to the bone. {w=0.2}Absently, you tug your lab coat a little closer to your body for warmth.
+
+Moving over to the icy railings, you gaze out over the Swiss mountain range with a sense of triumph - and you're so preoccupied in your own little world that you have no idea that you were followed out of the meeting room.
+
+G: Yo.
+
+P: Ah!!
+
+N: He had approached you so soundlessly that you let out a short shriek of surprise at the proximity of his voice, quickly clasping a hand over your mouth as personnel in the area turn to look at the source.
+
+You.
+
+P: Ahh... ah. You scared me!
+
+G: I see that.
+
+N: Placing your hand over your heart as if that would help calm your pulse, a sigh escapes you. {w=0.2}Moving over next to you, Genji leans against the railing, looking out at the landscape you'd been admiring.
+
+Wordlessly, you turn back and join him.
+
+For some time, you stay like that - standing in a comfortable, contemplative silence. {w=0.2}It's... nice. 
+
+Neither of you really need to say anything to each other, but there was a kind of mutual acceptance and appreciation that permeated the air around you, enveloping you and drawing you in.
+
+You don't know how long has passed when Genji breaks the silence, and you glance up at his voice.
+
+G: You are shivering.
+
+P: I-I'm fine. Really.
+
+G: Really? Your fingers are turning purple.
+
+N: Quickly bringing your hands up to your face, you realise he's not wrong - and you shove them in your lab coat pockets in a valiant effort to be tough.
+
+P: Oh, I didn't notice. Whoops, I guess.
+
+N: The sun was just beginning set over the mountain range, throwing the snow-drenched scenery into a warm blanket of golden light. {w=0.2}It really is quite pretty, though it would be prettier if you weren't freezing your ass off.
+
+Still, you're not quite ready to leave for some reason.
+
+G: Back in there... you did not have to do that.
+
+P: I know. {w=0.2}I... wanted to, though.
+
+P: I couldn't just let them hold you back for such {i}flimsy{/i} reasons.
+
+N: Sucking in a deep breath of frosty air, you leaned heavier on the railing and peered out at the setting sun, a mixed expression on your face.
+
+For someone you weren't even sure you'd be able to work with two weeks ago, things sure had turned around if you felt this strongly about his personal affairs. Er, professional affairs.
+
+Right?
+
+P: You worked so {i}hard{/i} the past fortnight.
+
+P: They need to see that.
+
+G: Still. It was not your responsibility.
+
+P: I know that too.
+
+P: But I guess my ability to stick my foot in it is useful sometimes, huh?
+
+P: Using my lame superpowers for the greater good.
+
+N: You laugh quietly to punctuate your statement. 'Lame superpowers' indeed, in the face of what you'd seen him capable of.
+
+It's a minute or two before Genji decides to say anything, and the sun has almost completely set behind the range.
+
+G: Thank you.
+
+G: I am aware that you know how much I wanted this.
+
+P: Don't mention it!
+
+P: I'm just glad I could do something.
+
+N: There's an awkward silence that follows, as if neither of you really know how to follow that up.
+
+The chill is starting to get extreme though, and you think you've reached your Tough Guy limit staying out here in nothing but work clothes and a lab coat.
+
+Idly, you wonder if he feels the cold as extremely.
+
+Bringing your hands out of your pockets, you rub them together energetically to try and spur some sort of warmth back into them. {w=0.2}With a glance over at your partner, you give a bashful smile despite your half-frozen face.
+
+P: I guess I should be getting inside. {w=0.2}Turns out I'm not impervious to cold, after all.
+
+P: I'll, um... {w=0.2}see you tomorrow morning, right? 
+
+P: 0700 hours?
+
+G: Indeed.
+
+G: ... until then, {$PlayerName}.
+
+N: The green glow of his visor, emerald and entrancing in the falling darkness, regards you for a moment before Genji takes his leave and returns to the inner hallways of the base.
+
+Before you follow suit — half human, half icecube — you can't help but wonder what those brown eyes would've looked like just now, in those few seconds.
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 13/YOUR QUARTERS 1
+BG: Overwatch HQ - Your Quarters
+
+N: The rest of the night is a blur. 
+
+You have an odd sense of happiness pooling in your stomach at how the evening had panned out - not only had Genji been approved for duty, but you felt as if there was at least some form of connection between you two that hadn't existed before.
+
+Celebrating with a larger-than-usual portion of dinner at the canteen, you'd eaten and socialised with your lab colleagues in a room full of laughter and warmth.
+
+At some point, Dr. Zhou had joined you and an animated conversation about today's success ensued. {w=0.2}The fact that everyone seemed so genuinely happy that this progress was being made was desperately heartening.
+
+So many people {i}cared{/i} about Genji - every day on base, that seemed more and more painfully obvious.
+
+And for you? {w=0.2}This place was dangerously close to feeling like a proper home.
+
+Exhausted from the events of the day, you'd returned to your quarters, quickly changing into your pajamas and avoiding the minefield of mess to bury yourself in your blankets.
+
+Sleep came quickly, blissful and more rewarding than usual, if not for the odd anomaly of a certain someone {w=0.2}— something? — {w=0.2} dotting the jagged recollections of your dreams.
+
+Something out of place, something that hadn't been there before. {w=0.2}Emerald lights, a warm voice.
+
+Nothing you could remember specifically, but you felt... calm. {w=0.2}Protected. 
+
+{i}Safe.{/i}
+
+Really, it's quite nice.
+
+You're totally dead to the world, snoring like a freight train when you awaken to the sudden, jarring noise of someone pounding heavily on your door.
+
+It wasn't knocking — it was almost literally removing the door from its frame, mechanisms screaming in protest as each blow came.
+
+Groggily, you sit up in bed and glance to the digital clock on the bedside terminal —{w=0.5} {i}2:32am?{/i}
+
+What...?
+
+Coming back into this plane of existence, you tune into the current situation and realise a panicked voice is accompanying the assault on your apartment door.
+
+Z: {i}{$PlayerName}{/i}!
+
+That...{w=0.2} that was Dr. Ziegler's voice, wasn't it?
+
+A needling shock shoots through your heart as it dawns on your half-asleep self just what her coming here at this hour could entail, and almost tripping over yourself, you rush to the door and press the release mechanism.
+
+Smoothly, your doors open to reveal the doctor, more worried than you think you'd ever seen her.
+
+For some reason, you feel like you know what she's going to say before she says it. {w=0.2}A cold sweat rushes over your skin, not the least bit prompted by the freezing air rushing in.
+
+Z: It's — {w=0.2}It's Genji.
+
+Z: Something's happened.
+
+P: W-What?
+
+P: What happened?
+
+Z: I don't have time to explain — he's on his way to the O.R..
+
+Z: We need you there as soon as possible, and it was quicker to come get you than page you.
+
+Z: Please, report immediately!
+
+N: And with that, she's gone, almost flying down the hallway. 
+
+A lump of dread solidifies in the bottom of your stomach to the point of nausea, and you retreat inside, heart racing.
+
+You prepare so quickly you knock things over as you grab clothes to hastily dress yourself. {w=0.2}Hurriedly pulling on a shirt and pants, being presentable didn't matter. 
+
+Nothing else seemed to matter right now.
+
+You had one thing to do, and one person to worry about.
+
+Grabbing your communicator, your hand slams on the door's release mechanism once more, harder than you intended, and you run down the residential hallways on your way to the medical labs.
+
+You've probably never run so fast in your {i}life{/i}, weaving through the confusing network of corridors like a person possessed until finally, the ever-present glow of the medical facilities came into view.
+
+Steeling yourself, you wheel around the corner and slam through the lab doors.
+
+
+
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 13/MEDICAL LAB
+BG: Overwatch HQ - medical lab
+
+R: Nurse
+
+N: Clearly out of breath, you look wildly around the lab as you burst through.
+
+Somewhere that should be dead during the 2:00am night shift was bustling with activity, personnel running to and fro with a decided purpose. {w=0.2}Indeed, something seemed obviously wrong.
+
+Moving through the organised chaos, one of the surgical staff somehow spots you and touches you on the arm, indicating over at what you'd learned to be the O.R.. {w=0.2}Currently in use with several staff inside, you spot Dr. Ziegler.
+
+This was the conclusion you'd drawn from the progression of events so far this evening, but somehow you aren't prepared for what you see as you peer through the thick glass.
+
+The form lying on the surgery table is unmistakable.
+
+You feel the bottom of your stomach drop out from under you — how was this even {I}possible?{/i}
+
+Everything — {i}everything{/i} — had been going so well, so what could've possibly happened to bring about something like this? 
+
+{i}Why?{/i}
+
+You feel a tugging on your arm and realise distantly that someone's been talking to you the whole time you've been drifting off in shock.
+
+R: {$PlayerName}. {w=0.2}{$PlayerName}!
+
+P: S-Sorry — yes!
+
+P: Please, just tell me what you need me to do and I'll do it.
+
+R: You need to scrub up and join Dr. Ziegler in the O.R.. 
+
+R: A cybernetics specialist is required to keep tabs on the functions of the patient's implants, and that's your job.
+
+P: Yes... yes.
+
+P: Right away.
+
+N: Your response sounds hollow and distant, even to yourself.
+
+You haven't assisted in a lot of surgical theatres before, but you've done enough to know the process of scrubbing up and, well, doing your job.
+
+The nurse directs you to the preparation area and you go through the motions, sterilising your hands and changing into surgical scrubs, a gown and gloves before being led by one of the triage staff into the operating room.
+
+The light was blinding and your mind was still in a daze — but you scream internally at yourself to {i}snap out of it{/i}.
+
+Now, more than ever, your concentration would be important.
+
+Moving over to the side of the surgical pallet where the medical staff were already working, you almost don't want to look down — but you force yourself to do so.
+
+The emerald glow of his visor was nowhere to be seen. {w=0.2}In fact, the visor had been removed completely to make way for anesthesia and breathing equipment, his scarred face pale and unmoving.
+
+Biting your lip, the sight of Genji lying here like this sends a potent mix of anger and despair spiraling down your being, almost {i}consuming{/i} you until a voice breaks you out of it.
+
+Dr. Ziegler had begun to address the assembled triage staff about the situation, her voice calm, collected and commanding. {w=0.2}No wonder she was a leader here.
+
+She herself looked plenty different dressed in surgical scrubs and a grim look of determination plastered on her normally warm, welcoming face.
+
+<mercydefault> Z: The patient was found unresponsive at around 1:30am this morning after an emergency notification from their quarters.
+
+Z: After triage diagnosis, we suspect sepsis caused by rejection of one of the cybernetic implants. {w=0.2}This has the potential to coalesce into multiple organ failure.
+
+Z: Our task now is to stop the sepsis and avoid organ failure at all costs.
+
+Z: Nurse, place a line while we get ready.
+
+N: One of the figures in scrubs nods purposefully as he sets about getting a central line into Genji's left arm, limp as he handles it.
+
+You bite your lip again, harder this time.
+
+Z: {$PlayerName}, if you could take a seat at this terminal and monitor the cybernetic connections, as well as his vital signs.
+
+Z: We need to pinpoint the rejection area to have a better idea of what we're dealing with.
+
+N: Quickly and wordlessly, you sit down in front of the terminal near the head of Genji's prone body, and it's somewhat comforting that the numbers and diagrams make so much sense to you when the rest of this evening didn't at all.
+
+The surgical team, headed by Dr. Ziegler, get to work to your right, a bustle of quiet communication, medical tubes and fast handiwork.
+
+Sepsis wasn't an unusual side effect to a foreign implant in the body — though to have it occur at such a late stage such as Genji's was a little strange.
+
+As you sit there, feeling fairly helpless, your eyes continue to scan the vitals and electromagnetic signals being conducted from the various cybernetic connections in your partner's body.
+
+Your heart thuds in your ears as you wish you could do something, {i}anything{/i} to resolve this situation. {w=0.2}You're not one to dwell on worst case scenarios, but not even being able to converse with his grumpy self again, well...
+
+... and, that's when it happens.
+
+The numbers on the vitals start to slip lower, down to a dangerous level. {w=0.2}Fingers flying across the terminal keyboard, you desperately try to attempt to isolate which connection was responsible for this.
+
+P: Dr. Ziegler! {w=0.2}Vitals dropping, still trying to determine rejection site location.
+
+<Mercy-worried> Z: We need to inject the antibiotics {i}now{/i}. {w=0.2}Monitor oxygen levels and keep fluids going.
+
+N: She's talking to the other doctors and nurses at the bedside, but their voices have all but drifted into the distance. {w=0.2}There's only one thing you're focusing on right now — which connection was being rejected, and disabling it.
+
+When attaching a cybernetic implant to a human form, there's so many 'circuits' to be made and connections involved; finding the right one out of tens of thousands when trouble arose was like trying to find a needle in a haystack.
+
+Eyes flickering through endless strings of feedback, you continue typing away at a speed you didn't know you possessed. {w=0.2}Scanning the numbers, looking for an outlier.
+
+Suddenly, it's right there in front of you, the numbers glaring back at you from the screen like they'd been right there all along. {w=0.2}Quickly, you slam in the code to isolate it.
+
+P: Doctor, I've secured the problematic connection!
+
+<mercydefault> Z: Good - sever the link.
+
+Z: {i}Now.{/i}
+
+N: It only takes you a couple of seconds to disconnect the problematic circuit through the interface connected to his cybernetic frame — and moments after you do, the vitals slowly begin to climb again.
+
+It's only after they reach an acceptable level that you realise you've been biting your lip so hard in concentration it's started to bleed, your mouth tasting vaguely of copper.
+
+The surgical team takes another thirty minutes or so of critical observation before they even leave his side so much as an inch, and an exhausted looking Dr. Ziegler moves over to you.
+
+<Mercy-worried> Z: He's stabilised, for now. {w=0.2}Luckily we were quick enough on the emergency response that we managed to avoid any critical failure of his internal organs.
+
+P: I'm... so glad.
+
+<mercydefault> Z: How did you find the connection so quickly? {w=0.2}I know cybernetic interfacing isn't up to the standard it should be, and finding errors in a complex system is nothing short of a mess.
+
+P: I'm not really sure, to be honest.
+
+P: I was just... really focused on not letting him down, I guess.
+
+<Mercy-smiling> N: Your superior smiles tiredly, dark circles under her eyes but her expression every bit as genuine as normal.
+
+Z: You did well.
+
+N: And, almost as if she could preempt your next thought process...
+
+<mercydefault> Z: Also, before you try to blame yourself for not picking this up in the past two weeks — don't.
+
+P: I mean, I'd be lying if I said it hadn't occurred to me.
+
+P: I was the one entirely tasked with making sure this {i}didn't{/i} happen in the first place.
+
+Z: To have one connection out of thousands reject is such an incredibly rare occurrence, none of us could've seen this coming.
+
+Z: Plus, the best thing to focus on for now is the fact that the prognosis is looking favourable.
+
+P: ... yeah. 
+
+N: Stifling a yawn, you realise how draining the last hour in the O.R.. has been, though you can't begin to look sorry for yourself as your eyes drift down to Genji's form, lying on the table.
+
+Still visorless, there's tubes criss-crossing his body and he's just as motionless as before save for the slow rise and fall of his dull metal chest.
+
+Really, the only thing assuring you that you'd made any difference at all were the healthier sounding {i}beeps{/i} coming from the life support equipment.
+
+<mercydefault> Z: We can take it from here, {$PlayerName}. {w=0.5}You should go get a few hours of rest and come back to assist with observation at 0800.
+
+P: Understood, but... what if— 
+
+Z: What if something happens?
+
+N: Despite the fatigue, there's a light in Dr. Ziegler's eyes that expresses she knows something you don't.
+
+<Mercy-smiling> Z: I'll get someone to urgently page you straight away. {w=0.5}Don't worry.
+
+P: Thank you.
+
+N: Another large yawn threatens itself as you vacate the terminal, making sure everything is functioning as it should one last time before you prepare to leave the medical lab.
+
+Before you do, you find yourself coming to a stop at Genji's bedside and thinking of all the things that have defined your interaction so far.
+
+The awkward silences, the fuck-ups, the challenges, the successes.
+
+Without thinking, you take his left hand in yours — the one without all the medical paraphernalia stuck into it —  and you realise you're still surprised at how cool it is. {w=0.5}Every single time.
+
+It's odd; the weirdest, most intimate touch you've really ever shared, and as you give it a reassuring squeeze you will a message to him, wherever he is right now.
+
+{i}We're waiting for the strongest person we know to come back. {w=0.5}Don't be too long.{/i}
+
+With that, you place his hand gently back down at his side and leave the O.R.. with a silent nod to the doctor, and probably quite a few strange looks from the attending staff.
+
+To be honest, you couldn't care less. {w=0.2}Right now, all you wanted was to fall back into bed so you could be back here as soon as possible.
+
+Stumbling back to your quarters, you all but pass out on your bed in already creased clothes, your dreams blank and wordless.
+
+ 
+TITLE: GENJI/DEPLOYMENT 1/DAY 13/YOUR QUARTERS 2
+BG: Overwatch HQ - Your Quarters
